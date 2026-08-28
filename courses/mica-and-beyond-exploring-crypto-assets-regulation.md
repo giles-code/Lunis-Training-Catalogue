@@ -28,12 +28,15 @@ Mid-level supervisory staff building capability in digital assets/crypto-asset r
 
 - Foundations and the regulatory framework Explain the purpose and drivers of the
 - Custody, operations and supervision Discuss the different methods of holding crypto-assets in
+- Crypto 101 → What is MiCA, who are the different players in
 
 ## Syllabus
 
 **Block 1 | —** — Foundations and the regulatory framework Explain the purpose and drivers of the MiCA Regulation alongside the development of the VFA framework Describe the objectives of the MiCA Regulation and the services covered Analyse the roles of different ‘operators’ in the crypto-asset ecosystem and how MiCA captures them Explain the implications of PSD2 for Crypto Asset Service Providers, including those providing services for E-Money Tokens
 
 **Block 2 | —** — Custody, operations and supervision Discuss the different methods of holding crypto-assets in custody, including control over private keys Examine MiCA’s operational considerations for EMT/ART issuers and CASPs Analyse the custody considerations arising from MiCA for EMT/ART issuers and CASPs Present a schema for the effective supervision of operations and custody of EMT/ART issuers and CASPs
+
+Crypto 101 → What is MiCA, who are the different players in the crypto ecosystem, and how does MiCA regulate them? → Break → What is crypto-asset custody and administration and how is it regulated under MiCA? → How can supervisors effectively supervise a crypto-asset firm’s operations and custody? → Lunch → How does MiCA interact with PSD2? → Q&A and wrap-up.
 
 ## Structure and Format
 

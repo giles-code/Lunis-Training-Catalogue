@@ -33,6 +33,12 @@
     { "name": "Authorisations", "appliesTo": ["Regulatory Authority"] },
     { "name": "Registration & Licensing", "appliesTo": ["Regulatory Authority"] },
     { "name": "Financial Stability & Macroprudential Policy", "appliesTo": ["Regulatory Authority"] },
-    { "name": "Innovation & Regulatory Sandboxes", "appliesTo": ["Regulatory Authority"] }
+    { "name": "Innovation & Regulatory Sandboxes", "appliesTo": ["Regulatory Authority"] },
+
+    { "name": "Crisis Management & Resolution", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Capability & Capacity Building", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Data & Supervisory Analytics", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Digital Assets, AI & Innovation", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Sustainable Finance & ESG", "appliesTo": ["Regulated Firm", "Regulatory Authority"] }
   ]
 }

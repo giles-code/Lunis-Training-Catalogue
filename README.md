@@ -46,7 +46,8 @@ seniority.
 | `title`             | string                     | |
 | `summary`           | string                     | One or two sentence teaser for listing views |
 | `audience`          | array: `Firms`, `Financial Supervisors` | Drives the site's top-level nav split. A course can be tagged for one or both. |
-| `pillar`            | string                     | Single pillar from the Lunis training taxonomy. Drives the nav submenu under each audience. Taxonomy is still being finalised, so this isn't yet a fixed enum — keep values consistent across courses. |
+| `pillar`            | string                     | Single pillar from the Lunis training taxonomy — see `taxonomy/pillars.json`. Drives the nav submenu under each audience. |
+| `track`             | string                     | Finer-grained programme within the pillar — see `taxonomy/tracks.json`. Each track belongs to exactly one pillar; validation checks the two agree. |
 | `clientType`        | array: `Regulated Firm`, `Regulatory Authority` | Independent filter tag (separate from `audience`) |
 | `businessFunction`  | array of strings          | Independent filter tag, multi-select. Values and their `clientType` scope are defined in `taxonomy/business-functions.json` — see below |
 | `deliveryFormat`    | array: `In-person`, `Online`, `Hybrid` | Multi-select |
@@ -56,6 +57,7 @@ seniority.
 | `image`             | string (optional)         | URL or repo-relative path |
 | `active`            | boolean                   | Set `false` to retire a course without deleting it |
 | `lastUpdated`       | string, `YYYY-MM-DD` (optional) | Quote the value (`lastUpdated: "2026-08-01"`) — otherwise YAML parses it as a date object rather than a string |
+| `contentGaps`       | array of strings (optional) | Machine-readable flags for content that's inferred/placeholder rather than confirmed — see below |
 
 ### Business function taxonomy
 
@@ -78,6 +80,37 @@ to both and can be used regardless of `clientType`.
 To add a new business function, add an entry to
 `taxonomy/business-functions.json` with its `appliesTo` scope, then use it
 in a course.
+
+### Pillar and track taxonomy
+
+`pillar` (4 values) and `track` (the finer-grained programme within it, ~30
+values) come from the Lunis Training *Supervisory Training Framework &
+Master Catalogue*, and are defined in `taxonomy/pillars.json` and
+`taxonomy/tracks.json` respectively. `npm run validate` checks every
+course's `pillar` and `track` exist in these files and agree with each
+other (a track's own `pillar` field must match the course's `pillar`).
+
+This taxonomy currently only covers the Financial Supervisors / Regulatory
+Authority side of the catalogue — the equivalent Firms-side pillar/track
+taxonomy doesn't exist yet and will need adding when that content arrives.
+
+### `contentGaps` and `active`
+
+Courses imported in bulk from source documents that don't state every
+field (e.g. a catalogue that never specifies staff seniority or delivery
+channel) carry a `contentGaps` array naming exactly what was inferred or
+defaulted rather than sourced — e.g. `"deliveryFormat: not stated in
+source catalogue; defaulted to In-person pending confirmation"`. Search
+for `contentGaps` across `courses/` to find everything still needing
+review.
+
+Courses built from only a one-line source summary (no session plan,
+syllabus, or duration) are set `active: false` so they don't appear on the
+live site until someone has written up real content — flip to `true` once
+that's done. Courses with a full or delivered-workshop source are `active:
+true` even though some fields (typically `Intended Audience` and `Useful
+Prior Knowledge and Experience`, which no source document in this
+catalogue states explicitly) are still inferred and flagged.
 
 ## Adding or editing a course
 

@@ -12,6 +12,7 @@
     "summary",
     "audience",
     "pillar",
+    "track",
     "clientType",
     "businessFunction",
     "deliveryFormat",
@@ -50,7 +51,12 @@
     },
     "pillar": {
       "type": "string",
-      "description": "Single training pillar from the Lunis taxonomy. Drives the nav submenu under each audience. Taxonomy is open-ended for now — values aren't yet constrained to a fixed enum.",
+      "description": "Single training pillar from the Lunis taxonomy (see taxonomy/pillars.json). Drives the nav submenu under each audience.",
+      "minLength": 1
+    },
+    "track": {
+      "type": "string",
+      "description": "Finer-grained programme/track within the pillar (see taxonomy/tracks.json), e.g. \"Pillar D: Ongoing Supervision\" or \"T3. Investment Funds\". Its taxonomy entry's own pillar must match this course's pillar.",
       "minLength": 1
     },
     "clientType": {
@@ -96,6 +102,11 @@
     "lastUpdated": {
       "type": "string",
       "format": "date"
+    },
+    "contentGaps": {
+      "type": "array",
+      "description": "Machine-readable flags for content that is inferred/placeholder rather than sourced from a definitive input (e.g. drafted from a one-line summary, or a duration estimated because the source didn't state one). Empty or omitted once a course's content is fully confirmed.",
+      "items": { "type": "string", "minLength": 1 }
     }
   }
 }

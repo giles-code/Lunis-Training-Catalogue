@@ -9,6 +9,8 @@ const rootDir = path.join(__dirname, "..");
 const coursesDir = path.join(rootDir, "courses");
 const schemaPath = path.join(rootDir, "schema", "course.frontmatter.schema.json");
 const businessFunctionsPath = path.join(rootDir, "taxonomy", "business-functions.json");
+const pillarsPath = path.join(rootDir, "taxonomy", "pillars.json");
+const tracksPath = path.join(rootDir, "taxonomy", "tracks.json");
 
 const REQUIRED_SECTIONS = [
   "Aim and Purpose",
@@ -40,6 +42,12 @@ function main() {
       (f) => [f.name, f.appliesTo]
     )
   );
+  const pillars = new Set(
+    JSON.parse(fs.readFileSync(pillarsPath, "utf8")).pillars.map((p) => p.name)
+  );
+  const tracks = new Map(
+    JSON.parse(fs.readFileSync(tracksPath, "utf8")).tracks.map((t) => [t.name, t.pillar])
+  );
 
   const files = fs
     .readdirSync(coursesDir)
@@ -53,6 +61,8 @@ function main() {
   let hasErrors = false;
   const seenIds = new Map();
   const seenSlugs = new Map();
+  let filesWithGaps = 0;
+  let inactiveCount = 0;
 
   for (const file of files) {
     const filePath = path.join(coursesDir, file);
@@ -118,6 +128,21 @@ function main() {
       fileHasErrors = true;
     }
 
+    if (!pillars.has(frontmatter.pillar)) {
+      console.error(`✗ ${file}: pillar "${frontmatter.pillar}" is not in taxonomy/pillars.json`);
+      fileHasErrors = true;
+    }
+
+    if (!tracks.has(frontmatter.track)) {
+      console.error(`✗ ${file}: track "${frontmatter.track}" is not in taxonomy/tracks.json`);
+      fileHasErrors = true;
+    } else if (tracks.get(frontmatter.track) !== frontmatter.pillar) {
+      console.error(
+        `✗ ${file}: track "${frontmatter.track}" belongs to pillar "${tracks.get(frontmatter.track)}", but this course's pillar is "${frontmatter.pillar}"`
+      );
+      fileHasErrors = true;
+    }
+
     for (const fn of frontmatter.businessFunction) {
       if (!businessFunctions.has(fn)) {
         console.error(
@@ -136,6 +161,13 @@ function main() {
       }
     }
 
+    if (frontmatter.contentGaps && frontmatter.contentGaps.length > 0) {
+      filesWithGaps += 1;
+    }
+    if (frontmatter.active === false) {
+      inactiveCount += 1;
+    }
+
     if (fileHasErrors) {
       hasErrors = true;
     } else {
@@ -149,6 +181,7 @@ function main() {
   }
 
   console.log(`\n${files.length} course file(s) validated successfully.`);
+  console.log(`${filesWithGaps} file(s) flag contentGaps; ${inactiveCount} file(s) are inactive.`);
 }
 
 main();

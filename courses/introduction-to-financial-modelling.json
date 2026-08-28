@@ -1,0 +1,20 @@
+{
+  "id": "introduction-to-financial-modelling",
+  "slug": "introduction-to-financial-modelling",
+  "title": "Introduction to Financial Modelling",
+  "summary": "Build robust three-statement financial models from scratch using Excel best practices.",
+  "description": "This course covers the fundamentals of financial modelling, including building integrated income statement, balance sheet, and cash flow models. Participants will learn industry-standard formatting, formula auditing, and scenario analysis techniques used across corporate finance and investment roles.",
+  "category": "Finance",
+  "subcategory": "Financial Modelling",
+  "level": "Beginner",
+  "format": "Online",
+  "durationValue": 2,
+  "durationUnit": "days",
+  "price": 495,
+  "currency": "GBP",
+  "tags": ["excel", "financial-modelling", "corporate-finance"],
+  "prerequisites": ["Basic Excel proficiency"],
+  "instructor": "Sarah Whitfield",
+  "active": true,
+  "lastUpdated": "2026-08-01"
+}

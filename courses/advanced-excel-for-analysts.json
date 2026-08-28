@@ -1,0 +1,20 @@
+{
+  "id": "advanced-excel-for-analysts",
+  "slug": "advanced-excel-for-analysts",
+  "title": "Advanced Excel for Analysts",
+  "summary": "Master advanced formulas, Power Query, and dashboarding techniques for data-heavy analyst roles.",
+  "description": "A hands-on workshop covering advanced Excel functions (INDEX/MATCH, XLOOKUP, dynamic arrays), Power Query for data transformation, and building interactive dashboards. Designed for analysts who already know the basics and want to work faster and more accurately.",
+  "category": "Data & Analytics",
+  "subcategory": "Excel",
+  "level": "Advanced",
+  "format": "In-person",
+  "durationValue": 1,
+  "durationUnit": "days",
+  "price": 350,
+  "currency": "GBP",
+  "tags": ["excel", "power-query", "dashboards", "data-analysis"],
+  "prerequisites": ["Intermediate Excel proficiency"],
+  "instructor": "James Okafor",
+  "active": true,
+  "lastUpdated": "2026-07-15"
+}

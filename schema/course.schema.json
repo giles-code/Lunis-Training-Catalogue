@@ -1,0 +1,107 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/giles-code/lunis-training-catalogue/schema/course.schema.json",
+  "title": "Course",
+  "description": "Schema for a single training course in the Lunis catalogue. Field names and enum values are chosen to map directly onto filterable fields in a Wix Collection.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "slug",
+    "title",
+    "summary",
+    "category",
+    "level",
+    "format",
+    "durationValue",
+    "durationUnit",
+    "tags",
+    "active"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable unique identifier for the course. Never reuse or change once published.",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "slug": {
+      "type": "string",
+      "description": "URL-friendly identifier, used for the course's page path.",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120
+    },
+    "summary": {
+      "type": "string",
+      "description": "One or two sentence teaser shown in catalogue/list views.",
+      "minLength": 1,
+      "maxLength": 280
+    },
+    "description": {
+      "type": "string",
+      "description": "Full course description shown on the course detail page."
+    },
+    "category": {
+      "type": "string",
+      "description": "Primary catalogue category, used as a top-level filter.",
+      "minLength": 1
+    },
+    "subcategory": {
+      "type": "string",
+      "minLength": 1
+    },
+    "level": {
+      "type": "string",
+      "enum": ["Beginner", "Intermediate", "Advanced", "All Levels"]
+    },
+    "format": {
+      "type": "string",
+      "enum": ["In-person", "Online", "Hybrid"]
+    },
+    "durationValue": {
+      "type": "number",
+      "exclusiveMinimum": 0
+    },
+    "durationUnit": {
+      "type": "string",
+      "enum": ["hours", "days", "weeks"]
+    },
+    "price": {
+      "type": "number",
+      "minimum": 0
+    },
+    "currency": {
+      "type": "string",
+      "enum": ["GBP", "USD", "EUR"]
+    },
+    "tags": {
+      "type": "array",
+      "description": "Free-form keywords used for search and secondary filters.",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true
+    },
+    "prerequisites": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "instructor": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string",
+      "description": "URL or repo-relative path to the course's promotional image.",
+      "minLength": 1
+    },
+    "active": {
+      "type": "boolean",
+      "description": "Whether the course should appear in the published catalogue."
+    },
+    "lastUpdated": {
+      "type": "string",
+      "format": "date"
+    }
+  }
+}

@@ -23,8 +23,9 @@ proportionate enforcement decision-making.
 
 ## Intended Audience
 
-Supervisors, investigators, and case officers at regulatory authorities who
-are new to, or want to refresh their understanding of, enforcement work.
+Junior to mid-level supervisors, investigators, and case officers at
+regulatory authorities who are new to, or want to refresh their
+understanding of, enforcement work.
 
 ## Learning Objectives
 

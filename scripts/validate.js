@@ -8,6 +8,7 @@ const addFormats = require("ajv-formats");
 const rootDir = path.join(__dirname, "..");
 const coursesDir = path.join(rootDir, "courses");
 const schemaPath = path.join(rootDir, "schema", "course.frontmatter.schema.json");
+const businessFunctionsPath = path.join(rootDir, "taxonomy", "business-functions.json");
 
 const REQUIRED_SECTIONS = [
   "Aim and Purpose",
@@ -33,6 +34,12 @@ function main() {
   const ajv = new Ajv({ allErrors: true });
   addFormats(ajv);
   const validate = ajv.compile(schema);
+
+  const businessFunctions = new Map(
+    JSON.parse(fs.readFileSync(businessFunctionsPath, "utf8")).businessFunctions.map(
+      (f) => [f.name, f.appliesTo]
+    )
+  );
 
   const files = fs
     .readdirSync(coursesDir)
@@ -109,6 +116,24 @@ function main() {
         `✗ ${file}: unrecognised section heading(s), must exactly match the required set: ${unexpected.join(", ")}`
       );
       fileHasErrors = true;
+    }
+
+    for (const fn of frontmatter.businessFunction) {
+      if (!businessFunctions.has(fn)) {
+        console.error(
+          `✗ ${file}: businessFunction "${fn}" is not in taxonomy/business-functions.json`
+        );
+        fileHasErrors = true;
+        continue;
+      }
+      const appliesTo = businessFunctions.get(fn);
+      const overlaps = frontmatter.clientType.some((ct) => appliesTo.includes(ct));
+      if (!overlaps) {
+        console.error(
+          `✗ ${file}: businessFunction "${fn}" only applies to [${appliesTo.join(", ")}], but this course's clientType is [${frontmatter.clientType.join(", ")}]`
+        );
+        fileHasErrors = true;
+      }
     }
 
     if (fileHasErrors) {

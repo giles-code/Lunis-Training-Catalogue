@@ -4,9 +4,9 @@ slug: aml-and-financial-crime-essentials
 title: AML and Financial Crime Essentials
 summary: Core anti-money laundering and financial crime concepts for firms and their supervisors alike.
 audience: [Firms, Financial Supervisors]
-pillar: Financial Crime
+pillar: "Financial Crime, AML & Sanctions"
 clientType: [Regulated Firm, Regulatory Authority]
-businessFunction: [Compliance, Supervision]
+businessFunction: ["Financial Crime, AML & Sanctions Compliance", "Supervision"]
 deliveryFormat: [Online, Hybrid]
 durationValue: 4
 durationUnit: hours
@@ -23,8 +23,9 @@ obligations and to supervisors assessing firms' controls.
 
 ## Intended Audience
 
-Compliance officers and MLROs at regulated firms, and supervisory staff at
-regulatory authorities responsible for assessing financial crime controls.
+Mid-level to senior compliance officers and MLROs at regulated firms, and
+supervisory staff at regulatory authorities responsible for assessing
+financial crime controls.
 
 ## Learning Objectives
 

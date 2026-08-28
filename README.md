@@ -12,6 +12,7 @@ file is enough to update the live site.
 ```
 courses/    One Markdown file per course, named <id>.md
 schema/     JSON Schema the course frontmatter is validated against
+taxonomy/   Reference lists (e.g. business functions) used by validation
 scripts/    Validation tooling
 ```
 
@@ -30,6 +31,12 @@ headings, in this order:
 
 See any file in `courses/` for a worked example.
 
+Note: the `Intended Audience` section describes the **seniority level of
+staff** the course is aimed at (e.g. junior analyst, manager, senior
+leadership) — this is separate from the `audience` frontmatter field below,
+which is about site navigation (Firms vs. Financial Supervisors), not
+seniority.
+
 ### Frontmatter fields
 
 | Field               | Type                       | Notes |
@@ -41,7 +48,7 @@ See any file in `courses/` for a worked example.
 | `audience`          | array: `Firms`, `Financial Supervisors` | Drives the site's top-level nav split. A course can be tagged for one or both. |
 | `pillar`            | string                     | Single pillar from the Lunis training taxonomy. Drives the nav submenu under each audience. Taxonomy is still being finalised, so this isn't yet a fixed enum — keep values consistent across courses. |
 | `clientType`        | array: `Regulated Firm`, `Regulatory Authority` | Independent filter tag (separate from `audience`) |
-| `businessFunction`  | array of strings          | Independent filter tag, multi-select. Open-ended — see below for the current draft list |
+| `businessFunction`  | array of strings          | Independent filter tag, multi-select. Values and their `clientType` scope are defined in `taxonomy/business-functions.json` — see below |
 | `deliveryFormat`    | array: `In-person`, `Online`, `Hybrid` | Multi-select |
 | `durationValue`     | number                    | e.g. `2` |
 | `durationUnit`      | string: `hours`, `days`, `weeks` | |
@@ -50,22 +57,27 @@ See any file in `courses/` for a worked example.
 | `active`            | boolean                   | Set `false` to retire a course without deleting it |
 | `lastUpdated`       | string, `YYYY-MM-DD` (optional) | Quote the value (`lastUpdated: "2026-08-01"`) — otherwise YAML parses it as a date object rather than a string |
 
-### Business function — current draft list
+### Business function taxonomy
 
-Not yet final. Add new values as needed; keep spelling/casing consistent
-with existing courses when reusing one.
+`businessFunction` values are defined in
+[`taxonomy/business-functions.json`](taxonomy/business-functions.json), not
+as a free-standing enum in the schema. Each entry names which `clientType`(s)
+it applies to:
 
-Core: `Policy`, `Compliance`, `Finance`, `Supervision`, `Enforcement`,
-`Authorisations`, `Strategy`, `Risk Management`, `Legal`, `Internal Audit`,
-`Financial Crime`, `Governance`, `Operational Resilience`,
-`Conduct & Culture`
+```json
+{ "name": "Enforcement", "appliesTo": ["Regulatory Authority"] }
+```
 
-Firm-specific: `Treasury`, `Prudential Risk`, `Client Money & Assets`,
-`Product Governance`, `Trading & Markets`, `Credit Risk`,
-`Third-Party & Outsourcing Oversight`
+`npm run validate` checks every course's `businessFunction` values against
+this file, and rejects a course that uses a function outside its own
+`clientType` — e.g. a course tagged `clientType: [Regulated Firm]` can't use
+`Enforcement`, since that function's `appliesTo` is Regulatory Authority
+only. Some functions (e.g. `Policy`, `Compliance`, `Risk Management`) apply
+to both and can be used regardless of `clientType`.
 
-Authority-specific: `Consumer Protection`, `Registration & Licensing`,
-`Financial Stability`, `International Affairs`
+To add a new business function, add an entry to
+`taxonomy/business-functions.json` with its `appliesTo` scope, then use it
+in a course.
 
 ## Adding or editing a course
 

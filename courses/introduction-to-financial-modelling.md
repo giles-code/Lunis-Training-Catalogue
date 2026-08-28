@@ -23,8 +23,8 @@ conventions consistent with industry best practice.
 
 ## Intended Audience
 
-Analysts, associates, and finance professionals at regulated firms who need
-to build or review financial models as part of their role, but have limited
+Junior to mid-level analysts and associates at regulated firms who need to
+build or review financial models as part of their role, but have limited
 prior modelling experience.
 
 ## Learning Objectives

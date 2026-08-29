@@ -4,7 +4,8 @@
   "private": true,
   "description": "Structured content store for the Lunis training course catalogue.",
   "scripts": {
-    "validate": "node scripts/validate.js"
+    "validate": "node scripts/validate.js",
+    "build:catalogue": "node scripts/build-catalogue.js"
   },
   "devDependencies": {
     "ajv": "^8.17.1",

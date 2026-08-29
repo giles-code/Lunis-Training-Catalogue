@@ -127,6 +127,20 @@ catalogue states explicitly) are still inferred and flagged.
 
 4. Open a pull request. CI runs the same validation on every push and PR.
 
+5. Optionally rebuild the single-file website feed locally when previewing a
+   change:
+
+   ```
+   npm run build:catalogue
+   ```
+
+   On every push to `main` or `claude/coding-help-lsmkts`, GitHub Actions
+   validates all course files, rebuilds `dist/catalogue.json`, and commits the
+   updated feed automatically. The Wix site fetches this one generated file
+   instead of making one GitHub API request per course. Its five-minute backend
+   cache means catalogue changes normally appear on Wix within five minutes of
+   the automated feed commit, without editing or republishing Wix.
+
 ## Roadmap
 
 The live sync mechanism (how the Wix site fetches and caches this repo's

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T08:14:18.040Z",
+  "generatedAt": "2026-08-31T20:09:01.445Z",
   "count": 191,
   "courses": [
     {
@@ -1912,7 +1912,7 @@
       ],
       "_id": "countercyclical-buffers-and-macroprudential-tools",
       "sections": {
-        "Aim and Purpose": "Learn about the macroprudential toolkit \\u2014 countercyclical capital buffers, sectoral capital requirements, and borrower-based measures \\u2014 and the considerations in deciding when to deploy each.\n\n> **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.",
+        "Aim and Purpose": "Learn about the macroprudential toolkit — countercyclical capital buffers, sectoral capital requirements, and borrower-based measures — and the considerations in deciding when to deploy each.\n\n> **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.",
         "Intended Audience": "Mid-to-senior staff involved in crisis preparedness, recovery, and resolution planning.",
         "Learning Objectives": "- Understand and apply: Countercyclical capital buffers\n- Understand and apply: sectoral capital requirements\n- Understand and apply: borrower-based measures",
         "Syllabus": "- Countercyclical capital buffers\n- sectoral capital requirements\n- borrower-based measures",
@@ -1920,7 +1920,7 @@
         "Useful Prior Knowledge and Experience": "Some familiarity with crisis management & resolution is helpful but not essential."
       },
       "sectionHtml": {
-        "Aim and Purpose": "<p>Learn about the macroprudential toolkit \\u2014 countercyclical capital buffers, sectoral capital requirements, and borrower-based measures \\u2014 and the considerations in deciding when to deploy each.</p><blockquote><strong>Content gap:</strong> this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.</blockquote>",
+        "Aim and Purpose": "<p>Learn about the macroprudential toolkit — countercyclical capital buffers, sectoral capital requirements, and borrower-based measures — and the considerations in deciding when to deploy each.</p><blockquote><strong>Content gap:</strong> this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.</blockquote>",
         "Intended Audience": "<p>Mid-to-senior staff involved in crisis preparedness, recovery, and resolution planning.</p>",
         "Learning Objectives": "<ul><li>Understand and apply: Countercyclical capital buffers</li><li>Understand and apply: sectoral capital requirements</li><li>Understand and apply: borrower-based measures</li></ul>",
         "Syllabus": "<ul><li>Countercyclical capital buffers</li><li>sectoral capital requirements</li><li>borrower-based measures</li></ul>",

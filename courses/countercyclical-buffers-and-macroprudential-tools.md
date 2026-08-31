@@ -2,7 +2,7 @@
 id: countercyclical-buffers-and-macroprudential-tools
 slug: countercyclical-buffers-and-macroprudential-tools
 title: "Countercyclical Buffers and Macroprudential Tools"
-summary: "Learn about the macroprudential toolkit \u2014 countercyclical capital buffers, sectoral capital requirements, and borrower-based measures \u2014 and the considerations in deciding when to deploy each."
+summary: "Learn about the macroprudential toolkit — countercyclical capital buffers, sectoral capital requirements, and borrower-based measures — and the considerations in deciding when to deploy each."
 audience: ["Financial Supervisors"]
 pillar: "Core Regulatory-Function Pillars"
 track: "Pillar G: Crisis Management & Resolution"
@@ -16,7 +16,7 @@ contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", 
 ---
 ## Aim and Purpose
 
-Learn about the macroprudential toolkit \u2014 countercyclical capital buffers, sectoral capital requirements, and borrower-based measures \u2014 and the considerations in deciding when to deploy each.
+Learn about the macroprudential toolkit — countercyclical capital buffers, sectoral capital requirements, and borrower-based measures — and the considerations in deciding when to deploy each.
 
 > **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
 

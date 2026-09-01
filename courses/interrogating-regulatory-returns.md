@@ -16,28 +16,40 @@ contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", 
 ---
 ## Aim and Purpose
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 Learn how to interrogate regulatory returns data critically, applying trend analysis and peer comparison rather than accepting figures at face value.
 
 > **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
 
 ## Intended Audience
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 Mid-to-senior staff involved in building or using the authority's data/SupTech infrastructure.
 
 ## Learning Objectives
+
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 - Understand and apply: Reading returns critically
 - Understand and apply: trend and peer analysis
 
 ## Syllabus
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 - Reading returns critically
 - trend and peer analysis
 
 ## Structure and Format
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
+
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 Some familiarity with suptech, data & supervisory analytics is helpful but not essential.

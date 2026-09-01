@@ -16,26 +16,38 @@ contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", 
 ---
 ## Aim and Purpose
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 Build understanding of records management policy and responsibilities. Typical audience: new joiners.
 
 > **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
 
 ## Intended Audience
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 All staff, as part of internal operations and mandatory compliance training.
 
 ## Learning Objectives
+
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 - Understand and apply: Records management
 
 ## Syllabus
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 - Records management
 
 ## Structure and Format
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
+
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 Some familiarity with internal operations & mandatory training is helpful but not essential.

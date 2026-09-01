@@ -16,28 +16,40 @@ contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", 
 ---
 ## Aim and Purpose
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 Learn how the Solvency Capital Requirement and technical provisions work in practice, and how supervisors assess compliance.
 
 > **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
 
 ## Intended Audience
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 Junior to mid-level supervisors working in insurance supervision.
 
 ## Learning Objectives
+
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 - Understand and apply: Solvency capital requirement
 - Understand and apply: technical provisions
 
 ## Syllabus
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 - Solvency capital requirement
 - technical provisions
 
 ## Structure and Format
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
+
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 Some familiarity with insurance supervision is helpful but not essential.

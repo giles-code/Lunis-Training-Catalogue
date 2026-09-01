@@ -16,15 +16,21 @@ contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", 
 ---
 ## Aim and Purpose
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 Explore the methodologies behind ESG scoring and corporate sustainability reporting best practice.
 
 > **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
 
 ## Intended Audience
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 Mid-level supervisory staff building capability in sustainable finance/ESG supervision.
 
 ## Learning Objectives
+
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 - Understand and apply: ESG scoring methodology
 - Understand and apply: CSRD
@@ -32,14 +38,20 @@ Mid-level supervisory staff building capability in sustainable finance/ESG super
 
 ## Syllabus
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 - ESG scoring methodology
 - CSRD
 - ESRS
 
 ## Structure and Format
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
+
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 Some familiarity with sustainable finance in practice is helpful but not essential.

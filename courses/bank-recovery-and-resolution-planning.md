@@ -16,15 +16,21 @@ contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", 
 ---
 ## Aim and Purpose
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 Learn how to assess a bank's recovery plan and understand the resolvability considerations that link to crisis management (Layer 1, Pillar G).
 
 > **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
 
 ## Intended Audience
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 Junior to mid-level supervisors working in prudential/banking supervision.
 
 ## Learning Objectives
+
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 - Understand and apply: Recovery plans
 - Understand and apply: resolvability
@@ -32,14 +38,20 @@ Junior to mid-level supervisors working in prudential/banking supervision.
 
 ## Syllabus
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 - Recovery plans
 - resolvability
 - links to Layer 1 Pillar G
 
 ## Structure and Format
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
+
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 Some familiarity with banking & prudential supervision is helpful but not essential.

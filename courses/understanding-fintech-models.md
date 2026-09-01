@@ -16,15 +16,21 @@ contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", 
 ---
 ## Aim and Purpose
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 Learn how different FinTech business models operate, assessing regulatory boundaries and operational risks.
 
 > **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
 
 ## Intended Audience
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 Mid-level supervisory staff building capability in cyber and operational resilience supervision.
 
 ## Learning Objectives
+
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 - Understand and apply: FinTech business models across payments
 - Understand and apply: lending
@@ -33,6 +39,8 @@ Mid-level supervisory staff building capability in cyber and operational resilie
 
 ## Syllabus
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 - FinTech business models across payments
 - lending
 - crypto-assets
@@ -40,8 +48,12 @@ Mid-level supervisory staff building capability in cyber and operational resilie
 
 ## Structure and Format
 
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
+
+**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 Some familiarity with cybersecurity, dora & operational resilience is helpful but not essential.

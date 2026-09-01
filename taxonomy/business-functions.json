@@ -1,0 +1,44 @@
+{
+  "$comment": "Definitive list of business function values usable in a course's businessFunction frontmatter field. appliesTo names which clientType value(s) that function is relevant to; scripts/validate.js enforces that a course only uses a function whose appliesTo overlaps its own clientType.",
+  "businessFunctions": [
+    { "name": "Policy", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Compliance", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Finance", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Strategy", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Risk Management", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Legal", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Internal Audit", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Financial Crime, AML & Sanctions Compliance", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Governance & Company Secretarial", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Operational Resilience & Technology/Cyber", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Data Protection & Data Governance", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Conduct & Culture / HR", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Prudential Risk (Capital & Liquidity)", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Complaints & Redress", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Consumer Protection / Consumer Duty", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "International & Cross-Border Affairs", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Communications & Stakeholder Engagement", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Whistleblowing & Speak-Up", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+
+    { "name": "Treasury", "appliesTo": ["Regulated Firm"] },
+    { "name": "Client Money & Assets (CASS)", "appliesTo": ["Regulated Firm"] },
+    { "name": "Product Governance", "appliesTo": ["Regulated Firm"] },
+    { "name": "Trading & Markets / Front Office", "appliesTo": ["Regulated Firm"] },
+    { "name": "Credit Risk", "appliesTo": ["Regulated Firm"] },
+    { "name": "Third-Party & Outsourcing Oversight", "appliesTo": ["Regulated Firm"] },
+    { "name": "Actuarial", "appliesTo": ["Regulated Firm"] },
+
+    { "name": "Supervision", "appliesTo": ["Regulatory Authority"] },
+    { "name": "Enforcement", "appliesTo": ["Regulatory Authority"] },
+    { "name": "Authorisations", "appliesTo": ["Regulatory Authority"] },
+    { "name": "Registration & Licensing", "appliesTo": ["Regulatory Authority"] },
+    { "name": "Financial Stability & Macroprudential Policy", "appliesTo": ["Regulatory Authority"] },
+    { "name": "Innovation & Regulatory Sandboxes", "appliesTo": ["Regulatory Authority"] },
+
+    { "name": "Crisis Management & Resolution", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Capability & Capacity Building", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Data & Supervisory Analytics", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Digital Assets, AI & Innovation", "appliesTo": ["Regulated Firm", "Regulatory Authority"] },
+    { "name": "Sustainable Finance & ESG", "appliesTo": ["Regulated Firm", "Regulatory Authority"] }
+  ]
+}

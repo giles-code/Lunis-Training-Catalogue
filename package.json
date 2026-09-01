@@ -1,0 +1,15 @@
+{
+  "name": "lunis-training-catalogue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Structured content store for the Lunis training course catalogue.",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "build:catalogue": "node scripts/build-catalogue.js"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "gray-matter": "^4.0.3"
+  }
+}

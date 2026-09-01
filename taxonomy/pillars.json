@@ -1,0 +1,10 @@
+{
+  "$comment": "Definitive list of values usable in a course's pillar frontmatter field. Drives the site's nav submenu under each audience. scripts/validate.js checks every course's pillar exists here.",
+  "pillars": [
+    { "name": "Regulatory Functions", "description": "The substantive regulatory functions a supervisory authority performs, regardless of sector — governance, policy-making, authorisation, supervision, enforcement, financial crime, crisis management, capability building. Financial Supervisors audience only." },
+    { "name": "Business Functions", "description": "The core internal departments of a regulated firm — compliance, risk management, legal, treasury, governance, client money, product governance, trading, third-party oversight, actuarial. Firms audience only." },
+    { "name": "Cross-Cutting Themes", "description": "Risks and disciplines that run through every pillar and every sector rather than belonging to one — e.g. operational resilience, sustainable finance, consumer protection, cross-border supervision, data & technology infrastructure." },
+    { "name": "Generic Supervisory Skills", "description": "Skills that let regulatory staff function effectively across every pillar and sector — management, communication, judgement, and technology skills not tied to a particular financial sector." },
+    { "name": "Sector Programmes", "description": "Technical, subject-matter training for supervising particular parts of the financial sector (banking, insurance, investment funds, payments, pensions, etc.) and specialist cross-sector technical themes (digital assets, AI, sustainable finance, cybersecurity, SupTech)." }
+  ]
+}

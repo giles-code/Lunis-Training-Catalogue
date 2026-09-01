@@ -1,0 +1,112 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/giles-code/lunis-training-catalogue/schema/course.frontmatter.schema.json",
+  "title": "Course frontmatter",
+  "description": "Schema for the YAML frontmatter of a course Markdown file. The body of the file must additionally contain the six required sections listed in README.md — this schema covers only the structured, filterable/navigable fields.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "slug",
+    "title",
+    "summary",
+    "audience",
+    "pillar",
+    "track",
+    "clientType",
+    "businessFunction",
+    "deliveryFormat",
+    "durationValue",
+    "durationUnit",
+    "active"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable unique identifier for the course. Never reuse or change once published.",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "slug": {
+      "type": "string",
+      "description": "URL-friendly identifier, used for the course's page path.",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120
+    },
+    "summary": {
+      "type": "string",
+      "description": "One or two sentence teaser shown in catalogue/list views.",
+      "minLength": 1,
+      "maxLength": 280
+    },
+    "audience": {
+      "type": "array",
+      "description": "Top-level site section(s) the course appears under. Drives the primary nav split.",
+      "items": { "type": "string", "enum": ["Firms", "Financial Supervisors"] },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "pillar": {
+      "type": "string",
+      "description": "Single training pillar from the Lunis taxonomy (see taxonomy/pillars.json). Drives the nav submenu under each audience.",
+      "minLength": 1
+    },
+    "track": {
+      "type": "string",
+      "description": "Finer-grained programme/track within the pillar (see taxonomy/tracks.json), e.g. \"Pillar D: Ongoing Supervision\" or \"T3. Investment Funds\". Its taxonomy entry's own pillar must match this course's pillar.",
+      "minLength": 1
+    },
+    "clientType": {
+      "type": "array",
+      "description": "Independent filter tag, separate from audience.",
+      "items": { "type": "string", "enum": ["Regulated Firm", "Regulatory Authority"] },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "businessFunction": {
+      "type": "array",
+      "description": "Independent filter tag. Open-ended list — see README.md for the current draft set.",
+      "items": { "type": "string", "minLength": 1 },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "deliveryFormat": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["In-person", "Online", "Hybrid"] },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "durationValue": {
+      "type": "number",
+      "exclusiveMinimum": 0
+    },
+    "durationUnit": {
+      "type": "string",
+      "enum": ["hours", "days", "weeks"]
+    },
+    "instructor": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string",
+      "description": "URL or repo-relative path to the course's promotional image.",
+      "minLength": 1
+    },
+    "active": {
+      "type": "boolean",
+      "description": "Whether the course should appear in the published catalogue."
+    },
+    "lastUpdated": {
+      "type": "string",
+      "format": "date"
+    },
+    "contentGaps": {
+      "type": "array",
+      "description": "Machine-readable flags for content that is inferred/placeholder rather than sourced from a definitive input (e.g. drafted from a one-line summary, or a duration estimated because the source didn't state one). Empty or omitted once a course's content is fully confirmed.",
+      "items": { "type": "string", "minLength": 1 }
+    }
+  }
+}

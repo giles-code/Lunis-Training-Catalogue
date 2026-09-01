@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:34:17.396Z",
+  "generatedAt": "2026-09-01T10:35:39.385Z",
   "count": 191,
   "courses": [
     {
@@ -23,7 +23,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -73,7 +73,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -168,7 +168,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -218,7 +218,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -268,7 +268,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -318,7 +318,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -548,7 +548,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -598,7 +598,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -648,7 +648,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -698,7 +698,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -748,7 +748,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -845,7 +845,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -941,7 +941,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -1041,7 +1041,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -1092,7 +1092,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -1232,7 +1232,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -1417,7 +1417,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -1559,7 +1559,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -1609,7 +1609,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -1659,7 +1659,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -1709,7 +1709,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -1759,7 +1759,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -1899,7 +1899,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -1950,7 +1950,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -2090,7 +2090,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -2275,7 +2275,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -2415,7 +2415,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -2510,7 +2510,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -2650,7 +2650,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -2745,7 +2745,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -2795,7 +2795,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -2845,7 +2845,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -2895,7 +2895,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -2945,7 +2945,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -3040,7 +3040,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -3136,7 +3136,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -3186,7 +3186,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -3236,7 +3236,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -3331,7 +3331,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -3426,7 +3426,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -3476,7 +3476,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -3616,7 +3616,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -3666,7 +3666,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -3762,7 +3762,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -3857,7 +3857,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -3952,7 +3952,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -4003,7 +4003,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -4323,7 +4323,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -4511,7 +4511,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -4788,7 +4788,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -4838,7 +4838,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -4934,7 +4934,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -4984,7 +4984,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -5034,7 +5034,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -5084,7 +5084,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -5134,7 +5134,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -5229,7 +5229,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -5324,7 +5324,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -5419,7 +5419,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -5469,7 +5469,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -5564,7 +5564,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -5659,7 +5659,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -5709,7 +5709,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -5805,7 +5805,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -5900,7 +5900,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -5950,7 +5950,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -6000,7 +6000,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -6096,7 +6096,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -6146,7 +6146,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -6244,7 +6244,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -6339,7 +6339,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -6389,7 +6389,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -6620,7 +6620,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -6670,7 +6670,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -6720,7 +6720,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -6815,7 +6815,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -7000,7 +7000,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -7050,7 +7050,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -7190,7 +7190,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -7240,7 +7240,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -7290,7 +7290,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -7340,7 +7340,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -7662,7 +7662,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -7712,7 +7712,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -7898,7 +7898,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -7948,7 +7948,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -8044,7 +8044,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -8139,7 +8139,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -8279,7 +8279,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -8329,7 +8329,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -8427,7 +8427,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -8657,7 +8657,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -8707,7 +8707,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -8757,7 +8757,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -8807,7 +8807,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -8902,7 +8902,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",
@@ -8952,7 +8952,7 @@
       ],
       "durationValue": 1,
       "durationUnit": "days",
-      "active": false,
+      "active": true,
       "contentGaps": [
         "aimAndPurpose: expanded from a one-line catalogue summary only",
         "learningObjectives: derived from focus-area keywords, not explicit source content",

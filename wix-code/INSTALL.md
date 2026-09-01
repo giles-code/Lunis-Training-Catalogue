@@ -125,3 +125,27 @@ Test both page layouts on desktop and mobile. Suggested test URL:
 When the catalogue branch is later merged to `main`, change the branch segment
 in `CATALOGUE_URL` in `catalogue.web.js` from
 `claude/coding-help-lsmkts` to `main`.
+
+## 6. Audience-locked pages (Supervisors / Firms)
+
+Two more pages reuse the same filtering/rendering logic as the Catalogue page,
+each pre-filtered to a fixed `audience` value, with no audience dropdown. The
+shared logic lives in one Public module so it isn't duplicated per page.
+
+1. Under **Public** (not Backend), create `audienceCatalogue.js` and paste in
+   `wix-code/public/audienceCatalogue.js`.
+2. The fastest way to build each page: **duplicate the finished Catalogue
+   page** twice in the Pages panel (this copies all the element IDs — search,
+   dropdowns, repeater, table — automatically). On each duplicate, remove the
+   `audienceDropdown` element (it isn't used by these pages).
+3. Set the URL slugs, e.g. `supervisors` and `firms`.
+4. Replace each duplicate's page code:
+   - Supervisors page → `wix-code/pages/supervisors.js`
+   - Firms page → `wix-code/pages/firms.js`
+5. Add nav links to `/supervisors` and `/firms` wherever the site menu needs
+   them.
+
+> **Note:** as of this build, every course in the repo has
+> `audience: ["Financial Supervisors"]` — there are no `"Firms"`-audience
+> courses yet. The Firms page is fully functional but will show "0 courses"
+> until Firms-facing content is added to `courses/*.md`.

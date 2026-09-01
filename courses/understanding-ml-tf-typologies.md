@@ -4,7 +4,7 @@ slug: understanding-ml-tf-typologies
 title: "Understanding ML/TF Typologies"
 summary: "Learn how to identify key money laundering/terrorist financing typologies and recognise red flags in real-world scenarios."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]

@@ -4,7 +4,7 @@ slug: market-abuse-detection-and-surveillance
 title: "Market Abuse Detection & Surveillance"
 summary: "The aim of this workshop is to build participants' understanding of how market abuse is detected through surveillance systems, and how supervisors assess the adequacy of firms' own surveillance and monitoring capability."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]

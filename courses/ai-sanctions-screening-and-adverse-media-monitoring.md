@@ -4,7 +4,7 @@ slug: ai-sanctions-screening-and-adverse-media-monitoring
 title: "AI, Sanctions Screening & Adverse Media Monitoring"
 summary: "The aim of this workshop is to build participants' understanding of how AI and natural language processing are applied to sanctions screening, PEP identification, and adverse media monitoring, and how to assess whether these tools are appropriately calibrated and effectively…"
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]

@@ -4,7 +4,7 @@ slug: legal-drafting-for-regulators
 title: "Legal Drafting for Regulators"
 summary: "The aim of this workshop is to build core legal drafting skills for producing rules and guidance that are clear, internally consistent, and enforceable in practice."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar B: Policy-Making & Rule-Making"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Policy"]

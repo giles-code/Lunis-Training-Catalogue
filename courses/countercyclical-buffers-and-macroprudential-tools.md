@@ -4,7 +4,7 @@ slug: countercyclical-buffers-and-macroprudential-tools
 title: "Countercyclical Buffers and Macroprudential Tools"
 summary: "Learn about the macroprudential toolkit — countercyclical capital buffers, sectoral capital requirements, and borrower-based measures — and the considerations in deciding when to deploy each."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar G: Crisis Management & Resolution"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Crisis Management & Resolution"]

@@ -4,7 +4,7 @@ slug: risk-governance-and-thematic-review-panels
 title: "Risk Governance & Thematic Review Panels"
 summary: "Prepares supervisory staff to participate effectively in risk governance panels (RGPs) and thematic review panels (TRPs) — internal governance mechanisms used to review and challenge supervisory assessments and thematic findings."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]

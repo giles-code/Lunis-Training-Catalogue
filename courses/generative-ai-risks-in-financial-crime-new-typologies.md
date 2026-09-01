@@ -4,7 +4,7 @@ slug: generative-ai-risks-in-financial-crime-new-typologies
 title: "Generative AI Risks in Financial Crime: New Typologies"
 summary: "The aim of this workshop is to build participants' awareness of how criminals are using generative AI to create new financial crime typologies — including synthetic identity fraud, deepfake-enabled onboarding fraud, and AI-generated social engineering — and how supervisors and…"
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]

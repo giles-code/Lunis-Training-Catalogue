@@ -4,7 +4,7 @@ slug: investigative-and-interviewing-skills
 title: "Investigative and Interviewing Skills"
 summary: "Learn how to conduct effective interviews and gather reliable information during on-site inspections."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]

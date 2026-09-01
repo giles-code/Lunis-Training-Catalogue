@@ -4,7 +4,7 @@ slug: legal-preparedness-court-proceedings-and-testimony-skills
 title: "Legal Preparedness: Court Proceedings and Testimony Skills"
 summary: "Train participants in the legal aspects of providing testimonies and evidence in court."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]

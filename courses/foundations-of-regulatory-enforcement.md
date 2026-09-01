@@ -4,7 +4,7 @@ slug: foundations-of-regulatory-enforcement
 title: "Foundations of Regulatory Enforcement"
 summary: "The aim of this workshop is to build participants' understanding of a supervisory authority's enforcement function — what powers exist, how the decision to open an investigation is made, and how cases are triaged and prioritised."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar E: Enforcement & Sanctions"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Enforcement"]

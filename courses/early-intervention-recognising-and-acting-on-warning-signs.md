@@ -4,7 +4,7 @@ slug: early-intervention-recognising-and-acting-on-warning-signs
 title: "Early Intervention: Recognising and Acting on Warning Signs"
 summary: "The aim of this workshop is to build participants' ability to recognise early warning signs of firm distress and apply a structured intervention ladder before problems become crises."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar G: Crisis Management & Resolution"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Crisis Management & Resolution"]

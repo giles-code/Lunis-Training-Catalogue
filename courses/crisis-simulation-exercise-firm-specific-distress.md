@@ -4,7 +4,7 @@ slug: crisis-simulation-exercise-firm-specific-distress
 title: "Crisis Simulation Exercise: Firm-Specific Distress"
 summary: "The aim of this workshop is to give participants hands-on practice in supervisory decision-making, escalation, and coordination under time pressure through a simulated firm-distress scenario."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar G: Crisis Management & Resolution"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Crisis Management & Resolution"]

@@ -4,7 +4,7 @@ slug: international-cooperation-for-supervisors
 title: "International Cooperation for Supervisors"
 summary: "The aim of this workshop is to build participants' understanding of how supervisory authorities engage in cross-border cooperation and international standard-setting, and how to participate effectively in supervisory colleges and MoU frameworks."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar A: Governance, Strategy & Leadership"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Governance & Company Secretarial", "Strategy"]

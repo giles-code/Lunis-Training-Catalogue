@@ -4,7 +4,7 @@ slug: assessing-authorisation-applications
 title: "Assessing Authorisation Applications"
 summary: "The aim of this workshop is to build a structured methodology for assessing new licence applications, including scrutinising business plans, financial projections, and organisational readiness."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar C: Authorisation & Licensing"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Authorisations", "Registration & Licensing"]

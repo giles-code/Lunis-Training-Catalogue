@@ -4,7 +4,7 @@ slug: setting-regulatory-strategy-and-priorities
 title: "Setting Regulatory Strategy and Priorities"
 summary: "The aim of this workshop is to equip participants with the skills to translate a supervisory authority's statutory mandate into a strategic plan and prioritised work programme, balancing risk, resource, and stakeholder expectations."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar A: Governance, Strategy & Leadership"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Governance & Company Secretarial", "Strategy"]

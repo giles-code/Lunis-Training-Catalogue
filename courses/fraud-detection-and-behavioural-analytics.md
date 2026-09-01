@@ -4,7 +4,7 @@ slug: fraud-detection-and-behavioural-analytics
 title: "Fraud Detection & Behavioural Analytics"
 summary: "The aim of this workshop is to build participants' understanding of how AI-enabled fraud detection systems operate across payments and banking channels, examining behavioural analytics and biometric techniques, and the supervisory considerations for assessing firms' fraud…"
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]

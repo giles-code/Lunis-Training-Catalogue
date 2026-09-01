@@ -4,7 +4,7 @@ slug: knowledge-management-for-supervisory-authorities
 title: "Knowledge Management for Supervisory Authorities"
 summary: "The aim of this workshop is to build participants' skills in designing systems and practices that preserve institutional knowledge and supervisory precedent despite staff turnover."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar H: Capability & Capacity Building"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Capability & Capacity Building"]

@@ -4,7 +4,7 @@ slug: compliance-outcomes-based-supervision-cobs
 title: "Compliance Outcomes-Based Supervision (COBS)"
 summary: "Introduce the COBS methodology and its role in effective, efficient supervision."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]

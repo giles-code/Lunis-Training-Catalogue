@@ -4,7 +4,7 @@ slug: governance-for-supervisory-authorities-board-and-executive-practice
 title: "Governance for Supervisory Authorities: Board & Executive Practice"
 summary: "The aim of this workshop is to build participants' understanding of the governance structures and practices that support effective decision-making and accountability within a supervisory authority's own board and executive."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar A: Governance, Strategy & Leadership"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Governance & Company Secretarial", "Strategy"]

@@ -4,7 +4,7 @@ slug: designing-a-competency-framework-for-supervisors
 title: "Designing a Competency Framework for Supervisors"
 summary: "The aim of this workshop is to build participants' skills in designing a structured competency framework and certification pathway for supervisory staff, drawing on models such as Toronto Centre's Certified Financial Supervisor programme (mandatory Core Curriculum plus…"
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar H: Capability & Capacity Building"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Capability & Capacity Building"]

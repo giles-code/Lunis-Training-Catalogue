@@ -4,7 +4,7 @@ slug: from-international-standard-to-domestic-rule-transposition-in-practice
 title: "From International Standard to Domestic Rule: Transposition in Practice"
 summary: "The aim of this workshop is to build participants' understanding of how international and EU-level standards are translated into domestic rules, including the risks of over- or under-implementation, so that transposition decisions are made deliberately rather than by default."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar B: Policy-Making & Rule-Making"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Policy"]

@@ -4,7 +4,7 @@ slug: supervisory-technology-trends-and-innovations
 title: "Supervisory Technology Trends and Innovations"
 summary: "Understanding technological advancements in financial supervision."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]

@@ -4,7 +4,7 @@ slug: ai-and-machine-learning-in-aml-cft-detection
 title: "AI & Machine Learning in AML/CFT Detection"
 summary: "The aim of this workshop is to build participants' understanding of how regulated entities use AI and machine learning to strengthen transaction monitoring and suspicious activity detection, and the practical trade-offs supervisors should expect firms to manage."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]

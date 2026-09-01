@@ -4,7 +4,7 @@ slug: cooperating-with-prosecutors-and-other-authorities
 title: "Cooperating with Prosecutors and Other Authorities"
 summary: "The aim of this workshop is to build participants' understanding of how supervisory authorities cooperate with criminal prosecutors and other enforcement bodies, including managing parallel proceedings and information-sharing gateways."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar E: Enforcement & Sanctions"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Enforcement"]

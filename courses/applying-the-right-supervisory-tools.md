@@ -4,7 +4,7 @@ slug: applying-the-right-supervisory-tools
 title: "Applying the Right Supervisory Tools"
 summary: "Enhance decision-making skills for selecting and applying the appropriate supervisory tools in real-life scenarios."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]

@@ -4,7 +4,7 @@ slug: macroprudential-policy-and-systemic-risk-monitoring
 title: "Macroprudential Policy & Systemic Risk Monitoring"
 summary: "Learn how to build a systemic risk dashboard and identify the build-up of system-wide vulnerabilities across firms and sectors, rather than relying solely on firm-level crisis indicators."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar G: Crisis Management & Resolution"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Crisis Management & Resolution"]

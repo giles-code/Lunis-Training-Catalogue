@@ -4,7 +4,7 @@ slug: supervising-aml-cft-obligations-in-practice
 title: "Supervising AML/CFT Obligations in Practice"
 summary: "Learn how to apply AML/CFT requirements consistently across supervisory processes and decision-making."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]

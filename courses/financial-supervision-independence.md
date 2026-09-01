@@ -4,7 +4,7 @@ slug: financial-supervision-independence
 title: "Financial Supervision Independence"
 summary: "Identifying and addressing main pitfalls in financial supervision."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]

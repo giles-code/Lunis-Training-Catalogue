@@ -4,7 +4,7 @@ slug: supervisory-judgment
 title: "Supervisory Judgment"
 summary: "Strengthen participants’ skills in applying supervisory judgment across authorisation and ongoing supervision."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]

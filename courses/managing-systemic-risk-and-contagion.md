@@ -4,7 +4,7 @@ slug: managing-systemic-risk-and-contagion
 title: "Managing Systemic Risk and Contagion"
 summary: "The aim of this workshop is to build participants' understanding of systemic risk and contagion channels, and the macroprudential tools available to address them."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar G: Crisis Management & Resolution"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Crisis Management & Resolution"]

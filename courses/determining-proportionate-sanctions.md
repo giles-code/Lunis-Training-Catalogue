@@ -4,7 +4,7 @@ slug: determining-proportionate-sanctions
 title: "Determining Proportionate Sanctions"
 summary: "The aim of this workshop is to build participants' skills in applying a sanctioning framework consistently, weighing aggravating and mitigating factors and maintaining consistency with precedent while addressing the specific facts of a case."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar E: Enforcement & Sanctions"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Enforcement"]

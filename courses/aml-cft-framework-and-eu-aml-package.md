@@ -4,7 +4,7 @@ slug: aml-cft-framework-and-eu-aml-package
 title: "AML/CFT Framework & EU AML Package"
 summary: "Learn the core regulatory foundations of AML/CFT supervision in line with EU reforms and international standards."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]

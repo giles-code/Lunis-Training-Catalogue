@@ -4,7 +4,7 @@ slug: measuring-supervisory-effectiveness
 title: "Measuring Supervisory Effectiveness"
 summary: "The aim of this workshop is to build participants' skills in designing and using metrics that meaningfully measure supervisory effectiveness and outcomes, drawing on approaches used in international assessments such as IMF/World Bank Financial Sector Assessment Programs (FSAPs)."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar A: Governance, Strategy & Leadership"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Governance & Company Secretarial", "Strategy"]

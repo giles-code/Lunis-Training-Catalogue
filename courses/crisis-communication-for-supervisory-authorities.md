@@ -4,7 +4,7 @@ slug: crisis-communication-for-supervisory-authorities
 title: "Crisis Communication for Supervisory Authorities"
 summary: "The aim of this workshop is to build participants' skills in communicating effectively with the public, industry, and government during a financial crisis or firm failure, building on general media communication skills with crisis-specific technique."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar G: Crisis Management & Resolution"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Crisis Management & Resolution"]

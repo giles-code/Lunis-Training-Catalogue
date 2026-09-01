@@ -4,7 +4,7 @@ slug: change-of-control-and-ownership-assessment
 title: "Change of Control and Ownership Assessment"
 summary: "The aim of this workshop is to build participants' skills in assessing proposed changes of control and complex ownership structures, including cross-border and beneficial ownership considerations."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar C: Authorisation & Licensing"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Authorisations", "Registration & Licensing"]

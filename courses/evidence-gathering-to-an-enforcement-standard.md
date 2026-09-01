@@ -4,7 +4,7 @@ slug: evidence-gathering-to-an-enforcement-standard
 title: "Evidence-Gathering to an Enforcement Standard"
 summary: "The aim of this workshop is to build participants' skills in gathering and preserving evidence to a standard suitable for enforcement or court proceedings, including disclosure obligations and maintaining a defensible evidential record."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar E: Enforcement & Sanctions"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Enforcement"]

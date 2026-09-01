@@ -4,7 +4,7 @@ slug: business-model-analysis
 title: "Business Model Analysis"
 summary: "Equips supervisors to conduct business model analysis (BMA) as a core part of supervisory risk assessment: how firms develop corporate strategy and business models, why and how supervisors assess them, qualitative and quantitative analytical methods, and how to score and…"
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]

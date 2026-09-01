@@ -4,7 +4,7 @@ slug: aml-package-and-its-implications-for-supervisors
 title: "AML Package and Its Implications for Supervisors"
 summary: "Provide a comprehensive understanding of AML requirements and their integration into supervisory practices."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]

@@ -4,7 +4,7 @@ slug: report-writing-for-regulatory-impact
 title: "Report Writing for Regulatory Impact"
 summary: "Learn how to produce clear, structured, and compelling regulatory reports that support effective supervisory decisions."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]

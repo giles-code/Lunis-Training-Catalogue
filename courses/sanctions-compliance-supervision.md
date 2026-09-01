@@ -4,7 +4,7 @@ slug: sanctions-compliance-supervision
 title: "Sanctions Compliance Supervision"
 summary: "The aim of this workshop is to build participants' skills in supervising firms' sanctions compliance frameworks, including screening obligations and assessment of control effectiveness."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]

@@ -4,7 +4,7 @@ slug: understanding-business-models
 title: "Understanding Business Models"
 summary: "Learn how to assess firms’ business models and link them to prudential, conduct, and AML/CFT risks."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]

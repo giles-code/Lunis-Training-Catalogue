@@ -4,7 +4,7 @@ slug: supervising-ai-driven-financial-crime-systems
 title: "Supervising AI-Driven Financial Crime Systems"
 summary: "The aim of this workshop is to build participants' skills in assessing the governance, validation, and explainability of AI systems deployed by firms for AML/CFT purposes, applying supervisory judgement to model risk and human oversight controls."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]

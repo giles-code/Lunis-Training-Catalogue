@@ -4,7 +4,7 @@ slug: governance-risk-assessment-and-interview-skills
 title: "Governance Risk Assessment & Interview Skills"
 summary: "Combines two linked supervisory disciplines: assessing governance risk in regulated firms, and conducting effective supervisory interviews with directors and senior managers."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]

@@ -4,7 +4,7 @@ slug: workforce-planning-for-specialist-regulatory-functions
 title: "Workforce Planning for Specialist Regulatory Functions"
 summary: "The aim of this workshop is to build participants' skills in planning and resourcing a supervisory workforce with the right mix of generalist and specialist skills, addressing recruitment and retention challenges specific to regulatory bodies."
 audience: ["Financial Supervisors"]
-pillar: "Core Regulatory-Function Pillars"
+pillar: "Regulatory Functions"
 track: "Pillar H: Capability & Capacity Building"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Capability & Capacity Building"]

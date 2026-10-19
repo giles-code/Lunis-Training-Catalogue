@@ -1,19 +1,26 @@
 ---
-id: writing-for-impact-supervisory-correspondence-and-public-statements
-slug: writing-for-impact-supervisory-correspondence-and-public-statements
+id: "writing-for-impact-supervisory-correspondence-and-public-statements"
+slug: "writing-for-impact-supervisory-correspondence-and-public-statements"
 title: "Writing for Impact: Supervisory Correspondence and Public Statements"
 summary: "The aim of this workshop is to build participants' skills in writing clear, authoritative supervisory correspondence and public statements that are accurate, defensible, and appropriately calibrated for their audience, from firm-level letters to public communications."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Supervisory practice & skills"]
 pillar: "Generic Supervisory Skills"
 track: "S3. Supervisory Judgement & Professional Practice"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in writing clear, authoritative supervisory correspondence and public statements that are accurate, defensible, and appropriately calibrated for their audience, from firm-level letters to public communications.

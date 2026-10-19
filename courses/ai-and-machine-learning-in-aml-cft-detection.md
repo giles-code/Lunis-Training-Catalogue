@@ -1,19 +1,26 @@
 ---
-id: ai-and-machine-learning-in-aml-cft-detection
-slug: ai-and-machine-learning-in-aml-cft-detection
+id: "ai-and-machine-learning-in-aml-cft-detection"
+slug: "ai-and-machine-learning-in-aml-cft-detection"
 title: "AI & Machine Learning in AML/CFT Detection"
 summary: "The aim of this workshop is to build participants' understanding of how regulated entities use AI and machine learning to strengthen transaction monitoring and suspicious activity detection, and the practical trade-offs supervisors should expect firms to manage."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams", "Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Financial crime", "AI & technology"]
 pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how regulated entities use AI and machine learning to strengthen transaction monitoring and suspicious activity detection, and the practical trade-offs supervisors should expect firms to manage.

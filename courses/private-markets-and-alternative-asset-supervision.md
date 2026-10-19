@@ -1,22 +1,29 @@
 ---
-id: private-markets-and-alternative-asset-supervision
-slug: private-markets-and-alternative-asset-supervision
+id: "private-markets-and-alternative-asset-supervision"
+slug: "private-markets-and-alternative-asset-supervision"
 title: "Private Markets & Alternative Asset Supervision"
-summary: "The aim of this workshop is to build participants' understanding of how private equity, private credit and real asset funds are structured and supervised, including the supervisory implications of the retailisation of private markets under regimes such as ELTIF 2.0."
+summary: "The aim of this workshop is to build participants' understanding of how private equity, private credit and real asset funds are structured and supervised, including the supervisory implications of the retailisation of private markets under retail-oriented long-term fund regimes."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Investment Funds & Asset Management"]
+topics: ["Funds & asset management"]
 pillar: "Sector Programmes"
 track: "T3. Investment Funds"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
-The aim of this workshop is to build participants' understanding of how private equity, private credit and real asset funds are structured and supervised, including the supervisory implications of the retailisation of private markets under regimes such as ELTIF 2.0.
+The aim of this workshop is to build participants' understanding of how private equity, private credit and real asset funds are structured and supervised, including the supervisory implications of the retailisation of private markets under retail-oriented long-term fund regimes.
 
 ## Intended Audience
 
@@ -44,11 +51,11 @@ Activities:
 **Session 2: Supervisory distinctions and retailisation (11:00–12:30)**
 *Objective: Describe supervisory distinctions and assess retailisation implications*
 - How private fund supervision differs from liquid fund supervision
-- ELTIF 2.0 and the retailisation of private markets
+- Retail-oriented long-term fund regimes and the retailisation of private markets
 - Investor protection considerations for less sophisticated investors
 - Distribution and suitability considerations for retail access
 Activities:
-- Group exercise: assess the retailisation implications of a sample ELTIF structure
+- Group exercise: assess the retailisation implications of a sample retail-oriented long-term fund structure
 
 **Session 3: Liquidity, valuation and application (13:30–14:45)**
 *Objective: Evaluate liquidity/valuation risk and formulate a risk assessment*

@@ -1,19 +1,26 @@
 ---
-id: market-abuse-detection-and-surveillance
-slug: market-abuse-detection-and-surveillance
+id: "market-abuse-detection-and-surveillance"
+slug: "market-abuse-detection-and-surveillance"
 title: "Market Abuse Detection & Surveillance"
 summary: "The aim of this workshop is to build participants' understanding of how market abuse is detected through surveillance systems, and how supervisors assess the adequacy of firms' own surveillance and monitoring capability."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams", "Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Financial crime"]
 pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how market abuse is detected through surveillance systems, and how supervisors assess the adequacy of firms' own surveillance and monitoring capability.

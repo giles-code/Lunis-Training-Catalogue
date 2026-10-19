@@ -1,22 +1,29 @@
 ---
-id: designing-a-competency-framework-for-supervisors
-slug: designing-a-competency-framework-for-supervisors
+id: "designing-a-competency-framework-for-supervisors"
+slug: "designing-a-competency-framework-for-supervisors"
 title: "Designing a Competency Framework for Supervisors"
-summary: "The aim of this workshop is to build participants' skills in designing a structured competency framework and certification pathway for supervisory staff, drawing on models such as Toronto Centre's Certified Financial Supervisor programme (mandatory Core Curriculum plus…"
+summary: "The aim of this workshop is to build participants' skills in designing a structured competency framework and certification pathway for supervisory staff, drawing on established supervisory certification models (mandatory core curriculum plus…"
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Leadership & senior management", "New joiners & developing staff"]
+firmType: ["All firm types"]
+topics: ["Supervisory practice & skills"]
 pillar: "Regulatory Functions"
 track: "Pillar H: Capability & Capacity Building"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Capability & Capacity Building"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
-The aim of this workshop is to build participants' skills in designing a structured competency framework and certification pathway for supervisory staff, drawing on models such as Toronto Centre's Certified Financial Supervisor programme (mandatory Core Curriculum plus specialist electives, with a minimum-experience threshold).
+The aim of this workshop is to build participants' skills in designing a structured competency framework and certification pathway for supervisory staff, drawing on established supervisory certification models (mandatory core curriculum plus specialist electives, with a minimum-experience threshold).
 
 ## Intended Audience
 
@@ -36,7 +43,7 @@ Managers and learning & development leads responsible for building supervisory c
 *Objective: Explain the purpose of competency frameworks*
 - Why a competency framework benefits both staff and the authority
 - Linking competencies to career pathways and progression
-- International models: Toronto Centre's CFS (Foundation + Electives, 3-year experience threshold)
+- International models: foundation-plus-electives certification with a minimum-experience threshold
 - Competency frameworks as a recruitment and retention tool
 Activities:
 - Facilitated discussion: competency framework models participants have encountered

@@ -1,19 +1,26 @@
 ---
-id: risk-based-supervision-prioritisation-under-resource-constraints
-slug: risk-based-supervision-prioritisation-under-resource-constraints
+id: "risk-based-supervision-prioritisation-under-resource-constraints"
+slug: "risk-based-supervision-prioritisation-under-resource-constraints"
 title: "Risk-Based Supervision: Prioritisation Under Resource Constraints"
 summary: "The aim of this workshop is to build participants' skills in designing and applying a risk-based supervisory approach that allocates limited supervisory resource to the areas of greatest risk, addressing the common challenge of unclear mandates and resource constraints."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Supervisory practice & skills"]
 pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in designing and applying a risk-based supervisory approach that allocates limited supervisory resource to the areas of greatest risk, addressing the common challenge of unclear mandates and resource constraints.

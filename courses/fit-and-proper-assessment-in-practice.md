@@ -1,19 +1,26 @@
 ---
-id: fit-and-proper-assessment-in-practice
-slug: fit-and-proper-assessment-in-practice
+id: "fit-and-proper-assessment-in-practice"
+slug: "fit-and-proper-assessment-in-practice"
 title: "Fit and Proper Assessment in Practice"
 summary: "The aim of this workshop is to build participants' skills in assessing the fitness and propriety of controllers, directors, and senior managers, both at authorisation and on an ongoing basis, applying consistent, defensible criteria."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Authorisation & licensing"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar C: Authorisation & Licensing"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Authorisations", "Registration & Licensing"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in assessing the fitness and propriety of controllers, directors, and senior managers, both at authorisation and on an ongoing basis, applying consistent, defensible criteria.

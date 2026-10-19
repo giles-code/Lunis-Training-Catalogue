@@ -1,19 +1,26 @@
 ---
-id: change-of-control-and-ownership-assessment
-slug: change-of-control-and-ownership-assessment
+id: "change-of-control-and-ownership-assessment"
+slug: "change-of-control-and-ownership-assessment"
 title: "Change of Control and Ownership Assessment"
 summary: "The aim of this workshop is to build participants' skills in assessing proposed changes of control and complex ownership structures, including cross-border and beneficial ownership considerations."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Authorisation & licensing"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar C: Authorisation & Licensing"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Authorisations", "Registration & Licensing"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in assessing proposed changes of control and complex ownership structures, including cross-border and beneficial ownership considerations.

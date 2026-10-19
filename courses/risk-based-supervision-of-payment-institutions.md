@@ -1,19 +1,26 @@
 ---
-id: risk-based-supervision-of-payment-institutions
-slug: risk-based-supervision-of-payment-institutions
+id: "risk-based-supervision-of-payment-institutions"
+slug: "risk-based-supervision-of-payment-institutions"
 title: "Risk-Based Supervision of Payment Institutions"
 summary: "The aim of this workshop is to build participants' skills in applying a risk-based approach to supervising payment institutions, drawing on published supervisory guidance in this area, including how to assess safeguarding of client funds."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Payments & E-Money"]
+topics: ["Payments"]
 pillar: "Sector Programmes"
 track: "T6. Payment Services"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in applying a risk-based approach to supervising payment institutions, drawing on published supervisory guidance in this area, including how to assess safeguarding of client funds.

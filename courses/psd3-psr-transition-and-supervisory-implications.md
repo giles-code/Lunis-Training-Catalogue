@@ -1,19 +1,26 @@
 ---
-id: psd3-psr-transition-and-supervisory-implications
-slug: psd3-psr-transition-and-supervisory-implications
-title: "PSD3/PSR: Transition and Supervisory Implications"
+id: "psd3-psr-transition-and-supervisory-implications"
+slug: "psd3-psr-transition-and-supervisory-implications"
+title: "PSD3/PSR: Transition and Supervisory Implications (EU Edition)"
 summary: "The aim of this workshop is to build participants' understanding of the key changes introduced by PSD3 and the Payment Services Regulation compared to PSD2, and the practical implications for supervisors managing the transition."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Payments & E-Money"]
+topics: ["Payments"]
 pillar: "Sector Programmes"
 track: "T6. Payment Services"
+edition: "EU"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of the key changes introduced by PSD3 and the Payment Services Regulation compared to PSD2, and the practical implications for supervisors managing the transition.

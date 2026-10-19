@@ -1,19 +1,26 @@
 ---
-id: cross-border-management-structures-and-delegation
-slug: cross-border-management-structures-and-delegation
+id: "cross-border-management-structures-and-delegation"
+slug: "cross-border-management-structures-and-delegation"
 title: "Cross-Border Management Structures and Delegation"
 summary: "The aim of this workshop is to build participants' understanding of how cross-border management structures and delegation arrangements operate, and how supervisors assess substance and guard against 'letter-box' entity risk."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Investment Funds & Asset Management"]
+topics: ["Funds & asset management"]
 pillar: "Sector Programmes"
 track: "T5. Investment Management"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how cross-border management structures and delegation arrangements operate, and how supervisors assess substance and guard against 'letter-box' entity risk.

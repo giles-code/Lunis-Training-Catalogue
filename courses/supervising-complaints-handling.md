@@ -1,19 +1,26 @@
 ---
-id: supervising-complaints-handling
-slug: supervising-complaints-handling
+id: "supervising-complaints-handling"
+slug: "supervising-complaints-handling"
 title: "Supervising Complaints Handling"
 summary: "The aim of this workshop is to build participants' ability to supervise firms' complaints-handling frameworks effectively, including assessing root-cause analysis practices and the operation of redress schemes, so that complaints data is used as a genuine early-warning…"
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Consumer protection & conduct"]
 pillar: "Cross-Cutting Themes"
 track: "X3. Consumer Protection & Financial Inclusion"
+edition: "International"
 clientType: ["Regulatory Authority"]
-businessFunction: ["Consumer Protection / Consumer Duty"]
+businessFunction: ["Consumer Protection"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' ability to supervise firms' complaints-handling frameworks effectively, including assessing root-cause analysis practices and the operation of redress schemes, so that complaints data is used as a genuine early-warning indicator of conduct risk.

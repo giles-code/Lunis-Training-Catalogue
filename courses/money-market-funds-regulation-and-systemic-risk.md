@@ -1,22 +1,29 @@
 ---
-id: money-market-funds-regulation-and-systemic-risk
-slug: money-market-funds-regulation-and-systemic-risk
+id: "money-market-funds-regulation-and-systemic-risk"
+slug: "money-market-funds-regulation-and-systemic-risk"
 title: "Money Market Funds: Regulation and Systemic Risk"
-summary: "The aim of this workshop is to build participants' understanding of how money market funds are regulated under the MMFR and the systemic risk considerations that drive regulatory reform, and the supervisory tools used to assess MMF resilience."
+summary: "The aim of this workshop is to build participants' understanding of how money market funds are regulated under money market fund rules and the systemic risk considerations that drive regulatory reform, and the supervisory tools used to assess MMF resilience."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Investment Funds & Asset Management"]
+topics: ["Funds & asset management"]
 pillar: "Sector Programmes"
 track: "T3. Investment Funds"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
-The aim of this workshop is to build participants' understanding of how money market funds are regulated under the MMFR and the systemic risk considerations that drive regulatory reform, and the supervisory tools used to assess MMF resilience.
+The aim of this workshop is to build participants' understanding of how money market funds are regulated under money market fund rules and the systemic risk considerations that drive regulatory reform, and the supervisory tools used to assess MMF resilience.
 
 ## Intended Audience
 
@@ -25,7 +32,7 @@ Junior to mid-level supervisors working in investment funds supervision.
 ## Learning Objectives
 
 - Explain the role and structure of money market funds
-- Describe the key requirements of the Money Market Fund Regulation (MMFR)
+- Describe the key requirements of money market fund regulation
 - Assess the systemic risk posed by money market funds
 - Evaluate NAV stability mechanisms and their limitations
 - Formulate a supervisory assessment of an MMF's resilience
@@ -33,10 +40,10 @@ Junior to mid-level supervisors working in investment funds supervision.
 ## Syllabus
 
 **Session 1: MMFs and their regulation (09:30–10:45)**
-*Objective: Explain MMF structure and describe the MMFR*
+*Objective: Explain MMF structure and describe MMF regulation*
 - The role of money market funds in short-term funding markets
 - Types of MMF: public debt CNAV, LVNAV, VNAV
-- Key MMFR requirements: liquidity buffers, stress testing, reporting
+- Key MMF regulatory requirements: liquidity buffers, stress testing, reporting
 - Why MMFs attracted post-crisis regulatory reform
 Activities:
 - Facilitated discussion: MMF stress episodes participants are aware of
@@ -60,7 +67,7 @@ Activities:
 
 **Session 4: Wrap-up and key takeaways (14:45–15:00)**
 *Objective: Consolidate learning*
-- Recap: MMF structure, MMFR, systemic risk, NAV stability
+- Recap: MMF structure, MMF regulation, systemic risk, NAV stability
 Activities:
 - Reflection and discussion
 - Q&A
@@ -75,7 +82,7 @@ Proposed as a half-day workshop (approx. 3.5 hours substantive content), compris
 
 **Key Takeaways**
 - Money market funds sit at the intersection of fund regulation and systemic risk, requiring both lenses
-- First-mover redemption advantage is the core structural vulnerability the MMFR seeks to address
+- First-mover redemption advantage is the core structural vulnerability MMF regulation seeks to address
 - NAV stability mechanisms reduce but do not eliminate run risk under sufficiently severe stress
 
 > **Content gap:** this is a proposed (not yet delivered) course design; delivery channel (in-person/online/hybrid) was not specified in the source catalogue and defaults to In-person pending confirmation.

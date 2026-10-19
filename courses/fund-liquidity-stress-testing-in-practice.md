@@ -1,19 +1,26 @@
 ---
-id: fund-liquidity-stress-testing-in-practice
-slug: fund-liquidity-stress-testing-in-practice
+id: "fund-liquidity-stress-testing-in-practice"
+slug: "fund-liquidity-stress-testing-in-practice"
 title: "Fund Liquidity Stress Testing in Practice"
 summary: "The aim of this workshop is to build participants' skills in applying regulatory liquidity stress-testing frameworks in practice, assessing redemption assumptions, liquidity management tools, and the adequacy of a fund's liquidity risk management."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Investment Funds & Asset Management"]
+topics: ["Funds & asset management"]
 pillar: "Sector Programmes"
 track: "T3. Investment Funds"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in applying regulatory liquidity stress-testing frameworks in practice, assessing redemption assumptions, liquidity management tools, and the adequacy of a fund's liquidity risk management.
@@ -25,7 +32,7 @@ Junior to mid-level supervisors working in investment funds supervision.
 ## Learning Objectives
 
 - Explain the purpose of fund liquidity stress testing
-- Describe ESMA/ESRB liquidity stress-testing guidelines
+- Describe international and regional liquidity stress-testing guidance
 - Apply redemption modelling techniques to a sample fund
 - Assess the adequacy of liquidity management tools deployed by a fund
 - Formulate a supervisory view on a fund's liquidity stress-testing framework
@@ -35,7 +42,7 @@ Junior to mid-level supervisors working in investment funds supervision.
 **Session 1: Purpose of liquidity stress testing (09:30–10:45)**
 *Objective: Explain the purpose of liquidity stress testing*
 - Why liquidity mismatches pose systemic and investor protection risk
-- ESMA/ESRB guidelines on fund liquidity stress testing
+- International and regional guidance on fund liquidity stress testing
 - Key components of a liquidity stress test
 - Regulatory reporting expectations for stress-testing results
 Activities:

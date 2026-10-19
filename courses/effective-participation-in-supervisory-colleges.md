@@ -1,19 +1,26 @@
 ---
-id: effective-participation-in-supervisory-colleges
-slug: effective-participation-in-supervisory-colleges
+id: "effective-participation-in-supervisory-colleges"
+slug: "effective-participation-in-supervisory-colleges"
 title: "Effective Participation in Supervisory Colleges"
 summary: "The aim of this workshop is to prepare participants to participate effectively in supervisory colleges, building skills in joint risk assessment and coordinated decision-making with fellow supervisors from other jurisdictions."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams", "Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Cross-border & groups"]
 pillar: "Cross-Cutting Themes"
 track: "X4. Cross-Border & Group Supervision"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["International & Cross-Border Affairs", "Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to prepare participants to participate effectively in supervisory colleges, building skills in joint risk assessment and coordinated decision-making with fellow supervisors from other jurisdictions.

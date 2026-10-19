@@ -1,22 +1,29 @@
 ---
-id: the-cyber-threat-landscape-for-supervised-firms
-slug: the-cyber-threat-landscape-for-supervised-firms
+id: "the-cyber-threat-landscape-for-supervised-firms"
+slug: "the-cyber-threat-landscape-for-supervised-firms"
 title: "The Cyber Threat Landscape for Supervised Firms"
-summary: "The aim of this workshop is to build participants' understanding of the cyber threat landscape facing regulated firms, including internal and external threat actors and their likely targets within financial market infrastructure. Structure informed by Toronto Centre's published…"
+summary: "The aim of this workshop is to build participants' understanding of the cyber threat landscape facing regulated firms, including internal and external threat actors and their likely targets within financial market infrastructure."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Operational resilience & cyber"]
 pillar: "Sector Programmes"
-track: "U4. Cybersecurity, DORA & Operational Resilience"
+track: "U4. Cybersecurity & Operational Resilience"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Operational Resilience & Technology/Cyber"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
-The aim of this workshop is to build participants' understanding of the cyber threat landscape facing regulated firms, including internal and external threat actors and their likely targets within financial market infrastructure. Structure informed by Toronto Centre's published Cyber Risk programme.
+The aim of this workshop is to build participants' understanding of the cyber threat landscape facing regulated firms, including internal and external threat actors and their likely targets within financial market infrastructure.
 
 ## Intended Audience
 
@@ -82,4 +89,4 @@ Proposed as a half-day workshop (approx. 3.5 hours substantive content), compris
 
 ## Useful Prior Knowledge and Experience
 
-Some familiarity with cybersecurity, dora & operational resilience is helpful but not essential.
+Some familiarity with cybersecurity & operational resilience is helpful but not essential.

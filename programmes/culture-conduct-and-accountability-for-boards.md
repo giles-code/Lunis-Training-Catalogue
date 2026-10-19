@@ -1,0 +1,204 @@
+---
+id: "culture-conduct-and-accountability-for-boards"
+slug: "culture-conduct-and-accountability-for-boards"
+title: "Culture, Conduct and Accountability for Boards"
+summary: "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators."
+intro: "This training programme equips boards and directors to shape and oversee the firm's culture: setting the tone, measuring behaviour, aligning incentives, holding individuals to account and evidencing sound oversight to regulators."
+format: "Programme"
+audience: ["Firms"]
+firmType: ["All firm types"]
+role: ["Boards & directors"]
+topics: ["Governance & boards"]
+pillar: "Board & Senior Leadership"
+track: "F1. Board & Senior Leadership"
+edition: "International"
+level: "Board level"
+moduleCount: 8
+hoursPerModule: 2.0
+durationValue: 16.0
+durationUnit: "hours"
+deliveryFormat: ["Hybrid", "In-person", "Online"]
+clientType: ["Regulated Firm"]
+businessFunction: ["Board & Senior Leadership", "Conduct & Culture / HR"]
+delivered: false
+bookingMode: "enquiry"
+brochure: "Culture_Conduct_and_Accountability_for_Boards.docx"
+active: true
+lastUpdated: "2026-10-23"
+---
+
+## Aim and Purpose
+
+To give directors a practical grounding in how culture drives conduct and customer outcomes, and the governance tools to oversee it. Participants leave able to measure and challenge culture, align incentives and accountability, and evidence effective oversight to supervisors.
+
+**Coverage:** Setting the tone, measuring culture, remuneration and incentives, consumer outcomes, speaking up and whistleblowing, senior manager accountability, conduct MI, misconduct and consequence management, and supervisory focus on culture.
+
+## Intended Audience
+
+- Chairs, non-executive and independent directors and members of board risk, audit, remuneration and nomination committees
+- Executive directors and senior managers accountable for conduct, people and customer outcomes
+- Heads of HR, compliance and company secretarial supporting board oversight of culture
+
+## Learning Objectives
+
+By the end of the programme, participants will be able to:
+
+- Explain how culture drives conduct, customer outcomes and misconduct risk
+- Assess the tone set by the board and senior management and how it is experienced
+- Evaluate culture measures, conduct MI and the effectiveness of speak-up arrangements
+- Challenge remuneration and incentive structures that may drive poor behaviour
+- Apply senior manager accountability and consequence management consistently
+- Anticipate supervisory scrutiny of culture and agree a board action plan
+
+## Syllabus
+
+### Module 1: Culture and the Board: Setting the Tone
+
+What culture is, why it drives conduct and outcomes, and how the board and senior management set the tone through their own behaviour, decisions and priorities.
+
+**Objectives**
+
+- Explain how culture shapes behaviour and conduct risk
+- Assess the tone from the top, the middle and within teams
+- Identify the board's own behaviours that reinforce or undermine the desired culture
+
+**Syllabus**
+
+- Purpose, values and the culture the firm actually has
+- Tone from the top, echo from the middle and mood in the team
+- Board dynamics, groupthink and psychological safety
+- Case studies of culture failures and the governance lessons
+
+### Module 2: Measuring and Monitoring Culture
+
+How boards move from assertion to evidence on culture, using surveys, behavioural indicators and direct observation to form a reliable view.
+
+**Objectives**
+
+- Evaluate the indicators and data available on culture
+- Interpret culture surveys, exit data and behavioural signals critically
+- Design a board-level culture dashboard
+
+**Syllabus**
+
+- Leading and lagging culture indicators
+- Surveys, focus groups, exit interviews and site visits
+- Triangulating data: complaints, breaches, audit findings and attrition
+- A board culture dashboard and how to use it
+
+### Module 3: Remuneration and Incentives
+
+How pay, promotion and recognition drive behaviour, how incentive structures have contributed to misconduct, and what the remuneration committee should challenge.
+
+**Objectives**
+
+- Explain how financial and non-financial incentives shape behaviour
+- Challenge incentive structures that reward volume over outcomes
+- Apply risk adjustment, deferral, malus and clawback effectively
+
+**Syllabus**
+
+- Incentive design: balanced scorecards and conduct gateways
+- Sales incentives and the link to mis-selling
+- Risk adjustment, deferral, malus and clawback in practice
+- FSB principles for sound compensation practices
+
+### Module 4: Consumer Outcomes and Conduct MI
+
+The board's responsibility for good customer outcomes, how to tell whether products and services deliver them, and the conduct information the board needs.
+
+**Objectives**
+
+- Explain the shift from rules-based compliance to outcomes-focused conduct regulation
+- Specify the conduct MI the board needs on products, pricing, service and complaints
+- Interpret conduct reports and identify what is missing
+
+**Syllabus**
+
+- Fair value, suitability, communications and customer support
+- Vulnerable customers and differential outcomes
+- Complaints analysis as a window on culture
+- Recognising comfort without evidence in conduct reporting
+
+### Module 5: Speaking Up and Whistleblowing
+
+Why staff stay silent, how effective speak-up and whistleblowing arrangements work, and how the board gains assurance that concerns are raised, heard and acted on.
+
+**Objectives**
+
+- Explain the barriers to speaking up and the conditions that encourage it
+- Evaluate whistleblowing arrangements, protections and the champion role
+- Oversee the handling of concerns and protection against retaliation
+
+**Syllabus**
+
+- Psychological safety and the cost of silence
+- Whistleblowing channels, confidentiality and protection
+- The board whistleblowing champion and reporting to the board
+- Case studies: ignored warnings and their consequences
+
+### Module 6: Senior Manager Accountability
+
+How senior manager accountability regimes allocate individual responsibility, how the board uses them to drive conduct, and what reasonable steps look like in practice.
+
+**Objectives**
+
+- Explain the core features of senior manager accountability regimes
+- Evaluate statements of responsibilities, mapping and conduct rule training
+- Apply the reasonable steps standard to board and executive oversight
+
+**Syllabus**
+
+- Statements of responsibilities and responsibilities maps
+- Conduct rules for directors, senior managers and staff
+- Certification and annual fitness and propriety assessment
+- Evidencing reasonable steps and handling accountability gaps
+
+### Module 7: Misconduct and Consequence Management
+
+How the firm identifies, investigates and responds to misconduct, and how consistent consequences reinforce the culture the board wants.
+
+**Objectives**
+
+- Assess the firm's processes for identifying and investigating misconduct
+- Evaluate whether consequences are applied consistently, regardless of seniority or performance
+- Oversee regulatory references, notifications and remediation
+
+**Syllabus**
+
+- Breach and misconduct reporting and root cause analysis
+- Fair and consistent investigations and disciplinary outcomes
+- Star performers, double standards and the message they send
+- Regulatory references, notifications and lessons learned
+
+### Module 8: Supervisory Focus on Culture and Board Action Plan
+
+Brings the programme together by examining how supervisors assess culture and governance, and agreeing a board action plan for culture, conduct and accountability.
+
+**Objectives**
+
+- Explain how supervisors assess culture, behaviour and governance
+- Prepare the board to evidence its oversight of culture to supervisors
+- Produce a board action plan for culture, conduct and accountability
+
+**Syllabus**
+
+- Supervisory approaches to culture: drivers, indicators and reviews
+- International work on culture and misconduct risk, including FSB guidance
+- Board self-assessment of culture oversight
+- Workshop: the board's twelve-month culture and conduct plan
+
+## Structure and Format
+
+Eight modules of about two hours each, delivered in person, virtually or in a hybrid format, either as a two-day programme or as a series of board briefing sessions. Each module combines a short briefing with case studies and a board question set, and modules can be selected or tailored to the board's needs.
+
+## Useful Prior Knowledge and Experience
+
+Board or senior management experience in financial services is helpful. No specialist background in HR or behavioural science is required.
+
+## Core Reading
+
+- FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)
+- FSB, Guidance on Supervisory Interaction with Financial Institutions on Risk Culture (2014)
+- FSB, Supplementary Guidance to the FSB Principles and Standards on Sound Compensation Practices (2018)
+- Group of Thirty, Banking Conduct and Culture: A Call for Sustained and Comprehensive Reform (2015)

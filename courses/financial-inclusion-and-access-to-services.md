@@ -1,19 +1,26 @@
 ---
-id: financial-inclusion-and-access-to-services
-slug: financial-inclusion-and-access-to-services
+id: "financial-inclusion-and-access-to-services"
+slug: "financial-inclusion-and-access-to-services"
 title: "Financial Inclusion and Access to Services"
 summary: "The aim of this workshop is to introduce participants to financial inclusion as a policy and supervisory concern, exploring the barriers that prevent access to financial services and the regulatory tools available to promote inclusive access without compromising other…"
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Consumer protection & conduct"]
 pillar: "Cross-Cutting Themes"
 track: "X3. Consumer Protection & Financial Inclusion"
+edition: "International"
 clientType: ["Regulatory Authority"]
-businessFunction: ["Consumer Protection / Consumer Duty"]
+businessFunction: ["Consumer Protection"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to introduce participants to financial inclusion as a policy and supervisory concern, exploring the barriers that prevent access to financial services and the regulatory tools available to promote inclusive access without compromising other regulatory objectives such as financial crime prevention.

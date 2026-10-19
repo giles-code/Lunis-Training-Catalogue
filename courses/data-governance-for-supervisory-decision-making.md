@@ -1,19 +1,26 @@
 ---
-id: data-governance-for-supervisory-decision-making
-slug: data-governance-for-supervisory-decision-making
+id: "data-governance-for-supervisory-decision-making"
+slug: "data-governance-for-supervisory-decision-making"
 title: "Data Governance for Supervisory Decision-Making"
 summary: "The aim of this workshop is to build participants' understanding of data governance principles and their application to supervisory decision-making, ensuring that decisions are supported by reliable, well-governed data."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams"]
+firmType: ["All firm types"]
+topics: ["AI & technology"]
 pillar: "Cross-Cutting Themes"
 track: "X5. Data & Technology as Supervisory Infrastructure"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Data & Supervisory Analytics"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of data governance principles and their application to supervisory decision-making, ensuring that decisions are supported by reliable, well-governed data.

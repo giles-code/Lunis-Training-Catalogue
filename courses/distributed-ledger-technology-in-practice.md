@@ -1,59 +1,54 @@
 ---
-id: distributed-ledger-technology-in-practice
-slug: distributed-ledger-technology-in-practice
+id: "distributed-ledger-technology-in-practice"
+slug: "distributed-ledger-technology-in-practice"
 title: "Distributed Ledger Technology in Practice"
-summary: "Learn how DLT-based systems and tokenised market infrastructures operate under the DLT Pilot Regime."
+summary: "Learn how DLT-based systems and tokenised market infrastructures operate under DLT pilot and sandbox regimes."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Crypto-Assets & Digital Money"]
+topics: ["Crypto & digital assets"]
 pillar: "Sector Programmes"
 track: "U1. Digital Assets & Blockchain"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Digital Assets, AI & Innovation"]
 deliveryFormat: ["In-person"]
 durationValue: 1
-durationUnit: days
+durationUnit: "days"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", "learningObjectives: derived from focus-area keywords, not explicit source content", "syllabus: derived from focus-area keywords, needs expansion", "structureAndFormat: not specified in source catalogue", "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "duration: not stated in source catalogue; defaulted to a single full day pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
-Learn how DLT-based systems and tokenised market infrastructures operate under the DLT Pilot Regime.
+Learn how DLT-based systems and tokenised market infrastructures operate under DLT pilot and sandbox regimes.
 
 > **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
 
 ## Intended Audience
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 Mid-level supervisory staff building capability in digital assets/crypto-asset regulation.
 
 ## Learning Objectives
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
-- Understand and apply: DLT Pilot Regime
+- Understand and apply: DLT pilot regimes
 - Understand and apply: governance
 - Understand and apply: custody
 - Understand and apply: operational dependencies
 
 ## Syllabus
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
-- DLT Pilot Regime
+- DLT pilot regimes
 - governance
 - custody
 - operational dependencies
 
 ## Structure and Format
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 Some familiarity with digital assets & blockchain is helpful but not essential.

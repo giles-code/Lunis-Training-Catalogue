@@ -1,19 +1,26 @@
 ---
-id: foundations-of-financial-services-rule-making
-slug: foundations-of-financial-services-rule-making
+id: "foundations-of-financial-services-rule-making"
+slug: "foundations-of-financial-services-rule-making"
 title: "Foundations of Financial Services Rule-Making"
 summary: "The aim of this workshop is to build participants' understanding of how a supervisory authority makes rules, covering the legal hierarchy between primary legislation, secondary rules, and guidance, and the core principles of clear, enforceable regulatory drafting."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar B: Policy-Making & Rule-Making"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Policy"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how a supervisory authority makes rules, covering the legal hierarchy between primary legislation, secondary rules, and guidance, and the core principles of clear, enforceable regulatory drafting.

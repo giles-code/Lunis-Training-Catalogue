@@ -1,19 +1,26 @@
 ---
-id: building-resilience-in-high-pressure-supervisory-roles
-slug: building-resilience-in-high-pressure-supervisory-roles
+id: "building-resilience-in-high-pressure-supervisory-roles"
+slug: "building-resilience-in-high-pressure-supervisory-roles"
 title: "Building Resilience in High-Pressure Supervisory Roles"
 summary: "The aim of this workshop is to build participants' practical techniques for managing the unique pressures of supervisory work, including high-profile casework, public scrutiny, and sustained workload, to support long-term resilience and wellbeing."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Supervisory practice & skills", "Operational resilience & cyber"]
 pillar: "Generic Supervisory Skills"
 track: "S3. Supervisory Judgement & Professional Practice"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' practical techniques for managing the unique pressures of supervisory work, including high-profile casework, public scrutiny, and sustained workload, to support long-term resilience and wellbeing.

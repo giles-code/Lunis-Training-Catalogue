@@ -1,19 +1,26 @@
 ---
-id: sanctions-compliance-supervision
-slug: sanctions-compliance-supervision
+id: "sanctions-compliance-supervision"
+slug: "sanctions-compliance-supervision"
 title: "Sanctions Compliance Supervision"
 summary: "The aim of this workshop is to build participants' skills in supervising firms' sanctions compliance frameworks, including screening obligations and assessment of control effectiveness."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams", "Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Financial crime"]
 pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in supervising firms' sanctions compliance frameworks, including screening obligations and assessment of control effectiveness.
@@ -34,7 +41,7 @@ Mid-level supervisory and financial crime specialist staff assessing firms' fina
 
 **Session 1: Sanctions regimes and screening obligations (09:30–10:45)**
 *Objective: Explain sanctions regimes and screening obligations*
-- Overview of relevant sanctions regimes (UN, EU, domestic, OFAC)
+- Overview of relevant sanctions regimes (UN, regional, domestic and extraterritorial)
 - Screening obligations: customers, transactions, counterparties
 - Extraterritorial reach of certain sanctions regimes
 - Interaction between sanctions and AML/CFT frameworks

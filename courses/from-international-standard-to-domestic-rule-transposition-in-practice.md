@@ -1,22 +1,29 @@
 ---
-id: from-international-standard-to-domestic-rule-transposition-in-practice
-slug: from-international-standard-to-domestic-rule-transposition-in-practice
+id: "from-international-standard-to-domestic-rule-transposition-in-practice"
+slug: "from-international-standard-to-domestic-rule-transposition-in-practice"
 title: "From International Standard to Domestic Rule: Transposition in Practice"
-summary: "The aim of this workshop is to build participants' understanding of how international and EU-level standards are translated into domestic rules, including the risks of over- or under-implementation, so that transposition decisions are made deliberately rather than by default."
+summary: "The aim of this workshop is to build participants' understanding of how international and regional standards are translated into domestic rules, including the risks of over- or under-implementation, so that transposition decisions are made deliberately rather than by default."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar B: Policy-Making & Rule-Making"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Policy"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
-The aim of this workshop is to build participants' understanding of how international and EU-level standards are translated into domestic rules, including the risks of over- or under-implementation, so that transposition decisions are made deliberately rather than by default.
+The aim of this workshop is to build participants' understanding of how international and regional standards are translated into domestic rules, including the risks of over- or under-implementation, so that transposition decisions are made deliberately rather than by default.
 
 ## Intended Audience
 
@@ -35,7 +42,7 @@ Junior to mid-level policy officers drafting or contributing to rules, guidance,
 **Session 1: The transposition process (09:30–10:45)**
 *Objective: Explain the transposition process and harmonisation approaches*
 - How international standards (IOSCO, FATF, Basel) become domestic rules
-- EU directives versus regulations and their transposition implications
+- Regional directives versus directly applicable regulations and their transposition implications
 - Minimum versus maximum harmonisation
 - Timing and sequencing of transposition
 Activities:

@@ -1,0 +1,50 @@
+---
+id: "risk-based-solvency-regimes-in-practice"
+slug: "risk-based-solvency-regimes-in-practice"
+title: "Risk-Based Solvency Regimes in Practice"
+summary: "Learn how solvency capital requirements and technical provisions under a risk-based solvency regime work in practice, and how supervisors assess compliance."
+format: "Course"
+audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Supervisory practice & skills"]
+pillar: "Sector Programmes"
+track: "T2. Insurance Supervision"
+edition: "International"
+clientType: ["Regulatory Authority"]
+businessFunction: ["Supervision"]
+deliveryFormat: ["In-person"]
+durationValue: 1
+durationUnit: "days"
+bookingMode: "enquiry"
+active: false
+contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", "learningObjectives: derived from focus-area keywords, not explicit source content", "syllabus: derived from focus-area keywords, needs expansion", "structureAndFormat: not specified in source catalogue", "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "duration: not stated in source catalogue; defaulted to a single full day pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
+---
+
+## Aim and Purpose
+
+Learn how solvency capital requirements and technical provisions under a risk-based solvency regime work in practice, and how supervisors assess compliance.
+
+> **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
+
+## Intended Audience
+
+Junior to mid-level supervisors working in insurance supervision.
+
+## Learning Objectives
+
+- Understand and apply: Solvency capital requirement
+- Understand and apply: technical provisions
+
+## Syllabus
+
+- Solvency capital requirement
+- technical provisions
+
+## Structure and Format
+
+> **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
+
+## Useful Prior Knowledge and Experience
+
+Some familiarity with insurance supervision is helpful but not essential.

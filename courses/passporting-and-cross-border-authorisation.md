@@ -1,19 +1,26 @@
 ---
-id: passporting-and-cross-border-authorisation
-slug: passporting-and-cross-border-authorisation
+id: "passporting-and-cross-border-authorisation"
+slug: "passporting-and-cross-border-authorisation"
 title: "Passporting and Cross-Border Authorisation"
 summary: "The aim of this workshop is to build participants' understanding of how passporting and cross-border authorisation regimes operate in practice, and the cooperation expected between home and host supervisors."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Authorisation & licensing"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar C: Authorisation & Licensing"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Authorisations", "Registration & Licensing"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how passporting and cross-border authorisation regimes operate in practice, and the cooperation expected between home and host supervisors.

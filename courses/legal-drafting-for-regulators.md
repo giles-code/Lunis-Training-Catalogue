@@ -1,19 +1,26 @@
 ---
-id: legal-drafting-for-regulators
-slug: legal-drafting-for-regulators
+id: "legal-drafting-for-regulators"
+slug: "legal-drafting-for-regulators"
 title: "Legal Drafting for Regulators"
 summary: "The aim of this workshop is to build core legal drafting skills for producing rules and guidance that are clear, internally consistent, and enforceable in practice."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar B: Policy-Making & Rule-Making"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Policy"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build core legal drafting skills for producing rules and guidance that are clear, internally consistent, and enforceable in practice.

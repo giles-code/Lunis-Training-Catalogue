@@ -1,20 +1,26 @@
 ---
-id: business-model-analysis
-slug: business-model-analysis
+id: "business-model-analysis"
+slug: "business-model-analysis"
 title: "Business Model Analysis"
 summary: "Equips supervisors to conduct business model analysis (BMA) as a core part of supervisory risk assessment: how firms develop corporate strategy and business models, why and how supervisors assess them, qualitative and quantitative analytical methods, and how to score and…"
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Supervisory practice & skills"]
 pillar: "Regulatory Functions"
 track: "Pillar D: Ongoing Supervision"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 1
-durationUnit: days
-instructor: "Lunis Training"
+durationUnit: "days"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 Equips supervisors to conduct business model analysis (BMA) as a core part of supervisory risk assessment: how firms develop corporate strategy and business models, why and how supervisors assess them, qualitative and quantitative analytical methods, and how to score and conclude a BMA assessment using a case study exercise.
@@ -42,7 +48,7 @@ Junior to mid-level supervisory staff conducting day-to-day risk assessment and 
 
 ## Structure and Format
 
-Delivered by: Lunis Training — delivered as a single full-day workshop, June 2026.
+Delivered as a single full-day workshop.
 
 > **Content gap:** delivery channel (in-person/online/hybrid) was not specified in the source catalogue and defaults to In-person pending confirmation.
 

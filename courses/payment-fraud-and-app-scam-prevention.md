@@ -1,19 +1,26 @@
 ---
-id: payment-fraud-and-app-scam-prevention
-slug: payment-fraud-and-app-scam-prevention
+id: "payment-fraud-and-app-scam-prevention"
+slug: "payment-fraud-and-app-scam-prevention"
 title: "Payment Fraud and APP Scam Prevention"
 summary: "The aim of this workshop is to build participants' understanding of how payment fraud, including authorised push payment scams, is regulated and prevented, and the supervisory considerations around liability allocation and fraud reporting."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Payments & E-Money"]
+topics: ["Payments", "Financial crime"]
 pillar: "Sector Programmes"
 track: "T6. Payment Services"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how payment fraud, including authorised push payment scams, is regulated and prevented, and the supervisory considerations around liability allocation and fraud reporting.

@@ -1,19 +1,26 @@
 ---
-id: ai-sanctions-screening-and-adverse-media-monitoring
-slug: ai-sanctions-screening-and-adverse-media-monitoring
+id: "ai-sanctions-screening-and-adverse-media-monitoring"
+slug: "ai-sanctions-screening-and-adverse-media-monitoring"
 title: "AI, Sanctions Screening & Adverse Media Monitoring"
 summary: "The aim of this workshop is to build participants' understanding of how AI and natural language processing are applied to sanctions screening, PEP identification, and adverse media monitoring, and how to assess whether these tools are appropriately calibrated and effectively…"
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams", "Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Financial crime", "AI & technology"]
 pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how AI and natural language processing are applied to sanctions screening, PEP identification, and adverse media monitoring, and how to assess whether these tools are appropriately calibrated and effectively governed.

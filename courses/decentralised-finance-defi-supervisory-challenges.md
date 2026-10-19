@@ -1,19 +1,26 @@
 ---
-id: decentralised-finance-defi-supervisory-challenges
-slug: decentralised-finance-defi-supervisory-challenges
+id: "decentralised-finance-defi-supervisory-challenges"
+slug: "decentralised-finance-defi-supervisory-challenges"
 title: "Decentralised Finance (DeFi): Supervisory Challenges"
 summary: "The aim of this workshop is to build participants' understanding of how DeFi protocols operate outside traditional intermediated structures, examining the supervisory and regulatory perimeter challenges this creates and the tools available to address them."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Crypto-Assets & Digital Money"]
+topics: ["Crypto & digital assets"]
 pillar: "Sector Programmes"
 track: "U1. Digital Assets & Blockchain"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Digital Assets, AI & Innovation"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how DeFi protocols operate outside traditional intermediated structures, examining the supervisory and regulatory perimeter challenges this creates and the tools available to address them.

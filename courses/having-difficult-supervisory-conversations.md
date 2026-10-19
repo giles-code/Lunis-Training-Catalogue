@@ -1,19 +1,26 @@
 ---
-id: having-difficult-supervisory-conversations
-slug: having-difficult-supervisory-conversations
+id: "having-difficult-supervisory-conversations"
+slug: "having-difficult-supervisory-conversations"
 title: "Having Difficult Supervisory Conversations"
 summary: "The aim of this workshop is to build participants' skills in delivering difficult messages to regulated firms — including adverse findings and escalation decisions — while managing pushback constructively and maintaining a professional, credible supervisory relationship."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Supervisory practice & skills"]
 pillar: "Generic Supervisory Skills"
 track: "S3. Supervisory Judgement & Professional Practice"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in delivering difficult messages to regulated firms — including adverse findings and escalation decisions — while managing pushback constructively and maintaining a professional, credible supervisory relationship.

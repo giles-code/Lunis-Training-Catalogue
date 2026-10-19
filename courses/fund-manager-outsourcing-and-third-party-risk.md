@@ -1,19 +1,26 @@
 ---
-id: fund-manager-outsourcing-and-third-party-risk
-slug: fund-manager-outsourcing-and-third-party-risk
+id: "fund-manager-outsourcing-and-third-party-risk"
+slug: "fund-manager-outsourcing-and-third-party-risk"
 title: "Fund Manager Outsourcing & Third-Party Risk"
 summary: "The aim of this workshop is to build participants' understanding of how fund managers structure delegation and outsourcing arrangements, and how supervisors assess effective oversight of third-party arrangements."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Investment Funds & Asset Management"]
+topics: ["Funds & asset management"]
 pillar: "Sector Programmes"
 track: "T3. Investment Funds"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how fund managers structure delegation and outsourcing arrangements, and how supervisors assess effective oversight of third-party arrangements.
@@ -35,7 +42,7 @@ Junior to mid-level supervisors working in investment funds supervision.
 **Session 1: Delegation and outsourcing regulation (09:30–10:45)**
 *Objective: Explain the delegation regulatory framework*
 - Why delegation and outsourcing are common in fund management
-- Regulatory framework governing delegation (AIFMD, UCITS)
+- Regulatory framework governing delegation (fund manager and fund product rules)
 - Distinguishing delegation from outsourcing
 - Substance requirements and the 'letter-box entity' concern
 Activities:

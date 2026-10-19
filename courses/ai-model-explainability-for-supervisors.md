@@ -1,22 +1,29 @@
 ---
-id: ai-model-explainability-for-supervisors
-slug: ai-model-explainability-for-supervisors
+id: "ai-model-explainability-for-supervisors"
+slug: "ai-model-explainability-for-supervisors"
 title: "AI Model Explainability for Supervisors"
-summary: "The aim of this workshop is to build participants' practical skills in explainability techniques such as LIME and SHAP, which supervisors can use to assess whether firms' AI models are sufficiently auditable and transparent. Structure informed by EU-SDFA's published course on…"
+summary: "The aim of this workshop is to build participants' practical skills in explainability techniques such as LIME and SHAP, which supervisors can use to assess whether firms' AI models are sufficiently auditable and transparent."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["AI & technology"]
 pillar: "Sector Programmes"
 track: "U2. Artificial Intelligence"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Digital Assets, AI & Innovation"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
-The aim of this workshop is to build participants' practical skills in explainability techniques such as LIME and SHAP, which supervisors can use to assess whether firms' AI models are sufficiently auditable and transparent. Structure informed by EU-SDFA's published course on supervising and regulating AI in the financial sector.
+The aim of this workshop is to build participants' practical skills in explainability techniques such as LIME and SHAP, which supervisors can use to assess whether firms' AI models are sufficiently auditable and transparent.
 
 ## Intended Audience
 

@@ -1,22 +1,27 @@
 ---
-id: understanding-fintech-models
-slug: understanding-fintech-models
+id: "understanding-fintech-models"
+slug: "understanding-fintech-models"
 title: "Understanding FinTech Models"
 summary: "Learn how different FinTech business models operate, assessing regulatory boundaries and operational risks."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Operational resilience & cyber", "AI & technology"]
 pillar: "Sector Programmes"
-track: "U4. Cybersecurity, DORA & Operational Resilience"
+track: "U4. Cybersecurity & Operational Resilience"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Operational Resilience & Technology/Cyber"]
 deliveryFormat: ["In-person"]
 durationValue: 1
-durationUnit: days
+durationUnit: "days"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", "learningObjectives: derived from focus-area keywords, not explicit source content", "syllabus: derived from focus-area keywords, needs expansion", "structureAndFormat: not specified in source catalogue", "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "duration: not stated in source catalogue; defaulted to a single full day pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
-## Aim and Purpose
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+## Aim and Purpose
 
 Learn how different FinTech business models operate, assessing regulatory boundaries and operational risks.
 
@@ -24,13 +29,9 @@ Learn how different FinTech business models operate, assessing regulatory bounda
 
 ## Intended Audience
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 Mid-level supervisory staff building capability in cyber and operational resilience supervision.
 
 ## Learning Objectives
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 - Understand and apply: FinTech business models across payments
 - Understand and apply: lending
@@ -39,8 +40,6 @@ Mid-level supervisory staff building capability in cyber and operational resilie
 
 ## Syllabus
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 - FinTech business models across payments
 - lending
 - crypto-assets
@@ -48,12 +47,8 @@ Mid-level supervisory staff building capability in cyber and operational resilie
 
 ## Structure and Format
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
-Some familiarity with cybersecurity, dora & operational resilience is helpful but not essential.
+Some familiarity with cybersecurity & operational resilience is helpful but not essential.

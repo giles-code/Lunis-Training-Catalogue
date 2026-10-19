@@ -1,0 +1,14 @@
+{
+  "$comment": "International = jurisdiction-neutral (default). EU = names EU legislation. Regional = names specific countries and regulators.",
+  "editions": [
+    {
+      "name": "International"
+    },
+    {
+      "name": "EU"
+    },
+    {
+      "name": "Regional"
+    }
+  ]
+}

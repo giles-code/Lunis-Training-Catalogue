@@ -1,0 +1,237 @@
+---
+id: "regulatory-readiness-authorisation-and-supervisory-engagement"
+slug: "regulatory-readiness-authorisation-and-supervisory-engagement"
+title: "Regulatory Readiness: Authorisation and Supervisory Engagement"
+summary: "A ten-module programme taking firms from licence application through to established supervision, showing how authorities assess applications and supervise new firms."
+intro: "This training programme equips firms applying for a licence or expanding their permissions to prepare a credible application, meet conditions after authorisation and engage with supervision, taught by former supervisors who have assessed applications."
+format: "Programme"
+audience: ["Firms"]
+firmType: ["All firm types"]
+role: ["Senior leaders & managers", "Control function holders"]
+topics: ["Compliance, risk & control functions"]
+pillar: "Regulatory Readiness"
+track: "F3. Regulatory Readiness"
+edition: "International"
+level: "Intermediate"
+moduleCount: 10
+hoursPerModule: 3.0
+durationValue: 30.0
+durationUnit: "hours"
+deliveryFormat: ["Hybrid", "In-person", "Online"]
+clientType: ["Regulated Firm"]
+businessFunction: ["Authorisations", "Compliance"]
+delivered: false
+bookingMode: "enquiry"
+brochure: "Regulatory_Readiness_Authorisation_and_Supervisory_Engagement.docx"
+active: true
+lastUpdated: "2026-10-23"
+---
+
+## Aim and Purpose
+
+To give applicant and growing firms an insider's understanding of how authorities assess applications and supervise newly authorised firms. Participants leave able to prepare an application that answers the regulator's questions before they are asked, and to build the governance, resources and relationships that carry the firm through its first supervisory cycle.
+
+**Coverage:** The business plan and regulatory business model, governance and fit and proper people, policies and procedures, financial resources, outsourcing and substance, the application process and regulator questions, conditions and post-authorisation, supervisory visits and risk assessments, remediation programmes and change in control.
+
+## Intended Audience
+
+- Founders, executives and directors of firms applying for a licence or new permissions
+- Compliance, risk, legal and finance staff preparing applications or variations
+- Advisers and project managers supporting authorisation, expansion or acquisition projects
+
+## Learning Objectives
+
+By the end of the programme, participants will be able to:
+
+- Explain how authorities assess applications and what makes an application credible
+- Design a regulatory business model, governance structure and financial resources plan that meet threshold conditions
+- Prepare policies, procedures, outsourcing arrangements and local substance that withstand scrutiny
+- Apply practical techniques to manage the application process and respond to regulator questions
+- Assess how supervisors risk-assess newly authorised firms and plan visits
+- Manage conditions, remediation programmes and change in control with confidence
+
+## Syllabus
+
+### Module 1: The Business Plan and Regulatory Business Model
+
+How to present a business plan that explains what the firm will do, for whom and how it will make money, in the terms an authority uses to judge viability and risk.
+
+**Objectives**
+
+- Explain what authorities look for in a business plan and financial projections
+- Map proposed activities to the correct permissions and regulatory obligations
+- Identify business model features that attract supervisory concern
+
+**Syllabus**
+
+- Activities, permissions and the regulatory perimeter
+- Target customers, distribution and revenue model
+- Financial projections, assumptions and sensitivity analysis
+- Business model red flags seen from the assessor's side
+
+### Module 2: Governance and Fit and Proper People
+
+Designing a board, committee structure and senior management team that the authority will accept, and preparing individuals for fitness and propriety assessment and interviews.
+
+**Objectives**
+
+- Design governance arrangements proportionate to the firm's size and risk
+- Assess candidates against fitness, propriety and time commitment expectations
+- Prepare directors and key function holders for regulatory interviews
+
+**Syllabus**
+
+- Board composition, independence and committees
+- Key function holders and senior manager accountability regimes
+- Fitness, propriety, competence and time commitment
+- Preparing for and handling competence interviews
+
+### Module 3: Policies, Procedures and Control Frameworks
+
+Building a policy and procedure set that is tailored to the firm, operational from day one and clearly linked to the risks in the business plan.
+
+**Objectives**
+
+- Identify the core policies and procedures an applicant must have in place
+- Design documents that are specific to the firm rather than generic templates
+- Link policies to controls, monitoring and management information
+
+**Syllabus**
+
+- The core policy suite: compliance, risk, financial crime and conduct
+- Avoiding off-the-shelf documents that authorities reject
+- Compliance monitoring plans and risk registers at launch
+- Evidencing that policies are owned and operational
+
+### Module 4: Financial Resources and Wind-Down Planning
+
+Demonstrating that the firm will hold adequate capital and liquidity from launch, under stress and in an orderly wind-down.
+
+**Objectives**
+
+- Calculate regulatory capital and liquidity requirements for the proposed business
+- Assess additional resources needed for risks and stressed scenarios
+- Design a credible wind-down plan and supporting financial projections
+
+**Syllabus**
+
+- Initial capital and ongoing regulatory requirements
+- Internal capital and liquidity self-assessment for new firms
+- Stress scenarios and capital planning
+- Wind-down plans: triggers, costs and timelines
+
+### Module 5: Outsourcing, Group Reliance and Substance
+
+Meeting authority expectations on outsourcing, intra-group arrangements and local substance, so that the firm is genuinely run and controlled from where it is licensed.
+
+**Objectives**
+
+- Explain authority expectations on substance, mind and management
+- Design outsourcing and intra-group arrangements that keep control in the firm
+- Assess the risks of letterbox structures and over-reliance on group
+
+**Syllabus**
+
+- Substance: people, decision-making and local presence
+- Outsourcing due diligence, contracts and oversight
+- Intra-group services, delegation and conflicts of interest
+- Letterbox risk and how assessors test real control
+
+### Module 6: The Application Process and Regulator Questions
+
+Running the application as a managed project, from pre-application meetings to handling rounds of questions, timelines and the authority's decision.
+
+**Objectives**
+
+- Plan an application project with realistic timelines and ownership
+- Apply effective techniques for pre-application engagement and meetings
+- Respond to regulator questions clearly, consistently and on time
+
+**Syllabus**
+
+- Pre-application meetings and setting expectations
+- Completeness, consistency and quality of the submission
+- Answering questions: tone, evidence and avoiding new issues
+- Why applications stall, are withdrawn or are refused
+
+### Module 7: Conditions, Restrictions and the First Year
+
+What happens after authorisation: meeting conditions and restrictions, delivering commitments made in the application and establishing the firm's supervisory relationship.
+
+**Objectives**
+
+- Explain the types of conditions and restrictions attached to a licence
+- Design a post-authorisation plan that delivers commitments made in the application
+- Establish regular, constructive engagement with the firm's supervisor
+
+**Syllabus**
+
+- Licence conditions, restrictions and requirements
+- Tracking commitments from the application
+- Early supervisory engagement and regulatory reporting
+- Scaling governance and controls as the firm grows
+
+### Module 8: Supervisory Visits and Risk Assessments
+
+How supervisors risk-assess firms, plan visits and form judgements, seen from the supervisor's side, so the firm can prepare and present itself accurately.
+
+**Objectives**
+
+- Explain how authorities risk-assess and prioritise firms
+- Prepare the firm for visits, interviews and information requests
+- Assess the firm's own position as a supervisor would
+
+**Syllabus**
+
+- Risk-based supervision and firm risk ratings
+- Visit planning, document requests and interviews
+- What supervisors test and the red flags they look for
+- Mock supervisory visit exercise
+
+### Module 9: Findings and Remediation Programmes
+
+Responding to supervisory findings and running remediation programmes that fix root causes, deliver on time and restore the authority's confidence.
+
+**Objectives**
+
+- Analyse supervisory findings and identify root causes
+- Design a remediation programme with clear ownership, milestones and evidence
+- Report progress to the board and the authority with candour
+
+**Syllabus**
+
+- Findings letters and risk mitigation programmes
+- Root cause analysis and programme design
+- Independent expert reviews, attestations and remediation
+- Closing actions with evidence the supervisor will accept
+
+### Module 10: Change in Control, Expansion and Capstone Workshop
+
+Brings the programme together around change in control, new permissions and cross-border expansion, with a workshop in which participants test their own readiness.
+
+**Objectives**
+
+- Explain the change in control process and the authority's assessment criteria
+- Plan variations of permission and cross-border expansion
+- Produce a regulatory readiness action plan for the firm
+
+**Syllabus**
+
+- Change in control notifications and acquirer assessment
+- Variations of permission and new business lines
+- Branches, passporting and third-country considerations
+- Workshop: the firm's regulatory readiness action plan
+
+## Structure and Format
+
+Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines an assessor's-eye view with case studies, mock interviews and practical checklists, and modules can be selected or tailored to the firm's business model.
+
+## Useful Prior Knowledge and Experience
+
+Some familiarity with financial services regulation or the firm's proposed business is helpful. No prior experience of an application is required.
+
+## Core Reading
+
+- Basel Committee, Core Principles for Effective Banking Supervision (2024)
+- IOSCO, Objectives and Principles of Securities Regulation (2017)
+- IMF, Good Supervision: Lessons from the Field (Working Paper WP/23/181, 2023)

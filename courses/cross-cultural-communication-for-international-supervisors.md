@@ -1,19 +1,26 @@
 ---
-id: cross-cultural-communication-for-international-supervisors
-slug: cross-cultural-communication-for-international-supervisors
+id: "cross-cultural-communication-for-international-supervisors"
+slug: "cross-cultural-communication-for-international-supervisors"
 title: "Cross-Cultural Communication for International Supervisors"
 summary: "The aim of this workshop is to build participants' skills in communicating effectively in cross-border supervisory contexts, including supervisory colleges and international cooperation frameworks, recognising cultural differences in communication style and expectations."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Supervisory practice & skills"]
 pillar: "Generic Supervisory Skills"
 track: "S3. Supervisory Judgement & Professional Practice"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in communicating effectively in cross-border supervisory contexts, including supervisory colleges and international cooperation frameworks, recognising cultural differences in communication style and expectations.

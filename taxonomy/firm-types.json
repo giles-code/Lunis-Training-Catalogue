@@ -1,0 +1,40 @@
+{
+  "$comment": "Firm types for the Financial Services Firms page. Programmes and courses carry these in firmType; \"All firm types\" marks cross-sector content that appears on every firm-type page.",
+  "firmTypes": [
+    {
+      "name": "Investment Funds & Asset Management",
+      "slug": "funds-asset-management",
+      "description": "Fund managers and management companies, fund boards, administrators, depositaries and other service providers, private markets and private credit managers."
+    },
+    {
+      "name": "Investment Firms & Wealth Management",
+      "slug": "investment-firms-wealth-management",
+      "description": "Investment firms, brokers, wealth and discretionary managers."
+    },
+    {
+      "name": "Market Infrastructure & Trading Venues",
+      "slug": "market-infrastructure",
+      "description": "Central counterparties, securities depositories and settlement systems, payment systems and trading venues."
+    },
+    {
+      "name": "Payments & E-Money",
+      "slug": "payments-e-money",
+      "description": "Payment institutions and e-money institutions."
+    },
+    {
+      "name": "Crypto-Assets & Digital Money",
+      "slug": "crypto-digital-money",
+      "description": "Crypto-asset service providers, token and stablecoin issuers, and firms tokenising assets."
+    },
+    {
+      "name": "FinTech & Big Tech",
+      "slug": "fintech-big-tech",
+      "description": "FinTech firms, embedded and open-finance providers, and Big Tech firms offering financial services."
+    },
+    {
+      "name": "All firm types",
+      "slug": "all-firms",
+      "description": "Cross-sector programmes relevant to any regulated firm."
+    }
+  ]
+}

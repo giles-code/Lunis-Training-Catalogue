@@ -1,19 +1,26 @@
 ---
-id: recovery-and-resolution-planning-for-supervisors
-slug: recovery-and-resolution-planning-for-supervisors
+id: "recovery-and-resolution-planning-for-supervisors"
+slug: "recovery-and-resolution-planning-for-supervisors"
 title: "Recovery and Resolution Planning for Supervisors"
 summary: "The aim of this workshop is to build participants' skills in assessing the credibility of firms' recovery plans and understanding the supervisor's role in resolution planning and resolvability assessment."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Leadership & senior management", "Policy & specialist teams"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar G: Crisis Management & Resolution"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Crisis Management & Resolution"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in assessing the credibility of firms' recovery plans and understanding the supervisor's role in resolution planning and resolvability assessment.

@@ -1,19 +1,26 @@
 ---
-id: third-party-and-cloud-outsourcing-risk
-slug: third-party-and-cloud-outsourcing-risk
+id: "third-party-and-cloud-outsourcing-risk"
+slug: "third-party-and-cloud-outsourcing-risk"
 title: "Third-Party and Cloud Outsourcing Risk"
 summary: "The aim of this workshop is to build participants' skills in assessing firms' reliance on critical third-party and cloud providers, including concentration risk and the adequacy of exit strategies."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Operational resilience & cyber"]
 pillar: "Sector Programmes"
-track: "U4. Cybersecurity, DORA & Operational Resilience"
+track: "U4. Cybersecurity & Operational Resilience"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Operational Resilience & Technology/Cyber"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in assessing firms' reliance on critical third-party and cloud providers, including concentration risk and the adequacy of exit strategies.
@@ -36,7 +43,7 @@ Mid-level supervisory staff building capability in cyber and operational resilie
 *Objective: Explain third-party and cloud outsourcing risks*
 - Why third-party and cloud reliance has grown across financial services
 - Risks: loss of control, shared responsibility model misunderstanding, vendor lock-in
-- Regulatory frameworks addressing critical third-party risk (e.g. DORA)
+- Regulatory frameworks addressing critical third-party risk
 - Distinguishing critical from non-critical outsourced functions
 Activities:
 - Facilitated discussion: third-party risk episodes participants are aware of
@@ -82,4 +89,4 @@ Proposed as a half-day workshop (approx. 3.5 hours substantive content), compris
 
 ## Useful Prior Knowledge and Experience
 
-Some familiarity with cybersecurity, dora & operational resilience is helpful but not essential.
+Some familiarity with cybersecurity & operational resilience is helpful but not essential.

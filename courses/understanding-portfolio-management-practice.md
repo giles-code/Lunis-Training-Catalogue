@@ -1,19 +1,26 @@
 ---
-id: understanding-portfolio-management-practice
-slug: understanding-portfolio-management-practice
+id: "understanding-portfolio-management-practice"
+slug: "understanding-portfolio-management-practice"
 title: "Understanding Portfolio Management Practice"
 summary: "The aim of this workshop is to build participants' understanding of how portfolio managers construct and manage portfolios against mandates, and how supervisors assess mandate compliance and risk budgeting practice."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Investment Funds & Asset Management"]
+topics: ["Funds & asset management"]
 pillar: "Sector Programmes"
 track: "T5. Investment Management"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how portfolio managers construct and manage portfolios against mandates, and how supervisors assess mandate compliance and risk budgeting practice.

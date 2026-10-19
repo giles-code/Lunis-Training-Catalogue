@@ -1,19 +1,26 @@
 ---
-id: cyber-incident-management-and-supervisory-intervention
-slug: cyber-incident-management-and-supervisory-intervention
+id: "cyber-incident-management-and-supervisory-intervention"
+slug: "cyber-incident-management-and-supervisory-intervention"
 title: "Cyber Incident Management and Supervisory Intervention"
 summary: "The aim of this workshop is to build participants' skills in assessing a firm's cyber incident recovery procedures and disclosure protocols, and understanding the supervisory intervention tools available when incidents occur."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Operational resilience & cyber"]
 pillar: "Sector Programmes"
-track: "U4. Cybersecurity, DORA & Operational Resilience"
+track: "U4. Cybersecurity & Operational Resilience"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Operational Resilience & Technology/Cyber"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in assessing a firm's cyber incident recovery procedures and disclosure protocols, and understanding the supervisory intervention tools available when incidents occur.
@@ -82,4 +89,4 @@ Proposed as a half-day workshop (approx. 3.5 hours substantive content), compris
 
 ## Useful Prior Knowledge and Experience
 
-Some familiarity with cybersecurity, dora & operational resilience is helpful but not essential.
+Some familiarity with cybersecurity & operational resilience is helpful but not essential.

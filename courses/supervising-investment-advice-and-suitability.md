@@ -1,19 +1,26 @@
 ---
-id: supervising-investment-advice-and-suitability
-slug: supervising-investment-advice-and-suitability
+id: "supervising-investment-advice-and-suitability"
+slug: "supervising-investment-advice-and-suitability"
 title: "Supervising Investment Advice and Suitability"
 summary: "The aim of this workshop is to build participants' skills in supervising the quality of investment advice given to clients, including suitability assessment and product governance controls."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Investment Firms & Wealth Management", "Market Infrastructure & Trading Venues"]
+topics: ["Investment services & markets"]
 pillar: "Sector Programmes"
 track: "T4. Investment Services & Capital Markets"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in supervising the quality of investment advice given to clients, including suitability assessment and product governance controls.

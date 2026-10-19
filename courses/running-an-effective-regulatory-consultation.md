@@ -1,19 +1,26 @@
 ---
-id: running-an-effective-regulatory-consultation
-slug: running-an-effective-regulatory-consultation
+id: "running-an-effective-regulatory-consultation"
+slug: "running-an-effective-regulatory-consultation"
 title: "Running an Effective Regulatory Consultation"
 summary: "The aim of this workshop is to build participants' skills in designing and running an effective public consultation on proposed rules, including stakeholder engagement strategy and how to analyse and respond to consultation feedback transparently."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar B: Policy-Making & Rule-Making"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Policy"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in designing and running an effective public consultation on proposed rules, including stakeholder engagement strategy and how to analyse and respond to consultation feedback transparently.

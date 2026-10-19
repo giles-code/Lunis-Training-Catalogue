@@ -1,19 +1,26 @@
 ---
-id: instant-payments-and-payment-system-oversight
-slug: instant-payments-and-payment-system-oversight
+id: "instant-payments-and-payment-system-oversight"
+slug: "instant-payments-and-payment-system-oversight"
 title: "Instant Payments and Payment System Oversight"
 summary: "The aim of this workshop is to build participants' understanding of the regulatory framework for instant/fast payments and the oversight considerations specific to payment system operators and settlement risk."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Payments & E-Money"]
+topics: ["Payments"]
 pillar: "Sector Programmes"
 track: "T6. Payment Services"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of the regulatory framework for instant/fast payments and the oversight considerations specific to payment system operators and settlement risk.
@@ -25,7 +32,7 @@ Junior to mid-level supervisors working in payment services supervision.
 ## Learning Objectives
 
 - Explain how instant payment systems operate technically and operationally
-- Describe the Instant Payments Regulation and its key requirements
+- Describe instant payments regulation and its key requirements
 - Assess settlement risk within instant payment systems
 - Evaluate the oversight responsibilities specific to payment system operators
 - Formulate a supervisory assessment of an instant payment system's resilience
@@ -35,7 +42,7 @@ Junior to mid-level supervisors working in payment services supervision.
 **Session 1: Instant payment systems (09:30–10:45)**
 *Objective: Explain instant payment system operation*
 - How instant/fast payment systems achieve near-real-time settlement
-- The Instant Payments Regulation: scope and key requirements
+- Instant payments regulation: scope and key requirements
 - Verification of payee requirements and fraud prevention implications
 - Growth and adoption trends in instant payments
 Activities:

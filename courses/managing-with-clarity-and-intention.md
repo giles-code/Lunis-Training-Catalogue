@@ -1,22 +1,27 @@
 ---
-id: managing-with-clarity-and-intention
-slug: managing-with-clarity-and-intention
+id: "managing-with-clarity-and-intention"
+slug: "managing-with-clarity-and-intention"
 title: "Managing with Clarity & Intention"
 summary: "Equip managers with process-based thinking to support structured decision-making and effective prioritisation in day-to-day management practice."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Leadership & senior management"]
+firmType: ["All firm types"]
+topics: ["Leadership & strategy"]
 pillar: "Generic Supervisory Skills"
 track: "S1. Management & Leadership Fundamentals"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Conduct & Culture / HR"]
 deliveryFormat: ["In-person"]
 durationValue: 1
-durationUnit: days
+durationUnit: "days"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", "learningObjectives: derived from focus-area keywords, not explicit source content", "syllabus: derived from focus-area keywords, needs expansion", "structureAndFormat: not specified in source catalogue", "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "duration: not stated in source catalogue; defaulted to a single full day pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
-## Aim and Purpose
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
+## Aim and Purpose
 
 Equip managers with process-based thinking to support structured decision-making and effective prioritisation in day-to-day management practice.
 
@@ -24,13 +29,9 @@ Equip managers with process-based thinking to support structured decision-making
 
 ## Intended Audience
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 New and aspiring line managers within the authority.
 
 ## Learning Objectives
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 - Understand and apply: Process-based thinking
 - Understand and apply: structured decision-making
@@ -38,20 +39,14 @@ New and aspiring line managers within the authority.
 
 ## Syllabus
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 - Process-based thinking
 - structured decision-making
 - prioritisation
 
 ## Structure and Format
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 Some familiarity with management & leadership fundamentals is helpful but not essential.

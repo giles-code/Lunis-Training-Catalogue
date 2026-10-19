@@ -1,19 +1,26 @@
 ---
-id: cooperating-with-prosecutors-and-other-authorities
-slug: cooperating-with-prosecutors-and-other-authorities
+id: "cooperating-with-prosecutors-and-other-authorities"
+slug: "cooperating-with-prosecutors-and-other-authorities"
 title: "Cooperating with Prosecutors and Other Authorities"
 summary: "The aim of this workshop is to build participants' understanding of how supervisory authorities cooperate with criminal prosecutors and other enforcement bodies, including managing parallel proceedings and information-sharing gateways."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Enforcement & investigations"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar E: Enforcement & Sanctions"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Enforcement"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how supervisory authorities cooperate with criminal prosecutors and other enforcement bodies, including managing parallel proceedings and information-sharing gateways.

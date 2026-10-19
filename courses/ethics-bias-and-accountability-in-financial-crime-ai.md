@@ -1,19 +1,26 @@
 ---
-id: ethics-bias-and-accountability-in-financial-crime-ai
-slug: ethics-bias-and-accountability-in-financial-crime-ai
+id: "ethics-bias-and-accountability-in-financial-crime-ai"
+slug: "ethics-bias-and-accountability-in-financial-crime-ai"
 title: "Ethics, Bias & Accountability in Financial Crime AI"
 summary: "The aim of this workshop is to build participants' skills in identifying and assessing bias and discriminatory outcomes in AI-driven financial crime systems, and the accountability, audit, and human-in-the-loop safeguards supervisors should expect firms to maintain."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams", "Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Financial crime", "AI & technology"]
 pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in identifying and assessing bias and discriminatory outcomes in AI-driven financial crime systems, and the accountability, audit, and human-in-the-loop safeguards supervisors should expect firms to maintain.

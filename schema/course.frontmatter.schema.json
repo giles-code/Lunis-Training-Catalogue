@@ -44,8 +44,16 @@
     },
     "audience": {
       "type": "array",
-      "description": "Top-level site section(s) the course appears under. Drives the primary nav split.",
-      "items": { "type": "string", "enum": ["Firms", "Financial Supervisors"] },
+      "description": "Top-level audience(s). Labels and hub URLs are in taxonomy/audiences.json (\"Firms\" is shown as \"Financial Services Firms\").",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Financial Supervisors",
+          "Firms",
+          "Government & Policymakers",
+          "FIUs & Law Enforcement"
+        ]
+      },
       "minItems": 1,
       "uniqueItems": true
     },
@@ -62,20 +70,38 @@
     "clientType": {
       "type": "array",
       "description": "Independent filter tag, separate from audience.",
-      "items": { "type": "string", "enum": ["Regulated Firm", "Regulatory Authority"] },
+      "items": {
+        "type": "string",
+        "enum": [
+          "Regulated Firm",
+          "Regulatory Authority",
+          "FIU / Law Enforcement",
+          "Government / Public Body"
+        ]
+      },
       "minItems": 1,
       "uniqueItems": true
     },
     "businessFunction": {
       "type": "array",
       "description": "Independent filter tag. Open-ended list — see README.md for the current draft set.",
-      "items": { "type": "string", "minLength": 1 },
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
       "minItems": 1,
       "uniqueItems": true
     },
     "deliveryFormat": {
       "type": "array",
-      "items": { "type": "string", "enum": ["In-person", "Online", "Hybrid"] },
+      "items": {
+        "type": "string",
+        "enum": [
+          "In-person",
+          "Online",
+          "Hybrid"
+        ]
+      },
       "minItems": 1,
       "uniqueItems": true
     },
@@ -85,7 +111,11 @@
     },
     "durationUnit": {
       "type": "string",
-      "enum": ["hours", "days", "weeks"]
+      "enum": [
+        "hours",
+        "days",
+        "weeks"
+      ]
     },
     "instructor": {
       "type": "string"
@@ -106,7 +136,83 @@
     "contentGaps": {
       "type": "array",
       "description": "Machine-readable flags for content that is inferred/placeholder rather than sourced from a definitive input (e.g. drafted from a one-line summary, or a duration estimated because the source didn't state one). Empty or omitted once a course's content is fully confirmed.",
-      "items": { "type": "string", "minLength": 1 }
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "format": {
+      "type": "string",
+      "enum": [
+        "Course",
+        "Programme"
+      ],
+      "description": "Course = standalone course; Programme = multi-module programme."
+    },
+    "firmType": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1,
+      "uniqueItems": true,
+      "description": "Firm type(s) the content is for (firm-facing) or the sector supervised (supervisor-facing). Values from taxonomy/firm-types.json."
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1,
+      "uniqueItems": true,
+      "description": "Topic chips, first is primary. Values from taxonomy/topics.json."
+    },
+    "edition": {
+      "type": "string",
+      "enum": [
+        "International",
+        "EU",
+        "Regional"
+      ]
+    },
+    "level": {
+      "type": "string",
+      "enum": [
+        "Foundation",
+        "Intermediate",
+        "Advanced",
+        "Board level"
+      ]
+    },
+    "bookingMode": {
+      "type": "string",
+      "enum": [
+        "enquiry",
+        "scheduled",
+        "online",
+        "none"
+      ],
+      "description": "enquiry = request in-house/in-person delivery (phase 1). scheduled = open dates to book. online = buy self-paced online (phase 2 shop)."
+    },
+    "onlineProductUrl": {
+      "type": "string",
+      "description": "Phase 2: link or product ID for the online version in the shop."
+    },
+    "delivered": {
+      "type": "boolean",
+      "description": "Lunis has delivered this content to clients (no client names)."
+    },
+    "role": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1,
+      "uniqueItems": true,
+      "description": "Second-level group(s) within the item's audience(s), e.g. Boards & directors, Supervisors & inspectors. Values from taxonomy/roles.json; each must belong to one of the item's audiences."
     }
   }
 }

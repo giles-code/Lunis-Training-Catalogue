@@ -1,19 +1,26 @@
 ---
-id: procedural-fairness-in-enforcement-decisions
-slug: procedural-fairness-in-enforcement-decisions
+id: "procedural-fairness-in-enforcement-decisions"
+slug: "procedural-fairness-in-enforcement-decisions"
 title: "Procedural Fairness in Enforcement Decisions"
 summary: "The aim of this workshop is to build participants' understanding of the principles of procedural fairness that must be applied in enforcement decision-making, including the right to make representations and managing conflicts of interest."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Enforcement & investigations"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar E: Enforcement & Sanctions"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Enforcement"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of the principles of procedural fairness that must be applied in enforcement decision-making, including the right to make representations and managing conflicts of interest.

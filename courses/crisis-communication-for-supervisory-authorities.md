@@ -1,19 +1,26 @@
 ---
-id: crisis-communication-for-supervisory-authorities
-slug: crisis-communication-for-supervisory-authorities
+id: "crisis-communication-for-supervisory-authorities"
+slug: "crisis-communication-for-supervisory-authorities"
 title: "Crisis Communication for Supervisory Authorities"
 summary: "The aim of this workshop is to build participants' skills in communicating effectively with the public, industry, and government during a financial crisis or firm failure, building on general media communication skills with crisis-specific technique."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Leadership & senior management", "Policy & specialist teams"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar G: Crisis Management & Resolution"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Crisis Management & Resolution"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in communicating effectively with the public, industry, and government during a financial crisis or firm failure, building on general media communication skills with crisis-specific technique.

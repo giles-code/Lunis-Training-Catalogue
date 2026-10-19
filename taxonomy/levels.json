@@ -1,0 +1,16 @@
+{
+  "levels": [
+    {
+      "name": "Foundation"
+    },
+    {
+      "name": "Intermediate"
+    },
+    {
+      "name": "Advanced"
+    },
+    {
+      "name": "Board level"
+    }
+  ]
+}

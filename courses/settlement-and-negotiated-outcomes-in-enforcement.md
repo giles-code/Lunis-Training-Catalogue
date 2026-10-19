@@ -1,19 +1,26 @@
 ---
-id: settlement-and-negotiated-outcomes-in-enforcement
-slug: settlement-and-negotiated-outcomes-in-enforcement
+id: "settlement-and-negotiated-outcomes-in-enforcement"
+slug: "settlement-and-negotiated-outcomes-in-enforcement"
 title: "Settlement and Negotiated Outcomes in Enforcement"
 summary: "The aim of this workshop is to build participants' understanding of the practical and strategic considerations in negotiating settlements with firms under investigation, including when settlement is and is not appropriate."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Enforcement & investigations"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar E: Enforcement & Sanctions"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Enforcement"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of the practical and strategic considerations in negotiating settlements with firms under investigation, including when settlement is and is not appropriate.

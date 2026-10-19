@@ -1,19 +1,26 @@
 ---
-id: managing-systemic-risk-and-contagion
-slug: managing-systemic-risk-and-contagion
+id: "managing-systemic-risk-and-contagion"
+slug: "managing-systemic-risk-and-contagion"
 title: "Managing Systemic Risk and Contagion"
 summary: "The aim of this workshop is to build participants' understanding of systemic risk and contagion channels, and the macroprudential tools available to address them."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Leadership & senior management", "Policy & specialist teams"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar G: Crisis Management & Resolution"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Crisis Management & Resolution"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of systemic risk and contagion channels, and the macroprudential tools available to address them.

@@ -1,151 +1,77 @@
-# Lunis catalogue — Wix/Velo installation
+# Lunis catalogue on Wix Studio — installation
 
-This package reads the current GitHub branch:
+GitHub holds the content. Wix shows it. There are two ways to connect them, and they can run together.
 
-`claude/coding-help-lsmkts`
+| | Route A: CMS sync (recommended) | Route B: live feed |
+|---|---|---|
+| How | An hourly backend job copies `dist/site.json` into Wix CMS collections | Page code calls backend methods that read `dist/` from GitHub (5-minute cache) |
+| Pages | Native CMS dynamic pages, datasets and repeaters, styled without code | Router pages and repeaters filled by code |
+| SEO | Automatic dynamic-page URLs, meta tags and sitemap | Router SEO tags and sitemap (`routers.js`) |
+| Wix Search, Forms, Stores, Bookings | Can use the CMS items directly | Need code |
+| Update delay | Up to 1 hour (or run the sync by hand) | Up to 5 minutes |
 
-## 1. Add the generated feed to GitHub
+Recommendation: use Route A for the programme, course, firm-type, audience and topic pages, and use the
+Route B web module for the finder/search page and the module catalogue, where filtering 800+ modules in
+code is simpler than in a dataset.
 
-Copy these repository-side changes into the branch and commit them:
+## 0. Repository
 
-- `scripts/build-catalogue.js`
-- the `package.json`, workflow and README changes
-- generated `dist/catalogue.json`
+Merge branch `catalogue-v2` into `main`. Actions must have **Read and write** workflow permissions
+(Settings → Actions → General). The URLs in `backend/*.js` point at `main`.
 
-Run `npm install` and `npm run validate` before committing. On every push to
-`main` or `claude/coding-help-lsmkts`, the workflow rebuilds and commits the
-feed automatically. Wix refreshes its backend cache every five minutes, so no
-Wix edit or republish is required after a catalogue change.
+## 1. Backend code (Dev Mode on)
 
-The repository's **Settings → Actions → General → Workflow permissions** must
-allow **Read and write permissions**. If the target branch is protected, its
-rules must also permit GitHub Actions to push the generated feed commit.
+Add these files under **Backend**:
 
-## 2. Add the backend web module
+- `catalogue.web.js`: the live feed API: `getSiteIndex`, `searchCatalogue`, `getAudienceHub`, `getFirmTypePage`, `getProgramme`, `getCourse` and `getRelated`, plus the legacy `getCatalogue` and `getCourseBySlug`.
+- `catalogueSync.js` and `jobs.config`: the hourly CMS sync (Route A).
+- `enquiry.web.js`: saves enquiries and adds the person to Wix contacts.
+- `routers.js`: only for Route B programme and course URLs.
 
-In Wix Studio or the Wix Editor, enable Dev Mode. Under **Backend**, create a
-web module named `catalogue.web.js` and paste in:
+## 2. CMS collections (Route A)
 
-`wix-code/backend/catalogue.web.js`
+Create these collections with these exact IDs: `Programmes`, `Modules`, `Courses`, `FirmTypes`, `Audiences`,
+`Roles`, `Topics` and `Enquiries`.
 
-The backend caches the single GitHub JSON response for five minutes. No GitHub
-token is needed because the repository is public.
+- **Permissions:** "Anyone can read" for the first six. `Enquiries` is admin-only.
+- **First sync:** run `syncCatalogue` once from the backend test tool. Check that every field appears in each collection; if one doesn't, add it by hand.
+- **Field types:** set the array fields (`audience`, `firmType`, `topics`, `deliveryFormat`, `objectives`, `syllabus`, `modules`) to **Tags** or **Array**. Set `Modules.programme` to **Reference → Programmes**.
 
-## 3. Create the Catalogue page
+## 3. Pages
 
-Create a page with URL slug `catalogue` and paste
-`wix-code/pages/catalogue.js` into its page code.
+All catalogue pages sit under the Training section of lunispartners.com, so every URL starts `/training`.
 
-Add these page elements with exactly these IDs:
+| Page | URL | How |
+|---|---|---|
+| Training home | `/training` | Four audience boxes from `Audiences`. Hovering (tap on mobile) reveals each audience's groups from `Roles`, each linking to its role page. Search box → `/training/find?q=` |
+| Audience hub ×4 | `/training/supervisors`, `/training/firms`, `/training/government`, `/training/fius-law-enforcement` | Group tiles, then programmes grouped by `primaryTopic` (`pages/audience-hub.js`, or a `Roles` dataset filtered by audience). The Firms hub adds the firm-type map (`pages/firms-hub.js`) |
+| Role page ×18 | `/training/{audience}/{role}`, e.g. `/training/firms/boards-directors`, `/training/supervisors/authorisation-licensing` | `pages/role-page.js`, or a dynamic page on `Roles` with a `Programmes` dataset filtered by `role` |
+| Firm-type page ×6 | `/training/firm-types/{slug}` | Dynamic page on `FirmTypes`, three repeaters (sector, all firms, for supervisors) or `pages/firm-type.js` |
+| Topic page ×16 | `/training/topics/{slug}` | Dynamic page on `Topics` with a `Programmes` dataset filtered by `topics` |
+| Programme page ×123 | `/training/programme/{slug}` | Dynamic page on `Programmes` (Route A) or router page + `pages/programme-page.js` (Route B) |
+| Course page | `/training/course/{slug}` | Dynamic page on `Courses` |
+| Finder / module catalogue | `/training/find` | `pages/finder.js`; every filter is read from the URL so any route can deep-link into it |
+| Enquire | `/training/enquire` | `pages/enquire.js` + `backend/enquiry.web.js` |
 
-| Element | ID | Notes |
-| --- | --- | --- |
-| Input | `searchInput` | Search box |
-| Dropdown | `audienceDropdown` | Options supplied by code |
-| Dropdown | `pillarDropdown` | Options supplied by code |
-| Dropdown | `trackDropdown` | Options supplied by code |
-| Dropdown | `clientTypeDropdown` | Options supplied by code |
-| Dropdown | `businessFunctionDropdown` | Options supplied by code |
-| Dropdown | `deliveryFormatDropdown` | Options supplied by code |
-| Dropdown | `durationDropdown` | Options supplied by code |
-| Button | `clearFiltersButton` | Clear all filters |
-| Button | `cardsButton` | Card view |
-| Button | `tableButton` | Table view |
-| Text | `resultCount` | Matching-course count |
-| Text | `loadingText` | Initially visible |
-| Text | `errorText` | Initially collapsed |
-| Text | `noResultsText` | Initially collapsed |
-| Box | `resultsBox` | Contains the repeater and table |
-| Repeater | `courseRepeater` | Card results |
-| Table | `courseTable` | Table results; initially collapsed |
+The element IDs each page needs are listed at the top of its file. `wix-code/legacy-v1/` holds the first-version pages; they are kept for reference only and are not needed for the new build.
 
-Inside each repeater card add:
+## 4. Enquiries (phase 1) and the shop (phase 2)
 
-- `cardTitle` — text
-- `cardSummary` — text
-- `cardPillar` — text
-- `cardTrack` — text
-- `cardDuration` — text
-- `cardFormat` — text
-- `cardButton` — button
+**Phase 1.** Every programme and course page has a "Request this programme" button. It goes to
+`/enquire?programme=<slug>&modules=1,4,7`, carrying any modules the visitor ticked. Each enquiry is saved
+to `Enquiries` and the person is added to Wix contacts.
 
-Configure the table columns with these field keys:
+- **Notifications:** set up a Wix Automation (contact created / label added) to notify Lunis and acknowledge the enquirer. Test that this triggers as expected.
 
-| Heading | Field key |
-| --- | --- |
-| Course | `title` |
-| Pillar | `pillar` |
-| Track | `track` |
-| Format | `deliveryFormat` |
-| Duration | `duration` |
+**Phase 2.** When online courses go on sale, set `bookingMode: online` and add `onlineProductUrl` in GitHub.
 
-The hidden `slug` value remains on each row and is used to open the detail
-page. Start with card view: set `courseTable` to **Collapsed on load**.
+- **Self-paced courses:** sold through Wix Stores (digital products), or Online Programs with Pricing Plans.
+- **Public dated courses:** run through Wix Bookings with `bookingMode: scheduled`.
 
-## 4. Create the Course page
+The button switches automatically according to `bookingMode`.
 
-Create a normal page with URL slug `course` and paste
-`wix-code/pages/course-detail.js` into its page code. Course links use the form:
+## 5. Test
 
-`/course?slug=business-model-analysis`
-
-Add these elements with exactly these IDs:
-
-| Element | ID |
-| --- | --- |
-| Text | `loadingText` |
-| Text | `errorText` |
-| Box | `courseContent` |
-| Text | `courseTitle` |
-| Text | `courseSummary` |
-| Text | `coursePillar` |
-| Text | `courseTrack` |
-| Text | `courseAudience` |
-| Text | `courseClientType` |
-| Text | `courseFunction` |
-| Text | `courseFormat` |
-| Text | `courseDuration` |
-| Text | `courseInstructor` |
-| Rich Text | `aimContent` |
-| Rich Text | `audienceContent` |
-| Rich Text | `objectivesContent` |
-| Rich Text | `syllabusContent` |
-| Rich Text | `structureContent` |
-| Rich Text | `priorKnowledgeContent` |
-
-Set `courseContent` and `errorText` to **Collapsed on load**. Keep
-`loadingText` visible on load.
-
-## 5. Publish and test
-
-Test both page layouts on desktop and mobile. Suggested test URL:
-
-`/course?slug=business-model-analysis`
-
-When the catalogue branch is later merged to `main`, change the branch segment
-in `CATALOGUE_URL` in `catalogue.web.js` from
-`claude/coding-help-lsmkts` to `main`.
-
-## 6. Audience-locked pages (Supervisors / Firms)
-
-Two more pages reuse the same filtering/rendering logic as the Catalogue page,
-each pre-filtered to a fixed `audience` value, with no audience dropdown. The
-shared logic lives in one Public module so it isn't duplicated per page.
-
-1. Under **Public** (not Backend), create `audienceCatalogue.js` and paste in
-   `wix-code/public/audienceCatalogue.js`.
-2. The fastest way to build each page: **duplicate the finished Catalogue
-   page** twice in the Pages panel (this copies all the element IDs — search,
-   dropdowns, repeater, table — automatically). On each duplicate, remove the
-   `audienceDropdown` element (it isn't used by these pages).
-3. Set the URL slugs, e.g. `supervisors` and `firms`.
-4. Replace each duplicate's page code:
-   - Supervisors page → `wix-code/pages/supervisors.js`
-   - Firms page → `wix-code/pages/firms.js`
-5. Add nav links to `/supervisors` and `/firms` wherever the site menu needs
-   them.
-
-> **Note:** as of this build, every course in the repo has
-> `audience: ["Financial Supervisors"]` — there are no `"Firms"`-audience
-> courses yet. The Firms page is fully functional but will show "0 courses"
-> until Firms-facing content is added to `courses/*.md`.
+- Run the sync, and check the item counts: 123 programmes, 1,085 modules, 149 courses, 7 firm types, 4 audiences, 18 roles and 16 topics.
+- Open `/training/find?audience=Firms&firmType=payments-e-money`.
+- Open a programme page, tick two modules and send a test enquiry.

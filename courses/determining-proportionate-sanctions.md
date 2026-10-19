@@ -1,19 +1,26 @@
 ---
-id: determining-proportionate-sanctions
-slug: determining-proportionate-sanctions
+id: "determining-proportionate-sanctions"
+slug: "determining-proportionate-sanctions"
 title: "Determining Proportionate Sanctions"
 summary: "The aim of this workshop is to build participants' skills in applying a sanctioning framework consistently, weighing aggravating and mitigating factors and maintaining consistency with precedent while addressing the specific facts of a case."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Enforcement & investigations"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement", "Financial crime"]
 pillar: "Regulatory Functions"
 track: "Pillar E: Enforcement & Sanctions"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Enforcement"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in applying a sanctioning framework consistently, weighing aggravating and mitigating factors and maintaining consistency with precedent while addressing the specific facts of a case.

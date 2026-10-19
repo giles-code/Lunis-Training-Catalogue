@@ -1,19 +1,26 @@
 ---
-id: ai-in-wealth-management-and-digital-advice
-slug: ai-in-wealth-management-and-digital-advice
+id: "ai-in-wealth-management-and-digital-advice"
+slug: "ai-in-wealth-management-and-digital-advice"
 title: "AI in Wealth Management and Digital Advice"
 summary: "The aim of this workshop is to build participants' understanding of how AI-driven digital advisory and wealth management platforms operate, and the supervisory considerations specific to automated investment advice."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["AI & technology"]
 pillar: "Sector Programmes"
 track: "U2. Artificial Intelligence"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Digital Assets, AI & Innovation"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how AI-driven digital advisory and wealth management platforms operate, and the supervisory considerations specific to automated investment advice.

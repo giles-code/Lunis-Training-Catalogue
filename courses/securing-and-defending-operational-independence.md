@@ -1,19 +1,26 @@
 ---
-id: securing-and-defending-operational-independence
-slug: securing-and-defending-operational-independence
+id: "securing-and-defending-operational-independence"
+slug: "securing-and-defending-operational-independence"
 title: "Securing and Defending Operational Independence"
 summary: "The aim of this workshop is to build participants' understanding of the practical and legal foundations of supervisory independence, and how authorities defend and account for that independence to government and other stakeholders."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Leadership & senior management"]
+firmType: ["All firm types"]
+topics: ["Leadership & strategy"]
 pillar: "Regulatory Functions"
 track: "Pillar A: Governance, Strategy & Leadership"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Governance & Company Secretarial", "Strategy"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of the practical and legal foundations of supervisory independence, and how authorities defend and account for that independence to government and other stakeholders.

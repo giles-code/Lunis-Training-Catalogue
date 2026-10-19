@@ -1,19 +1,26 @@
 ---
-id: measuring-supervisory-effectiveness
-slug: measuring-supervisory-effectiveness
+id: "measuring-supervisory-effectiveness"
+slug: "measuring-supervisory-effectiveness"
 title: "Measuring Supervisory Effectiveness"
 summary: "The aim of this workshop is to build participants' skills in designing and using metrics that meaningfully measure supervisory effectiveness and outcomes, drawing on approaches used in international assessments such as IMF/World Bank Financial Sector Assessment Programs (FSAPs)."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Leadership & senior management"]
+firmType: ["All firm types"]
+topics: ["Leadership & strategy"]
 pillar: "Regulatory Functions"
 track: "Pillar A: Governance, Strategy & Leadership"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Governance & Company Secretarial", "Strategy"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in designing and using metrics that meaningfully measure supervisory effectiveness and outcomes, drawing on approaches used in international assessments such as IMF/World Bank Financial Sector Assessment Programs (FSAPs).

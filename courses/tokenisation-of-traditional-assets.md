@@ -1,19 +1,26 @@
 ---
-id: tokenisation-of-traditional-assets
-slug: tokenisation-of-traditional-assets
+id: "tokenisation-of-traditional-assets"
+slug: "tokenisation-of-traditional-assets"
 title: "Tokenisation of Traditional Assets"
 summary: "The aim of this workshop is to build participants' understanding of how traditional financial assets are tokenised and traded on distributed ledger infrastructure, and the supervisory considerations as tokenised and traditional market infrastructure converge."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Crypto-Assets & Digital Money"]
+topics: ["Crypto & digital assets"]
 pillar: "Sector Programmes"
 track: "U1. Digital Assets & Blockchain"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Digital Assets, AI & Innovation"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how traditional financial assets are tokenised and traded on distributed ledger infrastructure, and the supervisory considerations as tokenised and traditional market infrastructure converge.
@@ -45,7 +52,7 @@ Activities:
 *Objective: Describe trading/settlement and assess interoperability*
 - How tokenised securities are traded and settled on-chain
 - Interoperability challenges between DLT and traditional market infrastructure
-- The DLT Pilot Regime as a regulatory sandbox approach
+- DLT pilot regimes as a regulatory sandbox approach
 - Settlement finality considerations for tokenised assets
 Activities:
 - Group exercise: map the interoperability challenges for a sample tokenised bond issuance
@@ -75,7 +82,7 @@ Proposed as a half-day workshop (approx. 3.5 hours substantive content), compris
 **Key Takeaways**
 - Tokenisation raises genuine interoperability questions as DLT and traditional market infrastructure begin to converge
 - Investor protection principles apply to tokenised assets just as they do to their traditional equivalents
-- Regulatory sandbox approaches like the DLT Pilot Regime allow supervised experimentation with tokenisation
+- Regulatory sandbox approaches such as DLT pilot regimes allow supervised experimentation with tokenisation
 
 > **Content gap:** this is a proposed (not yet delivered) course design; delivery channel (in-person/online/hybrid) was not specified in the source catalogue and defaults to In-person pending confirmation.
 

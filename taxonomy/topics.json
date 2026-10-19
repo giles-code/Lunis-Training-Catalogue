@@ -1,0 +1,69 @@
+{
+  "$comment": "Topic chips used for browsing and search filters.",
+  "topics": [
+    {
+      "name": "AI & technology",
+      "slug": "ai-technology"
+    },
+    {
+      "name": "Compliance, risk & control functions",
+      "slug": "compliance-risk-control-functions"
+    },
+    {
+      "name": "Consumer protection & conduct",
+      "slug": "consumer-protection-conduct"
+    },
+    {
+      "name": "Cross-border & groups",
+      "slug": "cross-border-groups"
+    },
+    {
+      "name": "Crypto & digital assets",
+      "slug": "crypto-digital-assets"
+    },
+    {
+      "name": "Essentials for all staff",
+      "slug": "essentials-for-all-staff"
+    },
+    {
+      "name": "Financial crime",
+      "slug": "financial-crime"
+    },
+    {
+      "name": "Funds & asset management",
+      "slug": "funds-asset-management"
+    },
+    {
+      "name": "Governance & boards",
+      "slug": "governance-boards"
+    },
+    {
+      "name": "Investment services & markets",
+      "slug": "investment-services-markets"
+    },
+    {
+      "name": "Leadership & strategy",
+      "slug": "leadership-strategy"
+    },
+    {
+      "name": "Operational resilience & cyber",
+      "slug": "operational-resilience-cyber"
+    },
+    {
+      "name": "Payments",
+      "slug": "payments"
+    },
+    {
+      "name": "Policy, authorisation & enforcement",
+      "slug": "policy-authorisation-enforcement"
+    },
+    {
+      "name": "Supervisory practice & skills",
+      "slug": "supervisory-practice-skills"
+    },
+    {
+      "name": "Sustainable finance",
+      "slug": "sustainable-finance"
+    }
+  ]
+}

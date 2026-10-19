@@ -1,19 +1,26 @@
 ---
-id: algorithmic-and-high-frequency-trading-oversight
-slug: algorithmic-and-high-frequency-trading-oversight
+id: "algorithmic-and-high-frequency-trading-oversight"
+slug: "algorithmic-and-high-frequency-trading-oversight"
 title: "Algorithmic and High-Frequency Trading Oversight"
 summary: "The aim of this workshop is to build participants' skills in supervising firms' algorithmic and high-frequency trading controls, including pre-trade risk controls and market-making obligations."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Investment Firms & Wealth Management", "Market Infrastructure & Trading Venues"]
+topics: ["Investment services & markets"]
 pillar: "Sector Programmes"
 track: "T4. Investment Services & Capital Markets"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in supervising firms' algorithmic and high-frequency trading controls, including pre-trade risk controls and market-making obligations.
@@ -52,7 +59,7 @@ Activities:
 
 **Session 3: Market-making obligations and application (13:30–14:45)**
 *Objective: Evaluate market-making obligations and formulate an assessment*
-- Market-making obligations under MiFID II and their supervision
+- Market-making obligations and their supervision
 - Assessing genuine liquidity provision versus opportunistic behaviour
 - Case study: an algorithmic trading control framework under review
 Activities:

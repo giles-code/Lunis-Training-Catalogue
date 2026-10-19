@@ -1,0 +1,203 @@
+---
+id: "mlro-and-financial-crime-leadership"
+slug: "mlro-and-financial-crime-leadership"
+title: "MLRO and Financial Crime Leadership"
+summary: "An eight-module programme giving MLROs and deputies the tools to lead the firm's financial crime framework, report to the board and handle supervisory inspections."
+intro: "This training programme equips money laundering reporting officers and their deputies to lead the firm's financial crime framework, report to the board and handle supervisory inspections, taught by former supervisors who have inspected MLROs."
+format: "Programme"
+audience: ["Firms"]
+firmType: ["All firm types"]
+role: ["Control function holders"]
+topics: ["Financial crime"]
+pillar: "Control Functions Academy"
+track: "F2. Control Functions Academy"
+edition: "International"
+level: "Advanced"
+moduleCount: 8
+hoursPerModule: 3.0
+durationValue: 24.0
+durationUnit: "hours"
+deliveryFormat: ["Hybrid", "In-person", "Online"]
+clientType: ["Regulated Firm"]
+businessFunction: ["Financial Crime, AML & Sanctions Compliance", "Compliance"]
+delivered: false
+bookingMode: "enquiry"
+brochure: "MLRO_and_Financial_Crime_Leadership.docx"
+active: true
+lastUpdated: "2026-10-23"
+---
+
+## Aim and Purpose
+
+To give MLROs and deputies the authority, frameworks and judgement to lead an effective, risk-based financial crime control framework. Participants leave able to own the business-wide risk assessment, oversee customer due diligence and monitoring, report suspicion, brief the board and manage their personal accountability with confidence.
+
+**Coverage:** The MLRO role and accountability, business-wide risk assessment, the policy framework, oversight of customer due diligence and enhanced due diligence, monitoring and assurance, sanctions, reporting suspicion and working with the FIU, MLRO reporting to the board, supervisory inspections and remediation, and personal liability.
+
+## Intended Audience
+
+- Money laundering reporting officers, nominated officers and their deputies
+- Heads of financial crime, sanctions and anti-money laundering compliance
+- Senior financial crime staff preparing to step into the MLRO role
+
+## Learning Objectives
+
+By the end of the programme, participants will be able to:
+
+- Explain the MLRO's role, authority and personal accountability under FATF-based regimes
+- Design and maintain a business-wide risk assessment that drives the firm's controls
+- Evaluate customer due diligence, enhanced due diligence and monitoring arrangements across the firm
+- Apply sound judgement to suspicion reporting, sanctions and engagement with the national FIU
+- Produce MLRO reporting that gives the board a clear, candid view of financial crime risk
+- Manage supervisory inspections, remediation programmes and personal liability with confidence
+
+## Syllabus
+
+### Module 1: The MLRO Role and Accountability
+
+What the MLRO is responsible for, the authority, independence and resources the role needs, and how supervisors judge whether an MLRO is effective.
+
+**Objectives**
+
+- Explain the MLRO's statutory and regulatory responsibilities
+- Assess the MLRO's independence, seniority, resources and access to the board
+- Identify the expectations supervisors have of MLROs and deputies
+
+**Syllabus**
+
+- The MLRO, nominated officer and deputy roles
+- FATF Recommendations and the risk-based approach
+- Independence, authority, resources and access to information
+- What an effective MLRO looks like to a supervisor
+
+### Module 2: The Business-Wide Risk Assessment
+
+Building and maintaining a business-wide risk assessment that reflects the firm's real exposure and drives its controls, resourcing and customer risk ratings.
+
+**Objectives**
+
+- Design a business-wide risk assessment covering customers, products, channels and geographies
+- Apply national and sectoral risk assessments to the firm's own assessment
+- Link the assessment to controls, customer risk rating and resourcing
+
+**Syllabus**
+
+- Inherent risk factors and data sources
+- National, sectoral and typology inputs
+- Control effectiveness and residual risk
+- Common weaknesses supervisors find in risk assessments
+
+### Module 3: The Policy Framework and Customer Due Diligence Oversight
+
+Setting policies and procedures that implement the risk assessment, and overseeing customer due diligence and enhanced due diligence across the business.
+
+**Objectives**
+
+- Design a financial crime policy framework aligned with the risk assessment
+- Evaluate the quality of customer due diligence and enhanced due diligence
+- Assess higher-risk relationships including politically exposed persons and complex structures
+
+**Syllabus**
+
+- Policies, procedures and the customer risk rating model
+- Beneficial ownership and complex structures
+- Enhanced due diligence, politically exposed persons and high-risk jurisdictions
+- Reliance, outsourcing and introduced business
+
+### Module 4: Monitoring, Assurance and Sanctions
+
+Overseeing transaction monitoring, screening and sanctions controls, and building assurance that shows the MLRO whether controls work in practice.
+
+**Objectives**
+
+- Evaluate transaction monitoring scenarios, thresholds and alert handling
+- Assess sanctions screening, list management and breach handling
+- Design an assurance programme for financial crime controls
+
+**Syllabus**
+
+- Transaction monitoring design, tuning and alert quality
+- Sanctions screening, evasion typologies and breach reporting
+- Quality assurance, first-line testing and second-line monitoring
+- Management information that shows control effectiveness
+
+### Module 5: Reporting Suspicion and Working with the FIU
+
+Exercising sound judgement on internal reports, external suspicion reports and consent, and building a constructive relationship with the national FIU and law enforcement.
+
+**Objectives**
+
+- Apply a consistent decision-making approach to internal and external suspicion reports
+- Manage tipping off, consent and continuing relationship decisions
+- Build effective engagement with the national FIU and law enforcement
+
+**Syllabus**
+
+- Internal reports, investigation and decision records
+- Quality suspicion reports that FIUs can use
+- Tipping off, consent regimes and exiting relationships
+- Production orders, information requests and public-private partnerships
+
+### Module 6: MLRO Reporting to the Board
+
+Producing the annual MLRO report and periodic management information that give the board an honest view of financial crime risk and the resources needed to manage it.
+
+**Objectives**
+
+- Design an MLRO annual report that meets supervisory expectations
+- Present risk, weaknesses and resourcing needs candidly to the board
+- Equip the board to challenge financial crime management information
+
+**Syllabus**
+
+- Structure and content of the MLRO annual report
+- Key risk indicators and financial crime management information
+- Escalating disagreements and resourcing concerns
+- Board training and the board's own accountability
+
+### Module 7: Supervisory Inspections and Remediation
+
+How supervisors plan and run financial crime inspections, how the MLRO prepares the firm, and how to lead remediation that satisfies the authority.
+
+**Objectives**
+
+- Explain how supervisors plan and conduct financial crime inspections
+- Prepare the firm and its staff for inspection, sample testing and interviews
+- Lead remediation programmes and look-backs that address root causes
+
+**Syllabus**
+
+- The inspection lifecycle seen from the supervisor's side
+- File sampling, interviews and the red flags inspectors look for
+- Findings, remediation plans and look-back reviews
+- Mock inspection interview exercise
+
+### Module 8: Personal Liability and Capstone Workshop
+
+Brings the programme together around the MLRO's personal regulatory and criminal exposure and how to manage it, with a workshop in which participants assess their own framework.
+
+**Objectives**
+
+- Explain the personal regulatory and criminal exposure of MLROs
+- Apply practical steps to document decisions and protect personal position
+- Produce a prioritised action plan for the firm's financial crime framework
+
+**Syllabus**
+
+- Personal liability: regulatory sanctions, prohibition and criminal offences
+- Lessons from enforcement cases against MLROs and senior managers
+- Documenting judgement, escalation and whistleblowing
+- Workshop: the MLRO's twelve-month action plan
+
+## Structure and Format
+
+Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines practical tools with case studies, inspection scenarios and group exercises, and modules can be selected or tailored to the firm's business model.
+
+## Useful Prior Knowledge and Experience
+
+Experience of anti-money laundering or financial crime compliance in a regulated firm is expected. Prior MLRO experience is helpful, not mandatory.
+
+## Core Reading
+
+- FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)
+- FATF, Guidance on Risk-Based Supervision (2021)
+- FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)

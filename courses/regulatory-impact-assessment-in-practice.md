@@ -1,19 +1,26 @@
 ---
-id: regulatory-impact-assessment-in-practice
-slug: regulatory-impact-assessment-in-practice
+id: "regulatory-impact-assessment-in-practice"
+slug: "regulatory-impact-assessment-in-practice"
 title: "Regulatory Impact Assessment in Practice"
 summary: "The aim of this workshop is to build practical skills in assessing the impact of proposed rules — costs and benefits to industry and consumers, proportionality, and identifying unintended consequences before rules are finalised."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams"]
+firmType: ["All firm types"]
+topics: ["Policy, authorisation & enforcement"]
 pillar: "Regulatory Functions"
 track: "Pillar B: Policy-Making & Rule-Making"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Policy"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build practical skills in assessing the impact of proposed rules — costs and benefits to industry and consumers, proportionality, and identifying unintended consequences before rules are finalised.

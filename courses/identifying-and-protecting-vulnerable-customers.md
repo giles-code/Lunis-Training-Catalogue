@@ -1,19 +1,26 @@
 ---
-id: identifying-and-protecting-vulnerable-customers
-slug: identifying-and-protecting-vulnerable-customers
+id: "identifying-and-protecting-vulnerable-customers"
+slug: "identifying-and-protecting-vulnerable-customers"
 title: "Identifying and Protecting Vulnerable Customers"
 summary: "The aim of this workshop is to build supervisors' ability to assess how firms identify and respond to customer vulnerability. Participants will learn the drivers of vulnerability, how firms should adapt products, communications and service for vulnerable customers, and how to…"
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Consumer protection & conduct"]
 pillar: "Cross-Cutting Themes"
 track: "X3. Consumer Protection & Financial Inclusion"
+edition: "International"
 clientType: ["Regulatory Authority"]
-businessFunction: ["Consumer Protection / Consumer Duty"]
+businessFunction: ["Consumer Protection"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build supervisors' ability to assess how firms identify and respond to customer vulnerability. Participants will learn the drivers of vulnerability, how firms should adapt products, communications and service for vulnerable customers, and how to assess whether a firm's vulnerable-customer framework is effective in practice rather than just on paper.

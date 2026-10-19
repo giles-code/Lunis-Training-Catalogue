@@ -1,22 +1,29 @@
 ---
-id: open-banking-and-third-party-provider-access
-slug: open-banking-and-third-party-provider-access
+id: "open-banking-and-third-party-provider-access"
+slug: "open-banking-and-third-party-provider-access"
 title: "Open Banking and Third-Party Provider Access"
-summary: "The aim of this workshop is to build participants' understanding of how open banking access rights operate under PSD2/PSD3, and the supervisory considerations for account information and payment initiation service providers."
+summary: "The aim of this workshop is to build participants' understanding of how open banking access rights operate under payment services legislation, and the supervisory considerations for account information and payment initiation service providers."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Payments & E-Money"]
+topics: ["Payments"]
 pillar: "Sector Programmes"
 track: "T6. Payment Services"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
-The aim of this workshop is to build participants' understanding of how open banking access rights operate under PSD2/PSD3, and the supervisory considerations for account information and payment initiation service providers.
+The aim of this workshop is to build participants' understanding of how open banking access rights operate under payment services legislation, and the supervisory considerations for account information and payment initiation service providers.
 
 ## Intended Audience
 
@@ -24,7 +31,7 @@ Junior to mid-level supervisors working in payment services supervision.
 
 ## Learning Objectives
 
-- Explain the open banking access rights established under PSD2
+- Explain the open banking access rights established under payment services legislation
 - Describe the roles of account information service providers and payment initiation service providers
 - Assess strong customer authentication requirements in an open banking context
 - Evaluate API access quality and its supervisory relevance

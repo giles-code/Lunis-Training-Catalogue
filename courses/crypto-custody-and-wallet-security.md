@@ -1,19 +1,26 @@
 ---
-id: crypto-custody-and-wallet-security
-slug: crypto-custody-and-wallet-security
+id: "crypto-custody-and-wallet-security"
+slug: "crypto-custody-and-wallet-security"
 title: "Crypto Custody & Wallet Security"
 summary: "The aim of this workshop is to build participants' understanding of the technical and operational considerations in crypto-asset custody, including private key management, storage architecture, and how supervisors can assess a firm's custody control framework and…"
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Crypto-Assets & Digital Money"]
+topics: ["Crypto & digital assets"]
 pillar: "Sector Programmes"
 track: "U1. Digital Assets & Blockchain"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Digital Assets, AI & Innovation"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of the technical and operational considerations in crypto-asset custody, including private key management, storage architecture, and how supervisors can assess a firm's custody control framework and proof-of-reserves practices.

@@ -1,19 +1,26 @@
 ---
-id: manager-governance-remuneration-and-conflicts-of-interest
-slug: manager-governance-remuneration-and-conflicts-of-interest
+id: "manager-governance-remuneration-and-conflicts-of-interest"
+slug: "manager-governance-remuneration-and-conflicts-of-interest"
 title: "Manager Governance, Remuneration and Conflicts of Interest"
 summary: "The aim of this workshop is to build participants' skills in assessing an investment manager's own governance arrangements, remuneration structures, and conflicts-of-interest controls."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Supervisors & inspectors"]
+firmType: ["Investment Funds & Asset Management"]
+topics: ["Funds & asset management"]
 pillar: "Sector Programmes"
 track: "T5. Investment Management"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Supervision"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in assessing an investment manager's own governance arrangements, remuneration structures, and conflicts-of-interest controls.

@@ -1,19 +1,26 @@
 ---
-id: fraud-detection-and-behavioural-analytics
-slug: fraud-detection-and-behavioural-analytics
+id: "fraud-detection-and-behavioural-analytics"
+slug: "fraud-detection-and-behavioural-analytics"
 title: "Fraud Detection & Behavioural Analytics"
 summary: "The aim of this workshop is to build participants' understanding of how AI-enabled fraud detection systems operate across payments and banking channels, examining behavioural analytics and biometric techniques, and the supervisory considerations for assessing firms' fraud…"
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams", "Supervisors & inspectors"]
+firmType: ["All firm types"]
+topics: ["Financial crime"]
 pillar: "Regulatory Functions"
 track: "Pillar F: Reducing Financial Crime & Delivering Market Integrity"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Financial Crime, AML & Sanctions Compliance"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' understanding of how AI-enabled fraud detection systems operate across payments and banking channels, examining behavioural analytics and biometric techniques, and the supervisory considerations for assessing firms' fraud control frameworks.

@@ -1,19 +1,26 @@
 ---
-id: building-an-authority-s-own-suptech-capability
-slug: building-an-authority-s-own-suptech-capability
+id: "building-an-authority-s-own-suptech-capability"
+slug: "building-an-authority-s-own-suptech-capability"
 title: "Building an Authority's Own SupTech Capability"
 summary: "The aim of this workshop is to help participants think through the practical considerations in building a supervisory authority's own SupTech capability, including tool selection, in-house analytics skills, and the build-versus-buy decision."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Policy & specialist teams"]
+firmType: ["All firm types"]
+topics: ["AI & technology"]
 pillar: "Cross-Cutting Themes"
 track: "X5. Data & Technology as Supervisory Infrastructure"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Data & Supervisory Analytics"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to help participants think through the practical considerations in building a supervisory authority's own SupTech capability, including tool selection, in-house analytics skills, and the build-versus-buy decision.

@@ -1,19 +1,26 @@
 ---
-id: workforce-planning-for-specialist-regulatory-functions
-slug: workforce-planning-for-specialist-regulatory-functions
+id: "workforce-planning-for-specialist-regulatory-functions"
+slug: "workforce-planning-for-specialist-regulatory-functions"
 title: "Workforce Planning for Specialist Regulatory Functions"
 summary: "The aim of this workshop is to build participants' skills in planning and resourcing a supervisory workforce with the right mix of generalist and specialist skills, addressing recruitment and retention challenges specific to regulatory bodies."
+format: "Course"
 audience: ["Financial Supervisors"]
+role: ["Leadership & senior management", "New joiners & developing staff"]
+firmType: ["All firm types"]
+topics: ["Supervisory practice & skills"]
 pillar: "Regulatory Functions"
 track: "Pillar H: Capability & Capacity Building"
+edition: "International"
 clientType: ["Regulatory Authority"]
 businessFunction: ["Capability & Capacity Building"]
 deliveryFormat: ["In-person"]
 durationValue: 3.5
-durationUnit: hours
+durationUnit: "hours"
+bookingMode: "enquiry"
 active: true
 contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source"]
 ---
+
 ## Aim and Purpose
 
 The aim of this workshop is to build participants' skills in planning and resourcing a supervisory workforce with the right mix of generalist and specialist skills, addressing recruitment and retention challenges specific to regulatory bodies.

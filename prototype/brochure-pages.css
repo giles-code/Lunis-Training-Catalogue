@@ -81,5 +81,11 @@
   .pd-stats, .pd-stats.n3 { grid-template-columns: 1fr 1fr; }
   .two-col, .deliv-cards, .pathway { grid-template-columns: 1fr; }
   .glance-grid { grid-template-columns: 1fr 1fr; }
-  .glance-tile { min-height: 0; }
+  .glance-tile { min-height: 0; padding: .7rem .75rem .8rem; }
+  .glance-tile .n { font-size: 1.25rem; }
+  .mod summary { grid-template-columns: 30px 1fr 28px; gap: .6rem; padding: .85rem .8rem; }
+  .mod-num { font-size: 1.2rem; align-self: start; padding-top: .1rem; }
+  .mod-over { font-size: .84rem; }
+  .mod-tools { flex-direction: column; gap: .2rem; }
+  .pd-stat b { font-size: 1.4rem; }
 }

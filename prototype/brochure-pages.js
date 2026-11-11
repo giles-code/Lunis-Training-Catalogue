@@ -114,8 +114,8 @@
       sec("why", "Programme overview", "Why this programme",
         para(s["Aim and Purpose"]) +
         stats([[String(n), "modules"], [per ? "c. " + per + " hrs" : "", "per module"], [total ? total + " hrs" : dur(p), "in total"], [p.level, "programme level"]])) +
-      sec("who", "", "Who should attend",
-        '<div class="two-col"><div>' + ul(s["Intended Audience"]) + "</div>" +
+      sec("who", "", "Who it's for",
+        '<div class="two-col"><div><h3>Who should attend</h3>' + ul(s["Intended Audience"]) + "</div>" +
         (s["What It Covers"] ? '<div><h3>What it covers</h3>' + para(s["What It Covers"]) + "</div>" : "") + "</div>") +
       sec("objectives", "", "Learning objectives",
         "<p>By the end of the programme, participants will be able to:</p>" + ul(s["Learning Objectives"])) +

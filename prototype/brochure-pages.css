@@ -14,8 +14,12 @@
 
 /* Two columns inside a section (Who should attend | What it covers; Objectives | Syllabus) */
 .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem 2.4rem; }
-.two-col h3 { font-family: var(--serif); font-weight: 400; font-size: 1.2rem; margin: 0 0 .5rem; color: var(--deep-sage); }
+.two-col h3 { font-family: var(--serif); font-weight: 400; font-size: 1.2rem; margin: 0 0 .6rem; color: var(--deep-sage); }
 .col-label { font-size: .72rem; letter-spacing: .14em; text-transform: uppercase; color: var(--deep-sage); font-weight: 600; margin: 0 0 .5rem; }
+
+/* Lists inside two-col start flush with the heading */
+.two-col ul { margin-top: 0; }
+.two-col p { margin-top: 0; }
 
 /* Programme at a glance: numbered module tiles */
 .glance-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; }
@@ -26,7 +30,7 @@
 
 /* Module list: existing .mods/.mod accordion, plus a visible one-line description and two-column body */
 .mod-tools { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; margin-bottom: .8rem; }
-.mod-tools button { background: none; border: 0; color: var(--deep-sage); font: inherit; font-size: .85rem; text-decoration: underline; cursor: pointer; padding: 0; }
+.mod-tools button { white-space: nowrap; background: none; border: 0; color: var(--deep-sage); font: inherit; font-size: .85rem; text-decoration: underline; cursor: pointer; padding: 0; }
 .mod-body .two-col { margin-top: .4rem; }
 .mod-body ul { font-size: .92rem; }
 .mod-link { display: inline-block; margin-top: 1rem; font-size: .88rem; color: var(--deep-sage); font-weight: 500; }

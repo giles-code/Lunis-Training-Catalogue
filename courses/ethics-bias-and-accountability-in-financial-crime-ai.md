@@ -1,7 +1,5 @@
 ---
-id: ethics-bias-and-accountability-in-financial-crime-ai
 courseId: 70
-slug: ethics-bias-and-accountability-in-financial-crime-ai
 title: "Ethics, Bias & Accountability in Financial Crime AI"
 summary: "The aim of this workshop is to build participants' skills in identifying and assessing bias and discriminatory outcomes in AI-driven financial crime systems, and the accountability, audit, and human-in-the-loop safeguards supervisors should expect firms to maintain."
 audience: ["Financial Supervisors"]

@@ -1,7 +1,5 @@
 ---
-id: instant-payments-and-payment-system-oversight
 courseId: 100
-slug: instant-payments-and-payment-system-oversight
 title: "Instant Payments and Payment System Oversight"
 summary: "The aim of this workshop is to build participants' understanding of the regulatory framework for instant/fast payments and the oversight considerations specific to payment system operators and settlement risk."
 audience: ["Financial Supervisors"]

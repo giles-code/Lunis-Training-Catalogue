@@ -1,7 +1,5 @@
 ---
-id: supervising-complaints-handling
 courseId: 172
-slug: supervising-complaints-handling
 title: "Supervising Complaints Handling"
 summary: "The aim of this workshop is to build participants' ability to supervise firms' complaints-handling frameworks effectively, including assessing root-cause analysis practices and the operation of redress schemes, so that complaints data is used as a genuine early-warning…"
 audience: ["Financial Supervisors"]

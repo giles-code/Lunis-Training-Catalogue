@@ -1,7 +1,5 @@
 ---
-id: legal-drafting-for-regulators
 courseId: 113
-slug: legal-drafting-for-regulators
 title: "Legal Drafting for Regulators"
 summary: "The aim of this workshop is to build core legal drafting skills for producing rules and guidance that are clear, internally consistent, and enforceable in practice."
 audience: ["Financial Supervisors"]

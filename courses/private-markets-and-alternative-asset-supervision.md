@@ -1,7 +1,5 @@
 ---
-id: private-markets-and-alternative-asset-supervision
 courseId: 144
-slug: private-markets-and-alternative-asset-supervision
 title: "Private Markets & Alternative Asset Supervision"
 summary: "The aim of this workshop is to build participants' understanding of how private equity, private credit and real asset funds are structured and supervised, including the supervisory implications of the retailisation of private markets under regimes such as ELTIF 2.0."
 audience: ["Financial Supervisors"]

@@ -1,7 +1,5 @@
 ---
-id: recovery-and-resolution-planning-for-supervisors
 courseId: 149
-slug: recovery-and-resolution-planning-for-supervisors
 title: "Recovery and Resolution Planning for Supervisors"
 summary: "The aim of this workshop is to build participants' skills in assessing the credibility of firms' recovery plans and understanding the supervisor's role in resolution planning and resolvability assessment."
 audience: ["Financial Supervisors"]

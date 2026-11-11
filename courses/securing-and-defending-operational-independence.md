@@ -1,7 +1,5 @@
 ---
-id: securing-and-defending-operational-independence
 courseId: 160
-slug: securing-and-defending-operational-independence
 title: "Securing and Defending Operational Independence"
 summary: "The aim of this workshop is to build participants' understanding of the practical and legal foundations of supervisory independence, and how authorities defend and account for that independence to government and other stakeholders."
 audience: ["Financial Supervisors"]

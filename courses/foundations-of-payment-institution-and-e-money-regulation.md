@@ -1,7 +1,5 @@
 ---
-id: foundations-of-payment-institution-and-e-money-regulation
 courseId: 82
-slug: foundations-of-payment-institution-and-e-money-regulation
 title: "Foundations of Payment Institution and E-Money Regulation"
 summary: "The aim of this workshop is to build participants' understanding of the regulatory foundations for authorising and supervising payment institutions and e-money issuers, including current PSD3/PSR transition considerations."
 audience: ["Financial Supervisors"]

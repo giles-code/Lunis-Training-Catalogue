@@ -1,7 +1,5 @@
 ---
-id: credit-risk-supervision
 courseId: 41
-slug: credit-risk-supervision
 title: "Credit Risk Supervision"
 summary: "Learn how to assess credit risk, provisioning adequacy, and conduct an asset quality review of a bank's loan book."
 audience: ["Financial Supervisors"]
@@ -17,21 +15,15 @@ contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", 
 ---
 ## Aim and Purpose
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 Learn how to assess credit risk, provisioning adequacy, and conduct an asset quality review of a bank's loan book.
 
 > **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
 
 ## Intended Audience
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 Junior to mid-level supervisors working in prudential/banking supervision.
 
 ## Learning Objectives
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 - Understand and apply: Credit risk assessment
 - Understand and apply: provisioning
@@ -39,20 +31,14 @@ Junior to mid-level supervisors working in prudential/banking supervision.
 
 ## Syllabus
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 - Credit risk assessment
 - provisioning
 - asset quality review
 
 ## Structure and Format
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 Some familiarity with banking & prudential supervision is helpful but not essential.

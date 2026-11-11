@@ -1,7 +1,5 @@
 ---
-id: cyber-incident-management-and-supervisory-intervention
 courseId: 50
-slug: cyber-incident-management-and-supervisory-intervention
 title: "Cyber Incident Management and Supervisory Intervention"
 summary: "The aim of this workshop is to build participants' skills in assessing a firm's cyber incident recovery procedures and disclosure protocols, and understanding the supervisory intervention tools available when incidents occur."
 audience: ["Financial Supervisors"]

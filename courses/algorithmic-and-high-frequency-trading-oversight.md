@@ -1,7 +1,5 @@
 ---
-id: algorithmic-and-high-frequency-trading-oversight
 courseId: 11
-slug: algorithmic-and-high-frequency-trading-oversight
 title: "Algorithmic and High-Frequency Trading Oversight"
 summary: "The aim of this workshop is to build participants' skills in supervising firms' algorithmic and high-frequency trading controls, including pre-trade risk controls and market-making obligations."
 audience: ["Financial Supervisors"]

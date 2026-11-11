@@ -1,7 +1,5 @@
 ---
-id: cross-border-management-structures-and-delegation
 courseId: 46
-slug: cross-border-management-structures-and-delegation
 title: "Cross-Border Management Structures and Delegation"
 summary: "The aim of this workshop is to build participants' understanding of how cross-border management structures and delegation arrangements operate, and how supervisors assess substance and guard against 'letter-box' entity risk."
 audience: ["Financial Supervisors"]

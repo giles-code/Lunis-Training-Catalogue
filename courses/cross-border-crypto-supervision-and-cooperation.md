@@ -1,7 +1,5 @@
 ---
-id: cross-border-crypto-supervision-and-cooperation
 courseId: 45
-slug: cross-border-crypto-supervision-and-cooperation
 title: "Cross-Border Crypto Supervision & Cooperation"
 summary: "The aim of this workshop is to build participants' understanding of how crypto-asset firms operate across borders, the risks of regulatory arbitrage, and the cooperation mechanisms supervisors use — including MiCA passporting — to maintain effective oversight."
 audience: ["Financial Supervisors"]

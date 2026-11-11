@@ -1,7 +1,5 @@
 ---
-id: building-supervisory-data-infrastructure
 courseId: 29
-slug: building-supervisory-data-infrastructure
 title: "Building Supervisory Data Infrastructure"
 summary: "The aim of this workshop is to build participants' understanding of the data and case-management infrastructure that underpins risk-based supervision, and to develop practical skills for evaluating and improving that infrastructure across functions."
 audience: ["Financial Supervisors"]

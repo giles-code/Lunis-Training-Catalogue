@@ -1,7 +1,5 @@
 ---
-id: market-infrastructure-supervision-ccps-csds-and-trading-venues
 courseId: 123
-slug: market-infrastructure-supervision-ccps-csds-and-trading-venues
 title: "Market Infrastructure Supervision: CCPs, CSDs and Trading Venues"
 summary: "The aim of this workshop is to build participants' understanding of the regulatory framework for central counterparties, central securities depositories, and trading venues, and the supervisory considerations specific to critical market infrastructure."
 audience: ["Financial Supervisors"]

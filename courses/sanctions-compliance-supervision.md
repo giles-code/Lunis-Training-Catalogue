@@ -1,7 +1,5 @@
 ---
-id: sanctions-compliance-supervision
 courseId: 159
-slug: sanctions-compliance-supervision
 title: "Sanctions Compliance Supervision"
 summary: "The aim of this workshop is to build participants' skills in supervising firms' sanctions compliance frameworks, including screening obligations and assessment of control effectiveness."
 audience: ["Financial Supervisors"]

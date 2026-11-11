@@ -1,7 +1,5 @@
 ---
-id: issuer-disclosure-as-investor-protection
 courseId: 109
-slug: issuer-disclosure-as-investor-protection
 title: "Issuer Disclosure as Investor Protection"
 summary: "The aim of this workshop is to deepen participants' understanding of issuer disclosure as a core investor-protection mechanism, drawing on IOSCO's Principles for Issuers, and to build practical skills in assessing whether disclosure practices are full, accurate, and timely."
 audience: ["Financial Supervisors"]

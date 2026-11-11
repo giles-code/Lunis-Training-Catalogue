@@ -1,7 +1,5 @@
 ---
-id: supervising-investment-advice-and-suitability
 courseId: 173
-slug: supervising-investment-advice-and-suitability
 title: "Supervising Investment Advice and Suitability"
 summary: "The aim of this workshop is to build participants' skills in supervising the quality of investment advice given to clients, including suitability assessment and product governance controls."
 audience: ["Financial Supervisors"]

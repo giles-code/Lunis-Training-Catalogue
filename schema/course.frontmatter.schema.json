@@ -6,9 +6,7 @@
   "type": "object",
   "additionalProperties": false,
   "required": [
-    "id",
     "courseId",
-    "slug",
     "title",
     "summary",
     "audience",
@@ -22,20 +20,10 @@
     "active"
   ],
   "properties": {
-    "id": {
-      "type": "string",
-      "description": "Stable unique identifier for the course. Never reuse or change once published.",
-      "pattern": "^[a-z0-9-]+$"
-    },
     "courseId": {
       "type": "integer",
       "minimum": 1,
-      "description": "Permanent sequential number for the course (1, 2, 3 ...). Unique, never reused or changed. Drives the course page link: training-catalogue.html?id=<courseId>. Trial field, Nov 2026; will become the main id."
-    },
-    "slug": {
-      "type": "string",
-      "description": "URL-friendly identifier, used for the course's page path.",
-      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      "description": "Permanent sequential number for the course (1, 2, 3 ...). Unique, never reused or changed. Opens the course page: training-catalogue.html?id=<courseId>. New courses take the next unused number."
     },
     "title": {
       "type": "string",

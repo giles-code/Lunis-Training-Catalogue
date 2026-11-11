@@ -1,7 +1,5 @@
 ---
-id: foundations-of-financial-services-rule-making
 courseId: 80
-slug: foundations-of-financial-services-rule-making
 title: "Foundations of Financial Services Rule-Making"
 summary: "The aim of this workshop is to build participants' understanding of how a supervisory authority makes rules, covering the legal hierarchy between primary legislation, secondary rules, and guidance, and the core principles of clear, enforceable regulatory drafting."
 audience: ["Financial Supervisors"]

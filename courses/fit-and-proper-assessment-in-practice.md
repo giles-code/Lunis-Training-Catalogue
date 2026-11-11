@@ -1,7 +1,5 @@
 ---
-id: fit-and-proper-assessment-in-practice
 courseId: 78
-slug: fit-and-proper-assessment-in-practice
 title: "Fit and Proper Assessment in Practice"
 summary: "The aim of this workshop is to build participants' skills in assessing the fitness and propriety of controllers, directors, and senior managers, both at authorisation and on an ongoing basis, applying consistent, defensible criteria."
 audience: ["Financial Supervisors"]

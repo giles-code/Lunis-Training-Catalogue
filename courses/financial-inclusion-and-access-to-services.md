@@ -1,7 +1,5 @@
 ---
-id: financial-inclusion-and-access-to-services
 courseId: 75
-slug: financial-inclusion-and-access-to-services
 title: "Financial Inclusion and Access to Services"
 summary: "The aim of this workshop is to introduce participants to financial inclusion as a policy and supervisory concern, exploring the barriers that prevent access to financial services and the regulatory tools available to promote inclusive access without compromising other…"
 audience: ["Financial Supervisors"]

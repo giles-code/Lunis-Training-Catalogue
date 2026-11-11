@@ -1,7 +1,5 @@
 ---
-id: performance-measurement-and-disclosure-supervision
 courseId: 142
-slug: performance-measurement-and-disclosure-supervision
 title: "Performance Measurement and Disclosure Supervision"
 summary: "The aim of this workshop is to build participants' understanding of how investment performance is measured, attributed, and disclosed, and how supervisors assess the accuracy and fairness of performance claims used in marketing."
 audience: ["Financial Supervisors"]

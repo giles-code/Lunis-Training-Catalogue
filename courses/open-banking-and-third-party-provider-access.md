@@ -1,7 +1,5 @@
 ---
-id: open-banking-and-third-party-provider-access
 courseId: 135
-slug: open-banking-and-third-party-provider-access
 title: "Open Banking and Third-Party Provider Access"
 summary: "The aim of this workshop is to build participants' understanding of how open banking access rights operate under PSD2/PSD3, and the supervisory considerations for account information and payment initiation service providers."
 audience: ["Financial Supervisors"]

@@ -1,7 +1,5 @@
 ---
-id: settlement-and-negotiated-outcomes-in-enforcement
 courseId: 165
-slug: settlement-and-negotiated-outcomes-in-enforcement
 title: "Settlement and Negotiated Outcomes in Enforcement"
 summary: "The aim of this workshop is to build participants' understanding of the practical and strategic considerations in negotiating settlements with firms under investigation, including when settlement is and is not appropriate."
 audience: ["Financial Supervisors"]

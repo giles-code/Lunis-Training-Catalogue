@@ -1,7 +1,5 @@
 ---
-id: assessing-firms-cyber-governance-and-controls
 courseId: 19
-slug: assessing-firms-cyber-governance-and-controls
 title: "Assessing Firms' Cyber Governance and Controls"
 summary: "The aim of this workshop is to build participants' skills in evaluating a firm's IT governance, board-level oversight of cyber risk, and the adequacy of its security policies and data integrity controls."
 audience: ["Financial Supervisors"]

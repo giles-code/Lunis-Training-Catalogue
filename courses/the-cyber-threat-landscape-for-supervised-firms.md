@@ -1,7 +1,5 @@
 ---
-id: the-cyber-threat-landscape-for-supervised-firms
 courseId: 178
-slug: the-cyber-threat-landscape-for-supervised-firms
 title: "The Cyber Threat Landscape for Supervised Firms"
 summary: "The aim of this workshop is to build participants' understanding of the cyber threat landscape facing regulated firms, including internal and external threat actors and their likely targets within financial market infrastructure. Structure informed by Toronto Centre's published…"
 audience: ["Financial Supervisors"]

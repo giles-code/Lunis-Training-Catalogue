@@ -1,7 +1,5 @@
 ---
-id: anomaly-detection-and-supervisory-dashboards
 courseId: 14
-slug: anomaly-detection-and-supervisory-dashboards
 title: "Anomaly Detection and Supervisory Dashboards"
 summary: "Learn how to build and interpret supervisory dashboards that surface anomalies for further investigation."
 audience: ["Financial Supervisors"]
@@ -17,38 +15,26 @@ contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", 
 ---
 ## Aim and Purpose
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 Learn how to build and interpret supervisory dashboards that surface anomalies for further investigation.
 
 > **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
 
 ## Intended Audience
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 Mid-to-senior staff involved in building or using the authority's data/SupTech infrastructure.
 
 ## Learning Objectives
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 - Understand and apply: Building and interpreting supervisory dashboards
 
 ## Syllabus
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 - Building and interpreting supervisory dashboards
 
 ## Structure and Format
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 Some familiarity with suptech, data & supervisory analytics is helpful but not essential.

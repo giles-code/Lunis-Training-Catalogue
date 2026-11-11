@@ -1,7 +1,5 @@
 ---
-id: decentralised-finance-defi-supervisory-challenges
 courseId: 54
-slug: decentralised-finance-defi-supervisory-challenges
 title: "Decentralised Finance (DeFi): Supervisory Challenges"
 summary: "The aim of this workshop is to build participants' understanding of how DeFi protocols operate outside traditional intermediated structures, examining the supervisory and regulatory perimeter challenges this creates and the tools available to address them."
 audience: ["Financial Supervisors"]

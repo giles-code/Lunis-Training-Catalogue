@@ -1,7 +1,5 @@
 ---
-id: building-resilience-in-high-pressure-supervisory-roles
 courseId: 28
-slug: building-resilience-in-high-pressure-supervisory-roles
 title: "Building Resilience in High-Pressure Supervisory Roles"
 summary: "The aim of this workshop is to build participants' practical techniques for managing the unique pressures of supervisory work, including high-profile casework, public scrutiny, and sustained workload, to support long-term resilience and wellbeing."
 audience: ["Financial Supervisors"]

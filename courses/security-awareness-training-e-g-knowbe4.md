@@ -1,7 +1,5 @@
 ---
-id: security-awareness-training-e-g-knowbe4
 courseId: 161
-slug: security-awareness-training-e-g-knowbe4
 title: "Security Awareness Training (e.g. KnowBe4)"
 summary: "Build organisation-wide security awareness through structured, recurring training."
 audience: ["Financial Supervisors"]
@@ -17,40 +15,28 @@ contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", 
 ---
 ## Aim and Purpose
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 Build organisation-wide security awareness through structured, recurring training.
 
 > **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
 
 ## Intended Audience
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 All staff, as part of internal operations and mandatory compliance training.
 
 ## Learning Objectives
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 - Understand and apply: Phishing
 - Understand and apply: security best practice
 
 ## Syllabus
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 - Phishing
 - security best practice
 
 ## Structure and Format
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 Some familiarity with internal operations & mandatory training is helpful but not essential.

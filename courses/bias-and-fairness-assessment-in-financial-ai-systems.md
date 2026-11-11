@@ -1,7 +1,5 @@
 ---
-id: bias-and-fairness-assessment-in-financial-ai-systems
 courseId: 25
-slug: bias-and-fairness-assessment-in-financial-ai-systems
 title: "Bias and Fairness Assessment in Financial AI Systems"
 summary: "The aim of this workshop is to build participants' skills in assessing AI systems used in credit decisioning, insurance underwriting, and other financial services for bias and fairness, applying recognised testing methodologies."
 audience: ["Financial Supervisors"]

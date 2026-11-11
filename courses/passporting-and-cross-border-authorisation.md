@@ -1,7 +1,5 @@
 ---
-id: passporting-and-cross-border-authorisation
 courseId: 137
-slug: passporting-and-cross-border-authorisation
 title: "Passporting and Cross-Border Authorisation"
 summary: "The aim of this workshop is to build participants' understanding of how passporting and cross-border authorisation regimes operate in practice, and the cooperation expected between home and host supervisors."
 audience: ["Financial Supervisors"]

@@ -1,7 +1,5 @@
 ---
-id: ai-in-wealth-management-and-digital-advice
 courseId: 8
-slug: ai-in-wealth-management-and-digital-advice
 title: "AI in Wealth Management and Digital Advice"
 summary: "The aim of this workshop is to build participants' understanding of how AI-driven digital advisory and wealth management platforms operate, and the supervisory considerations specific to automated investment advice."
 audience: ["Financial Supervisors"]

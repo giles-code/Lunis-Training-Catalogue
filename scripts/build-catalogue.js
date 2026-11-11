@@ -77,9 +77,13 @@ const courses = fs.readdirSync(coursesDir)
     const parsed = matter(source);
     const sections = splitSections(parsed.content);
 
+    const legacySlug = name.replace(/\.md$/, '');
+
     return {
       ...parsed.data,
-      _id: parsed.data.id,
+      // Not authored: the file name, kept in the feed only so old text-based links can redirect to the numbered page.
+      slug: legacySlug,
+      _id: parsed.data.courseId,
       sections,
       sectionHtml: Object.fromEntries(
         Object.entries(sections).map(([heading, body]) => [heading, markdownToHtml(body)])

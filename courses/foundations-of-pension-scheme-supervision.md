@@ -1,7 +1,5 @@
 ---
-id: foundations-of-pension-scheme-supervision
 courseId: 83
-slug: foundations-of-pension-scheme-supervision
 title: "Foundations of Pension Scheme Supervision"
 summary: "Learn the foundations of pension scheme types, funding models, and the regulatory perimeter for pension supervision."
 audience: ["Financial Supervisors"]
@@ -17,21 +15,15 @@ contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", 
 ---
 ## Aim and Purpose
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 Learn the foundations of pension scheme types, funding models, and the regulatory perimeter for pension supervision.
 
 > **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
 
 ## Intended Audience
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 Junior to mid-level supervisors working in pensions/retirement supervision.
 
 ## Learning Objectives
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 - Understand and apply: Scheme types
 - Understand and apply: funding models
@@ -39,20 +31,14 @@ Junior to mid-level supervisors working in pensions/retirement supervision.
 
 ## Syllabus
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 - Scheme types
 - funding models
 - regulatory perimeter
 
 ## Structure and Format
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 No formal prerequisites — this course is designed as an introduction to pensions & retirement supervision.

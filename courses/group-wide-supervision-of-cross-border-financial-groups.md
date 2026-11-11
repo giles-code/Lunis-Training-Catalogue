@@ -1,7 +1,5 @@
 ---
-id: group-wide-supervision-of-cross-border-financial-groups
 courseId: 96
-slug: group-wide-supervision-of-cross-border-financial-groups
 title: "Group-Wide Supervision of Cross-Border Financial Groups"
 summary: "The aim of this workshop is to equip participants with the skills to supervise financial groups operating across multiple jurisdictions on a consolidated, group-wide basis, including assessing intra-group exposures and the risks of complex group structures."
 audience: ["Financial Supervisors"]

@@ -1,7 +1,5 @@
 ---
-id: consumer-protection-supervision-foundations
 courseId: 38
-slug: consumer-protection-supervision-foundations
 title: "Consumer Protection Supervision: Foundations"
 summary: "The aim of this workshop is to equip supervisors with the foundational knowledge needed to assess consumer protection outcomes in regulated firms. Participants will learn how product governance, fair value assessment, and disclosure requirements combine to protect consumers,…"
 audience: ["Financial Supervisors"]

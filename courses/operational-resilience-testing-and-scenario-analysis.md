@@ -1,7 +1,5 @@
 ---
-id: operational-resilience-testing-and-scenario-analysis
 courseId: 136
-slug: operational-resilience-testing-and-scenario-analysis
 title: "Operational Resilience Testing and Scenario Analysis"
 summary: "The aim of this workshop is to build participants' understanding of how firms design and test operational resilience scenarios, and how supervisors assess the adequacy of impact tolerances and testing programmes."
 audience: ["Financial Supervisors"]

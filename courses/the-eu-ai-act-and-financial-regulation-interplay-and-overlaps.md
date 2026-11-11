@@ -1,7 +1,5 @@
 ---
-id: the-eu-ai-act-and-financial-regulation-interplay-and-overlaps
 courseId: 179
-slug: the-eu-ai-act-and-financial-regulation-interplay-and-overlaps
 title: "The EU AI Act and Financial Regulation: Interplay and Overlaps"
 summary: "The aim of this workshop is to build participants' understanding of how the EU AI Act's requirements interact with existing sectoral financial regulation, including where AI Act high-risk classifications apply to financial services AI systems."
 audience: ["Financial Supervisors"]

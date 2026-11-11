@@ -1,7 +1,5 @@
 ---
-id: having-difficult-supervisory-conversations
 courseId: 97
-slug: having-difficult-supervisory-conversations
 title: "Having Difficult Supervisory Conversations"
 summary: "The aim of this workshop is to build participants' skills in delivering difficult messages to regulated firms — including adverse findings and escalation decisions — while managing pushback constructively and maintaining a professional, credible supervisory relationship."
 audience: ["Financial Supervisors"]

@@ -1,7 +1,5 @@
 ---
-id: fund-valuation-practical-supervisory-techniques
 courseId: 90
-slug: fund-valuation-practical-supervisory-techniques
 title: "Fund Valuation: Practical Supervisory Techniques"
 summary: "The aim of this workshop is to build practical techniques for assessing fund valuation governance and methodology, with particular focus on hard-to-value and illiquid assets and the conflicts of interest that can arise in valuation processes."
 audience: ["Financial Supervisors"]

@@ -1,7 +1,5 @@
 ---
-id: understanding-portfolio-management-practice
 courseId: 186
-slug: understanding-portfolio-management-practice
 title: "Understanding Portfolio Management Practice"
 summary: "The aim of this workshop is to build participants' understanding of how portfolio managers construct and manage portfolios against mandates, and how supervisors assess mandate compliance and risk budgeting practice."
 audience: ["Financial Supervisors"]

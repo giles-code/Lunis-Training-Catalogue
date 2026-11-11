@@ -1,7 +1,5 @@
 ---
-id: fraud-detection-and-behavioural-analytics
 courseId: 86
-slug: fraud-detection-and-behavioural-analytics
 title: "Fraud Detection & Behavioural Analytics"
 summary: "The aim of this workshop is to build participants' understanding of how AI-enabled fraud detection systems operate across payments and banking channels, examining behavioural analytics and biometric techniques, and the supervisory considerations for assessing firms' fraud…"
 audience: ["Financial Supervisors"]

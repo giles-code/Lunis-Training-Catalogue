@@ -1,7 +1,5 @@
 ---
-id: governance-for-supervisory-authorities-board-and-executive-practice
 courseId: 93
-slug: governance-for-supervisory-authorities-board-and-executive-practice
 title: "Governance for Supervisory Authorities: Board & Executive Practice"
 summary: "The aim of this workshop is to build participants' understanding of the governance structures and practices that support effective decision-making and accountability within a supervisory authority's own board and executive."
 audience: ["Financial Supervisors"]

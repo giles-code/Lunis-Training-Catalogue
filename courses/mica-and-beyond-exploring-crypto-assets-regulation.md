@@ -1,7 +1,5 @@
 ---
-id: mica-and-beyond-exploring-crypto-assets-regulation
 courseId: 131
-slug: mica-and-beyond-exploring-crypto-assets-regulation
 title: "MiCA and Beyond: Exploring Crypto-Assets Regulation"
 summary: "Introduced the purpose and drivers of the MiCA Regulation, the roles of different operators in the crypto-asset ecosystem, the implications of PSD2 for crypto-asset service providers, and the operational and custody considerations supervisors should apply to EMT/ART issuers and…"
 audience: ["Financial Supervisors"]

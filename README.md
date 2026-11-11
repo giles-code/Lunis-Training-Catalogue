@@ -41,9 +41,7 @@ seniority.
 
 | Field               | Type                       | Notes |
 |---------------------|----------------------------|-------|
-| `id`                | string                     | Unique, must match the filename |
 | `courseId`          | integer                    | Permanent sequential number (1, 2, 3 …), unique, never reused. Drives the course page link `training-catalogue.html?id=<courseId>`. New courses take the next unused number. |
-| `slug`              | string                     | URL-friendly identifier for the course page |
 | `title`             | string                     | |
 | `summary`           | string                     | One or two sentence teaser for listing views |
 | `audience`          | array: `Firms`, `Financial Supervisors` | Drives the site's top-level nav split. A course can be tagged for one or both. |
@@ -115,9 +113,10 @@ catalogue states explicitly) are still inferred and flagged.
 
 ## Adding or editing a course
 
-1. Copy an existing file in `courses/` as a starting point, or create a new
-   one named `<id>.md` (lowercase, hyphen-separated, matching the course's
-   `id` field).
+1. Copy an existing file in `courses/` as a starting point. Name the file
+   after the course title (lowercase, hyphen-separated), and give it the next
+   unused `courseId` number. Never change an existing file name: it is kept in
+   the feed so that old text-based links still redirect to the numbered page.
 2. Fill in the frontmatter fields above and the six body sections.
 3. Run validation locally before committing:
 

@@ -1,7 +1,5 @@
 ---
-id: payment-fraud-and-app-scam-prevention
 courseId: 138
-slug: payment-fraud-and-app-scam-prevention
 title: "Payment Fraud and APP Scam Prevention"
 summary: "The aim of this workshop is to build participants' understanding of how payment fraud, including authorised push payment scams, is regulated and prevented, and the supervisory considerations around liability allocation and fraud reporting."
 audience: ["Financial Supervisors"]

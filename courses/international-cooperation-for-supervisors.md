@@ -1,7 +1,5 @@
 ---
-id: international-cooperation-for-supervisors
 courseId: 103
-slug: international-cooperation-for-supervisors
 title: "International Cooperation for Supervisors"
 summary: "The aim of this workshop is to build participants' understanding of how supervisory authorities engage in cross-border cooperation and international standard-setting, and how to participate effectively in supervisory colleges and MoU frameworks."
 audience: ["Financial Supervisors"]

@@ -59,15 +59,12 @@ function main() {
   }
 
   let hasErrors = false;
-  const seenIds = new Map();
-  const seenSlugs = new Map();
   const seenCourseIds = new Map();
   let filesWithGaps = 0;
   let inactiveCount = 0;
 
   for (const file of files) {
     const filePath = path.join(coursesDir, file);
-    const fileId = path.basename(file, ".md");
     let fileHasErrors = false;
     let parsed;
     try {
@@ -89,22 +86,6 @@ function main() {
       continue;
     }
 
-    if (frontmatter.id !== fileId) {
-      console.error(
-        `✗ ${file}: "id" ("${frontmatter.id}") must match the filename ("${fileId}")`
-      );
-      fileHasErrors = true;
-    }
-
-    if (seenIds.has(frontmatter.id)) {
-      console.error(
-        `✗ ${file}: duplicate "id" "${frontmatter.id}" (also used in ${seenIds.get(frontmatter.id)})`
-      );
-      fileHasErrors = true;
-    } else {
-      seenIds.set(frontmatter.id, file);
-    }
-
     if (seenCourseIds.has(frontmatter.courseId)) {
       console.error(
         `✗ ${file}: duplicate "courseId" ${frontmatter.courseId} (also used in ${seenCourseIds.get(frontmatter.courseId)})`
@@ -114,14 +95,6 @@ function main() {
       seenCourseIds.set(frontmatter.courseId, file);
     }
 
-    if (seenSlugs.has(frontmatter.slug)) {
-      console.error(
-        `✗ ${file}: duplicate "slug" "${frontmatter.slug}" (also used in ${seenSlugs.get(frontmatter.slug)})`
-      );
-      fileHasErrors = true;
-    } else {
-      seenSlugs.set(frontmatter.slug, file);
-    }
 
     const sectionsFound = extractSections(parsed.content);
     const missing = REQUIRED_SECTIONS.filter((s) => !sectionsFound.includes(s));

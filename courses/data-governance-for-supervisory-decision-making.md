@@ -1,7 +1,5 @@
 ---
-id: data-governance-for-supervisory-decision-making
 courseId: 52
-slug: data-governance-for-supervisory-decision-making
 title: "Data Governance for Supervisory Decision-Making"
 summary: "The aim of this workshop is to build participants' understanding of data governance principles and their application to supervisory decision-making, ensuring that decisions are supported by reliable, well-governed data."
 audience: ["Financial Supervisors"]

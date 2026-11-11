@@ -1,7 +1,5 @@
 ---
-id: sustainable-finance-supervisory-insights
 courseId: 176
-slug: sustainable-finance-supervisory-insights
 title: "Sustainable Finance: Supervisory Insights"
 summary: "Discussed sustainability risk assessments and their implications for supervised entities, equipping participants to address sustainability risk and integrate sustainable finance into day-to-day supervision."
 audience: ["Financial Supervisors"]

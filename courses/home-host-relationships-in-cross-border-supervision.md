@@ -1,7 +1,5 @@
 ---
-id: home-host-relationships-in-cross-border-supervision
 courseId: 98
-slug: home-host-relationships-in-cross-border-supervision
 title: "Home-Host Relationships in Cross-Border Supervision"
 summary: "The aim of this workshop is to build participants' understanding of the Basel Core Principle on home-host relationships and to develop the practical skills needed to cooperate effectively with other supervisory authorities in the consolidated supervision of cross-border banking…"
 audience: ["Financial Supervisors"]

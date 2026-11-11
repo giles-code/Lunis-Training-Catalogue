@@ -1,7 +1,5 @@
 ---
-id: ai-basics-and-generative-ai
 courseId: 4
-slug: ai-basics-and-generative-ai
 title: "AI Basics & Generative AI"
 summary: "Learn foundational AI concepts and how generative AI can be applied responsibly within daily work."
 audience: ["Financial Supervisors"]
@@ -17,21 +15,15 @@ contentGaps: ["aimAndPurpose: expanded from a one-line catalogue summary only", 
 ---
 ## Aim and Purpose
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 Learn foundational AI concepts and how generative AI can be applied responsibly within daily work.
 
 > **Content gap:** this course currently only has a one-line summary from the source catalogue. A fuller aim and purpose narrative needs drafting before publish.
 
 ## Intended Audience
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 Mid-level staff who use data and analytical tools as part of their supervisory work.
 
 ## Learning Objectives
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 - Understand and apply: Foundational AI concepts
 - Understand and apply: generative AI
@@ -40,8 +32,6 @@ Mid-level staff who use data and analytical tools as part of their supervisory w
 
 ## Syllabus
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 - Foundational AI concepts
 - generative AI
 - responsible use
@@ -49,12 +39,8 @@ Mid-level staff who use data and analytical tools as part of their supervisory w
 
 ## Structure and Format
 
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
-
 > **Content gap:** this course currently only has a one-line summary in the source catalogue (no session plan, duration, or delivery format specified). A full workshop design needs drafting before this course is ready to publish.
 
 ## Useful Prior Knowledge and Experience
-
-**Placeholder — this section is not yet based on real course content and needs to be drafted.**
 
 Some familiarity with supervisory data analytics & ai skills is helpful but not essential.

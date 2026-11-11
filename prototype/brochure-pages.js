@@ -81,7 +81,7 @@
     }).join("") + "</nav>";
     var badges = '<div class="prog-badges"><span class="badge badge-kind">' + esc(opts.badge) + "</span>" +
       (e.level ? '<span class="badge">' + esc(e.level) + "</span>" : "") + "</div>";
-    var dl = e.brochure ? '<a class="btn btn-ghost btn-dl" href="' + esc(ctx.pdfUrl(e.brochure)) + '" download>Download brochure (PDF)</a>' : "";
+    var dl = e.brochure ? '<a class="btn btn-ghost btn-dl" href="' + esc(ctx.pdfUrl(e.brochure)) + '" target="_blank" rel="noopener">Download brochure (PDF)</a>' : "";
     return '<section class="pd-hero"><div class="wrap">' + crumbs +
       '<div class="pd-grid"><div>' + badges + "<h1>" + esc(e.title) + "</h1>" +
       '<p class="lead">' + esc(e.summary) + "</p>" + (opts.extra || "") +
@@ -91,7 +91,7 @@
   }
 
   function side(e, ctx, rows, request) {
-    var dl = e.brochure ? '<a class="btn btn-ghost btn-dl" href="' + esc(ctx.pdfUrl(e.brochure)) + '" download>Download brochure</a>' : "";
+    var dl = e.brochure ? '<a class="btn btn-ghost btn-dl" href="' + esc(ctx.pdfUrl(e.brochure)) + '" target="_blank" rel="noopener">Download brochure</a>' : "";
     return '<aside class="pd-side"><div class="facts"><h3>At a glance</h3><dl>' + facts(rows) + "</dl>" +
       '<a class="btn btn-gold" href="' + esc(ctx.enquire(e.title)) + '">' + esc(request) + "</a>" + dl +
       '<p class="facts-note">Every programme can be tailored to your jurisdiction, sector and case studies.</p></div></aside>';

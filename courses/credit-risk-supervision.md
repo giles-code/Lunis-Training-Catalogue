@@ -1,5 +1,6 @@
 ---
 id: credit-risk-supervision
+courseId: 41
 slug: credit-risk-supervision
 title: "Credit Risk Supervision"
 summary: "Learn how to assess credit risk, provisioning adequacy, and conduct an asset quality review of a bank's loan book."

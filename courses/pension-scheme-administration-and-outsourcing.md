@@ -1,5 +1,6 @@
 ---
 id: pension-scheme-administration-and-outsourcing
+courseId: 139
 slug: pension-scheme-administration-and-outsourcing
 title: "Pension Scheme Administration and Outsourcing"
 summary: "Learn how to assess the quality of pension scheme administration and oversight of outsourced administration providers."

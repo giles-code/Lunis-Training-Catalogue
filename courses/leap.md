@@ -1,5 +1,6 @@
 ---
 id: leap
+courseId: 112
 slug: leap
 title: "LEAP"
 summary: "Provide structured, self-paced and facilitated leadership development content for participants at all stages of the leadership journey."

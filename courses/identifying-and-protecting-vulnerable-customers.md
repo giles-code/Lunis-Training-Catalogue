@@ -1,5 +1,6 @@
 ---
 id: identifying-and-protecting-vulnerable-customers
+courseId: 99
 slug: identifying-and-protecting-vulnerable-customers
 title: "Identifying and Protecting Vulnerable Customers"
 summary: "The aim of this workshop is to build supervisors' ability to assess how firms identify and respond to customer vulnerability. Participants will learn the drivers of vulnerability, how firms should adapt products, communications and service for vulnerable customers, and how to…"

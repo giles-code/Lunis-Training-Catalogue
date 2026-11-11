@@ -1,5 +1,6 @@
 ---
 id: distributed-ledger-technology-in-practice
+courseId: 61
 slug: distributed-ledger-technology-in-practice
 title: "Distributed Ledger Technology in Practice"
 summary: "Learn how DLT-based systems and tokenised market infrastructures operate under the DLT Pilot Regime."

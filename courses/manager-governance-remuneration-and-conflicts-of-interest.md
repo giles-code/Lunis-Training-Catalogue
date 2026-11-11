@@ -1,5 +1,6 @@
 ---
 id: manager-governance-remuneration-and-conflicts-of-interest
+courseId: 116
 slug: manager-governance-remuneration-and-conflicts-of-interest
 title: "Manager Governance, Remuneration and Conflicts of Interest"
 summary: "The aim of this workshop is to build participants' skills in assessing an investment manager's own governance arrangements, remuneration structures, and conflicts-of-interest controls."

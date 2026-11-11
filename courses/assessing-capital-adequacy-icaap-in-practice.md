@@ -1,5 +1,6 @@
 ---
 id: assessing-capital-adequacy-icaap-in-practice
+courseId: 18
 slug: assessing-capital-adequacy-icaap-in-practice
 title: "Assessing Capital Adequacy: ICAAP in Practice"
 summary: "Learn how to review a bank's Internal Capital Adequacy Assessment Process (ICAAP) and form a supervisory view on its capital adequacy."

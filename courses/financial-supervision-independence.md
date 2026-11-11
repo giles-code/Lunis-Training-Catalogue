@@ -1,5 +1,6 @@
 ---
 id: financial-supervision-independence
+courseId: 76
 slug: financial-supervision-independence
 title: "Financial Supervision Independence"
 summary: "Identifying and addressing main pitfalls in financial supervision."

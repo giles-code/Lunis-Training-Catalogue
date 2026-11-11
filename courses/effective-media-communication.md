@@ -1,5 +1,6 @@
 ---
 id: effective-media-communication
+courseId: 64
 slug: effective-media-communication
 title: "Effective Media Communication"
 summary: "Develop skills for effective and confident communication with media and external stakeholders."

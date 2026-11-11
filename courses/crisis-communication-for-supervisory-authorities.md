@@ -1,5 +1,6 @@
 ---
 id: crisis-communication-for-supervisory-authorities
+courseId: 42
 slug: crisis-communication-for-supervisory-authorities
 title: "Crisis Communication for Supervisory Authorities"
 summary: "The aim of this workshop is to build participants' skills in communicating effectively with the public, industry, and government during a financial crisis or firm failure, building on general media communication skills with crisis-specific technique."

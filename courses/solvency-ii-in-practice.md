@@ -1,5 +1,6 @@
 ---
 id: solvency-ii-in-practice
+courseId: 166
 slug: solvency-ii-in-practice
 title: "Solvency II in Practice"
 summary: "Learn how the Solvency Capital Requirement and technical provisions work in practice, and how supervisors assess compliance."

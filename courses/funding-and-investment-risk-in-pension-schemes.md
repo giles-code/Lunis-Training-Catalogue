@@ -1,5 +1,6 @@
 ---
 id: funding-and-investment-risk-in-pension-schemes
+courseId: 91
 slug: funding-and-investment-risk-in-pension-schemes
 title: "Funding and Investment Risk in Pension Schemes"
 summary: "Learn how to assess funding adequacy and oversee investment strategy risk within a pension scheme."

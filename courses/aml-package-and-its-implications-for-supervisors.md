@@ -1,5 +1,6 @@
 ---
 id: aml-package-and-its-implications-for-supervisors
+courseId: 12
 slug: aml-package-and-its-implications-for-supervisors
 title: "AML Package and Its Implications for Supervisors"
 summary: "Provide a comprehensive understanding of AML requirements and their integration into supervisory practices."

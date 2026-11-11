@@ -1,5 +1,6 @@
 ---
 id: collaborative-decision-making-skills
+courseId: 35
 slug: collaborative-decision-making-skills
 title: "Collaborative Decision-Making Skills"
 summary: "Learn how to use empathy, perspective-taking, and cognitive diversity to improve collaborative problem-solving and team decision-making."

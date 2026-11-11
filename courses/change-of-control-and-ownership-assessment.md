@@ -1,5 +1,6 @@
 ---
 id: change-of-control-and-ownership-assessment
+courseId: 32
 slug: change-of-control-and-ownership-assessment
 title: "Change of Control and Ownership Assessment"
 summary: "The aim of this workshop is to build participants' skills in assessing proposed changes of control and complex ownership structures, including cross-border and beneficial ownership considerations."

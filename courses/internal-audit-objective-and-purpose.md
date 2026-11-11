@@ -1,5 +1,6 @@
 ---
 id: internal-audit-objective-and-purpose
+courseId: 102
 slug: internal-audit-objective-and-purpose
 title: "Internal Audit: Objective and Purpose"
 summary: "Build understanding of the role, objective, and purpose of the internal audit function."

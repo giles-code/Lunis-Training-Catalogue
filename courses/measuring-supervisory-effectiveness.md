@@ -1,5 +1,6 @@
 ---
 id: measuring-supervisory-effectiveness
+courseId: 127
 slug: measuring-supervisory-effectiveness
 title: "Measuring Supervisory Effectiveness"
 summary: "The aim of this workshop is to build participants' skills in designing and using metrics that meaningfully measure supervisory effectiveness and outcomes, drawing on approaches used in international assessments such as IMF/World Bank Financial Sector Assessment Programs (FSAPs)."

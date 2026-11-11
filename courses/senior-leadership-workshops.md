@@ -1,5 +1,6 @@
 ---
 id: senior-leadership-workshops
+courseId: 162
 slug: senior-leadership-workshops
 title: "Senior Leadership Workshops"
 summary: "Deliver focused workshop content targeting senior leadership capability."

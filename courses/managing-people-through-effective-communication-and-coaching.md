@@ -1,5 +1,6 @@
 ---
 id: managing-people-through-effective-communication-and-coaching
+courseId: 117
 slug: managing-people-through-effective-communication-and-coaching
 title: "Managing People Through Effective Communication & Coaching"
 summary: "Strengthen managers’ ability to manage people confidently through effective communication, coaching techniques, and supportive guidance."

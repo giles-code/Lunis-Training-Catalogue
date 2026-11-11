@@ -1,5 +1,6 @@
 ---
 id: cybersecurity-and-business-continuity
+courseId: 51
 slug: cybersecurity-and-business-continuity
 title: "Cybersecurity and Business Continuity"
 summary: "Build staff awareness of current cybersecurity trends and business continuity responsibilities. Typical audience: organisation-wide."

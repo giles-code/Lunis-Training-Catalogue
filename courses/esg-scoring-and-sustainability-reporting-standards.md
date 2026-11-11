@@ -1,5 +1,6 @@
 ---
 id: esg-scoring-and-sustainability-reporting-standards
+courseId: 68
 slug: esg-scoring-and-sustainability-reporting-standards
 title: "ESG Scoring and Sustainability Reporting Standards"
 summary: "Explore the methodologies behind ESG scoring and corporate sustainability reporting best practice."

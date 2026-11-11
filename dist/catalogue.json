@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-01T10:38:49.671Z",
+  "generatedAt": "2026-11-11T19:37:06.172Z",
   "count": 191,
   "courses": [
     {
       "id": "adaptability-and-flexibility-leading-and-thriving-in-change",
+      "courseId": 1,
       "slug": "adaptability-and-flexibility-leading-and-thriving-in-change",
       "title": "Adaptability and Flexibility: Leading and Thriving in Change",
       "summary": "Learn strategies to build resilience, adapt to change, and maintain productivity in dynamic environments.",
@@ -54,6 +55,7 @@
     },
     {
       "id": "advanced-powerpoint-techniques",
+      "courseId": 2,
       "slug": "advanced-powerpoint-techniques",
       "title": "Advanced PowerPoint Techniques",
       "summary": "Create impactful presentations using advanced PowerPoint features.",
@@ -104,6 +106,7 @@
     },
     {
       "id": "ai-and-machine-learning-in-aml-cft-detection",
+      "courseId": 3,
       "slug": "ai-and-machine-learning-in-aml-cft-detection",
       "title": "AI & Machine Learning in AML/CFT Detection",
       "summary": "The aim of this workshop is to build participants' understanding of how regulated entities use AI and machine learning to strengthen transaction monitoring and suspicious activity detection, and the practical trade-offs supervisors should expect firms to manage.",
@@ -149,6 +152,7 @@
     },
     {
       "id": "ai-basics-and-generative-ai",
+      "courseId": 4,
       "slug": "ai-basics-and-generative-ai",
       "title": "AI Basics & Generative AI",
       "summary": "Learn foundational AI concepts and how generative AI can be applied responsibly within daily work.",
@@ -199,6 +203,7 @@
     },
     {
       "id": "ai-governance-and-sector-risks",
+      "courseId": 5,
       "slug": "ai-governance-and-sector-risks",
       "title": "AI Governance & Sector Risks",
       "summary": "Learn how to assess AI governance frameworks and identify risks associated with AI models used by supervised entities.",
@@ -249,6 +254,7 @@
     },
     {
       "id": "ai-in-action-regtech-and-suptech-case-studies",
+      "courseId": 6,
       "slug": "ai-in-action-regtech-and-suptech-case-studies",
       "title": "AI in Action: RegTech & SupTech Case Studies",
       "summary": "Learn from real-world case studies how regulators use AI to strengthen oversight and efficiency.",
@@ -299,6 +305,7 @@
     },
     {
       "id": "ai-in-trading-and-operational-systems",
+      "courseId": 7,
       "slug": "ai-in-trading-and-operational-systems",
       "title": "AI in Trading & Operational Systems",
       "summary": "Learn how AI is applied in algorithmic trading, market infrastructures, and operational processes.",
@@ -349,6 +356,7 @@
     },
     {
       "id": "ai-in-wealth-management-and-digital-advice",
+      "courseId": 8,
       "slug": "ai-in-wealth-management-and-digital-advice",
       "title": "AI in Wealth Management and Digital Advice",
       "summary": "The aim of this workshop is to build participants' understanding of how AI-driven digital advisory and wealth management platforms operate, and the supervisory considerations specific to automated investment advice.",
@@ -394,6 +402,7 @@
     },
     {
       "id": "ai-model-explainability-for-supervisors",
+      "courseId": 9,
       "slug": "ai-model-explainability-for-supervisors",
       "title": "AI Model Explainability for Supervisors",
       "summary": "The aim of this workshop is to build participants' practical skills in explainability techniques such as LIME and SHAP, which supervisors can use to assess whether firms' AI models are sufficiently auditable and transparent. Structure informed by EU-SDFA's published course on…",
@@ -439,6 +448,7 @@
     },
     {
       "id": "ai-sanctions-screening-and-adverse-media-monitoring",
+      "courseId": 10,
       "slug": "ai-sanctions-screening-and-adverse-media-monitoring",
       "title": "AI, Sanctions Screening & Adverse Media Monitoring",
       "summary": "The aim of this workshop is to build participants' understanding of how AI and natural language processing are applied to sanctions screening, PEP identification, and adverse media monitoring, and how to assess whether these tools are appropriately calibrated and effectively…",
@@ -484,6 +494,7 @@
     },
     {
       "id": "algorithmic-and-high-frequency-trading-oversight",
+      "courseId": 11,
       "slug": "algorithmic-and-high-frequency-trading-oversight",
       "title": "Algorithmic and High-Frequency Trading Oversight",
       "summary": "The aim of this workshop is to build participants' skills in supervising firms' algorithmic and high-frequency trading controls, including pre-trade risk controls and market-making obligations.",
@@ -529,6 +540,7 @@
     },
     {
       "id": "aml-cft-framework-and-eu-aml-package",
+      "courseId": 13,
       "slug": "aml-cft-framework-and-eu-aml-package",
       "title": "AML/CFT Framework & EU AML Package",
       "summary": "Learn the core regulatory foundations of AML/CFT supervision in line with EU reforms and international standards.",
@@ -579,6 +591,7 @@
     },
     {
       "id": "aml-package-and-its-implications-for-supervisors",
+      "courseId": 12,
       "slug": "aml-package-and-its-implications-for-supervisors",
       "title": "AML Package and Its Implications for Supervisors",
       "summary": "Provide a comprehensive understanding of AML requirements and their integration into supervisory practices.",
@@ -629,6 +642,7 @@
     },
     {
       "id": "anomaly-detection-and-supervisory-dashboards",
+      "courseId": 14,
       "slug": "anomaly-detection-and-supervisory-dashboards",
       "title": "Anomaly Detection and Supervisory Dashboards",
       "summary": "Learn how to build and interpret supervisory dashboards that surface anomalies for further investigation.",
@@ -679,6 +693,7 @@
     },
     {
       "id": "anti-money-laundering-courses-e-g-thomson-reuters",
+      "courseId": 15,
       "slug": "anti-money-laundering-courses-e-g-thomson-reuters",
       "title": "Anti-Money Laundering Courses (e.g. Thomson Reuters)",
       "summary": "Provide structured AML training to new joiners via established e-learning modules.",
@@ -729,6 +744,7 @@
     },
     {
       "id": "applying-the-right-supervisory-tools",
+      "courseId": 16,
       "slug": "applying-the-right-supervisory-tools",
       "title": "Applying the Right Supervisory Tools",
       "summary": "Enhance decision-making skills for selecting and applying the appropriate supervisory tools in real-life scenarios.",
@@ -779,6 +795,7 @@
     },
     {
       "id": "assessing-authorisation-applications",
+      "courseId": 17,
       "slug": "assessing-authorisation-applications",
       "title": "Assessing Authorisation Applications",
       "summary": "The aim of this workshop is to build a structured methodology for assessing new licence applications, including scrutinising business plans, financial projections, and organisational readiness.",
@@ -825,6 +842,7 @@
     },
     {
       "id": "assessing-capital-adequacy-icaap-in-practice",
+      "courseId": 18,
       "slug": "assessing-capital-adequacy-icaap-in-practice",
       "title": "Assessing Capital Adequacy: ICAAP in Practice",
       "summary": "Learn how to review a bank's Internal Capital Adequacy Assessment Process (ICAAP) and form a supervisory view on its capital adequacy.",
@@ -876,6 +894,7 @@
     },
     {
       "id": "assessing-firms-cyber-governance-and-controls",
+      "courseId": 19,
       "slug": "assessing-firms-cyber-governance-and-controls",
       "title": "Assessing Firms' Cyber Governance and Controls",
       "summary": "The aim of this workshop is to build participants' skills in evaluating a firm's IT governance, board-level oversight of cyber risk, and the adequacy of its security policies and data integrity controls.",
@@ -921,6 +940,7 @@
     },
     {
       "id": "assessing-liquidity-adequacy-ilaap-in-practice",
+      "courseId": 20,
       "slug": "assessing-liquidity-adequacy-ilaap-in-practice",
       "title": "Assessing Liquidity Adequacy: ILAAP in Practice",
       "summary": "Learn how to review a bank's Internal Liquidity Adequacy Assessment Process (ILAAP), including funding risk and liquidity stress assumptions.",
@@ -972,6 +992,7 @@
     },
     {
       "id": "asset-management-regulatory-landscape",
+      "courseId": 21,
       "slug": "asset-management-regulatory-landscape",
       "title": "Asset Management Regulatory Landscape",
       "summary": "Focus: AIFMD, UCITS and Cross-Border Regulation in Asset Management. Objective: exploring the complexities of asset management regulations.",
@@ -1021,6 +1042,7 @@
     },
     {
       "id": "bank-governance-and-the-srep",
+      "courseId": 22,
       "slug": "bank-governance-and-the-srep",
       "title": "Bank Governance and the SREP",
       "summary": "Learn how the Supervisory Review and Evaluation Process (SREP) brings together governance, risk, capital, and liquidity assessment into an overall supervisory view.",
@@ -1072,6 +1094,7 @@
     },
     {
       "id": "bank-recovery-and-resolution-planning",
+      "courseId": 23,
       "slug": "bank-recovery-and-resolution-planning",
       "title": "Bank Recovery and Resolution Planning",
       "summary": "Learn how to assess a bank's recovery plan and understand the resolvability considerations that link to crisis management (Layer 1, Pillar G).",
@@ -1123,6 +1146,7 @@
     },
     {
       "id": "best-execution-and-client-order-handling-supervision",
+      "courseId": 24,
       "slug": "best-execution-and-client-order-handling-supervision",
       "title": "Best Execution and Client Order Handling Supervision",
       "summary": "The aim of this workshop is to build participants' skills in supervising firms' best execution and client order handling practices, including assessing execution quality monitoring and reporting.",
@@ -1168,6 +1192,7 @@
     },
     {
       "id": "bias-and-fairness-assessment-in-financial-ai-systems",
+      "courseId": 25,
       "slug": "bias-and-fairness-assessment-in-financial-ai-systems",
       "title": "Bias and Fairness Assessment in Financial AI Systems",
       "summary": "The aim of this workshop is to build participants' skills in assessing AI systems used in credit decisioning, insurance underwriting, and other financial services for bias and fairness, applying recognised testing methodologies.",
@@ -1213,6 +1238,7 @@
     },
     {
       "id": "budgeting-process",
+      "courseId": 26,
       "slug": "budgeting-process",
       "title": "Budgeting Process",
       "summary": "Build understanding of the organisation’s budgeting process.",
@@ -1263,6 +1289,7 @@
     },
     {
       "id": "building-an-authority-s-own-suptech-capability",
+      "courseId": 27,
       "slug": "building-an-authority-s-own-suptech-capability",
       "title": "Building an Authority's Own SupTech Capability",
       "summary": "The aim of this workshop is to help participants think through the practical considerations in building a supervisory authority's own SupTech capability, including tool selection, in-house analytics skills, and the build-versus-buy decision.",
@@ -1308,6 +1335,7 @@
     },
     {
       "id": "building-resilience-in-high-pressure-supervisory-roles",
+      "courseId": 28,
       "slug": "building-resilience-in-high-pressure-supervisory-roles",
       "title": "Building Resilience in High-Pressure Supervisory Roles",
       "summary": "The aim of this workshop is to build participants' practical techniques for managing the unique pressures of supervisory work, including high-profile casework, public scrutiny, and sustained workload, to support long-term resilience and wellbeing.",
@@ -1353,6 +1381,7 @@
     },
     {
       "id": "building-supervisory-data-infrastructure",
+      "courseId": 29,
       "slug": "building-supervisory-data-infrastructure",
       "title": "Building Supervisory Data Infrastructure",
       "summary": "The aim of this workshop is to build participants' understanding of the data and case-management infrastructure that underpins risk-based supervision, and to develop practical skills for evaluating and improving that infrastructure across functions.",
@@ -1398,6 +1427,7 @@
     },
     {
       "id": "building-team-cohesion-for-high-performance",
+      "courseId": 30,
       "slug": "building-team-cohesion-for-high-performance",
       "title": "Building Team Cohesion for High Performance",
       "summary": "Learn how to design structures, routines, and team practices that build cohesion and support sustained high performance.",
@@ -1448,6 +1478,7 @@
     },
     {
       "id": "business-model-analysis",
+      "courseId": 31,
       "slug": "business-model-analysis",
       "title": "Business Model Analysis",
       "summary": "Equips supervisors to conduct business model analysis (BMA) as a core part of supervisory risk assessment: how firms develop corporate strategy and business models, why and how supervisors assess them, qualitative and quantitative analytical methods, and how to score and…",
@@ -1494,6 +1525,7 @@
     },
     {
       "id": "change-of-control-and-ownership-assessment",
+      "courseId": 32,
       "slug": "change-of-control-and-ownership-assessment",
       "title": "Change of Control and Ownership Assessment",
       "summary": "The aim of this workshop is to build participants' skills in assessing proposed changes of control and complex ownership structures, including cross-border and beneficial ownership considerations.",
@@ -1540,6 +1572,7 @@
     },
     {
       "id": "climate-change-considerations-in-corporate-strategy",
+      "courseId": 33,
       "slug": "climate-change-considerations-in-corporate-strategy",
       "title": "Climate Change Considerations in Corporate Strategy",
       "summary": "Examine how climate change impacts business and the integration of climate considerations into strategy.",
@@ -1590,6 +1623,7 @@
     },
     {
       "id": "coaching-and-mentoring-leading-and-empowering-others",
+      "courseId": 34,
       "slug": "coaching-and-mentoring-leading-and-empowering-others",
       "title": "Coaching and Mentoring: Leading and Empowering Others",
       "summary": "Master coaching and mentoring skills to guide colleagues and support team development.",
@@ -1640,6 +1674,7 @@
     },
     {
       "id": "collaborative-decision-making-skills",
+      "courseId": 35,
       "slug": "collaborative-decision-making-skills",
       "title": "Collaborative Decision-Making Skills",
       "summary": "Learn how to use empathy, perspective-taking, and cognitive diversity to improve collaborative problem-solving and team decision-making.",
@@ -1690,6 +1725,7 @@
     },
     {
       "id": "communicating-with-impact",
+      "courseId": 36,
       "slug": "communicating-with-impact",
       "title": "Communicating with Impact",
       "summary": "Learn how to communicate clearly, manage difficult conversations, and apply emotional intelligence in professional interactions.",
@@ -1740,6 +1776,7 @@
     },
     {
       "id": "compliance-outcomes-based-supervision-cobs",
+      "courseId": 37,
       "slug": "compliance-outcomes-based-supervision-cobs",
       "title": "Compliance Outcomes-Based Supervision (COBS)",
       "summary": "Introduce the COBS methodology and its role in effective, efficient supervision.",
@@ -1790,6 +1827,7 @@
     },
     {
       "id": "consumer-protection-supervision-foundations",
+      "courseId": 38,
       "slug": "consumer-protection-supervision-foundations",
       "title": "Consumer Protection Supervision: Foundations",
       "summary": "The aim of this workshop is to equip supervisors with the foundational knowledge needed to assess consumer protection outcomes in regulated firms. Participants will learn how product governance, fair value assessment, and disclosure requirements combine to protect consumers,…",
@@ -1835,6 +1873,7 @@
     },
     {
       "id": "cooperating-with-prosecutors-and-other-authorities",
+      "courseId": 39,
       "slug": "cooperating-with-prosecutors-and-other-authorities",
       "title": "Cooperating with Prosecutors and Other Authorities",
       "summary": "The aim of this workshop is to build participants' understanding of how supervisory authorities cooperate with criminal prosecutors and other enforcement bodies, including managing parallel proceedings and information-sharing gateways.",
@@ -1880,6 +1919,7 @@
     },
     {
       "id": "countercyclical-buffers-and-macroprudential-tools",
+      "courseId": 40,
       "slug": "countercyclical-buffers-and-macroprudential-tools",
       "title": "Countercyclical Buffers and Macroprudential Tools",
       "summary": "Learn about the macroprudential toolkit — countercyclical capital buffers, sectoral capital requirements, and borrower-based measures — and the considerations in deciding when to deploy each.",
@@ -1930,6 +1970,7 @@
     },
     {
       "id": "credit-risk-supervision",
+      "courseId": 41,
       "slug": "credit-risk-supervision",
       "title": "Credit Risk Supervision",
       "summary": "Learn how to assess credit risk, provisioning adequacy, and conduct an asset quality review of a bank's loan book.",
@@ -1981,6 +2022,7 @@
     },
     {
       "id": "crisis-communication-for-supervisory-authorities",
+      "courseId": 42,
       "slug": "crisis-communication-for-supervisory-authorities",
       "title": "Crisis Communication for Supervisory Authorities",
       "summary": "The aim of this workshop is to build participants' skills in communicating effectively with the public, industry, and government during a financial crisis or firm failure, building on general media communication skills with crisis-specific technique.",
@@ -2026,6 +2068,7 @@
     },
     {
       "id": "crisis-simulation-exercise-firm-specific-distress",
+      "courseId": 43,
       "slug": "crisis-simulation-exercise-firm-specific-distress",
       "title": "Crisis Simulation Exercise: Firm-Specific Distress",
       "summary": "The aim of this workshop is to give participants hands-on practice in supervisory decision-making, escalation, and coordination under time pressure through a simulated firm-distress scenario.",
@@ -2071,6 +2114,7 @@
     },
     {
       "id": "critical-thinking-for-problem-solving",
+      "courseId": 44,
       "slug": "critical-thinking-for-problem-solving",
       "title": "Critical Thinking for Problem-Solving",
       "summary": "Develop critical thinking skills to analyse problems, evaluate solutions, and make strategic decisions.",
@@ -2121,6 +2165,7 @@
     },
     {
       "id": "cross-border-crypto-supervision-and-cooperation",
+      "courseId": 45,
       "slug": "cross-border-crypto-supervision-and-cooperation",
       "title": "Cross-Border Crypto Supervision & Cooperation",
       "summary": "The aim of this workshop is to build participants' understanding of how crypto-asset firms operate across borders, the risks of regulatory arbitrage, and the cooperation mechanisms supervisors use — including MiCA passporting — to maintain effective oversight.",
@@ -2166,6 +2211,7 @@
     },
     {
       "id": "cross-border-management-structures-and-delegation",
+      "courseId": 46,
       "slug": "cross-border-management-structures-and-delegation",
       "title": "Cross-Border Management Structures and Delegation",
       "summary": "The aim of this workshop is to build participants' understanding of how cross-border management structures and delegation arrangements operate, and how supervisors assess substance and guard against 'letter-box' entity risk.",
@@ -2211,6 +2257,7 @@
     },
     {
       "id": "cross-cultural-communication-for-international-supervisors",
+      "courseId": 47,
       "slug": "cross-cultural-communication-for-international-supervisors",
       "title": "Cross-Cultural Communication for International Supervisors",
       "summary": "The aim of this workshop is to build participants' skills in communicating effectively in cross-border supervisory contexts, including supervisory colleges and international cooperation frameworks, recognising cultural differences in communication style and expectations.",
@@ -2256,6 +2303,7 @@
     },
     {
       "id": "crypto-and-blockchain-fundamentals",
+      "courseId": 48,
       "slug": "crypto-and-blockchain-fundamentals",
       "title": "Crypto & Blockchain Fundamentals",
       "summary": "Learn the foundational concepts behind crypto-asset markets and blockchain technology.",
@@ -2306,6 +2354,7 @@
     },
     {
       "id": "crypto-custody-and-wallet-security",
+      "courseId": 49,
       "slug": "crypto-custody-and-wallet-security",
       "title": "Crypto Custody & Wallet Security",
       "summary": "The aim of this workshop is to build participants' understanding of the technical and operational considerations in crypto-asset custody, including private key management, storage architecture, and how supervisors can assess a firm's custody control framework and…",
@@ -2351,6 +2400,7 @@
     },
     {
       "id": "cyber-incident-management-and-supervisory-intervention",
+      "courseId": 50,
       "slug": "cyber-incident-management-and-supervisory-intervention",
       "title": "Cyber Incident Management and Supervisory Intervention",
       "summary": "The aim of this workshop is to build participants' skills in assessing a firm's cyber incident recovery procedures and disclosure protocols, and understanding the supervisory intervention tools available when incidents occur.",
@@ -2396,6 +2446,7 @@
     },
     {
       "id": "cybersecurity-and-business-continuity",
+      "courseId": 51,
       "slug": "cybersecurity-and-business-continuity",
       "title": "Cybersecurity and Business Continuity",
       "summary": "Build staff awareness of current cybersecurity trends and business continuity responsibilities. Typical audience: organisation-wide.",
@@ -2446,6 +2497,7 @@
     },
     {
       "id": "data-governance-for-supervisory-decision-making",
+      "courseId": 52,
       "slug": "data-governance-for-supervisory-decision-making",
       "title": "Data Governance for Supervisory Decision-Making",
       "summary": "The aim of this workshop is to build participants' understanding of data governance principles and their application to supervisory decision-making, ensuring that decisions are supported by reliable, well-governed data.",
@@ -2491,6 +2543,7 @@
     },
     {
       "id": "data-protection",
+      "courseId": 53,
       "slug": "data-protection",
       "title": "Data Protection",
       "summary": "Build understanding of data protection obligations and best practice.",
@@ -2541,6 +2594,7 @@
     },
     {
       "id": "decentralised-finance-defi-supervisory-challenges",
+      "courseId": 54,
       "slug": "decentralised-finance-defi-supervisory-challenges",
       "title": "Decentralised Finance (DeFi): Supervisory Challenges",
       "summary": "The aim of this workshop is to build participants' understanding of how DeFi protocols operate outside traditional intermediated structures, examining the supervisory and regulatory perimeter challenges this creates and the tools available to address them.",
@@ -2586,6 +2640,7 @@
     },
     {
       "id": "designing-a-competency-framework-for-supervisors",
+      "courseId": 55,
       "slug": "designing-a-competency-framework-for-supervisors",
       "title": "Designing a Competency Framework for Supervisors",
       "summary": "The aim of this workshop is to build participants' skills in designing a structured competency framework and certification pathway for supervisory staff, drawing on models such as Toronto Centre's Certified Financial Supervisor programme (mandatory Core Curriculum plus…",
@@ -2631,6 +2686,7 @@
     },
     {
       "id": "detecting-crypto-market-risks",
+      "courseId": 56,
       "slug": "detecting-crypto-market-risks",
       "title": "Detecting Crypto Market Risks",
       "summary": "Learn how to identify market abuse, sector vulnerabilities, and misconduct risks in crypto markets.",
@@ -2681,6 +2737,7 @@
     },
     {
       "id": "determining-proportionate-sanctions",
+      "courseId": 57,
       "slug": "determining-proportionate-sanctions",
       "title": "Determining Proportionate Sanctions",
       "summary": "The aim of this workshop is to build participants' skills in applying a sanctioning framework consistently, weighing aggravating and mitigating factors and maintaining consistency with precedent while addressing the specific facts of a case.",
@@ -2726,6 +2783,7 @@
     },
     {
       "id": "digital-influencers-in-finance-risks-and-regulatory-implications",
+      "courseId": 58,
       "slug": "digital-influencers-in-finance-risks-and-regulatory-implications",
       "title": "Digital Influencers in Finance: Risks and Regulatory Implications",
       "summary": "Examine the role of digital influencers in finance, focusing on compliance challenges and consumer protection risks.",
@@ -2776,6 +2834,7 @@
     },
     {
       "id": "digital-operational-resilience",
+      "courseId": 59,
       "slug": "digital-operational-resilience",
       "title": "Digital Operational Resilience",
       "summary": "Learn how to assess digital operational resilience under DORA, applying supervisory judgement to ICT risk management and incident reporting.",
@@ -2826,6 +2885,7 @@
     },
     {
       "id": "digital-tools-and-workplace-technology",
+      "courseId": 60,
       "slug": "digital-tools-and-workplace-technology",
       "title": "Digital Tools & Workplace Technology",
       "summary": "Build familiarity and confidence with the organisation’s digital tools and workplace technology platforms.",
@@ -2876,6 +2936,7 @@
     },
     {
       "id": "distributed-ledger-technology-in-practice",
+      "courseId": 61,
       "slug": "distributed-ledger-technology-in-practice",
       "title": "Distributed Ledger Technology in Practice",
       "summary": "Learn how DLT-based systems and tokenised market infrastructures operate under the DLT Pilot Regime.",
@@ -2926,6 +2987,7 @@
     },
     {
       "id": "e-security-anti-malware-and-eid-signing",
+      "courseId": 62,
       "slug": "e-security-anti-malware-and-eid-signing",
       "title": "E-Security: Anti-Malware and eID Signing",
       "summary": "Understand and implement e-security measures including anti-malware strategies and eID signing.",
@@ -2976,6 +3038,7 @@
     },
     {
       "id": "early-intervention-recognising-and-acting-on-warning-signs",
+      "courseId": 63,
       "slug": "early-intervention-recognising-and-acting-on-warning-signs",
       "title": "Early Intervention: Recognising and Acting on Warning Signs",
       "summary": "The aim of this workshop is to build participants' ability to recognise early warning signs of firm distress and apply a structured intervention ladder before problems become crises.",
@@ -3021,6 +3084,7 @@
     },
     {
       "id": "effective-media-communication",
+      "courseId": 64,
       "slug": "effective-media-communication",
       "title": "Effective Media Communication",
       "summary": "Develop skills for effective and confident communication with media and external stakeholders.",
@@ -3071,6 +3135,7 @@
     },
     {
       "id": "effective-participation-in-supervisory-colleges",
+      "courseId": 65,
       "slug": "effective-participation-in-supervisory-colleges",
       "title": "Effective Participation in Supervisory Colleges",
       "summary": "The aim of this workshop is to prepare participants to participate effectively in supervisory colleges, building skills in joint risk assessment and coordinated decision-making with fellow supervisors from other jurisdictions.",
@@ -3117,6 +3182,7 @@
     },
     {
       "id": "effective-teamwork-and-delegation",
+      "courseId": 66,
       "slug": "effective-teamwork-and-delegation",
       "title": "Effective Teamwork and Delegation",
       "summary": "Learn how to work effectively as a team while delegating tasks clearly and maintaining accountability.",
@@ -3167,6 +3233,7 @@
     },
     {
       "id": "entry-level-aml-cft-knowledge",
+      "courseId": 67,
       "slug": "entry-level-aml-cft-knowledge",
       "title": "Entry-Level AML/CFT Knowledge",
       "summary": "Provide new joiners with foundational AML/CFT knowledge. Typical audience: new joiners.",
@@ -3217,6 +3284,7 @@
     },
     {
       "id": "esg-scoring-and-sustainability-reporting-standards",
+      "courseId": 68,
       "slug": "esg-scoring-and-sustainability-reporting-standards",
       "title": "ESG Scoring and Sustainability Reporting Standards",
       "summary": "Explore the methodologies behind ESG scoring and corporate sustainability reporting best practice.",
@@ -3267,6 +3335,7 @@
     },
     {
       "id": "ethics-bias-and-accountability-in-financial-crime-ai",
+      "courseId": 70,
       "slug": "ethics-bias-and-accountability-in-financial-crime-ai",
       "title": "Ethics, Bias & Accountability in Financial Crime AI",
       "summary": "The aim of this workshop is to build participants' skills in identifying and assessing bias and discriminatory outcomes in AI-driven financial crime systems, and the accountability, audit, and human-in-the-loop safeguards supervisors should expect firms to maintain.",
@@ -3312,6 +3381,7 @@
     },
     {
       "id": "ethics-policy",
+      "courseId": 69,
       "slug": "ethics-policy",
       "title": "Ethics Policy",
       "summary": "Build awareness and understanding of the organisation’s ethics policy and expected standards of conduct.",
@@ -3362,6 +3432,7 @@
     },
     {
       "id": "evidence-gathering-to-an-enforcement-standard",
+      "courseId": 71,
       "slug": "evidence-gathering-to-an-enforcement-standard",
       "title": "Evidence-Gathering to an Enforcement Standard",
       "summary": "The aim of this workshop is to build participants' skills in gathering and preserving evidence to a standard suitable for enforcement or court proceedings, including disclosure obligations and maintaining a defensible evidential record.",
@@ -3407,6 +3478,7 @@
     },
     {
       "id": "excel-and-power-bi-for-supervisory-data-analysis",
+      "courseId": 72,
       "slug": "excel-and-power-bi-for-supervisory-data-analysis",
       "title": "Excel and Power BI for Supervisory Data Analysis",
       "summary": "Leverage Excel for data management and use Power BI for advanced data analysis and visualisation techniques for supervisory use cases.",
@@ -3457,6 +3529,7 @@
     },
     {
       "id": "executive-coaching",
+      "courseId": 73,
       "slug": "executive-coaching",
       "title": "Executive Coaching",
       "summary": "Provide tailored, on-demand coaching interventions to support individual leadership development needs.",
@@ -3507,6 +3580,7 @@
     },
     {
       "id": "exercising-supervisory-judgement-under-uncertainty",
+      "courseId": 74,
       "slug": "exercising-supervisory-judgement-under-uncertainty",
       "title": "Exercising Supervisory Judgement Under Uncertainty",
       "summary": "The aim of this workshop is to build participants' skills in exercising supervisory judgement when information is incomplete or ambiguous, recognising common cognitive biases and applying frameworks that improve consistency and defensibility of decisions.",
@@ -3552,6 +3626,7 @@
     },
     {
       "id": "financial-inclusion-and-access-to-services",
+      "courseId": 75,
       "slug": "financial-inclusion-and-access-to-services",
       "title": "Financial Inclusion and Access to Services",
       "summary": "The aim of this workshop is to introduce participants to financial inclusion as a policy and supervisory concern, exploring the barriers that prevent access to financial services and the regulatory tools available to promote inclusive access without compromising other…",
@@ -3597,6 +3672,7 @@
     },
     {
       "id": "financial-supervision-independence",
+      "courseId": 76,
       "slug": "financial-supervision-independence",
       "title": "Financial Supervision Independence",
       "summary": "Identifying and addressing main pitfalls in financial supervision.",
@@ -3647,6 +3723,7 @@
     },
     {
       "id": "first-impressions-count-elevating-employee-onboarding-experience",
+      "courseId": 77,
       "slug": "first-impressions-count-elevating-employee-onboarding-experience",
       "title": "First Impressions Count: Elevating Employee Onboarding Experience",
       "summary": "Learn strategies for an impactful and effective onboarding process.",
@@ -3697,6 +3774,7 @@
     },
     {
       "id": "fit-and-proper-assessment-in-practice",
+      "courseId": 78,
       "slug": "fit-and-proper-assessment-in-practice",
       "title": "Fit and Proper Assessment in Practice",
       "summary": "The aim of this workshop is to build participants' skills in assessing the fitness and propriety of controllers, directors, and senior managers, both at authorisation and on an ongoing basis, applying consistent, defensible criteria.",
@@ -3743,6 +3821,7 @@
     },
     {
       "id": "fostering-a-high-performance-culture",
+      "courseId": 79,
       "slug": "fostering-a-high-performance-culture",
       "title": "Fostering a High-Performance Culture",
       "summary": "Learn how to establish the behavioural foundations that enable teams to collaborate openly, safely, and proactively.",
@@ -3793,6 +3872,7 @@
     },
     {
       "id": "foundations-of-financial-services-rule-making",
+      "courseId": 80,
       "slug": "foundations-of-financial-services-rule-making",
       "title": "Foundations of Financial Services Rule-Making",
       "summary": "The aim of this workshop is to build participants' understanding of how a supervisory authority makes rules, covering the legal hierarchy between primary legislation, secondary rules, and guidance, and the core principles of clear, enforceable regulatory drafting.",
@@ -3838,6 +3918,7 @@
     },
     {
       "id": "foundations-of-insurance-supervision",
+      "courseId": 81,
       "slug": "foundations-of-insurance-supervision",
       "title": "Foundations of Insurance Supervision",
       "summary": "Learn the foundations of insurance business models and the distinction between prudential and conduct supervision of insurers.",
@@ -3888,6 +3969,7 @@
     },
     {
       "id": "foundations-of-payment-institution-and-e-money-regulation",
+      "courseId": 82,
       "slug": "foundations-of-payment-institution-and-e-money-regulation",
       "title": "Foundations of Payment Institution and E-Money Regulation",
       "summary": "The aim of this workshop is to build participants' understanding of the regulatory foundations for authorising and supervising payment institutions and e-money issuers, including current PSD3/PSR transition considerations.",
@@ -3933,6 +4015,7 @@
     },
     {
       "id": "foundations-of-pension-scheme-supervision",
+      "courseId": 83,
       "slug": "foundations-of-pension-scheme-supervision",
       "title": "Foundations of Pension Scheme Supervision",
       "summary": "Learn the foundations of pension scheme types, funding models, and the regulatory perimeter for pension supervision.",
@@ -3983,6 +4066,7 @@
     },
     {
       "id": "foundations-of-prudential-banking-supervision",
+      "courseId": 84,
       "slug": "foundations-of-prudential-banking-supervision",
       "title": "Foundations of Prudential Banking Supervision",
       "summary": "Learn the foundations of prudential banking supervision, including capital and liquidity concepts and the scope of the prudential regulatory perimeter.",
@@ -4034,6 +4118,7 @@
     },
     {
       "id": "foundations-of-regulatory-enforcement",
+      "courseId": 85,
       "slug": "foundations-of-regulatory-enforcement",
       "title": "Foundations of Regulatory Enforcement",
       "summary": "The aim of this workshop is to build participants' understanding of a supervisory authority's enforcement function — what powers exist, how the decision to open an investigation is made, and how cases are triaged and prioritised.",
@@ -4079,6 +4164,7 @@
     },
     {
       "id": "fraud-detection-and-behavioural-analytics",
+      "courseId": 86,
       "slug": "fraud-detection-and-behavioural-analytics",
       "title": "Fraud Detection & Behavioural Analytics",
       "summary": "The aim of this workshop is to build participants' understanding of how AI-enabled fraud detection systems operate across payments and banking channels, examining behavioural analytics and biometric techniques, and the supervisory considerations for assessing firms' fraud…",
@@ -4124,6 +4210,7 @@
     },
     {
       "id": "from-international-standard-to-domestic-rule-transposition-in-practice",
+      "courseId": 87,
       "slug": "from-international-standard-to-domestic-rule-transposition-in-practice",
       "title": "From International Standard to Domestic Rule: Transposition in Practice",
       "summary": "The aim of this workshop is to build participants' understanding of how international and EU-level standards are translated into domestic rules, including the risks of over- or under-implementation, so that transposition decisions are made deliberately rather than by default.",
@@ -4169,6 +4256,7 @@
     },
     {
       "id": "fund-liquidity-stress-testing-in-practice",
+      "courseId": 88,
       "slug": "fund-liquidity-stress-testing-in-practice",
       "title": "Fund Liquidity Stress Testing in Practice",
       "summary": "The aim of this workshop is to build participants' skills in applying regulatory liquidity stress-testing frameworks in practice, assessing redemption assumptions, liquidity management tools, and the adequacy of a fund's liquidity risk management.",
@@ -4214,6 +4302,7 @@
     },
     {
       "id": "fund-manager-outsourcing-and-third-party-risk",
+      "courseId": 89,
       "slug": "fund-manager-outsourcing-and-third-party-risk",
       "title": "Fund Manager Outsourcing & Third-Party Risk",
       "summary": "The aim of this workshop is to build participants' understanding of how fund managers structure delegation and outsourcing arrangements, and how supervisors assess effective oversight of third-party arrangements.",
@@ -4259,6 +4348,7 @@
     },
     {
       "id": "fund-valuation-practical-supervisory-techniques",
+      "courseId": 90,
       "slug": "fund-valuation-practical-supervisory-techniques",
       "title": "Fund Valuation: Practical Supervisory Techniques",
       "summary": "The aim of this workshop is to build practical techniques for assessing fund valuation governance and methodology, with particular focus on hard-to-value and illiquid assets and the conflicts of interest that can arise in valuation processes.",
@@ -4304,6 +4394,7 @@
     },
     {
       "id": "funding-and-investment-risk-in-pension-schemes",
+      "courseId": 91,
       "slug": "funding-and-investment-risk-in-pension-schemes",
       "title": "Funding and Investment Risk in Pension Schemes",
       "summary": "Learn how to assess funding adequacy and oversee investment strategy risk within a pension scheme.",
@@ -4354,6 +4445,7 @@
     },
     {
       "id": "generative-ai-risks-in-financial-crime-new-typologies",
+      "courseId": 92,
       "slug": "generative-ai-risks-in-financial-crime-new-typologies",
       "title": "Generative AI Risks in Financial Crime: New Typologies",
       "summary": "The aim of this workshop is to build participants' awareness of how criminals are using generative AI to create new financial crime typologies — including synthetic identity fraud, deepfake-enabled onboarding fraud, and AI-generated social engineering — and how supervisors and…",
@@ -4399,6 +4491,7 @@
     },
     {
       "id": "governance-for-supervisory-authorities-board-and-executive-practice",
+      "courseId": 93,
       "slug": "governance-for-supervisory-authorities-board-and-executive-practice",
       "title": "Governance for Supervisory Authorities: Board & Executive Practice",
       "summary": "The aim of this workshop is to build participants' understanding of the governance structures and practices that support effective decision-making and accountability within a supervisory authority's own board and executive.",
@@ -4445,6 +4538,7 @@
     },
     {
       "id": "governance-risk-assessment-and-interview-skills",
+      "courseId": 94,
       "slug": "governance-risk-assessment-and-interview-skills",
       "title": "Governance Risk Assessment & Interview Skills",
       "summary": "Combines two linked supervisory disciplines: assessing governance risk in regulated firms, and conducting effective supervisory interviews with directors and senior managers.",
@@ -4492,6 +4586,7 @@
     },
     {
       "id": "green-finance-revolution-understanding-sustainable-finance-and-green-bonds",
+      "courseId": 95,
       "slug": "green-finance-revolution-understanding-sustainable-finance-and-green-bonds",
       "title": "Green Finance Revolution: Understanding Sustainable Finance & Green Bonds",
       "summary": "Introduce the fundamentals of sustainable finance and the specifics of green bonds.",
@@ -4542,6 +4637,7 @@
     },
     {
       "id": "group-wide-supervision-of-cross-border-financial-groups",
+      "courseId": 96,
       "slug": "group-wide-supervision-of-cross-border-financial-groups",
       "title": "Group-Wide Supervision of Cross-Border Financial Groups",
       "summary": "The aim of this workshop is to equip participants with the skills to supervise financial groups operating across multiple jurisdictions on a consolidated, group-wide basis, including assessing intra-group exposures and the risks of complex group structures.",
@@ -4588,6 +4684,7 @@
     },
     {
       "id": "having-difficult-supervisory-conversations",
+      "courseId": 97,
       "slug": "having-difficult-supervisory-conversations",
       "title": "Having Difficult Supervisory Conversations",
       "summary": "The aim of this workshop is to build participants' skills in delivering difficult messages to regulated firms — including adverse findings and escalation decisions — while managing pushback constructively and maintaining a professional, credible supervisory relationship.",
@@ -4633,6 +4730,7 @@
     },
     {
       "id": "home-host-relationships-in-cross-border-supervision",
+      "courseId": 98,
       "slug": "home-host-relationships-in-cross-border-supervision",
       "title": "Home-Host Relationships in Cross-Border Supervision",
       "summary": "The aim of this workshop is to build participants' understanding of the Basel Core Principle on home-host relationships and to develop the practical skills needed to cooperate effectively with other supervisory authorities in the consolidated supervision of cross-border banking…",
@@ -4679,6 +4777,7 @@
     },
     {
       "id": "identifying-and-protecting-vulnerable-customers",
+      "courseId": 99,
       "slug": "identifying-and-protecting-vulnerable-customers",
       "title": "Identifying and Protecting Vulnerable Customers",
       "summary": "The aim of this workshop is to build supervisors' ability to assess how firms identify and respond to customer vulnerability. Participants will learn the drivers of vulnerability, how firms should adapt products, communications and service for vulnerable customers, and how to…",
@@ -4724,6 +4823,7 @@
     },
     {
       "id": "instant-payments-and-payment-system-oversight",
+      "courseId": 100,
       "slug": "instant-payments-and-payment-system-oversight",
       "title": "Instant Payments and Payment System Oversight",
       "summary": "The aim of this workshop is to build participants' understanding of the regulatory framework for instant/fast payments and the oversight considerations specific to payment system operators and settlement risk.",
@@ -4769,6 +4869,7 @@
     },
     {
       "id": "insurance-governance-and-conduct-supervision",
+      "courseId": 101,
       "slug": "insurance-governance-and-conduct-supervision",
       "title": "Insurance Governance and Conduct Supervision",
       "summary": "Learn how to assess insurer governance and conduct risk, including fair treatment of policyholders.",
@@ -4819,6 +4920,7 @@
     },
     {
       "id": "internal-audit-objective-and-purpose",
+      "courseId": 102,
       "slug": "internal-audit-objective-and-purpose",
       "title": "Internal Audit: Objective and Purpose",
       "summary": "Build understanding of the role, objective, and purpose of the internal audit function.",
@@ -4869,6 +4971,7 @@
     },
     {
       "id": "international-cooperation-for-supervisors",
+      "courseId": 103,
       "slug": "international-cooperation-for-supervisors",
       "title": "International Cooperation for Supervisors",
       "summary": "The aim of this workshop is to build participants' understanding of how supervisory authorities engage in cross-border cooperation and international standard-setting, and how to participate effectively in supervisory colleges and MoU frameworks.",
@@ -4915,6 +5018,7 @@
     },
     {
       "id": "interrogating-regulatory-returns",
+      "courseId": 104,
       "slug": "interrogating-regulatory-returns",
       "title": "Interrogating Regulatory Returns",
       "summary": "Learn how to interrogate regulatory returns data critically, applying trend analysis and peer comparison rather than accepting figures at face value.",
@@ -4965,6 +5069,7 @@
     },
     {
       "id": "interview-insights-mastering-recruitment-and-applicant-expectations",
+      "courseId": 105,
       "slug": "interview-insights-mastering-recruitment-and-applicant-expectations",
       "title": "Interview Insights: Mastering Recruitment and Applicant Expectations",
       "summary": "Develop skills for conducting effective interviews and managing candidate expectations.",
@@ -5015,6 +5120,7 @@
     },
     {
       "id": "intranet-and-it-service-desk-platform-utilisation",
+      "courseId": 106,
       "slug": "intranet-and-it-service-desk-platform-utilisation",
       "title": "Intranet and IT Service Desk Platform Utilisation",
       "summary": "Effective use of internal intranet and IT service desk platforms for communication and support.",
@@ -5065,6 +5171,7 @@
     },
     {
       "id": "introduction-to-sql-for-supervisory-data",
+      "courseId": 107,
       "slug": "introduction-to-sql-for-supervisory-data",
       "title": "Introduction to SQL for Supervisory Data",
       "summary": "Learn foundational SQL skills to query regulatory return and case-management data directly rather than relying solely on pre-built reports.",
@@ -5115,6 +5222,7 @@
     },
     {
       "id": "investigative-and-interviewing-skills",
+      "courseId": 108,
       "slug": "investigative-and-interviewing-skills",
       "title": "Investigative and Interviewing Skills",
       "summary": "Learn how to conduct effective interviews and gather reliable information during on-site inspections.",
@@ -5165,6 +5273,7 @@
     },
     {
       "id": "issuer-disclosure-as-investor-protection",
+      "courseId": 109,
       "slug": "issuer-disclosure-as-investor-protection",
       "title": "Issuer Disclosure as Investor Protection",
       "summary": "The aim of this workshop is to deepen participants' understanding of issuer disclosure as a core investor-protection mechanism, drawing on IOSCO's Principles for Issuers, and to build practical skills in assessing whether disclosure practices are full, accurate, and timely.",
@@ -5210,6 +5319,7 @@
     },
     {
       "id": "know-your-data",
+      "courseId": 110,
       "slug": "know-your-data",
       "title": "Know Your Data",
       "summary": "Best practices in general data management, distinct from the supervisory analytics skills in S4.",
@@ -5260,6 +5370,7 @@
     },
     {
       "id": "knowledge-management-for-supervisory-authorities",
+      "courseId": 111,
       "slug": "knowledge-management-for-supervisory-authorities",
       "title": "Knowledge Management for Supervisory Authorities",
       "summary": "The aim of this workshop is to build participants' skills in designing systems and practices that preserve institutional knowledge and supervisory precedent despite staff turnover.",
@@ -5305,6 +5416,7 @@
     },
     {
       "id": "leap",
+      "courseId": 112,
       "slug": "leap",
       "title": "LEAP",
       "summary": "Provide structured, self-paced and facilitated leadership development content for participants at all stages of the leadership journey.",
@@ -5355,6 +5467,7 @@
     },
     {
       "id": "legal-drafting-for-regulators",
+      "courseId": 113,
       "slug": "legal-drafting-for-regulators",
       "title": "Legal Drafting for Regulators",
       "summary": "The aim of this workshop is to build core legal drafting skills for producing rules and guidance that are clear, internally consistent, and enforceable in practice.",
@@ -5400,6 +5513,7 @@
     },
     {
       "id": "legal-preparedness-court-proceedings-and-testimony-skills",
+      "courseId": 114,
       "slug": "legal-preparedness-court-proceedings-and-testimony-skills",
       "title": "Legal Preparedness: Court Proceedings and Testimony Skills",
       "summary": "Train participants in the legal aspects of providing testimonies and evidence in court.",
@@ -5450,6 +5564,7 @@
     },
     {
       "id": "macroprudential-policy-and-systemic-risk-monitoring",
+      "courseId": 115,
       "slug": "macroprudential-policy-and-systemic-risk-monitoring",
       "title": "Macroprudential Policy & Systemic Risk Monitoring",
       "summary": "Learn how to build a systemic risk dashboard and identify the build-up of system-wide vulnerabilities across firms and sectors, rather than relying solely on firm-level crisis indicators.",
@@ -5500,6 +5615,7 @@
     },
     {
       "id": "manager-governance-remuneration-and-conflicts-of-interest",
+      "courseId": 116,
       "slug": "manager-governance-remuneration-and-conflicts-of-interest",
       "title": "Manager Governance, Remuneration and Conflicts of Interest",
       "summary": "The aim of this workshop is to build participants' skills in assessing an investment manager's own governance arrangements, remuneration structures, and conflicts-of-interest controls.",
@@ -5545,6 +5661,7 @@
     },
     {
       "id": "managing-people-through-effective-communication-and-coaching",
+      "courseId": 117,
       "slug": "managing-people-through-effective-communication-and-coaching",
       "title": "Managing People Through Effective Communication & Coaching",
       "summary": "Strengthen managers’ ability to manage people confidently through effective communication, coaching techniques, and supportive guidance.",
@@ -5595,6 +5712,7 @@
     },
     {
       "id": "managing-systemic-risk-and-contagion",
+      "courseId": 118,
       "slug": "managing-systemic-risk-and-contagion",
       "title": "Managing Systemic Risk and Contagion",
       "summary": "The aim of this workshop is to build participants' understanding of systemic risk and contagion channels, and the macroprudential tools available to address them.",
@@ -5640,6 +5758,7 @@
     },
     {
       "id": "managing-with-clarity-and-intention",
+      "courseId": 119,
       "slug": "managing-with-clarity-and-intention",
       "title": "Managing with Clarity & Intention",
       "summary": "Equip managers with process-based thinking to support structured decision-making and effective prioritisation in day-to-day management practice.",
@@ -5690,6 +5809,7 @@
     },
     {
       "id": "managing-with-emotional-intelligence-and-accountability",
+      "courseId": 120,
       "slug": "managing-with-emotional-intelligence-and-accountability",
       "title": "Managing with Emotional Intelligence & Accountability",
       "summary": "Build managers’ self-awareness and accountability practices that foster a strong feedback culture and enhance team performance.",
@@ -5740,6 +5860,7 @@
     },
     {
       "id": "market-abuse-detection-and-surveillance",
+      "courseId": 121,
       "slug": "market-abuse-detection-and-surveillance",
       "title": "Market Abuse Detection & Surveillance",
       "summary": "The aim of this workshop is to build participants' understanding of how market abuse is detected through surveillance systems, and how supervisors assess the adequacy of firms' own surveillance and monitoring capability.",
@@ -5785,6 +5906,7 @@
     },
     {
       "id": "market-and-operational-risk-in-banking",
+      "courseId": 122,
       "slug": "market-and-operational-risk-in-banking",
       "title": "Market and Operational Risk in Banking",
       "summary": "Learn how to assess trading book market risk and operational risk frameworks within a banking supervisory context.",
@@ -5836,6 +5958,7 @@
     },
     {
       "id": "market-infrastructure-supervision-ccps-csds-and-trading-venues",
+      "courseId": 123,
       "slug": "market-infrastructure-supervision-ccps-csds-and-trading-venues",
       "title": "Market Infrastructure Supervision: CCPs, CSDs and Trading Venues",
       "summary": "The aim of this workshop is to build participants' understanding of the regulatory framework for central counterparties, central securities depositories, and trading venues, and the supervisory considerations specific to critical market infrastructure.",
@@ -5881,6 +6004,7 @@
     },
     {
       "id": "mastering-investment-services-regulations",
+      "courseId": 124,
       "slug": "mastering-investment-services-regulations",
       "title": "Mastering Investment Services Regulations",
       "summary": "Understanding regulations impacting investment services.",
@@ -5931,6 +6055,7 @@
     },
     {
       "id": "mastering-microsoft-office-365-and-outlook",
+      "courseId": 125,
       "slug": "mastering-microsoft-office-365-and-outlook",
       "title": "Mastering Microsoft Office 365 and Outlook",
       "summary": "Build comprehensive understanding of the Microsoft Office 365 suite, with focus on advanced Outlook features.",
@@ -5981,6 +6106,7 @@
     },
     {
       "id": "mastering-time-management-and-prioritisation",
+      "courseId": 126,
       "slug": "mastering-time-management-and-prioritisation",
       "title": "Mastering Time Management & Prioritisation",
       "summary": "Learn practical tools for managing competing demands and focusing on high-value activities.",
@@ -6031,6 +6157,7 @@
     },
     {
       "id": "measuring-supervisory-effectiveness",
+      "courseId": 127,
       "slug": "measuring-supervisory-effectiveness",
       "title": "Measuring Supervisory Effectiveness",
       "summary": "The aim of this workshop is to build participants' skills in designing and using metrics that meaningfully measure supervisory effectiveness and outcomes, drawing on approaches used in international assessments such as IMF/World Bank Financial Sector Assessment Programs (FSAPs).",
@@ -6077,6 +6204,7 @@
     },
     {
       "id": "member-protection-and-retirement-outcomes",
+      "courseId": 128,
       "slug": "member-protection-and-retirement-outcomes",
       "title": "Member Protection and Retirement Outcomes",
       "summary": "Learn how to assess member communication quality and the risks members face at the point of decumulation.",
@@ -6127,6 +6255,7 @@
     },
     {
       "id": "mentoring-conversations-that-work",
+      "courseId": 129,
       "slug": "mentoring-conversations-that-work",
       "title": "Mentoring Conversations That Work",
       "summary": "Learn how to hold effective coaching conversations that support colleagues’ development and motivation.",
@@ -6177,6 +6306,7 @@
     },
     {
       "id": "mica-and-beyond-exploring-crypto-assets-regulation",
+      "courseId": 131,
       "slug": "mica-and-beyond-exploring-crypto-assets-regulation",
       "title": "MiCA and Beyond: Exploring Crypto-Assets Regulation",
       "summary": "Introduced the purpose and drivers of the MiCA Regulation, the roles of different operators in the crypto-asset ecosystem, the implications of PSD2 for crypto-asset service providers, and the operational and custody considerations supervisors should apply to EMT/ART issuers and…",
@@ -6225,6 +6355,7 @@
     },
     {
       "id": "mica-and-supervising-casps",
+      "courseId": 130,
       "slug": "mica-and-supervising-casps",
       "title": "MiCA & Supervising CASPs",
       "summary": "Learn how to apply MiCA requirements when assessing and supervising crypto-asset service providers.",
@@ -6275,6 +6406,7 @@
     },
     {
       "id": "money-market-funds-regulation-and-systemic-risk",
+      "courseId": 132,
       "slug": "money-market-funds-regulation-and-systemic-risk",
       "title": "Money Market Funds: Regulation and Systemic Risk",
       "summary": "The aim of this workshop is to build participants' understanding of how money market funds are regulated under the MMFR and the systemic risk considerations that drive regulatory reform, and the supervisory tools used to assess MMF resilience.",
@@ -6320,6 +6452,7 @@
     },
     {
       "id": "navigating-capital-market-regulations",
+      "courseId": 133,
       "slug": "navigating-capital-market-regulations",
       "title": "Navigating Capital Market Regulations",
       "summary": "Gaining insights into the capital market regulatory environment.",
@@ -6370,6 +6503,7 @@
     },
     {
       "id": "negotiation-persuasion-and-critical-thinking",
+      "courseId": 134,
       "slug": "negotiation-persuasion-and-critical-thinking",
       "title": "Negotiation, Persuasion & Critical Thinking",
       "summary": "Learn how to use structured reasoning and communication strategies to negotiate effectively and make well-reasoned decisions.",
@@ -6420,6 +6554,7 @@
     },
     {
       "id": "open-banking-and-third-party-provider-access",
+      "courseId": 135,
       "slug": "open-banking-and-third-party-provider-access",
       "title": "Open Banking and Third-Party Provider Access",
       "summary": "The aim of this workshop is to build participants' understanding of how open banking access rights operate under PSD2/PSD3, and the supervisory considerations for account information and payment initiation service providers.",
@@ -6465,6 +6600,7 @@
     },
     {
       "id": "operational-resilience-testing-and-scenario-analysis",
+      "courseId": 136,
       "slug": "operational-resilience-testing-and-scenario-analysis",
       "title": "Operational Resilience Testing and Scenario Analysis",
       "summary": "The aim of this workshop is to build participants' understanding of how firms design and test operational resilience scenarios, and how supervisors assess the adequacy of impact tolerances and testing programmes.",
@@ -6510,6 +6646,7 @@
     },
     {
       "id": "passporting-and-cross-border-authorisation",
+      "courseId": 137,
       "slug": "passporting-and-cross-border-authorisation",
       "title": "Passporting and Cross-Border Authorisation",
       "summary": "The aim of this workshop is to build participants' understanding of how passporting and cross-border authorisation regimes operate in practice, and the cooperation expected between home and host supervisors.",
@@ -6556,6 +6693,7 @@
     },
     {
       "id": "payment-fraud-and-app-scam-prevention",
+      "courseId": 138,
       "slug": "payment-fraud-and-app-scam-prevention",
       "title": "Payment Fraud and APP Scam Prevention",
       "summary": "The aim of this workshop is to build participants' understanding of how payment fraud, including authorised push payment scams, is regulated and prevented, and the supervisory considerations around liability allocation and fraud reporting.",
@@ -6601,6 +6739,7 @@
     },
     {
       "id": "pension-scheme-administration-and-outsourcing",
+      "courseId": 139,
       "slug": "pension-scheme-administration-and-outsourcing",
       "title": "Pension Scheme Administration and Outsourcing",
       "summary": "Learn how to assess the quality of pension scheme administration and oversight of outsourced administration providers.",
@@ -6651,6 +6790,7 @@
     },
     {
       "id": "pension-scheme-governance",
+      "courseId": 140,
       "slug": "pension-scheme-governance",
       "title": "Pension Scheme Governance",
       "summary": "Learn how to assess the effectiveness of a pension scheme's trustee board or governing body, including conflicts of interest.",
@@ -6701,6 +6841,7 @@
     },
     {
       "id": "performance-management-process",
+      "courseId": 141,
       "slug": "performance-management-process",
       "title": "Performance Management Process",
       "summary": "Build understanding of the organisation’s performance management process and expectations.",
@@ -6751,6 +6892,7 @@
     },
     {
       "id": "performance-measurement-and-disclosure-supervision",
+      "courseId": 142,
       "slug": "performance-measurement-and-disclosure-supervision",
       "title": "Performance Measurement and Disclosure Supervision",
       "summary": "The aim of this workshop is to build participants' understanding of how investment performance is measured, attributed, and disclosed, and how supervisors assess the accuracy and fairness of performance claims used in marketing.",
@@ -6796,6 +6938,7 @@
     },
     {
       "id": "physical-security",
+      "courseId": 143,
       "slug": "physical-security",
       "title": "Physical Security",
       "summary": "Build awareness of physical security procedures and responsibilities. Typical audience: new joiners.",
@@ -6846,6 +6989,7 @@
     },
     {
       "id": "private-markets-and-alternative-asset-supervision",
+      "courseId": 144,
       "slug": "private-markets-and-alternative-asset-supervision",
       "title": "Private Markets & Alternative Asset Supervision",
       "summary": "The aim of this workshop is to build participants' understanding of how private equity, private credit and real asset funds are structured and supervised, including the supervisory implications of the retailisation of private markets under regimes such as ELTIF 2.0.",
@@ -6891,6 +7035,7 @@
     },
     {
       "id": "procedural-fairness-in-enforcement-decisions",
+      "courseId": 145,
       "slug": "procedural-fairness-in-enforcement-decisions",
       "title": "Procedural Fairness in Enforcement Decisions",
       "summary": "The aim of this workshop is to build participants' understanding of the principles of procedural fairness that must be applied in enforcement decision-making, including the right to make representations and managing conflicts of interest.",
@@ -6936,6 +7081,7 @@
     },
     {
       "id": "psd3-psr-transition-and-supervisory-implications",
+      "courseId": 146,
       "slug": "psd3-psr-transition-and-supervisory-implications",
       "title": "PSD3/PSR: Transition and Supervisory Implications",
       "summary": "The aim of this workshop is to build participants' understanding of the key changes introduced by PSD3 and the Payment Services Regulation compared to PSD2, and the practical implications for supervisors managing the transition.",
@@ -6981,6 +7127,7 @@
     },
     {
       "id": "public-speaking-and-presentation-skills-from-preparation-to-delivery",
+      "courseId": 147,
       "slug": "public-speaking-and-presentation-skills-from-preparation-to-delivery",
       "title": "Public Speaking and Presentation Skills: From Preparation to Delivery",
       "summary": "Learn how to design and deliver presentations with clarity, confidence, and impact.",
@@ -7031,6 +7178,7 @@
     },
     {
       "id": "records-management-policy",
+      "courseId": 148,
       "slug": "records-management-policy",
       "title": "Records Management Policy",
       "summary": "Build understanding of records management policy and responsibilities. Typical audience: new joiners.",
@@ -7081,6 +7229,7 @@
     },
     {
       "id": "recovery-and-resolution-planning-for-supervisors",
+      "courseId": 149,
       "slug": "recovery-and-resolution-planning-for-supervisors",
       "title": "Recovery and Resolution Planning for Supervisors",
       "summary": "The aim of this workshop is to build participants' skills in assessing the credibility of firms' recovery plans and understanding the supervisor's role in resolution planning and resolvability assessment.",
@@ -7126,6 +7275,7 @@
     },
     {
       "id": "regulatory-impact-assessment-in-practice",
+      "courseId": 150,
       "slug": "regulatory-impact-assessment-in-practice",
       "title": "Regulatory Impact Assessment in Practice",
       "summary": "The aim of this workshop is to build practical skills in assessing the impact of proposed rules — costs and benefits to industry and consumers, proportionality, and identifying unintended consequences before rules are finalised.",
@@ -7171,6 +7321,7 @@
     },
     {
       "id": "reinsurance-and-investment-risk-in-insurers",
+      "courseId": 151,
       "slug": "reinsurance-and-investment-risk-in-insurers",
       "title": "Reinsurance and Investment Risk in Insurers",
       "summary": "Learn how to assess reinsurance arrangements and the oversight of investment risk within an insurance undertaking.",
@@ -7221,6 +7372,7 @@
     },
     {
       "id": "report-writing-for-regulatory-impact",
+      "courseId": 152,
       "slug": "report-writing-for-regulatory-impact",
       "title": "Report Writing for Regulatory Impact",
       "summary": "Learn how to produce clear, structured, and compelling regulatory reports that support effective supervisory decisions.",
@@ -7271,6 +7423,7 @@
     },
     {
       "id": "reviewing-an-insurer-s-orsa",
+      "courseId": 153,
       "slug": "reviewing-an-insurer-s-orsa",
       "title": "Reviewing an Insurer's ORSA",
       "summary": "Learn how to review an insurer's Own Risk and Solvency Assessment (ORSA) and form a supervisory judgement on its quality.",
@@ -7321,6 +7474,7 @@
     },
     {
       "id": "risk-assessment-and-red-flagging-process",
+      "courseId": 154,
       "slug": "risk-assessment-and-red-flagging-process",
       "title": "Risk Assessment & Red Flagging Process",
       "summary": "Build understanding of internal risk assessment methodology and the red-flagging process for financial crime compliance.",
@@ -7371,6 +7525,7 @@
     },
     {
       "id": "risk-based-supervision-of-payment-institutions",
+      "courseId": 156,
       "slug": "risk-based-supervision-of-payment-institutions",
       "title": "Risk-Based Supervision of Payment Institutions",
       "summary": "The aim of this workshop is to build participants' skills in applying a risk-based approach to supervising payment institutions, drawing on published supervisory guidance in this area, including how to assess safeguarding of client funds.",
@@ -7416,6 +7571,7 @@
     },
     {
       "id": "risk-based-supervision-prioritisation-under-resource-constraints",
+      "courseId": 157,
       "slug": "risk-based-supervision-prioritisation-under-resource-constraints",
       "title": "Risk-Based Supervision: Prioritisation Under Resource Constraints",
       "summary": "The aim of this workshop is to build participants' skills in designing and applying a risk-based supervisory approach that allocates limited supervisory resource to the areas of greatest risk, addressing the common challenge of unclear mandates and resource constraints.",
@@ -7461,6 +7617,7 @@
     },
     {
       "id": "risk-governance-and-thematic-review-panels",
+      "courseId": 155,
       "slug": "risk-governance-and-thematic-review-panels",
       "title": "Risk Governance & Thematic Review Panels",
       "summary": "Prepares supervisory staff to participate effectively in risk governance panels (RGPs) and thematic review panels (TRPs) — internal governance mechanisms used to review and challenge supervisory assessments and thematic findings.",
@@ -7507,6 +7664,7 @@
     },
     {
       "id": "running-an-effective-regulatory-consultation",
+      "courseId": 158,
       "slug": "running-an-effective-regulatory-consultation",
       "title": "Running an Effective Regulatory Consultation",
       "summary": "The aim of this workshop is to build participants' skills in designing and running an effective public consultation on proposed rules, including stakeholder engagement strategy and how to analyse and respond to consultation feedback transparently.",
@@ -7552,6 +7710,7 @@
     },
     {
       "id": "sanctions-compliance-supervision",
+      "courseId": 159,
       "slug": "sanctions-compliance-supervision",
       "title": "Sanctions Compliance Supervision",
       "summary": "The aim of this workshop is to build participants' skills in supervising firms' sanctions compliance frameworks, including screening obligations and assessment of control effectiveness.",
@@ -7597,6 +7756,7 @@
     },
     {
       "id": "securing-and-defending-operational-independence",
+      "courseId": 160,
       "slug": "securing-and-defending-operational-independence",
       "title": "Securing and Defending Operational Independence",
       "summary": "The aim of this workshop is to build participants' understanding of the practical and legal foundations of supervisory independence, and how authorities defend and account for that independence to government and other stakeholders.",
@@ -7643,6 +7803,7 @@
     },
     {
       "id": "security-awareness-training-e-g-knowbe4",
+      "courseId": 161,
       "slug": "security-awareness-training-e-g-knowbe4",
       "title": "Security Awareness Training (e.g. KnowBe4)",
       "summary": "Build organisation-wide security awareness through structured, recurring training.",
@@ -7693,6 +7854,7 @@
     },
     {
       "id": "senior-leadership-workshops",
+      "courseId": 162,
       "slug": "senior-leadership-workshops",
       "title": "Senior Leadership Workshops",
       "summary": "Deliver focused workshop content targeting senior leadership capability.",
@@ -7743,6 +7905,7 @@
     },
     {
       "id": "setting-regulatory-strategy-and-priorities",
+      "courseId": 163,
       "slug": "setting-regulatory-strategy-and-priorities",
       "title": "Setting Regulatory Strategy and Priorities",
       "summary": "The aim of this workshop is to equip participants with the skills to translate a supervisory authority's statutory mandate into a strategic plan and prioritised work programme, balancing risk, resource, and stakeholder expectations.",
@@ -7789,6 +7952,7 @@
     },
     {
       "id": "setting-supervisory-tolerance-and-strategy-for-cyber-risk",
+      "courseId": 164,
       "slug": "setting-supervisory-tolerance-and-strategy-for-cyber-risk",
       "title": "Setting Supervisory Tolerance and Strategy for Cyber Risk",
       "summary": "The aim of this workshop is to build participants' skills in establishing a supervisory tolerance for cyber-related harm and prioritising supervisory resource allocation across the regulated population.",
@@ -7834,6 +7998,7 @@
     },
     {
       "id": "settlement-and-negotiated-outcomes-in-enforcement",
+      "courseId": 165,
       "slug": "settlement-and-negotiated-outcomes-in-enforcement",
       "title": "Settlement and Negotiated Outcomes in Enforcement",
       "summary": "The aim of this workshop is to build participants' understanding of the practical and strategic considerations in negotiating settlements with firms under investigation, including when settlement is and is not appropriate.",
@@ -7879,6 +8044,7 @@
     },
     {
       "id": "solvency-ii-in-practice",
+      "courseId": 166,
       "slug": "solvency-ii-in-practice",
       "title": "Solvency II in Practice",
       "summary": "Learn how the Solvency Capital Requirement and technical provisions work in practice, and how supervisors assess compliance.",
@@ -7929,6 +8095,7 @@
     },
     {
       "id": "spotting-ai-system-vulnerabilities",
+      "courseId": 167,
       "slug": "spotting-ai-system-vulnerabilities",
       "title": "Spotting AI System Vulnerabilities",
       "summary": "Learn from real-world case studies how regulators use AI to strengthen oversight and efficiency.",
@@ -7979,6 +8146,7 @@
     },
     {
       "id": "stablecoins-e-money-tokens-and-asset-referenced-tokens",
+      "courseId": 168,
       "slug": "stablecoins-e-money-tokens-and-asset-referenced-tokens",
       "title": "Stablecoins, E-Money Tokens & Asset-Referenced Tokens",
       "summary": "The aim of this workshop is to build participants' understanding of how stablecoin issuers structure reserves and redemption mechanisms under MiCA, and how supervisors assess run risk, reserve adequacy, and the operational resilience of EMT/ART issuers.",
@@ -8024,6 +8192,7 @@
     },
     {
       "id": "stress-testing-for-banking-supervisors",
+      "courseId": 169,
       "slug": "stress-testing-for-banking-supervisors",
       "title": "Stress Testing for Banking Supervisors",
       "summary": "Learn how stress-testing scenarios are designed and how to interpret capital and liquidity outcomes under stress.",
@@ -8075,6 +8244,7 @@
     },
     {
       "id": "supervising-ai-driven-financial-crime-systems",
+      "courseId": 170,
       "slug": "supervising-ai-driven-financial-crime-systems",
       "title": "Supervising AI-Driven Financial Crime Systems",
       "summary": "The aim of this workshop is to build participants' skills in assessing the governance, validation, and explainability of AI systems deployed by firms for AML/CFT purposes, applying supervisory judgement to model risk and human oversight controls.",
@@ -8120,6 +8290,7 @@
     },
     {
       "id": "supervising-aml-cft-obligations-in-practice",
+      "courseId": 171,
       "slug": "supervising-aml-cft-obligations-in-practice",
       "title": "Supervising AML/CFT Obligations in Practice",
       "summary": "Learn how to apply AML/CFT requirements consistently across supervisory processes and decision-making.",
@@ -8170,6 +8341,7 @@
     },
     {
       "id": "supervising-complaints-handling",
+      "courseId": 172,
       "slug": "supervising-complaints-handling",
       "title": "Supervising Complaints Handling",
       "summary": "The aim of this workshop is to build participants' ability to supervise firms' complaints-handling frameworks effectively, including assessing root-cause analysis practices and the operation of redress schemes, so that complaints data is used as a genuine early-warning…",
@@ -8215,6 +8387,7 @@
     },
     {
       "id": "supervising-investment-advice-and-suitability",
+      "courseId": 173,
       "slug": "supervising-investment-advice-and-suitability",
       "title": "Supervising Investment Advice and Suitability",
       "summary": "The aim of this workshop is to build participants' skills in supervising the quality of investment advice given to clients, including suitability assessment and product governance controls.",
@@ -8260,6 +8433,7 @@
     },
     {
       "id": "supervisory-judgment",
+      "courseId": 174,
       "slug": "supervisory-judgment",
       "title": "Supervisory Judgment",
       "summary": "Strengthen participants’ skills in applying supervisory judgment across authorisation and ongoing supervision.",
@@ -8310,6 +8484,7 @@
     },
     {
       "id": "supervisory-technology-trends-and-innovations",
+      "courseId": 175,
       "slug": "supervisory-technology-trends-and-innovations",
       "title": "Supervisory Technology Trends and Innovations",
       "summary": "Understanding technological advancements in financial supervision.",
@@ -8360,6 +8535,7 @@
     },
     {
       "id": "sustainable-finance-supervisory-insights",
+      "courseId": 176,
       "slug": "sustainable-finance-supervisory-insights",
       "title": "Sustainable Finance: Supervisory Insights",
       "summary": "Discussed sustainability risk assessments and their implications for supervised entities, equipping participants to address sustainability risk and integrate sustainable finance into day-to-day supervision.",
@@ -8408,6 +8584,7 @@
     },
     {
       "id": "the-actuarial-function-in-supervision",
+      "courseId": 177,
       "slug": "the-actuarial-function-in-supervision",
       "title": "The Actuarial Function in Supervision",
       "summary": "Learn the role of the actuarial function within insurer governance and how supervisors assess its effectiveness.",
@@ -8458,6 +8635,7 @@
     },
     {
       "id": "the-cyber-threat-landscape-for-supervised-firms",
+      "courseId": 178,
       "slug": "the-cyber-threat-landscape-for-supervised-firms",
       "title": "The Cyber Threat Landscape for Supervised Firms",
       "summary": "The aim of this workshop is to build participants' understanding of the cyber threat landscape facing regulated firms, including internal and external threat actors and their likely targets within financial market infrastructure. Structure informed by Toronto Centre's published…",
@@ -8503,6 +8681,7 @@
     },
     {
       "id": "the-eu-ai-act-and-financial-regulation-interplay-and-overlaps",
+      "courseId": 179,
       "slug": "the-eu-ai-act-and-financial-regulation-interplay-and-overlaps",
       "title": "The EU AI Act and Financial Regulation: Interplay and Overlaps",
       "summary": "The aim of this workshop is to build participants' understanding of how the EU AI Act's requirements interact with existing sectoral financial regulation, including where AI Act high-risk classifications apply to financial services AI systems.",
@@ -8548,6 +8727,7 @@
     },
     {
       "id": "third-party-and-cloud-outsourcing-risk",
+      "courseId": 180,
       "slug": "third-party-and-cloud-outsourcing-risk",
       "title": "Third-Party and Cloud Outsourcing Risk",
       "summary": "The aim of this workshop is to build participants' skills in assessing firms' reliance on critical third-party and cloud providers, including concentration risk and the adequacy of exit strategies.",
@@ -8593,6 +8773,7 @@
     },
     {
       "id": "tokenisation-of-traditional-assets",
+      "courseId": 181,
       "slug": "tokenisation-of-traditional-assets",
       "title": "Tokenisation of Traditional Assets",
       "summary": "The aim of this workshop is to build participants' understanding of how traditional financial assets are tokenised and traded on distributed ledger infrastructure, and the supervisory considerations as tokenised and traditional market infrastructure converge.",
@@ -8638,6 +8819,7 @@
     },
     {
       "id": "tokenization-and-digital-assets",
+      "courseId": 182,
       "slug": "tokenization-and-digital-assets",
       "title": "Tokenization & Digital Assets",
       "summary": "Learn how tokenised products and digital assets are structured and issued under emerging regulatory frameworks.",
@@ -8688,6 +8870,7 @@
     },
     {
       "id": "understanding-business-models",
+      "courseId": 183,
       "slug": "understanding-business-models",
       "title": "Understanding Business Models",
       "summary": "Learn how to assess firms’ business models and link them to prudential, conduct, and AML/CFT risks.",
@@ -8738,6 +8921,7 @@
     },
     {
       "id": "understanding-fintech-models",
+      "courseId": 184,
       "slug": "understanding-fintech-models",
       "title": "Understanding FinTech Models",
       "summary": "Learn how different FinTech business models operate, assessing regulatory boundaries and operational risks.",
@@ -8788,6 +8972,7 @@
     },
     {
       "id": "understanding-ml-tf-typologies",
+      "courseId": 185,
       "slug": "understanding-ml-tf-typologies",
       "title": "Understanding ML/TF Typologies",
       "summary": "Learn how to identify key money laundering/terrorist financing typologies and recognise red flags in real-world scenarios.",
@@ -8838,6 +9023,7 @@
     },
     {
       "id": "understanding-portfolio-management-practice",
+      "courseId": 186,
       "slug": "understanding-portfolio-management-practice",
       "title": "Understanding Portfolio Management Practice",
       "summary": "The aim of this workshop is to build participants' understanding of how portfolio managers construct and manage portfolios against mandates, and how supervisors assess mandate compliance and risk budgeting practice.",
@@ -8883,6 +9069,7 @@
     },
     {
       "id": "underwriting-risk-and-reserving",
+      "courseId": 187,
       "slug": "underwriting-risk-and-reserving",
       "title": "Underwriting Risk and Reserving",
       "summary": "Learn how to assess underwriting risk and the adequacy of an insurer's reserving practices.",
@@ -8933,6 +9120,7 @@
     },
     {
       "id": "using-ai-tools-at-work",
+      "courseId": 188,
       "slug": "using-ai-tools-at-work",
       "title": "Using AI Tools at Work",
       "summary": "Learn how to integrate AI productivity tools into daily workflows safely and effectively.",
@@ -8983,6 +9171,7 @@
     },
     {
       "id": "using-testing-and-audit-data-in-cyber-supervision",
+      "courseId": 189,
       "slug": "using-testing-and-audit-data-in-cyber-supervision",
       "title": "Using Testing and Audit Data in Cyber Supervision",
       "summary": "The aim of this workshop is to build participants' skills in using a firm's own testing metrics and internal audit findings as core supervisory data sources for assessing cyber resilience.",
@@ -9028,6 +9217,7 @@
     },
     {
       "id": "workforce-planning-for-specialist-regulatory-functions",
+      "courseId": 190,
       "slug": "workforce-planning-for-specialist-regulatory-functions",
       "title": "Workforce Planning for Specialist Regulatory Functions",
       "summary": "The aim of this workshop is to build participants' skills in planning and resourcing a supervisory workforce with the right mix of generalist and specialist skills, addressing recruitment and retention challenges specific to regulatory bodies.",
@@ -9073,6 +9263,7 @@
     },
     {
       "id": "writing-for-impact-supervisory-correspondence-and-public-statements",
+      "courseId": 191,
       "slug": "writing-for-impact-supervisory-correspondence-and-public-statements",
       "title": "Writing for Impact: Supervisory Correspondence and Public Statements",
       "summary": "The aim of this workshop is to build participants' skills in writing clear, authoritative supervisory correspondence and public statements that are accurate, defensible, and appropriately calibrated for their audience, from firm-level letters to public communications.",

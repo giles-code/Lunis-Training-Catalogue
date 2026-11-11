@@ -1,5 +1,6 @@
 ---
 id: critical-thinking-for-problem-solving
+courseId: 44
 slug: critical-thinking-for-problem-solving
 title: "Critical Thinking for Problem-Solving"
 summary: "Develop critical thinking skills to analyse problems, evaluate solutions, and make strategic decisions."

@@ -1,5 +1,6 @@
 ---
 id: crypto-custody-and-wallet-security
+courseId: 49
 slug: crypto-custody-and-wallet-security
 title: "Crypto Custody & Wallet Security"
 summary: "The aim of this workshop is to build participants' understanding of the technical and operational considerations in crypto-asset custody, including private key management, storage architecture, and how supervisors can assess a firm's custody control framework and…"

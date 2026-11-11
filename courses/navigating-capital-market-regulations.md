@@ -1,5 +1,6 @@
 ---
 id: navigating-capital-market-regulations
+courseId: 133
 slug: navigating-capital-market-regulations
 title: "Navigating Capital Market Regulations"
 summary: "Gaining insights into the capital market regulatory environment."

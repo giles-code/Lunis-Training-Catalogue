@@ -1,5 +1,6 @@
 ---
 id: market-and-operational-risk-in-banking
+courseId: 122
 slug: market-and-operational-risk-in-banking
 title: "Market and Operational Risk in Banking"
 summary: "Learn how to assess trading book market risk and operational risk frameworks within a banking supervisory context."

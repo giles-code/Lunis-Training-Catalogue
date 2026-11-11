@@ -1,5 +1,6 @@
 ---
 id: setting-supervisory-tolerance-and-strategy-for-cyber-risk
+courseId: 164
 slug: setting-supervisory-tolerance-and-strategy-for-cyber-risk
 title: "Setting Supervisory Tolerance and Strategy for Cyber Risk"
 summary: "The aim of this workshop is to build participants' skills in establishing a supervisory tolerance for cyber-related harm and prioritising supervisory resource allocation across the regulated population."

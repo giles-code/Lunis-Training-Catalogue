@@ -1,5 +1,6 @@
 ---
 id: managing-systemic-risk-and-contagion
+courseId: 118
 slug: managing-systemic-risk-and-contagion
 title: "Managing Systemic Risk and Contagion"
 summary: "The aim of this workshop is to build participants' understanding of systemic risk and contagion channels, and the macroprudential tools available to address them."

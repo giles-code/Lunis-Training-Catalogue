@@ -1,5 +1,6 @@
 ---
 id: exercising-supervisory-judgement-under-uncertainty
+courseId: 74
 slug: exercising-supervisory-judgement-under-uncertainty
 title: "Exercising Supervisory Judgement Under Uncertainty"
 summary: "The aim of this workshop is to build participants' skills in exercising supervisory judgement when information is incomplete or ambiguous, recognising common cognitive biases and applying frameworks that improve consistency and defensibility of decisions."

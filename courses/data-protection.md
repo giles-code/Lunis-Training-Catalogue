@@ -1,5 +1,6 @@
 ---
 id: data-protection
+courseId: 53
 slug: data-protection
 title: "Data Protection"
 summary: "Build understanding of data protection obligations and best practice."

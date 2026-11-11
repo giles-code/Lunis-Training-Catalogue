@@ -1,5 +1,6 @@
 ---
 id: executive-coaching
+courseId: 73
 slug: executive-coaching
 title: "Executive Coaching"
 summary: "Provide tailored, on-demand coaching interventions to support individual leadership development needs."

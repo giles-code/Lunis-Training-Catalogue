@@ -1,5 +1,6 @@
 ---
 id: ai-basics-and-generative-ai
+courseId: 4
 slug: ai-basics-and-generative-ai
 title: "AI Basics & Generative AI"
 summary: "Learn foundational AI concepts and how generative AI can be applied responsibly within daily work."

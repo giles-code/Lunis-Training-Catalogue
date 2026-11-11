@@ -1,5 +1,6 @@
 ---
 id: stress-testing-for-banking-supervisors
+courseId: 169
 slug: stress-testing-for-banking-supervisors
 title: "Stress Testing for Banking Supervisors"
 summary: "Learn how stress-testing scenarios are designed and how to interpret capital and liquidity outcomes under stress."

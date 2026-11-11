@@ -1,5 +1,6 @@
 ---
 id: fostering-a-high-performance-culture
+courseId: 79
 slug: fostering-a-high-performance-culture
 title: "Fostering a High-Performance Culture"
 summary: "Learn how to establish the behavioural foundations that enable teams to collaborate openly, safely, and proactively."

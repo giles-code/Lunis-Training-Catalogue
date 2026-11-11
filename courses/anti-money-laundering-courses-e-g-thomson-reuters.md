@@ -1,5 +1,6 @@
 ---
 id: anti-money-laundering-courses-e-g-thomson-reuters
+courseId: 15
 slug: anti-money-laundering-courses-e-g-thomson-reuters
 title: "Anti-Money Laundering Courses (e.g. Thomson Reuters)"
 summary: "Provide structured AML training to new joiners via established e-learning modules."

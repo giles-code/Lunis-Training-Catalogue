@@ -1,5 +1,6 @@
 ---
 id: designing-a-competency-framework-for-supervisors
+courseId: 55
 slug: designing-a-competency-framework-for-supervisors
 title: "Designing a Competency Framework for Supervisors"
 summary: "The aim of this workshop is to build participants' skills in designing a structured competency framework and certification pathway for supervisory staff, drawing on models such as Toronto Centre's Certified Financial Supervisor programme (mandatory Core Curriculum plus…"

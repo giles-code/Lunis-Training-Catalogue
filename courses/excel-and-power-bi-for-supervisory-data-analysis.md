@@ -1,5 +1,6 @@
 ---
 id: excel-and-power-bi-for-supervisory-data-analysis
+courseId: 72
 slug: excel-and-power-bi-for-supervisory-data-analysis
 title: "Excel and Power BI for Supervisory Data Analysis"
 summary: "Leverage Excel for data management and use Power BI for advanced data analysis and visualisation techniques for supervisory use cases."

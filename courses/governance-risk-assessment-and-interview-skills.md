@@ -1,5 +1,6 @@
 ---
 id: governance-risk-assessment-and-interview-skills
+courseId: 94
 slug: governance-risk-assessment-and-interview-skills
 title: "Governance Risk Assessment & Interview Skills"
 summary: "Combines two linked supervisory disciplines: assessing governance risk in regulated firms, and conducting effective supervisory interviews with directors and senior managers."

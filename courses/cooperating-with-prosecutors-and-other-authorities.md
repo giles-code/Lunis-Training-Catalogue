@@ -1,5 +1,6 @@
 ---
 id: cooperating-with-prosecutors-and-other-authorities
+courseId: 39
 slug: cooperating-with-prosecutors-and-other-authorities
 title: "Cooperating with Prosecutors and Other Authorities"
 summary: "The aim of this workshop is to build participants' understanding of how supervisory authorities cooperate with criminal prosecutors and other enforcement bodies, including managing parallel proceedings and information-sharing gateways."

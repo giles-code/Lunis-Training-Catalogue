@@ -1,5 +1,6 @@
 ---
 id: crypto-and-blockchain-fundamentals
+courseId: 48
 slug: crypto-and-blockchain-fundamentals
 title: "Crypto & Blockchain Fundamentals"
 summary: "Learn the foundational concepts behind crypto-asset markets and blockchain technology."

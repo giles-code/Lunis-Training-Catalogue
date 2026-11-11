@@ -42,6 +42,7 @@ seniority.
 | Field               | Type                       | Notes |
 |---------------------|----------------------------|-------|
 | `id`                | string                     | Unique, must match the filename |
+| `courseId`          | integer                    | Permanent sequential number (1, 2, 3 …), unique, never reused. Drives the course page link `training-catalogue.html?id=<courseId>`. New courses take the next unused number. |
 | `slug`              | string                     | URL-friendly identifier for the course page |
 | `title`             | string                     | |
 | `summary`           | string                     | One or two sentence teaser for listing views |

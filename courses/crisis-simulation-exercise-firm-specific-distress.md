@@ -1,5 +1,6 @@
 ---
 id: crisis-simulation-exercise-firm-specific-distress
+courseId: 43
 slug: crisis-simulation-exercise-firm-specific-distress
 title: "Crisis Simulation Exercise: Firm-Specific Distress"
 summary: "The aim of this workshop is to give participants hands-on practice in supervisory decision-making, escalation, and coordination under time pressure through a simulated firm-distress scenario."

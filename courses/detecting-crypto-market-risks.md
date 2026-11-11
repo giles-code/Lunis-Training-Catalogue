@@ -1,5 +1,6 @@
 ---
 id: detecting-crypto-market-risks
+courseId: 56
 slug: detecting-crypto-market-risks
 title: "Detecting Crypto Market Risks"
 summary: "Learn how to identify market abuse, sector vulnerabilities, and misconduct risks in crypto markets."

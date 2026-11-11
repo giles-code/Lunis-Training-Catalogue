@@ -1,5 +1,6 @@
 ---
 id: adaptability-and-flexibility-leading-and-thriving-in-change
+courseId: 1
 slug: adaptability-and-flexibility-leading-and-thriving-in-change
 title: "Adaptability and Flexibility: Leading and Thriving in Change"
 summary: "Learn strategies to build resilience, adapt to change, and maintain productivity in dynamic environments."

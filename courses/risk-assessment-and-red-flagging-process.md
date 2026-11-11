@@ -1,5 +1,6 @@
 ---
 id: risk-assessment-and-red-flagging-process
+courseId: 154
 slug: risk-assessment-and-red-flagging-process
 title: "Risk Assessment & Red Flagging Process"
 summary: "Build understanding of internal risk assessment methodology and the red-flagging process for financial crime compliance."

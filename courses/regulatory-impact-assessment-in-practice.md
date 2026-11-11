@@ -1,5 +1,6 @@
 ---
 id: regulatory-impact-assessment-in-practice
+courseId: 150
 slug: regulatory-impact-assessment-in-practice
 title: "Regulatory Impact Assessment in Practice"
 summary: "The aim of this workshop is to build practical skills in assessing the impact of proposed rules — costs and benefits to industry and consumers, proportionality, and identifying unintended consequences before rules are finalised."

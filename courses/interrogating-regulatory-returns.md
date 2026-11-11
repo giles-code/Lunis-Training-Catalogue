@@ -1,5 +1,6 @@
 ---
 id: interrogating-regulatory-returns
+courseId: 104
 slug: interrogating-regulatory-returns
 title: "Interrogating Regulatory Returns"
 summary: "Learn how to interrogate regulatory returns data critically, applying trend analysis and peer comparison rather than accepting figures at face value."

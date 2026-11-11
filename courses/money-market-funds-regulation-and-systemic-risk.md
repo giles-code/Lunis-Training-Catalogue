@@ -1,5 +1,6 @@
 ---
 id: money-market-funds-regulation-and-systemic-risk
+courseId: 132
 slug: money-market-funds-regulation-and-systemic-risk
 title: "Money Market Funds: Regulation and Systemic Risk"
 summary: "The aim of this workshop is to build participants' understanding of how money market funds are regulated under the MMFR and the systemic risk considerations that drive regulatory reform, and the supervisory tools used to assess MMF resilience."

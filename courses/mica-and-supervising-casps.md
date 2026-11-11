@@ -1,5 +1,6 @@
 ---
 id: mica-and-supervising-casps
+courseId: 130
 slug: mica-and-supervising-casps
 title: "MiCA & Supervising CASPs"
 summary: "Learn how to apply MiCA requirements when assessing and supervising crypto-asset service providers."

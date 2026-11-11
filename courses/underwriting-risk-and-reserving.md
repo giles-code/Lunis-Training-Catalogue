@@ -1,5 +1,6 @@
 ---
 id: underwriting-risk-and-reserving
+courseId: 187
 slug: underwriting-risk-and-reserving
 title: "Underwriting Risk and Reserving"
 summary: "Learn how to assess underwriting risk and the adequacy of an insurer's reserving practices."

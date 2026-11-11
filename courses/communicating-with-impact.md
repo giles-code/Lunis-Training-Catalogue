@@ -1,5 +1,6 @@
 ---
 id: communicating-with-impact
+courseId: 36
 slug: communicating-with-impact
 title: "Communicating with Impact"
 summary: "Learn how to communicate clearly, manage difficult conversations, and apply emotional intelligence in professional interactions."

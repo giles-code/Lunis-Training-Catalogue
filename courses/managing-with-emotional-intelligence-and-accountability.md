@@ -1,5 +1,6 @@
 ---
 id: managing-with-emotional-intelligence-and-accountability
+courseId: 120
 slug: managing-with-emotional-intelligence-and-accountability
 title: "Managing with Emotional Intelligence & Accountability"
 summary: "Build managers’ self-awareness and accountability practices that foster a strong feedback culture and enhance team performance."

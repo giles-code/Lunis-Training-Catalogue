@@ -1,5 +1,6 @@
 ---
 id: mastering-time-management-and-prioritisation
+courseId: 126
 slug: mastering-time-management-and-prioritisation
 title: "Mastering Time Management & Prioritisation"
 summary: "Learn practical tools for managing competing demands and focusing on high-value activities."

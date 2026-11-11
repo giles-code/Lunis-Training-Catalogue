@@ -1,5 +1,6 @@
 ---
 id: ai-in-trading-and-operational-systems
+courseId: 7
 slug: ai-in-trading-and-operational-systems
 title: "AI in Trading & Operational Systems"
 summary: "Learn how AI is applied in algorithmic trading, market infrastructures, and operational processes."

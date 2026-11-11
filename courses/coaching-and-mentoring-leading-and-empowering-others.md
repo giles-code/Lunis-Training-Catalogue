@@ -1,5 +1,6 @@
 ---
 id: coaching-and-mentoring-leading-and-empowering-others
+courseId: 34
 slug: coaching-and-mentoring-leading-and-empowering-others
 title: "Coaching and Mentoring: Leading and Empowering Others"
 summary: "Master coaching and mentoring skills to guide colleagues and support team development."

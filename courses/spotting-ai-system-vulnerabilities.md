@@ -1,5 +1,6 @@
 ---
 id: spotting-ai-system-vulnerabilities
+courseId: 167
 slug: spotting-ai-system-vulnerabilities
 title: "Spotting AI System Vulnerabilities"
 summary: "Learn from real-world case studies how regulators use AI to strengthen oversight and efficiency."

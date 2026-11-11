@@ -1,5 +1,6 @@
 ---
 id: assessing-liquidity-adequacy-ilaap-in-practice
+courseId: 20
 slug: assessing-liquidity-adequacy-ilaap-in-practice
 title: "Assessing Liquidity Adequacy: ILAAP in Practice"
 summary: "Learn how to review a bank's Internal Liquidity Adequacy Assessment Process (ILAAP), including funding risk and liquidity stress assumptions."

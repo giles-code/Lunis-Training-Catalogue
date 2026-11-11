@@ -1,5 +1,6 @@
 ---
 id: legal-preparedness-court-proceedings-and-testimony-skills
+courseId: 114
 slug: legal-preparedness-court-proceedings-and-testimony-skills
 title: "Legal Preparedness: Court Proceedings and Testimony Skills"
 summary: "Train participants in the legal aspects of providing testimonies and evidence in court."

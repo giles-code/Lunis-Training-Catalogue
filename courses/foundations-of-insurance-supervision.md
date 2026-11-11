@@ -1,5 +1,6 @@
 ---
 id: foundations-of-insurance-supervision
+courseId: 81
 slug: foundations-of-insurance-supervision
 title: "Foundations of Insurance Supervision"
 summary: "Learn the foundations of insurance business models and the distinction between prudential and conduct supervision of insurers."

@@ -1,5 +1,6 @@
 ---
 id: determining-proportionate-sanctions
+courseId: 57
 slug: determining-proportionate-sanctions
 title: "Determining Proportionate Sanctions"
 summary: "The aim of this workshop is to build participants' skills in applying a sanctioning framework consistently, weighing aggravating and mitigating factors and maintaining consistency with precedent while addressing the specific facts of a case."

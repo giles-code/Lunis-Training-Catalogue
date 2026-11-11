@@ -1,5 +1,6 @@
 ---
 id: investigative-and-interviewing-skills
+courseId: 108
 slug: investigative-and-interviewing-skills
 title: "Investigative and Interviewing Skills"
 summary: "Learn how to conduct effective interviews and gather reliable information during on-site inspections."

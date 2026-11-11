@@ -1,5 +1,6 @@
 ---
 id: climate-change-considerations-in-corporate-strategy
+courseId: 33
 slug: climate-change-considerations-in-corporate-strategy
 title: "Climate Change Considerations in Corporate Strategy"
 summary: "Examine how climate change impacts business and the integration of climate considerations into strategy."

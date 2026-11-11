@@ -1,5 +1,6 @@
 ---
 id: ethics-policy
+courseId: 69
 slug: ethics-policy
 title: "Ethics Policy"
 summary: "Build awareness and understanding of the organisation’s ethics policy and expected standards of conduct."

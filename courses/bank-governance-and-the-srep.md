@@ -1,5 +1,6 @@
 ---
 id: bank-governance-and-the-srep
+courseId: 22
 slug: bank-governance-and-the-srep
 title: "Bank Governance and the SREP"
 summary: "Learn how the Supervisory Review and Evaluation Process (SREP) brings together governance, risk, capital, and liquidity assessment into an overall supervisory view."

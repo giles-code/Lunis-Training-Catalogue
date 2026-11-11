@@ -1,5 +1,6 @@
 ---
 id: building-team-cohesion-for-high-performance
+courseId: 30
 slug: building-team-cohesion-for-high-performance
 title: "Building Team Cohesion for High Performance"
 summary: "Learn how to design structures, routines, and team practices that build cohesion and support sustained high performance."

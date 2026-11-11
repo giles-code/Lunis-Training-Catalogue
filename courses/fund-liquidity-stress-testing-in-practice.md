@@ -1,5 +1,6 @@
 ---
 id: fund-liquidity-stress-testing-in-practice
+courseId: 88
 slug: fund-liquidity-stress-testing-in-practice
 title: "Fund Liquidity Stress Testing in Practice"
 summary: "The aim of this workshop is to build participants' skills in applying regulatory liquidity stress-testing frameworks in practice, assessing redemption assumptions, liquidity management tools, and the adequacy of a fund's liquidity risk management."

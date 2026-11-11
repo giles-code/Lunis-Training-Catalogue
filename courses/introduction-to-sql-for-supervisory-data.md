@@ -1,5 +1,6 @@
 ---
 id: introduction-to-sql-for-supervisory-data
+courseId: 107
 slug: introduction-to-sql-for-supervisory-data
 title: "Introduction to SQL for Supervisory Data"
 summary: "Learn foundational SQL skills to query regulatory return and case-management data directly rather than relying solely on pre-built reports."

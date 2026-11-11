@@ -1,5 +1,6 @@
 ---
 id: reviewing-an-insurer-s-orsa
+courseId: 153
 slug: reviewing-an-insurer-s-orsa
 title: "Reviewing an Insurer's ORSA"
 summary: "Learn how to review an insurer's Own Risk and Solvency Assessment (ORSA) and form a supervisory judgement on its quality."

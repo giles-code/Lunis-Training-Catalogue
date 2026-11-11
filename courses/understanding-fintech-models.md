@@ -1,5 +1,6 @@
 ---
 id: understanding-fintech-models
+courseId: 184
 slug: understanding-fintech-models
 title: "Understanding FinTech Models"
 summary: "Learn how different FinTech business models operate, assessing regulatory boundaries and operational risks."

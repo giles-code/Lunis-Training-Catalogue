@@ -1,5 +1,6 @@
 ---
 id: mastering-microsoft-office-365-and-outlook
+courseId: 125
 slug: mastering-microsoft-office-365-and-outlook
 title: "Mastering Microsoft Office 365 and Outlook"
 summary: "Build comprehensive understanding of the Microsoft Office 365 suite, with focus on advanced Outlook features."

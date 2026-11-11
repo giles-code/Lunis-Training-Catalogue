@@ -1,5 +1,6 @@
 ---
 id: stablecoins-e-money-tokens-and-asset-referenced-tokens
+courseId: 168
 slug: stablecoins-e-money-tokens-and-asset-referenced-tokens
 title: "Stablecoins, E-Money Tokens & Asset-Referenced Tokens"
 summary: "The aim of this workshop is to build participants' understanding of how stablecoin issuers structure reserves and redemption mechanisms under MiCA, and how supervisors assess run risk, reserve adequacy, and the operational resilience of EMT/ART issuers."

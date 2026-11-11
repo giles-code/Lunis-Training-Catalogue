@@ -1,5 +1,6 @@
 ---
 id: building-an-authority-s-own-suptech-capability
+courseId: 27
 slug: building-an-authority-s-own-suptech-capability
 title: "Building an Authority's Own SupTech Capability"
 summary: "The aim of this workshop is to help participants think through the practical considerations in building a supervisory authority's own SupTech capability, including tool selection, in-house analytics skills, and the build-versus-buy decision."

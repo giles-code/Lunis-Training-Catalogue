@@ -1,5 +1,6 @@
 ---
 id: negotiation-persuasion-and-critical-thinking
+courseId: 134
 slug: negotiation-persuasion-and-critical-thinking
 title: "Negotiation, Persuasion & Critical Thinking"
 summary: "Learn how to use structured reasoning and communication strategies to negotiate effectively and make well-reasoned decisions."

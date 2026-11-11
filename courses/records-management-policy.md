@@ -1,5 +1,6 @@
 ---
 id: records-management-policy
+courseId: 148
 slug: records-management-policy
 title: "Records Management Policy"
 summary: "Build understanding of records management policy and responsibilities. Typical audience: new joiners."

@@ -1,5 +1,6 @@
 ---
 id: ai-governance-and-sector-risks
+courseId: 5
 slug: ai-governance-and-sector-risks
 title: "AI Governance & Sector Risks"
 summary: "Learn how to assess AI governance frameworks and identify risks associated with AI models used by supervised entities."

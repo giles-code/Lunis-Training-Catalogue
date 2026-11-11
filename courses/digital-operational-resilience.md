@@ -1,5 +1,6 @@
 ---
 id: digital-operational-resilience
+courseId: 59
 slug: digital-operational-resilience
 title: "Digital Operational Resilience"
 summary: "Learn how to assess digital operational resilience under DORA, applying supervisory judgement to ICT risk management and incident reporting."

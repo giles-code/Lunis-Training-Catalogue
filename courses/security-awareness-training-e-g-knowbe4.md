@@ -1,5 +1,6 @@
 ---
 id: security-awareness-training-e-g-knowbe4
+courseId: 161
 slug: security-awareness-training-e-g-knowbe4
 title: "Security Awareness Training (e.g. KnowBe4)"
 summary: "Build organisation-wide security awareness through structured, recurring training."

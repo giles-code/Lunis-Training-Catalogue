@@ -1,5 +1,6 @@
 ---
 id: foundations-of-prudential-banking-supervision
+courseId: 84
 slug: foundations-of-prudential-banking-supervision
 title: "Foundations of Prudential Banking Supervision"
 summary: "Learn the foundations of prudential banking supervision, including capital and liquidity concepts and the scope of the prudential regulatory perimeter."

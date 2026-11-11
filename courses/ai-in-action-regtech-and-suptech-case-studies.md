@@ -1,5 +1,6 @@
 ---
 id: ai-in-action-regtech-and-suptech-case-studies
+courseId: 6
 slug: ai-in-action-regtech-and-suptech-case-studies
 title: "AI in Action: RegTech & SupTech Case Studies"
 summary: "Learn from real-world case studies how regulators use AI to strengthen oversight and efficiency."

@@ -1,5 +1,6 @@
 ---
 id: risk-governance-and-thematic-review-panels
+courseId: 155
 slug: risk-governance-and-thematic-review-panels
 title: "Risk Governance & Thematic Review Panels"
 summary: "Prepares supervisory staff to participate effectively in risk governance panels (RGPs) and thematic review panels (TRPs) — internal governance mechanisms used to review and challenge supervisory assessments and thematic findings."

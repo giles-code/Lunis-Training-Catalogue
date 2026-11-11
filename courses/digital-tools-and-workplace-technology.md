@@ -1,5 +1,6 @@
 ---
 id: digital-tools-and-workplace-technology
+courseId: 60
 slug: digital-tools-and-workplace-technology
 title: "Digital Tools & Workplace Technology"
 summary: "Build familiarity and confidence with the organisation’s digital tools and workplace technology platforms."

@@ -1,5 +1,6 @@
 ---
 id: generative-ai-risks-in-financial-crime-new-typologies
+courseId: 92
 slug: generative-ai-risks-in-financial-crime-new-typologies
 title: "Generative AI Risks in Financial Crime: New Typologies"
 summary: "The aim of this workshop is to build participants' awareness of how criminals are using generative AI to create new financial crime typologies — including synthetic identity fraud, deepfake-enabled onboarding fraud, and AI-generated social engineering — and how supervisors and…"

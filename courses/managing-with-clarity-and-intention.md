@@ -1,5 +1,6 @@
 ---
 id: managing-with-clarity-and-intention
+courseId: 119
 slug: managing-with-clarity-and-intention
 title: "Managing with Clarity & Intention"
 summary: "Equip managers with process-based thinking to support structured decision-making and effective prioritisation in day-to-day management practice."

@@ -1,5 +1,6 @@
 ---
 id: tokenisation-of-traditional-assets
+courseId: 181
 slug: tokenisation-of-traditional-assets
 title: "Tokenisation of Traditional Assets"
 summary: "The aim of this workshop is to build participants' understanding of how traditional financial assets are tokenised and traded on distributed ledger infrastructure, and the supervisory considerations as tokenised and traditional market infrastructure converge."

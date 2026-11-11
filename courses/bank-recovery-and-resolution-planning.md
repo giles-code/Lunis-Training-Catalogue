@@ -1,5 +1,6 @@
 ---
 id: bank-recovery-and-resolution-planning
+courseId: 23
 slug: bank-recovery-and-resolution-planning
 title: "Bank Recovery and Resolution Planning"
 summary: "Learn how to assess a bank's recovery plan and understand the resolvability considerations that link to crisis management (Layer 1, Pillar G)."

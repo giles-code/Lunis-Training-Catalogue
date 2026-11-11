@@ -1,5 +1,6 @@
 ---
 id: green-finance-revolution-understanding-sustainable-finance-and-green-bonds
+courseId: 95
 slug: green-finance-revolution-understanding-sustainable-finance-and-green-bonds
 title: "Green Finance Revolution: Understanding Sustainable Finance & Green Bonds"
 summary: "Introduce the fundamentals of sustainable finance and the specifics of green bonds."

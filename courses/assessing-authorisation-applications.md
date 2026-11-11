@@ -1,5 +1,6 @@
 ---
 id: assessing-authorisation-applications
+courseId: 17
 slug: assessing-authorisation-applications
 title: "Assessing Authorisation Applications"
 summary: "The aim of this workshop is to build a structured methodology for assessing new licence applications, including scrutinising business plans, financial projections, and organisational readiness."

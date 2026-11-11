@@ -1,5 +1,6 @@
 ---
 id: ai-model-explainability-for-supervisors
+courseId: 9
 slug: ai-model-explainability-for-supervisors
 title: "AI Model Explainability for Supervisors"
 summary: "The aim of this workshop is to build participants' practical skills in explainability techniques such as LIME and SHAP, which supervisors can use to assess whether firms' AI models are sufficiently auditable and transparent. Structure informed by EU-SDFA's published course on…"

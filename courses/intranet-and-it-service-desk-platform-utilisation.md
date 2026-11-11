@@ -1,5 +1,6 @@
 ---
 id: intranet-and-it-service-desk-platform-utilisation
+courseId: 106
 slug: intranet-and-it-service-desk-platform-utilisation
 title: "Intranet and IT Service Desk Platform Utilisation"
 summary: "Effective use of internal intranet and IT service desk platforms for communication and support."

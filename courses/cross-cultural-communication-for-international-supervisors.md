@@ -1,5 +1,6 @@
 ---
 id: cross-cultural-communication-for-international-supervisors
+courseId: 47
 slug: cross-cultural-communication-for-international-supervisors
 title: "Cross-Cultural Communication for International Supervisors"
 summary: "The aim of this workshop is to build participants' skills in communicating effectively in cross-border supervisory contexts, including supervisory colleges and international cooperation frameworks, recognising cultural differences in communication style and expectations."

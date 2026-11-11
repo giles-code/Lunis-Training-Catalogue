@@ -1,5 +1,6 @@
 ---
 id: best-execution-and-client-order-handling-supervision
+courseId: 24
 slug: best-execution-and-client-order-handling-supervision
 title: "Best Execution and Client Order Handling Supervision"
 summary: "The aim of this workshop is to build participants' skills in supervising firms' best execution and client order handling practices, including assessing execution quality monitoring and reporting."

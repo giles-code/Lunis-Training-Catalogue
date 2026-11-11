@@ -1,5 +1,6 @@
 ---
 id: using-ai-tools-at-work
+courseId: 188
 slug: using-ai-tools-at-work
 title: "Using AI Tools at Work"
 summary: "Learn how to integrate AI productivity tools into daily workflows safely and effectively."

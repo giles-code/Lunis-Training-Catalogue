@@ -1,5 +1,6 @@
 ---
 id: interview-insights-mastering-recruitment-and-applicant-expectations
+courseId: 105
 slug: interview-insights-mastering-recruitment-and-applicant-expectations
 title: "Interview Insights: Mastering Recruitment and Applicant Expectations"
 summary: "Develop skills for conducting effective interviews and managing candidate expectations."

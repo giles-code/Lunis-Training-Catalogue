@@ -1,5 +1,6 @@
 ---
 id: effective-participation-in-supervisory-colleges
+courseId: 65
 slug: effective-participation-in-supervisory-colleges
 title: "Effective Participation in Supervisory Colleges"
 summary: "The aim of this workshop is to prepare participants to participate effectively in supervisory colleges, building skills in joint risk assessment and coordinated decision-making with fellow supervisors from other jurisdictions."

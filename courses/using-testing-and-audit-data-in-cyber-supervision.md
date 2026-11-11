@@ -1,5 +1,6 @@
 ---
 id: using-testing-and-audit-data-in-cyber-supervision
+courseId: 189
 slug: using-testing-and-audit-data-in-cyber-supervision
 title: "Using Testing and Audit Data in Cyber Supervision"
 summary: "The aim of this workshop is to build participants' skills in using a firm's own testing metrics and internal audit findings as core supervisory data sources for assessing cyber resilience."

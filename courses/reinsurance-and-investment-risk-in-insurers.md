@@ -1,5 +1,6 @@
 ---
 id: reinsurance-and-investment-risk-in-insurers
+courseId: 151
 slug: reinsurance-and-investment-risk-in-insurers
 title: "Reinsurance and Investment Risk in Insurers"
 summary: "Learn how to assess reinsurance arrangements and the oversight of investment risk within an insurance undertaking."

@@ -1,5 +1,6 @@
 ---
 id: supervising-aml-cft-obligations-in-practice
+courseId: 171
 slug: supervising-aml-cft-obligations-in-practice
 title: "Supervising AML/CFT Obligations in Practice"
 summary: "Learn how to apply AML/CFT requirements consistently across supervisory processes and decision-making."

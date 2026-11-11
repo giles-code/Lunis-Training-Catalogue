@@ -1,5 +1,6 @@
 ---
 id: budgeting-process
+courseId: 26
 slug: budgeting-process
 title: "Budgeting Process"
 summary: "Build understanding of the organisation’s budgeting process."

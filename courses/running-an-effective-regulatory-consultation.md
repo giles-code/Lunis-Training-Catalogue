@@ -1,5 +1,6 @@
 ---
 id: running-an-effective-regulatory-consultation
+courseId: 158
 slug: running-an-effective-regulatory-consultation
 title: "Running an Effective Regulatory Consultation"
 summary: "The aim of this workshop is to build participants' skills in designing and running an effective public consultation on proposed rules, including stakeholder engagement strategy and how to analyse and respond to consultation feedback transparently."

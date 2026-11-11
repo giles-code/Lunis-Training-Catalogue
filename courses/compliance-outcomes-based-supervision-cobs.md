@@ -1,5 +1,6 @@
 ---
 id: compliance-outcomes-based-supervision-cobs
+courseId: 37
 slug: compliance-outcomes-based-supervision-cobs
 title: "Compliance Outcomes-Based Supervision (COBS)"
 summary: "Introduce the COBS methodology and its role in effective, efficient supervision."

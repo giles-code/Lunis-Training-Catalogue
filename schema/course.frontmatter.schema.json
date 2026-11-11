@@ -7,6 +7,7 @@
   "additionalProperties": false,
   "required": [
     "id",
+    "courseId",
     "slug",
     "title",
     "summary",
@@ -25,6 +26,11 @@
       "type": "string",
       "description": "Stable unique identifier for the course. Never reuse or change once published.",
       "pattern": "^[a-z0-9-]+$"
+    },
+    "courseId": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Permanent sequential number for the course (1, 2, 3 ...). Unique, never reused or changed. Drives the course page link: training-catalogue.html?id=<courseId>. Trial field, Nov 2026; will become the main id."
     },
     "slug": {
       "type": "string",
@@ -45,7 +51,13 @@
     "audience": {
       "type": "array",
       "description": "Top-level site section(s) the course appears under. Drives the primary nav split.",
-      "items": { "type": "string", "enum": ["Firms", "Financial Supervisors"] },
+      "items": {
+        "type": "string",
+        "enum": [
+          "Firms",
+          "Financial Supervisors"
+        ]
+      },
       "minItems": 1,
       "uniqueItems": true
     },
@@ -62,20 +74,36 @@
     "clientType": {
       "type": "array",
       "description": "Independent filter tag, separate from audience.",
-      "items": { "type": "string", "enum": ["Regulated Firm", "Regulatory Authority"] },
+      "items": {
+        "type": "string",
+        "enum": [
+          "Regulated Firm",
+          "Regulatory Authority"
+        ]
+      },
       "minItems": 1,
       "uniqueItems": true
     },
     "businessFunction": {
       "type": "array",
       "description": "Independent filter tag. Open-ended list — see README.md for the current draft set.",
-      "items": { "type": "string", "minLength": 1 },
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
       "minItems": 1,
       "uniqueItems": true
     },
     "deliveryFormat": {
       "type": "array",
-      "items": { "type": "string", "enum": ["In-person", "Online", "Hybrid"] },
+      "items": {
+        "type": "string",
+        "enum": [
+          "In-person",
+          "Online",
+          "Hybrid"
+        ]
+      },
       "minItems": 1,
       "uniqueItems": true
     },
@@ -85,7 +113,11 @@
     },
     "durationUnit": {
       "type": "string",
-      "enum": ["hours", "days", "weeks"]
+      "enum": [
+        "hours",
+        "days",
+        "weeks"
+      ]
     },
     "instructor": {
       "type": "string"
@@ -106,7 +138,10 @@
     "contentGaps": {
       "type": "array",
       "description": "Machine-readable flags for content that is inferred/placeholder rather than sourced from a definitive input (e.g. drafted from a one-line summary, or a duration estimated because the source didn't state one). Empty or omitted once a course's content is fully confirmed.",
-      "items": { "type": "string", "minLength": 1 }
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
     }
   }
 }

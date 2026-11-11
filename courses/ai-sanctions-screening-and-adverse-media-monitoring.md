@@ -1,5 +1,6 @@
 ---
 id: ai-sanctions-screening-and-adverse-media-monitoring
+courseId: 10
 slug: ai-sanctions-screening-and-adverse-media-monitoring
 title: "AI, Sanctions Screening & Adverse Media Monitoring"
 summary: "The aim of this workshop is to build participants' understanding of how AI and natural language processing are applied to sanctions screening, PEP identification, and adverse media monitoring, and how to assess whether these tools are appropriately calibrated and effectively…"

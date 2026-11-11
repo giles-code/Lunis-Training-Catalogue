@@ -1,5 +1,6 @@
 ---
 id: pension-scheme-governance
+courseId: 140
 slug: pension-scheme-governance
 title: "Pension Scheme Governance"
 summary: "Learn how to assess the effectiveness of a pension scheme's trustee board or governing body, including conflicts of interest."

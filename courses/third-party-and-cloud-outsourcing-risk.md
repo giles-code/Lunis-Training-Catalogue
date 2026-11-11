@@ -1,5 +1,6 @@
 ---
 id: third-party-and-cloud-outsourcing-risk
+courseId: 180
 slug: third-party-and-cloud-outsourcing-risk
 title: "Third-Party and Cloud Outsourcing Risk"
 summary: "The aim of this workshop is to build participants' skills in assessing firms' reliance on critical third-party and cloud providers, including concentration risk and the adequacy of exit strategies."

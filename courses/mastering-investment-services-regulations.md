@@ -1,5 +1,6 @@
 ---
 id: mastering-investment-services-regulations
+courseId: 124
 slug: mastering-investment-services-regulations
 title: "Mastering Investment Services Regulations"
 summary: "Understanding regulations impacting investment services."

@@ -1,5 +1,6 @@
 ---
 id: the-actuarial-function-in-supervision
+courseId: 177
 slug: the-actuarial-function-in-supervision
 title: "The Actuarial Function in Supervision"
 summary: "Learn the role of the actuarial function within insurer governance and how supervisors assess its effectiveness."

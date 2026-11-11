@@ -1,5 +1,6 @@
 ---
 id: know-your-data
+courseId: 110
 slug: know-your-data
 title: "Know Your Data"
 summary: "Best practices in general data management, distinct from the supervisory analytics skills in S4."

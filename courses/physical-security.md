@@ -1,5 +1,6 @@
 ---
 id: physical-security
+courseId: 143
 slug: physical-security
 title: "Physical Security"
 summary: "Build awareness of physical security procedures and responsibilities. Typical audience: new joiners."

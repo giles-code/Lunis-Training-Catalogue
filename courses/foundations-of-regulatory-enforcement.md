@@ -1,5 +1,6 @@
 ---
 id: foundations-of-regulatory-enforcement
+courseId: 85
 slug: foundations-of-regulatory-enforcement
 title: "Foundations of Regulatory Enforcement"
 summary: "The aim of this workshop is to build participants' understanding of a supervisory authority's enforcement function — what powers exist, how the decision to open an investigation is made, and how cases are triaged and prioritised."

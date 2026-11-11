@@ -1,5 +1,6 @@
 ---
 id: writing-for-impact-supervisory-correspondence-and-public-statements
+courseId: 191
 slug: writing-for-impact-supervisory-correspondence-and-public-statements
 title: "Writing for Impact: Supervisory Correspondence and Public Statements"
 summary: "The aim of this workshop is to build participants' skills in writing clear, authoritative supervisory correspondence and public statements that are accurate, defensible, and appropriately calibrated for their audience, from firm-level letters to public communications."

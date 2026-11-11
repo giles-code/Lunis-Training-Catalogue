@@ -1,5 +1,6 @@
 ---
 id: public-speaking-and-presentation-skills-from-preparation-to-delivery
+courseId: 147
 slug: public-speaking-and-presentation-skills-from-preparation-to-delivery
 title: "Public Speaking and Presentation Skills: From Preparation to Delivery"
 summary: "Learn how to design and deliver presentations with clarity, confidence, and impact."

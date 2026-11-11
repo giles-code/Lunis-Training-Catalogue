@@ -61,6 +61,7 @@ function main() {
   let hasErrors = false;
   const seenIds = new Map();
   const seenSlugs = new Map();
+  const seenCourseIds = new Map();
   let filesWithGaps = 0;
   let inactiveCount = 0;
 
@@ -102,6 +103,15 @@ function main() {
       fileHasErrors = true;
     } else {
       seenIds.set(frontmatter.id, file);
+    }
+
+    if (seenCourseIds.has(frontmatter.courseId)) {
+      console.error(
+        `✗ ${file}: duplicate "courseId" ${frontmatter.courseId} (also used in ${seenCourseIds.get(frontmatter.courseId)})`
+      );
+      fileHasErrors = true;
+    } else {
+      seenCourseIds.set(frontmatter.courseId, file);
     }
 
     if (seenSlugs.has(frontmatter.slug)) {

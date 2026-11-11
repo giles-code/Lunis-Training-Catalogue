@@ -1,5 +1,6 @@
 ---
 id: foundations-of-pension-scheme-supervision
+courseId: 83
 slug: foundations-of-pension-scheme-supervision
 title: "Foundations of Pension Scheme Supervision"
 summary: "Learn the foundations of pension scheme types, funding models, and the regulatory perimeter for pension supervision."

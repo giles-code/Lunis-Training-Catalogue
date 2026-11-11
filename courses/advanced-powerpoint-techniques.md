@@ -1,5 +1,6 @@
 ---
 id: advanced-powerpoint-techniques
+courseId: 2
 slug: advanced-powerpoint-techniques
 title: "Advanced PowerPoint Techniques"
 summary: "Create impactful presentations using advanced PowerPoint features."

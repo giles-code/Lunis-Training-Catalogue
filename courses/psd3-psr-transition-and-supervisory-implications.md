@@ -1,5 +1,6 @@
 ---
 id: psd3-psr-transition-and-supervisory-implications
+courseId: 146
 slug: psd3-psr-transition-and-supervisory-implications
 title: "PSD3/PSR: Transition and Supervisory Implications"
 summary: "The aim of this workshop is to build participants' understanding of the key changes introduced by PSD3 and the Payment Services Regulation compared to PSD2, and the practical implications for supervisors managing the transition."

@@ -1,5 +1,6 @@
 ---
 id: countercyclical-buffers-and-macroprudential-tools
+courseId: 40
 slug: countercyclical-buffers-and-macroprudential-tools
 title: "Countercyclical Buffers and Macroprudential Tools"
 summary: "Learn about the macroprudential toolkit — countercyclical capital buffers, sectoral capital requirements, and borrower-based measures — and the considerations in deciding when to deploy each."

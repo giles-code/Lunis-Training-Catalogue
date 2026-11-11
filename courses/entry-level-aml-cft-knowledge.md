@@ -1,5 +1,6 @@
 ---
 id: entry-level-aml-cft-knowledge
+courseId: 67
 slug: entry-level-aml-cft-knowledge
 title: "Entry-Level AML/CFT Knowledge"
 summary: "Provide new joiners with foundational AML/CFT knowledge. Typical audience: new joiners."

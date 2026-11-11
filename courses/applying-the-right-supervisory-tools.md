@@ -1,5 +1,6 @@
 ---
 id: applying-the-right-supervisory-tools
+courseId: 16
 slug: applying-the-right-supervisory-tools
 title: "Applying the Right Supervisory Tools"
 summary: "Enhance decision-making skills for selecting and applying the appropriate supervisory tools in real-life scenarios."

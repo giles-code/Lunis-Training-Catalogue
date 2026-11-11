@@ -1,5 +1,6 @@
 ---
 id: insurance-governance-and-conduct-supervision
+courseId: 101
 slug: insurance-governance-and-conduct-supervision
 title: "Insurance Governance and Conduct Supervision"
 summary: "Learn how to assess insurer governance and conduct risk, including fair treatment of policyholders."

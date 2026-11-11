@@ -1,5 +1,6 @@
 ---
 id: supervisory-technology-trends-and-innovations
+courseId: 175
 slug: supervisory-technology-trends-and-innovations
 title: "Supervisory Technology Trends and Innovations"
 summary: "Understanding technological advancements in financial supervision."

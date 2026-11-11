@@ -1,5 +1,6 @@
 ---
 id: asset-management-regulatory-landscape
+courseId: 21
 slug: asset-management-regulatory-landscape
 title: "Asset Management Regulatory Landscape"
 summary: "Focus: AIFMD, UCITS and Cross-Border Regulation in Asset Management. Objective: exploring the complexities of asset management regulations."

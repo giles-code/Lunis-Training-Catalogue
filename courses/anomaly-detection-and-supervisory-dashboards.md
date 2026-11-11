@@ -1,5 +1,6 @@
 ---
 id: anomaly-detection-and-supervisory-dashboards
+courseId: 14
 slug: anomaly-detection-and-supervisory-dashboards
 title: "Anomaly Detection and Supervisory Dashboards"
 summary: "Learn how to build and interpret supervisory dashboards that surface anomalies for further investigation."

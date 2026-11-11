@@ -1,5 +1,6 @@
 ---
 id: understanding-ml-tf-typologies
+courseId: 185
 slug: understanding-ml-tf-typologies
 title: "Understanding ML/TF Typologies"
 summary: "Learn how to identify key money laundering/terrorist financing typologies and recognise red flags in real-world scenarios."

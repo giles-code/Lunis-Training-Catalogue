@@ -1,5 +1,6 @@
 ---
 id: digital-influencers-in-finance-risks-and-regulatory-implications
+courseId: 58
 slug: digital-influencers-in-finance-risks-and-regulatory-implications
 title: "Digital Influencers in Finance: Risks and Regulatory Implications"
 summary: "Examine the role of digital influencers in finance, focusing on compliance challenges and consumer protection risks."

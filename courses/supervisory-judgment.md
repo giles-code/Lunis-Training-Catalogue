@@ -1,5 +1,6 @@
 ---
 id: supervisory-judgment
+courseId: 174
 slug: supervisory-judgment
 title: "Supervisory Judgment"
 summary: "Strengthen participants’ skills in applying supervisory judgment across authorisation and ongoing supervision."

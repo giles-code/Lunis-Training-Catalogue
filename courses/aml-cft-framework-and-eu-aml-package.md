@@ -1,5 +1,6 @@
 ---
 id: aml-cft-framework-and-eu-aml-package
+courseId: 13
 slug: aml-cft-framework-and-eu-aml-package
 title: "AML/CFT Framework & EU AML Package"
 summary: "Learn the core regulatory foundations of AML/CFT supervision in line with EU reforms and international standards."

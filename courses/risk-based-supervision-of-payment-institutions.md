@@ -1,5 +1,6 @@
 ---
 id: risk-based-supervision-of-payment-institutions
+courseId: 156
 slug: risk-based-supervision-of-payment-institutions
 title: "Risk-Based Supervision of Payment Institutions"
 summary: "The aim of this workshop is to build participants' skills in applying a risk-based approach to supervising payment institutions, drawing on published supervisory guidance in this area, including how to assess safeguarding of client funds."

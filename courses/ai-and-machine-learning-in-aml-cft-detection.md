@@ -1,5 +1,6 @@
 ---
 id: ai-and-machine-learning-in-aml-cft-detection
+courseId: 3
 slug: ai-and-machine-learning-in-aml-cft-detection
 title: "AI & Machine Learning in AML/CFT Detection"
 summary: "The aim of this workshop is to build participants' understanding of how regulated entities use AI and machine learning to strengthen transaction monitoring and suspicious activity detection, and the practical trade-offs supervisors should expect firms to manage."

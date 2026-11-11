@@ -1,5 +1,6 @@
 ---
 id: effective-teamwork-and-delegation
+courseId: 66
 slug: effective-teamwork-and-delegation
 title: "Effective Teamwork and Delegation"
 summary: "Learn how to work effectively as a team while delegating tasks clearly and maintaining accountability."

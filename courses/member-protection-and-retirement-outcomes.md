@@ -1,5 +1,6 @@
 ---
 id: member-protection-and-retirement-outcomes
+courseId: 128
 slug: member-protection-and-retirement-outcomes
 title: "Member Protection and Retirement Outcomes"
 summary: "Learn how to assess member communication quality and the risks members face at the point of decumulation."

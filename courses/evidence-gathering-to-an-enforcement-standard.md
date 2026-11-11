@@ -1,5 +1,6 @@
 ---
 id: evidence-gathering-to-an-enforcement-standard
+courseId: 71
 slug: evidence-gathering-to-an-enforcement-standard
 title: "Evidence-Gathering to an Enforcement Standard"
 summary: "The aim of this workshop is to build participants' skills in gathering and preserving evidence to a standard suitable for enforcement or court proceedings, including disclosure obligations and maintaining a defensible evidential record."

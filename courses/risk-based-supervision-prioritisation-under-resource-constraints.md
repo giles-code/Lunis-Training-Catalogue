@@ -1,5 +1,6 @@
 ---
 id: risk-based-supervision-prioritisation-under-resource-constraints
+courseId: 157
 slug: risk-based-supervision-prioritisation-under-resource-constraints
 title: "Risk-Based Supervision: Prioritisation Under Resource Constraints"
 summary: "The aim of this workshop is to build participants' skills in designing and applying a risk-based supervisory approach that allocates limited supervisory resource to the areas of greatest risk, addressing the common challenge of unclear mandates and resource constraints."

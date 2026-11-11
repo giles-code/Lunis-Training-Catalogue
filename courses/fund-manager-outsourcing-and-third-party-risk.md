@@ -1,5 +1,6 @@
 ---
 id: fund-manager-outsourcing-and-third-party-risk
+courseId: 89
 slug: fund-manager-outsourcing-and-third-party-risk
 title: "Fund Manager Outsourcing & Third-Party Risk"
 summary: "The aim of this workshop is to build participants' understanding of how fund managers structure delegation and outsourcing arrangements, and how supervisors assess effective oversight of third-party arrangements."

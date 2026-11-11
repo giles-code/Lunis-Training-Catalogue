@@ -1,5 +1,6 @@
 ---
 id: report-writing-for-regulatory-impact
+courseId: 152
 slug: report-writing-for-regulatory-impact
 title: "Report Writing for Regulatory Impact"
 summary: "Learn how to produce clear, structured, and compelling regulatory reports that support effective supervisory decisions."

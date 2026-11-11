@@ -1,5 +1,6 @@
 ---
 id: first-impressions-count-elevating-employee-onboarding-experience
+courseId: 77
 slug: first-impressions-count-elevating-employee-onboarding-experience
 title: "First Impressions Count: Elevating Employee Onboarding Experience"
 summary: "Learn strategies for an impactful and effective onboarding process."

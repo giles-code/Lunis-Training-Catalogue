@@ -1,5 +1,6 @@
 ---
 id: tokenization-and-digital-assets
+courseId: 182
 slug: tokenization-and-digital-assets
 title: "Tokenization & Digital Assets"
 summary: "Learn how tokenised products and digital assets are structured and issued under emerging regulatory frameworks."

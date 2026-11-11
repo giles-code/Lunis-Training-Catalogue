@@ -1,5 +1,6 @@
 ---
 id: performance-management-process
+courseId: 141
 slug: performance-management-process
 title: "Performance Management Process"
 summary: "Build understanding of the organisation’s performance management process and expectations."

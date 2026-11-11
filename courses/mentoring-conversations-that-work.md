@@ -1,5 +1,6 @@
 ---
 id: mentoring-conversations-that-work
+courseId: 129
 slug: mentoring-conversations-that-work
 title: "Mentoring Conversations That Work"
 summary: "Learn how to hold effective coaching conversations that support colleagues’ development and motivation."

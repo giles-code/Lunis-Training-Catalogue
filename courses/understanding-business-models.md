@@ -1,5 +1,6 @@
 ---
 id: understanding-business-models
+courseId: 183
 slug: understanding-business-models
 title: "Understanding Business Models"
 summary: "Learn how to assess firms’ business models and link them to prudential, conduct, and AML/CFT risks."

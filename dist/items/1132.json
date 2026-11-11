@@ -1,0 +1,158 @@
+{
+ "id": 1132,
+ "entryType": "module",
+ "title": "CASP Authorisation and Ongoing Requirements",
+ "summary": "Running a proportionate authorisation gateway for CASPs and applying MiCA's ongoing requirements on governance, prudential safeguards, custody, conduct and ICT resilience under DORA.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Digital Assets & Blockchain",
+ "tags": [
+  "Crypto & digital assets",
+  "EU"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Authorisation & licensing",
+  "Supervisors & inspectors",
+  "Policy & specialist teams"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "casp-authorisation-and-ongoing-requirements",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Running a proportionate authorisation gateway for CASPs and applying MiCA's ongoing requirements on governance, prudential safeguards, custody, conduct and ICT resilience under DORA.",
+  "Learning Objectives": [
+   "Assess a CASP application dossier, business model, substance and group dependencies",
+   "Evaluate governance, prudential, custody and conduct arrangements against MiCA",
+   "Recognise ICT and key management risks and how DORA applies to CASPs"
+  ],
+  "Syllabus": [
+   "Crypto-asset services, business models and the authorisation dossier",
+   "Management body, conflicts, own funds and complaints handling",
+   "Custody, segregation and safeguarding of client crypto-assets",
+   "Red flags: letter-box entities, founder dominance and affiliated sub-custody"
+  ],
+  "Intended Audience": [
+   "Authorisation, supervision and inspection staff new to crypto-asset service providers and token issuers",
+   "AML/CFT, market integrity, payments and enforcement specialists who need a working grasp of MiCA",
+   "Managers and policy staff who need an overview before committing teams to deeper training"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of authorising or supervising financial firms is helpful. No technical background in blockchain is required.",
+  "Core Reading": [
+   "Regulation (EU) 2023/1114 on markets in crypto-assets (MiCA)",
+   "Regulation (EU) 2023/1113 on information accompanying transfers of funds and certain crypto-assets (Transfer of Funds Regulation)",
+   "FSB, High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-Asset Activities and Markets (2023)",
+   "FATF, Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (2021)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 282,
+   "module": 3,
+   "title": "MiCA Essentials for Supervisors (EU Edition)",
+   "moduleCount": 6,
+   "durationValue": 18,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1130,
+     "number": 1,
+     "title": "The Crypto-Asset Market and MiCA's Architecture"
+    },
+    {
+     "id": 1131,
+     "number": 2,
+     "title": "Asset-Referenced and E-Money Tokens"
+    },
+    {
+     "id": 1132,
+     "number": 3,
+     "title": "CASP Authorisation and Ongoing Requirements"
+    },
+    {
+     "id": 1133,
+     "number": 4,
+     "title": "Market Abuse, AML/CFT and the Travel Rule"
+    },
+    {
+     "id": 1134,
+     "number": 5,
+     "title": "Risk-Based Supervision, Colleges and Cross-Border Cooperation"
+    },
+    {
+     "id": 1135,
+     "number": 6,
+     "title": "Enforcement, Crisis Management and Case-Study Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 311,
+   "entryType": "programme",
+   "title": "Supervising Crypto-Asset Service Providers under MiCA (EU Edition)",
+   "summary": "An advanced fifteen-module programme equipping EU national competent authorities to authorise and supervise crypto-asset service providers and token issuers under MiCA.",
+   "level": "Advanced",
+   "moduleCount": 15,
+   "hours": 75,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 221,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals",
+   "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 226,
+   "entryType": "programme",
+   "title": "Crypto-Asset Regulation and Supervision",
+   "summary": "An advanced twelve-module programme equipping supervisors to authorise, supervise and take action against crypto-asset firms under comprehensive regimes and international standards.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 48,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

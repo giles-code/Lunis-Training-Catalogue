@@ -1,0 +1,116 @@
+{
+ "id": 96,
+ "entryType": "module",
+ "title": "Group-Wide Supervision of Cross-Border Financial Groups",
+ "summary": "The aim of this workshop is to equip participants with the skills to supervise financial groups operating across multiple jurisdictions on a consolidated, group-wide basis, including assessing intra-group exposures and the risks of complex group structures.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Cross-Cutting Themes"
+ },
+ "topic": "Cross-Border & Group Supervision",
+ "tags": [
+  "Cross-border & groups"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "group-wide-supervision-of-cross-border-financial-groups",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "International & Cross-Border Affairs",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to equip participants with the skills to supervise financial groups operating across multiple jurisdictions on a consolidated, group-wide basis, including assessing intra-group exposures and the risks of complex group structures.",
+  "Intended Audience": "Mid-to-senior supervisors involved in cross-border/group supervision and international cooperation.",
+  "Learning Objectives": [
+   "Explain the concept and purpose of group-wide, consolidated supervision",
+   "Describe common cross-border group structures and their risks",
+   "Assess intra-group exposures and contagion risk",
+   "Evaluate the adequacy of group risk management and governance",
+   "Identify the risks posed by complex or opaque group structures",
+   "Formulate a group-wide supervisory risk assessment"
+  ],
+  "Syllabus": [
+   "Why supervisors look at groups, not just legal entities",
+   "Common cross-border group structures",
+   "Consolidated versus solo supervision",
+   "Regulatory perimeter issues in group supervision",
+   "Facilitated discussion: mapping a complex group structure",
+   "Types of intra-group exposure: funding, guarantees, shared services",
+   "Contagion channels within a group",
+   "Assessing group risk management and governance",
+   "Group-level versus entity-level risk appetite",
+   "Exercise: map intra-group exposures for a sample group and identify contagion channels",
+   "Risks of opaque or unnecessarily complex structures",
+   "Ring-fencing and structural subordination",
+   "Case study: a complex cross-border group",
+   "Case study: produce a group-wide supervisory risk assessment",
+   "Recap: consolidated supervision, intra-group exposures, structural risk",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Foundations of group-wide supervision (09:30–10:45)\n- Session 2: Intra-group exposures and contagion risk (11:00–12:30)\n- Session 3: Complex structures and supervisory application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Group-wide supervision looks through legal entities to the risks of the group as a whole\n- Intra-group exposures can transmit risk quickly across borders and legal entities\n- Structural complexity is itself a risk factor, not just a description of the group",
+  "Useful Prior Knowledge and Experience": "Some familiarity with cross-border & group supervision is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 220,
+   "entryType": "programme",
+   "title": "Cross-Border and Group Supervision",
+   "summary": "An eight-module programme on home-host supervision, consolidated group oversight, MoUs, supervisory colleges, third-country firms and cross-border crisis cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 212,
+   "entryType": "programme",
+   "title": "Conduct, Culture and Behavioural Supervision",
+   "summary": "An eight-module programme on assessing conduct risk and culture in firms, using behavioural insights, data and targeted supervisory interventions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 216,
+   "entryType": "programme",
+   "title": "Consumer Protection and Financial Inclusion",
+   "summary": "A ten-module programme equipping supervisors to assess product governance, fair value, disclosure, vulnerable customer treatment, complaints and financial inclusion.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

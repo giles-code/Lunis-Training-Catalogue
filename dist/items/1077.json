@@ -1,0 +1,179 @@
+{
+ "id": 1077,
+ "entryType": "module",
+ "title": "Fund Valuation and Pricing",
+ "summary": "How funds value their assets and calculate net asset value, why valuation of illiquid and hard-to-value assets demands close scrutiny, and how supervisors test valuation governance.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Funds",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Authorisation & licensing",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "fund-valuation-and-pricing",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Authorisations"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How funds value their assets and calculate net asset value, why valuation of illiquid and hard-to-value assets demands close scrutiny, and how supervisors test valuation governance.",
+  "Learning Objectives": [
+   "Explain valuation and pricing standards for collective investment schemes",
+   "Assess valuation governance, independence and conflicts of interest",
+   "Identify red flags in valuation of illiquid and hard-to-value assets"
+  ],
+  "Syllabus": [
+   "Net asset value calculation, pricing errors and investor compensation",
+   "Valuation policies, committees and the independence of the valuation function",
+   "Hard-to-value assets: models, stale prices and manager discretion",
+   "Case study: valuation red flags in a fund under stress"
+  ],
+  "Intended Audience": [
+   "Supervisors, inspectors and authorisation staff responsible for fund managers, funds, depositaries and fund administrators",
+   "Policy, risk and financial stability specialists working on asset management and non-bank financial intermediation",
+   "Team leaders and heads of department setting supervisory priorities for the funds sector"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of supervising or authorising asset managers or funds is helpful. No specialist investment or quantitative background is required.",
+  "Core Reading": [
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)",
+   "IOSCO, Recommendations for Liquidity Risk Management for Collective Investment Schemes (2018)",
+   "IOSCO, Principles for the Valuation of Collective Investment Schemes (2013)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 276,
+   "module": 4,
+   "title": "Investment Funds Supervision",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1074,
+     "number": 1,
+     "title": "Investment Funds and the Fund Value Chain"
+    },
+    {
+     "id": 1075,
+     "number": 2,
+     "title": "Supervisory Risks and International Fund Standards"
+    },
+    {
+     "id": 1076,
+     "number": 3,
+     "title": "Fund Authorisation, Product Rules and Depositaries"
+    },
+    {
+     "id": 1077,
+     "number": 4,
+     "title": "Fund Valuation and Pricing"
+    },
+    {
+     "id": 1078,
+     "number": 5,
+     "title": "Liquidity Risk Management and Liquidity Management Tools"
+    },
+    {
+     "id": 1079,
+     "number": 6,
+     "title": "Leverage, Money Market Funds and Systemic Risk"
+    },
+    {
+     "id": 1080,
+     "number": 7,
+     "title": "Disclosure, Costs and Charges, and Distribution"
+    },
+    {
+     "id": 1081,
+     "number": 8,
+     "title": "Delegation, Outsourcing and Manager Substance"
+    },
+    {
+     "id": 1082,
+     "number": 9,
+     "title": "Private Market Funds and Retailisation"
+    },
+    {
+     "id": 1083,
+     "number": 10,
+     "title": "Sustainable Funds, Tokenised Funds and the Supervisory Horizon"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 262,
+   "entryType": "programme",
+   "title": "Fund Regulation Country Briefings",
+   "summary": "Eleven country webinar briefings on fund vehicles, regulators, authorisation, distribution and recent developments in leading European, offshore and Asia Pacific fund markets.",
+   "level": "Intermediate",
+   "moduleCount": 11,
+   "hours": 11,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

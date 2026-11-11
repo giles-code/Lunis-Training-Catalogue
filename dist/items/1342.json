@@ -1,0 +1,175 @@
+{
+ "id": 1342,
+ "entryType": "module",
+ "title": "Export Controls, Dual-Use Goods and Trade Finance",
+ "summary": "Where trade and export controls overlap with financial sanctions, the role of the financial sector in preventing proliferation and diversion, and the due diligence expected in trade finance.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "export-controls-dual-use-goods-and-trade-finance",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Where trade and export controls overlap with financial sanctions, the role of the financial sector in preventing proliferation and diversion, and the due diligence expected in trade finance.",
+  "Learning Objectives": [
+   "Explain how export controls and dual-use regimes interact with financial sanctions",
+   "Identify proliferation financing and diversion risk in trade transactions",
+   "Apply proportionate due diligence to trade finance and goods-related payments"
+  ],
+  "Syllabus": [
+   "Export control lists, dual-use goods and end-use controls",
+   "Proliferation financing obligations and the FATF standards",
+   "Trade finance red flags: goods, routes, pricing and parties",
+   "Common high-priority goods and diversion through third countries"
+  ],
+  "Intended Audience": [
+   "Compliance officers, MLROs, sanctions specialists and financial crime analysts",
+   "Payments, operations, trade finance and client onboarding staff who handle screening alerts or transactions",
+   "Front-office, relationship and product staff in firms with cross-border clients, payments or trade exposure"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of financial crime compliance, payments or client onboarding is helpful. No prior specialist sanctions knowledge is required.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "FATF, Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (2021)",
+   "FSB, Enhancing Cross-border Payments: Stage 3 Roadmap (2020)",
+   "Basel Committee, Compliance and the Compliance Function in Banks (2005)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 307,
+   "module": 5,
+   "title": "Sanctions Compliance",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1338,
+     "number": 1,
+     "title": "How Sanctions Regimes Work"
+    },
+    {
+     "id": 1339,
+     "number": 2,
+     "title": "Ownership, Control and Indirect Exposure"
+    },
+    {
+     "id": 1340,
+     "number": 3,
+     "title": "Screening Clients, Payments and Vessels"
+    },
+    {
+     "id": 1341,
+     "number": 4,
+     "title": "Evasion Typologies: Trade, Maritime and Crypto-Assets"
+    },
+    {
+     "id": 1342,
+     "number": 5,
+     "title": "Export Controls, Dual-Use Goods and Trade Finance"
+    },
+    {
+     "id": 1343,
+     "number": 6,
+     "title": "Correspondent Banking, Payments and Intermediaries"
+    },
+    {
+     "id": 1344,
+     "number": 7,
+     "title": "Licensing, Frozen Assets, Investigations and Breach Reporting"
+    },
+    {
+     "id": 1345,
+     "number": 8,
+     "title": "Governance, Risk Assessment, Testing and Assurance"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 224,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Tracing and Controls for Compliance Teams",
+   "summary": "A nine-module programme equipping compliance teams to detect crypto-asset financial crime, use blockchain analytics, meet travel rule and sanctions obligations, and investigate and report suspicion.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 243,
+   "entryType": "programme",
+   "title": "Financial Crime Compliance in the Age of AI",
+   "summary": "A ten-module programme for MLROs and financial crime teams on the risk-based approach, AI-driven detection, AI-enabled threats and evidencing effectiveness to supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 259,
+   "entryType": "programme",
+   "title": "Fraud and Scams: Prevention, Detection and Response",
+   "summary": "An eight-module practitioner programme on preventing, detecting and responding to fraud and scams, from authorised push payment scams and deepfakes to reimbursement and board reporting.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

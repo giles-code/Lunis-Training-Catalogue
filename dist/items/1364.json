@@ -1,0 +1,172 @@
+{
+ "id": 1364,
+ "entryType": "module",
+ "title": "Conduct of Business and Suitability",
+ "summary": "How to supervise firms' conduct of business arrangements, including client categorisation, disclosure, suitability and appropriateness assessments, and fair treatment of customers.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Ongoing Supervision",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "conduct-of-business-and-suitability",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to supervise firms' conduct of business arrangements, including client categorisation, disclosure, suitability and appropriateness assessments, and fair treatment of customers.",
+  "Learning Objectives": [
+   "Explain the core conduct of business obligations owed to clients",
+   "Assess suitability and appropriateness processes and file quality",
+   "Identify conduct risks arising from advice and distribution models"
+  ],
+  "Syllabus": [
+   "Client categorisation, disclosure and fair, clear and not misleading communications",
+   "Suitability and appropriateness: process, evidence and file reviews",
+   "Advice and distribution models and their conduct risks",
+   "Sample testing of client files: what good and poor look like"
+  ],
+  "Intended Audience": [
+   "Supervisors and inspectors responsible for assessing firms' compliance and control arrangements",
+   "AML/CFT, conduct and governance specialists who review firms' policies, procedures and testing",
+   "Newer supervisors and staff moving into supervision from compliance roles in industry"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of supervision or of compliance in a regulated firm is helpful. Each masterclass is self-contained, so no prior attendance is required.",
+  "Core Reading": [
+   "Basel Committee, Compliance and the Compliance Function in Banks (2005)",
+   "IOSCO, Compliance Function at Market Intermediaries (2006)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 310,
+   "module": 3,
+   "title": "Supervising Compliance in Practice: Masterclass Series",
+   "moduleCount": 10,
+   "durationValue": 35,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1362,
+     "number": 1,
+     "title": "The Compliance Function and Monitoring Programmes"
+    },
+    {
+     "id": 1363,
+     "number": 2,
+     "title": "Supervising AML/CFT Compliance Arrangements"
+    },
+    {
+     "id": 1364,
+     "number": 3,
+     "title": "Conduct of Business and Suitability"
+    },
+    {
+     "id": 1365,
+     "number": 4,
+     "title": "Complaints Handling and Root-Cause Analysis"
+    },
+    {
+     "id": 1366,
+     "number": 5,
+     "title": "Outsourcing and Third-Party Arrangements"
+    },
+    {
+     "id": 1367,
+     "number": 6,
+     "title": "Governance and Fitness and Propriety"
+    },
+    {
+     "id": 1368,
+     "number": 7,
+     "title": "Regulatory Reporting and Data Quality"
+    },
+    {
+     "id": 1369,
+     "number": 8,
+     "title": "Conflicts of Interest"
+    },
+    {
+     "id": 1370,
+     "number": 9,
+     "title": "Data Protection and Record-Keeping"
+    },
+    {
+     "id": 1371,
+     "number": 10,
+     "title": "Compliance Culture: Masterclass and Capstone"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 218,
+   "entryType": "programme",
+   "title": "Core Supervisory Skills: Business Models, Governance and Risk Governance Panels",
+   "summary": "A three-day workshop taking supervisors from business model analysis through governance interviews to a risk governance panel, using running case studies and role plays.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 267,
+   "entryType": "programme",
+   "title": "How Financial Firms Work: Business Models and Financial Statements for Supervisors",
+   "summary": "An eight-module programme helping supervisors understand how financial firms make money, read their accounts and identify capital, liquidity and business model risks.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

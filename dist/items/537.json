@@ -1,0 +1,185 @@
+{
+ "id": 537,
+ "entryType": "module",
+ "title": "Fair Value and Pricing",
+ "summary": "Assessing whether the price customers pay is reasonable relative to the benefits they receive, and identifying pricing practices that cause harm.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Consumer protection & conduct"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "fair-value-and-pricing",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Consumer Protection",
+  "Conduct & Culture / HR"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Assessing whether the price customers pay is reasonable relative to the benefits they receive, and identifying pricing practices that cause harm.",
+  "Learning Objectives": [
+   "Design a fair value assessment methodology",
+   "Assess pricing practices, charges and differential treatment of customer groups",
+   "Act on fair value findings through product or pricing change"
+  ],
+  "Syllabus": [
+   "Fair value frameworks: price, benefits, costs and quality",
+   "Loyalty penalties, price walking and hidden charges",
+   "Distribution costs and remuneration in the value chain",
+   "Documenting and evidencing fair value assessments"
+  ],
+  "Intended Audience": [
+   "Compliance, conduct risk and consumer outcome specialists",
+   "Product, marketing, pricing and customer service managers",
+   "Senior managers and business-line owners accountable for retail customer outcomes"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of compliance, product or customer-facing work in a retail financial services firm is helpful. No specialist conduct background is required.",
+  "Core Reading": [
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "World Bank, Good Practices for Financial Consumer Protection (2017)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 215,
+   "module": 3,
+   "title": "Consumer Outcomes and Conduct Risk for Firms",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 535,
+     "number": 1,
+     "title": "Conduct Risk and the Outcomes-Based Approach"
+    },
+    {
+     "id": 536,
+     "number": 2,
+     "title": "Product Governance"
+    },
+    {
+     "id": 537,
+     "number": 3,
+     "title": "Fair Value and Pricing"
+    },
+    {
+     "id": 538,
+     "number": 4,
+     "title": "Communications and Disclosure"
+    },
+    {
+     "id": 539,
+     "number": 5,
+     "title": "Vulnerable Customers"
+    },
+    {
+     "id": 540,
+     "number": 6,
+     "title": "Sales, Advice and Customer Support"
+    },
+    {
+     "id": 541,
+     "number": 7,
+     "title": "Complaints and Root Cause Analysis"
+    },
+    {
+     "id": 542,
+     "number": 8,
+     "title": "Outcomes Testing and Management Information"
+    },
+    {
+     "id": 543,
+     "number": 9,
+     "title": "Conduct Risk Frameworks, Culture and Incentives"
+    },
+    {
+     "id": 544,
+     "number": 10,
+     "title": "Board Reporting and Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 211,
+   "entryType": "programme",
+   "title": "Compliance Officer Academy",
+   "summary": "A ten-module academy giving compliance officers the tools to run an independent, risk-based compliance function and handle supervisory engagement with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 224,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Tracing and Controls for Compliance Teams",
+   "summary": "A nine-module programme equipping compliance teams to detect crypto-asset financial crime, use blockchain analytics, meet travel rule and sanctions obligations, and investigate and report suspicion.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 243,
+   "entryType": "programme",
+   "title": "Financial Crime Compliance in the Age of AI",
+   "summary": "A ten-module programme for MLROs and financial crime teams on the risk-based approach, AI-driven detection, AI-enabled threats and evidencing effectiveness to supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

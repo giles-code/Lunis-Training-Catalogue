@@ -1,0 +1,175 @@
+{
+ "id": 1393,
+ "entryType": "module",
+ "title": "Operational Risk, Cyber Resilience and Critical Providers",
+ "summary": "How FMIs manage operational, cyber and third-party risk, the resilience expectations they must meet, and how supervisors test recovery capability against severe but plausible scenarios.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Services & Capital Markets",
+ "tags": [
+  "Investment services & markets"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Market Infrastructure & Trading Venues"
+ ],
+ "slug": "operational-risk-cyber-resilience-and-critical-providers",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Crisis Management & Resolution"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How FMIs manage operational, cyber and third-party risk, the resilience expectations they must meet, and how supervisors test recovery capability against severe but plausible scenarios.",
+  "Learning Objectives": [
+   "Assess operational risk frameworks and business continuity arrangements",
+   "Evaluate cyber resilience, including recovery from data corruption",
+   "Analyse dependencies on critical service providers and cloud"
+  ],
+  "Syllabus": [
+   "Two-hour recovery objective and severe but plausible scenarios",
+   "Cyber resilience guidance, threat-led testing and data integrity",
+   "Critical service providers, cloud concentration and exit options",
+   "Incident reporting, root cause analysis and supervisory follow-up"
+  ],
+  "Intended Audience": [
+   "Supervisors and overseers of trading venues, CCPs, CSDs, payment systems and trade repositories in securities authorities and central banks",
+   "Financial stability, risk modelling and operational resilience specialists who assess FMI risk",
+   "Resolution, policy and international staff working on FMI recovery, resolution and cooperative oversight"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of capital markets, payments or financial stability work is helpful. Familiarity with the PFMI is useful but not required.",
+  "Core Reading": [
+   "CPMI-IOSCO, Principles for Financial Market Infrastructures (2012)",
+   "FSB, Key Attributes of Effective Resolution Regimes for Financial Institutions (2014)",
+   "CPMI-IOSCO, Application of the Principles for Financial Market Infrastructures to Stablecoin Arrangements (2022)",
+   "FSB, The Financial Stability Implications of Tokenisation (2024)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 312,
+   "module": 7,
+   "title": "Supervising Financial Market Infrastructures",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 1387,
+     "number": 1,
+     "title": "Financial Market Infrastructures and the PFMI"
+    },
+    {
+     "id": 1388,
+     "number": 2,
+     "title": "Governance and the Comprehensive Risk Framework"
+    },
+    {
+     "id": 1389,
+     "number": 3,
+     "title": "Credit and Liquidity Risk"
+    },
+    {
+     "id": 1390,
+     "number": 4,
+     "title": "Collateral, Margin and Procyclicality"
+    },
+    {
+     "id": 1391,
+     "number": 5,
+     "title": "Default Management and the Loss Waterfall"
+    },
+    {
+     "id": 1392,
+     "number": 6,
+     "title": "Settlement, Finality and Custody Risk"
+    },
+    {
+     "id": 1393,
+     "number": 7,
+     "title": "Operational Risk, Cyber Resilience and Critical Providers"
+    },
+    {
+     "id": 1394,
+     "number": 8,
+     "title": "Access, Tiered Participation and Links"
+    },
+    {
+     "id": 1395,
+     "number": 9,
+     "title": "Recovery, Resolution and Orderly Wind-Down"
+    },
+    {
+     "id": 1396,
+     "number": 10,
+     "title": "Cooperative Oversight, DLT Infrastructures and Supervisory Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 209,
+   "entryType": "programme",
+   "title": "Capital Markets and Investment Services Supervision",
+   "summary": "A ten-module programme equipping supervisors to oversee investment firms, trading venues and issuers, from client conduct and client assets to algorithmic trading and market abuse.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

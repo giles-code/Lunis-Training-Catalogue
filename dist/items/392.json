@@ -1,0 +1,167 @@
+{
+ "id": 392,
+ "entryType": "module",
+ "title": "International Principles and Cooperation",
+ "summary": "The international principles, standards and forums that shape AI policy, and how government can align domestic policy, influence global standards and manage cross-border divergence.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters",
+  "Parliamentarians & committee staff"
+ ],
+ "firmType": [
+  "FinTech & Big Tech"
+ ],
+ "slug": "international-principles-and-cooperation",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Policy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The international principles, standards and forums that shape AI policy, and how government can align domestic policy, influence global standards and manage cross-border divergence.",
+  "Learning Objectives": [
+   "Describe the OECD AI Principles and related international frameworks",
+   "Explain the work of the FSB, IOSCO, BIS and other standard-setters on AI",
+   "Assess the costs of divergence and options for interoperability"
+  ],
+  "Syllabus": [
+   "OECD AI Principles, G20 commitments and international declarations",
+   "Standard-setter work on AI in banking, securities and insurance",
+   "Management system and risk frameworks: ISO/IEC 42001 and NIST",
+   "Cross-border divergence, mutual recognition and interoperability"
+  ],
+  "Intended Audience": [
+   "Officials in finance ministries, treasuries and digital ministries developing AI, fintech and financial services policy",
+   "Legislative drafters, legal advisers and parliamentary committee staff working on AI or financial legislation",
+   "Senior officials in data protection, competition and other public bodies whose remit touches AI in finance"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with financial services or digital policy is helpful. No technical background in AI or data science is required.",
+  "Core Reading": [
+   "OECD (2019, revised 2024), Recommendation of the Council on Artificial Intelligence",
+   "FSB (2024), The Financial Stability Implications of Artificial Intelligence",
+   "IOSCO (2021), The Use of Artificial Intelligence and Machine Learning by Market Intermediaries and Asset Managers: Final Report",
+   "NIST (2023), Artificial Intelligence Risk Management Framework (AI RMF 1.0)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 198,
+   "module": 6,
+   "title": "AI in Financial Services: Policy Choices for Government",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 387,
+     "number": 1,
+     "title": "AI Explained for Policymakers"
+    },
+    {
+     "id": 388,
+     "number": 2,
+     "title": "How Financial Services Use AI"
+    },
+    {
+     "id": 389,
+     "number": 3,
+     "title": "Consumer, Fairness and Data Protection Risks"
+    },
+    {
+     "id": 390,
+     "number": 4,
+     "title": "Market Integrity, Financial Stability and Concentration"
+    },
+    {
+     "id": 391,
+     "number": 5,
+     "title": "Approaches to Regulating AI"
+    },
+    {
+     "id": 392,
+     "number": 6,
+     "title": "International Principles and Cooperation"
+    },
+    {
+     "id": 393,
+     "number": 7,
+     "title": "Institutional Roles and Regulators' Capability"
+    },
+    {
+     "id": 394,
+     "number": 8,
+     "title": "Designing a National Approach to AI in Finance"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 229,
+   "entryType": "programme",
+   "title": "Developing Capital Markets and Investment Fund Industries",
+   "summary": "An eight-module programme helping policymakers develop deep, well-regulated capital markets and fund industries through credible, well-sequenced reform.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 230,
+   "entryType": "programme",
+   "title": "Digital Assets and Blockchain: A Policy Programme for Government",
+   "summary": "An eight-module programme giving policymakers the understanding to set digital asset policy, design legislation and meet international standards on crypto-assets and stablecoins.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

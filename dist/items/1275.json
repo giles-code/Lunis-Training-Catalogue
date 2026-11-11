@@ -1,0 +1,176 @@
+{
+ "id": 1275,
+ "entryType": "module",
+ "title": "Operational Continuity and Critical Services",
+ "summary": "Keeping the firm operating long enough to recover or wind down: identifying critical services, people, systems and suppliers, and making contracts and data resilient to a crisis.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Regulatory Readiness",
+  "payments": "Regulatory Readiness",
+  "crypto": "Regulatory Readiness"
+ },
+ "topic": "Regulatory Readiness",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "operational-continuity-and-critical-services",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Crisis Management & Resolution",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Keeping the firm operating long enough to recover or wind down: identifying critical services, people, systems and suppliers, and making contracts and data resilient to a crisis.",
+  "Learning Objectives": [
+   "Identify critical services and the resources needed to deliver them in stress",
+   "Assess contracts with outsourcers and group entities for continuity in wind-down",
+   "Align recovery and wind-down planning with operational resilience and business continuity"
+  ],
+  "Syllabus": [
+   "Mapping critical services, people, systems and data",
+   "Third-party and intragroup contracts: termination rights and continuity clauses",
+   "Access to systems and records after staff and supplier departures",
+   "Links to business continuity and operational resilience frameworks"
+  ],
+  "Intended Audience": [
+   "Chief financial officers, chief risk officers and finance and treasury teams at investment firms, payment and e-money institutions, crypto-asset service providers and fund managers",
+   "Compliance officers, heads of operations and plan owners responsible for drafting and maintaining recovery and wind-down plans",
+   "Executive and non-executive directors who approve the plan and would lead the firm through a crisis"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of finance, risk or compliance in a regulated firm is helpful. No prior experience of recovery or wind-down planning is required.",
+  "Core Reading": [
+   "FSB, Key Attributes of Effective Resolution Regimes for Financial Institutions (2014)",
+   "Basel Committee, Stress Testing Principles (2018)",
+   "Basel Committee, Principles for Sound Liquidity Risk Management and Supervision (2008)",
+   "ISO 22301:2019, Security and Resilience – Business Continuity Management Systems"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 299,
+   "module": 7,
+   "title": "Recovery and Wind-Down Planning for Firms",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1269,
+     "number": 1,
+     "title": "Why Recovery and Wind-Down Plans Matter"
+    },
+    {
+     "id": 1270,
+     "number": 2,
+     "title": "Scenario Design, Indicators and Triggers"
+    },
+    {
+     "id": 1271,
+     "number": 3,
+     "title": "Recovery Options and Their Credibility"
+    },
+    {
+     "id": 1272,
+     "number": 4,
+     "title": "Liquidity and Capital in Stress"
+    },
+    {
+     "id": 1273,
+     "number": 5,
+     "title": "Solvent Wind-Down: Mechanics, Timeline and Costs"
+    },
+    {
+     "id": 1274,
+     "number": 6,
+     "title": "Returning Client Money and Assets"
+    },
+    {
+     "id": 1275,
+     "number": 7,
+     "title": "Operational Continuity and Critical Services"
+    },
+    {
+     "id": 1276,
+     "number": 8,
+     "title": "Governance, Testing and Supervisory Review"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 239,
+   "entryType": "programme",
+   "title": "Engaging Effectively with Your Supervisor: How Firms Are Assessed",
+   "summary": "A ten-module programme showing firms how supervisors assess business models, governance and risk, so they can see themselves as the supervisor does and engage with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 255,
+   "entryType": "programme",
+   "title": "Fit and Proper for Firms: Appointing and Assessing Key Function Holders",
+   "summary": "A nine-module programme showing firms how to appoint and assess key function holders, prepare applications and interviews, and manage fitness and certification on an ongoing basis.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 264,
+   "entryType": "programme",
+   "title": "Governance Reviews and Supervisory Interviews: Preparing Your Board and Management",
+   "summary": "A one-day workshop on how supervisors assess governance and interview directors and staff, and how licensees can evidence effective governance and prepare openly.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 6,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "id": 1521,
+ "entryType": "module",
+ "title": "Legal Structuring of Tokenised Assets",
+ "summary": "How to structure a tokenised asset so that ownership, transfer and investor rights are legally certain, and how to resolve conflicts between the ledger and the legal record before launch.",
+ "clientType": [
+  "firms",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "Crypto & digital assets",
+  "Funds & asset management"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management",
+  "Investment Firms & Wealth Management",
+  "Market Infrastructure & Trading Venues",
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "legal-structuring-of-tokenised-assets",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Strategy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to structure a tokenised asset so that ownership, transfer and investor rights are legally certain, and how to resolve conflicts between the ledger and the legal record before launch.",
+  "Learning Objectives": [
+   "Distinguish digitally native issuance, digital twins and depositary receipt structures",
+   "Determine when a token is a financial instrument and the consequences for the firm",
+   "Design legal documentation that aligns the ledger with the register of ownership"
+  ],
+  "Syllabus": [
+   "Native tokens, digital twins and wrapped or receipt structures",
+   "Classification: financial instruments, fund units and other tokens",
+   "Ledger records, registers, governing law and conflict of laws",
+   "Insolvency remoteness, enforceability and investor rights"
+  ],
+  "Intended Audience": [
+   "Product, strategy and digital assets leads at asset managers, investment firms, trading venues, CSDs and tokenisation platforms",
+   "Operations, transfer agency, custody, legal, compliance and risk staff responsible for tokenised products and services",
+   "Senior managers and project sponsors taking a tokenisation initiative from pilot to launch"
+  ],
+  "Useful Prior Knowledge and Experience": "Experience of securities, funds, custody or settlement operations is helpful. Some familiarity with crypto-assets or distributed ledgers is useful but not required.",
+  "Core Reading": [
+   "FSB, The Financial Stability Implications of Tokenisation (2024)",
+   "CPMI-IOSCO, Principles for Financial Market Infrastructures (2012)",
+   "IOSCO, Policy Recommendations for Crypto and Digital Asset Markets (2023)",
+   "BIS, Annual Economic Report 2023, Chapter III: Blueprint for the Future Monetary System"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 328,
+   "module": 2,
+   "title": "Tokenisation of Financial Markets for Firms",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1520,
+     "number": 1,
+     "title": "Tokenisation Strategy and the Business Case"
+    },
+    {
+     "id": 1521,
+     "number": 2,
+     "title": "Legal Structuring of Tokenised Assets"
+    },
+    {
+     "id": 1522,
+     "number": 3,
+     "title": "Issuing and Distributing Tokenised Securities"
+    },
+    {
+     "id": 1523,
+     "number": 4,
+     "title": "Tokenised Funds: Product Design and Operations"
+    },
+    {
+     "id": 1524,
+     "number": 5,
+     "title": "Collateral, Repo and Treasury Use Cases"
+    },
+    {
+     "id": 1525,
+     "number": 6,
+     "title": "Platform Choice and Ledger Governance"
+    },
+    {
+     "id": 1526,
+     "number": 7,
+     "title": "Settlement, the Cash Leg and Finality"
+    },
+    {
+     "id": 1527,
+     "number": 8,
+     "title": "Custody, Safekeeping and Client Asset Protection"
+    },
+    {
+     "id": 1528,
+     "number": 9,
+     "title": "Smart Contracts, Interoperability and Technology Risk"
+    },
+    {
+     "id": 1529,
+     "number": 10,
+     "title": "Operating Model, Regulatory Engagement and Launch"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 222,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals for Industry",
+   "summary": "A ten-module foundation programme giving industry professionals and their advisers a practical understanding of blockchain, crypto-asset markets and service providers, and the risks and controls that matter.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 298,
+   "entryType": "programme",
+   "title": "Quantum and Cryptographic Resilience for Firms",
+   "summary": "An eight-module programme helping firms understand the quantum threat, build a cryptographic inventory, plan post-quantum migration and report readiness to the board and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{
+ "id": 288,
+ "entryType": "programme",
+ "title": "Overseeing Regulatory Change: Annual Update for Fund Directors",
+ "summary": "A six-module annual CPD update for fund directors on the year's regulatory developments and on overseeing regulatory change and regulatory risk.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 9,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "fund-regulatory-change-and-annual-update",
+ "moduleCount": 6,
+ "hoursPerModule": 1.5,
+ "intro": "This training programme equips fund and management company directors to stay current with regulatory change and to oversee how the firm identifies, implements and evidences it, refreshed every year as a recurring CPD update.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Compliance"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give directors a concise annual briefing on the regulatory developments that matter for funds and their managers, together with a practical framework for overseeing regulatory change and regulatory risk. Participants leave able to challenge management's change programme, prioritise board attention and evidence timely, proportionate implementation to supervisors.",
+  "What It Covers": "Legal and regulatory touch points for funds and managers, regulatory change and regulatory risk at board level, the year's international regulatory agenda, operational resilience, tokenisation and AI in funds, sustainability and disclosure developments, and the board's regulatory change plan.",
+  "Intended Audience": [
+   "Independent and non-executive directors of investment funds and fund management companies",
+   "Executive directors, conducting officers and designated persons responsible for regulatory compliance",
+   "Heads of compliance, legal and risk, and company secretaries supporting fund boards"
+  ],
+  "Learning Objectives": [
+   "Map the legal and regulatory touch points that apply to a fund, its manager and its service providers",
+   "Explain the board's role in overseeing regulatory change and managing regulatory risk",
+   "Identify the year's main international regulatory developments affecting funds and managers",
+   "Assess the implications of operational resilience, tokenisation and AI developments for the fund range",
+   "Evaluate sustainability and disclosure developments and the risk of misleading claims",
+   "Design a board regulatory change plan with clear priorities, owners and assurance"
+  ],
+  "Structure and Format": "Six modules of about ninety minutes each, delivered in person, virtually or in a hybrid format, either as a one-day annual update or as a series of short board briefing sessions. Content is refreshed every year, each module combines a briefing with board questions, and modules can be selected or tailored to the jurisdictions and fund types the board oversees.",
+  "Useful Prior Knowledge and Experience": "Experience as a fund director or in fund management, compliance or legal roles is helpful. No legal qualification is required.",
+  "Core Reading": [
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)",
+   "FSB, The Financial Stability Implications of Tokenisation (2024)",
+   "IOSCO, Recommendations on Sustainability-Related Practices, Policies, Procedures and Disclosure in Asset Management (2021)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1184,
+   "number": 1,
+   "title": "Legal and Regulatory Touch Points for Funds",
+   "summary": "A map of the rules that bear on a fund and its manager, from fund product and manager rules to distribution, financial crime and data, and where each falls to the board.",
+   "objectives": [
+    "Map the layers of law, regulation and guidance that apply to funds and managers",
+    "Distinguish obligations of the fund, the manager and delegated service providers",
+    "Identify where the board holds direct legal responsibility"
+   ],
+   "syllabus": [
+    "Fund product rules, manager rules and the constitutional documents",
+    "Distribution, investor protection, financial crime and data obligations",
+    "Hard law, soft law, supervisory statements and international standards",
+    "A regulatory touch point map for a typical fund range"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1185,
+   "number": 2,
+   "title": "Managing Regulatory Change and Regulatory Risk",
+   "summary": "How a well-run firm scans the horizon, assesses impact and implements change, and how the board oversees regulatory risk without becoming the project team.",
+   "objectives": [
+    "Explain the regulatory change life cycle from horizon scanning to embedding",
+    "Assess the quality of impact assessments, plans and resourcing",
+    "Challenge management on slippage, dependencies on providers and residual risk"
+   ],
+   "syllabus": [
+    "Horizon scanning, impact assessment and prioritisation",
+    "Ownership, accountability and avoiding gaps between compliance, technology and operations",
+    "Dependencies on delegates, distributors and other service providers",
+    "Board reporting on change programmes: milestones, risks and assurance"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1186,
+   "number": 3,
+   "title": "This Year's International Regulatory Agenda",
+   "summary": "A briefing on the year's main regulatory and supervisory developments for funds and managers, drawing on the work of international standard-setters and recurring supervisory priorities.",
+   "objectives": [
+    "Identify the year's main international policy developments for funds and managers",
+    "Explain how standard-setter work is translated into national requirements",
+    "Assess which developments matter most for the board's own fund range"
+   ],
+   "syllabus": [
+    "IOSCO and FSB work on fund liquidity, leverage and non-bank intermediation",
+    "Supervisory priorities: fees and costs, valuation, governance and delegation",
+    "Private markets, retail access and product governance developments",
+    "Enforcement themes and lessons from recent supervisory findings"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1187,
+   "number": 4,
+   "title": "Technology Themes: Resilience, Tokenisation and AI",
+   "summary": "How operational resilience requirements, tokenisation of funds and the use of AI are changing regulatory expectations of managers and service providers, and what boards should ask.",
+   "objectives": [
+    "Explain current expectations on operational resilience, ICT risk and third-party oversight",
+    "Assess the regulatory implications of tokenised fund units and distributed ledgers",
+    "Challenge management on the governance of AI in investment and operations"
+   ],
+   "syllabus": [
+    "Operational resilience: ICT risk, incident reporting, testing and third-party registers",
+    "Board accountability, skills and reporting lines for technology risk",
+    "Tokenised funds, digital assets and settlement on distributed ledgers",
+    "AI in portfolio management and operations: emerging supervisory expectations"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1188,
+   "number": 5,
+   "title": "Sustainability and Disclosure Developments",
+   "summary": "The year's developments in sustainability disclosure, fund labelling and naming, and how boards oversee the accuracy of sustainability claims and reduce greenwashing risk.",
+   "objectives": [
+    "Explain developments in sustainability reporting and fund disclosure standards",
+    "Assess fund names, labels and marketing against the underlying portfolio",
+    "Evaluate the data, controls and assurance behind sustainability claims"
+   ],
+   "syllabus": [
+    "ISSB standards and their adoption across jurisdictions",
+    "Fund naming, labelling and product classification developments",
+    "Greenwashing risk, supervisory findings and enforcement cases",
+    "Sustainability data, third-party ratings and assurance"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1189,
+   "number": 6,
+   "title": "Workshop: The Board's Regulatory Change Plan",
+   "summary": "Brings the update together as participants prioritise the year's developments for a fund range and draft the board's regulatory change plan and reporting.",
+   "objectives": [
+    "Prioritise regulatory developments by impact, deadline and risk",
+    "Allocate oversight across the board, committees and management",
+    "Produce a board regulatory change plan with milestones and assurance"
+   ],
+   "syllabus": [
+    "Impact and urgency ranking of the year's developments",
+    "Allocating owners, committee oversight and provider dependencies",
+    "Evidence the board should hold for supervisors and auditors",
+    "Workshop: the board's twelve-month regulatory change plan"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 199,
+   "entryType": "programme",
+   "title": "Alternative Investments for Fund Directors",
+   "summary": "An eight-module programme explaining hedge fund, private markets, real asset, structured and digital asset strategies to fund directors, with board questions on valuation, liquidity and fees.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 207,
+   "entryType": "programme",
+   "title": "Board Oversight of Fund Operations and Service Providers",
+   "summary": "A ten-module programme giving fund directors the tools to oversee fund operations and service providers, from NAV production and custody to errors and resilience.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 260,
+   "entryType": "programme",
+   "title": "Fund Board Governance Toolkit: A Risk-Based Oversight Workshop",
+   "summary": "A six-module practical workshop giving fund directors a risk-based governance toolkit, from skills matrices to escalation triggers, and a draft oversight plan for their own board.",
+   "level": "Board level",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 274,
+   "entryType": "programme",
+   "title": "Investment Fund Governance for Directors",
+   "summary": "A ten-module programme giving fund directors the tools to oversee delegates, manage conflicts, protect investors and evidence effective governance to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 306,
+   "entryType": "programme",
+   "title": "Risk Oversight for Fund and Management Company Boards",
+   "summary": "An eight-module programme giving fund and management company directors the tools to oversee investment, operational and emerging risks and challenge the risk function.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 195,
+   "entryType": "programme",
+   "title": "AI Governance for Boards",
+   "summary": "A ten-module programme giving boards and directors the understanding and tools to govern AI responsibly and evidence sound oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

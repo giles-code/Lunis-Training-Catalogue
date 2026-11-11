@@ -1,0 +1,180 @@
+{
+ "id": 1070,
+ "entryType": "module",
+ "title": "Fund Administration: Dealing, Valuation and Transfer Agency",
+ "summary": "How investors subscribe and redeem, how a fund's assets are valued and its units priced, and the work of the fund accountant and transfer agent, including anti-money laundering checks.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1.5,
+ "durationUnit": "hours",
+ "role": [
+  "All staff"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "fund-administration-dealing-valuation-and-transfer-agency",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Capability & Capacity Building"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How investors subscribe and redeem, how a fund's assets are valued and its units priced, and the work of the fund accountant and transfer agent, including anti-money laundering checks.",
+  "Learning Objectives": [
+   "Explain the subscription and redemption process",
+   "Describe how a fund is valued and its NAV calculated",
+   "Explain the transfer agency function and its AML responsibilities"
+  ],
+  "Syllabus": [
+   "Dealing days, cut-off times and settlement",
+   "Portfolio valuation, NAV calculation and the treatment of fees and expenses",
+   "The transfer agent: register, investor onboarding and AML checks",
+   "Pricing errors and why accuracy matters to investors"
+  ],
+  "Intended Audience": [
+   "New joiners and graduates at fund managers, administrators, depositaries and other fund service providers",
+   "Operations, client service, finance, technology and support staff who need a grounding in funds",
+   "Staff moving into the funds industry from banking, insurance or other sectors"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior knowledge of investment funds is required. The programme is suitable for new joiners, graduates and staff moving into the funds industry.",
+  "Core Reading": [
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "IOSCO, Principles for the Valuation of Collective Investment Schemes (2013)",
+   "IOSCO, Recommendations for Liquidity Risk Management for Collective Investment Schemes (2018)",
+   "IOSCO, Recommendations on Sustainability-Related Practices, Policies, Procedures and Disclosure in Asset Management (2021)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 275,
+   "module": 7,
+   "title": "Investment Funds Essentials",
+   "moduleCount": 10,
+   "durationValue": 15,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 1064,
+     "number": 1,
+     "title": "Investing and Investment Funds: The Basics"
+    },
+    {
+     "id": 1065,
+     "number": 2,
+     "title": "How Funds Are Organised and Structured"
+    },
+    {
+     "id": 1066,
+     "number": 3,
+     "title": "Types of Investment Fund"
+    },
+    {
+     "id": 1067,
+     "number": 4,
+     "title": "Why and How Funds Are Regulated"
+    },
+    {
+     "id": 1068,
+     "number": 5,
+     "title": "Fund Governance, Management and Delegation"
+    },
+    {
+     "id": 1069,
+     "number": 6,
+     "title": "Service Providers: Who Does What"
+    },
+    {
+     "id": 1070,
+     "number": 7,
+     "title": "Fund Administration: Dealing, Valuation and Transfer Agency"
+    },
+    {
+     "id": 1071,
+     "number": 8,
+     "title": "Investing the Portfolio and Managing Risk"
+    },
+    {
+     "id": 1072,
+     "number": 9,
+     "title": "Marketing, Distribution and Sustainable Investment"
+    },
+    {
+     "id": 1073,
+     "number": 10,
+     "title": "The Fund Lifecycle and Working in the Industry"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 213,
+   "entryType": "programme",
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 228,
+   "entryType": "programme",
+   "title": "Cyber, Data and Resilience Essentials",
+   "summary": "A six-module foundation programme giving all staff the practical habits to resist cyber attacks, protect data, use AI tools safely and report incidents.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

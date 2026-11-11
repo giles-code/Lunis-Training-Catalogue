@@ -1,0 +1,107 @@
+{
+ "id": 59,
+ "entryType": "module",
+ "title": "Digital Operational Resilience (EU Edition)",
+ "summary": "Learn how to assess digital operational resilience under DORA, applying supervisory judgement to ICT risk management and incident reporting.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Cybersecurity & Operational Resilience",
+ "tags": [
+  "Operational resilience & cyber",
+  "EU"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 1,
+ "durationUnit": "days",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "digital-operational-resilience",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber"
+ ],
+ "contentGaps": [
+  "aimAndPurpose: expanded from a one-line catalogue summary only",
+  "learningObjectives: derived from focus-area keywords, not explicit source content",
+  "syllabus: derived from focus-area keywords, needs expansion",
+  "structureAndFormat: not specified in source catalogue",
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "duration: not stated in source catalogue; defaulted to a single full day pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "Learn how to assess digital operational resilience under DORA, applying supervisory judgement to ICT risk management and incident reporting.",
+  "Intended Audience": "Mid-level supervisory staff building capability in cyber and operational resilience supervision.",
+  "Learning Objectives": [
+   "Understand and apply: DORA",
+   "Understand and apply: ICT risk management",
+   "Understand and apply: incident reporting",
+   "Understand and apply: third-party arrangements"
+  ],
+  "Syllabus": [
+   "DORA",
+   "ICT risk management",
+   "incident reporting",
+   "third-party arrangements"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with cybersecurity & operational resilience is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 234,
+   "entryType": "programme",
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "summary": "An eight-module programme on DORA for supervisors and financial entities: ICT risk management, incident reporting, resilience testing and TLPT, ICT third-party risk and critical provider oversight.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 287,
+   "entryType": "programme",
+   "title": "Operational Resilience, Cyber and Critical Third Parties",
+   "summary": "A ten-module programme equipping supervisors to assess firms' operational resilience, cyber risk, incident response and third-party dependencies, and to shape the authority's resilience strategy.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

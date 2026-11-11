@@ -1,0 +1,420 @@
+{
+ "id": 272,
+ "entryType": "programme",
+ "title": "Introduction to Investment Funds: From Launch to Wind-Down",
+ "summary": "A fourteen-module foundation programme taking new funds professionals and supervisors through every stage of an investment fund, from structure and regulation to operations and wind-down.",
+ "clientType": [
+  "firms",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes",
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Funds",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 42,
+ "durationUnit": "hours",
+ "role": [
+  "All staff",
+  "Control function holders",
+  "New joiners & developing staff",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "introduction-to-investment-funds",
+ "moduleCount": 14,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips new entrants to the funds industry and its supervisors with a complete grounding in how investment funds are organised, regulated, governed, operated and wound up.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Supervision"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give participants a structured, end-to-end understanding of investment funds, from first principles through organisation, legal form, regulation, governance, fund types, distribution, documentation, operations, investment, legal matters and the fund lifecycle. Participants leave able to follow how each party contributes to a fund and to speak confidently with managers, service providers, investors and supervisors.",
+  "What It Covers": "What funds are and why investors use them, the parties to a fund, legal forms and structures, regulation of funds and managers, governance and delegation, traditional and alternative fund types, marketing and distribution, fund documentation, dealing, pricing and liquidity, portfolio investment, legal considerations and the lifecycle from launch to wind-down.",
+  "Intended Audience": [
+   "New joiners and graduates at fund managers, administrators, depositaries, transfer agents, law firms and distributors",
+   "Staff of supervisory authorities joining fund supervision or authorisation teams",
+   "Professionals moving into the funds industry from banking, audit or other sectors who need a complete foundation"
+  ],
+  "Learning Objectives": [
+   "Explain what an investment fund is, how it works and why different investors use funds",
+   "Describe the roles of the management company, investment manager, depositary, administrator and other parties",
+   "Compare the main legal forms and structures a fund can take and the reasons for choosing each",
+   "Outline how funds, managers and their distribution are regulated and how fund governance and delegation work",
+   "Distinguish traditional, money market, exchange traded and alternative funds and the documentation each produces",
+   "Follow a fund's operations, investments, legal arrangements and risks across its lifecycle from launch to termination"
+  ],
+  "Structure and Format": "Fourteen modules of around three hours each, deliverable as a two-week foundation course, a series of half-day sessions or a blended online programme. Each module combines short teaching inputs, worked examples using real fund documents and knowledge checks, and modules can be selected or tailored to a firm's or authority's needs.",
+  "Useful Prior Knowledge and Experience": "No prior knowledge of investment funds is required. A general awareness of financial markets is helpful.",
+  "Core Reading": [
+   "IOSCO (2017), Objectives and Principles of Securities Regulation",
+   "IOSCO (2013), Principles for the Valuation of Collective Investment Schemes",
+   "IOSCO (2018), Recommendations for Liquidity Risk Management for Collective Investment Schemes",
+   "FSB (2017), Policy Recommendations to Address Structural Vulnerabilities from Asset Management Activities"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1032,
+   "number": 1,
+   "title": "What Investment Funds Are and How They Work",
+   "summary": "The basic idea of pooled investment, how a fund turns investors' money into a managed portfolio, and why investors choose funds over direct investment.",
+   "objectives": [
+    "Describe an investment fund and the pooling of investor money",
+    "Explain the benefits of diversification, professional management and scale",
+    "Identify the main types of investor and how they access funds"
+   ],
+   "syllabus": [
+    "Pooled investment, units, shares and net asset value",
+    "Why investors subscribe: diversification, expertise, liquidity and cost",
+    "Retail, professional and institutional investors",
+    "Access routes: direct, platforms, advisers and wrappers"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1033,
+   "number": 2,
+   "title": "The Parties to an Investment Fund",
+   "summary": "Who does what in a fund, from the management company and investment manager to the depositary, administrator and the wider circle of service providers.",
+   "objectives": [
+    "Describe the roles of the management company and investment manager",
+    "Explain the safekeeping, oversight and administration functions",
+    "Identify the other parties involved and how they connect"
+   ],
+   "syllabus": [
+    "How a fund is organised and the flow of responsibilities",
+    "Management company and investment manager",
+    "Depositary and fund administrator: custody, oversight, valuation and transfer agency",
+    "Distributors, auditors, legal advisers, brokers and other parties"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1034,
+   "number": 3,
+   "title": "Legal Forms of Investment Funds",
+   "summary": "The four main legal forms a fund can take, how each holds assets and treats investors, and why a sponsor would choose one over another.",
+   "objectives": [
+    "Describe corporate funds, unit trusts, contractual funds and limited partnerships",
+    "Explain how legal form affects investor rights, governance and tax",
+    "Assess the rationale for choosing a particular legal form"
+   ],
+   "syllabus": [
+    "Corporate investment funds and the role of shareholders",
+    "Unit trusts and the trustee relationship",
+    "Contractual funds and co-ownership models",
+    "Limited partnerships: general and limited partners"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1035,
+   "number": 4,
+   "title": "Fund Structures: Stand-Alone, Umbrella and Beyond",
+   "summary": "How funds are structured to share costs, offer choice and pool assets, and the advantages and drawbacks of each structure.",
+   "objectives": [
+    "Explain stand-alone and umbrella structures and segregated liability",
+    "Describe fund of funds, multi-manager and master-feeder arrangements",
+    "Weigh the pros and cons of each structure for sponsors and investors"
+   ],
+   "syllabus": [
+    "Stand-alone funds and umbrella funds with sub-funds",
+    "Segregation of liability between sub-funds",
+    "Fund of funds and multi-manager structures",
+    "Master-feeder structures and their uses"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1036,
+   "number": 5,
+   "title": "How Funds and Their Managers Are Regulated",
+   "summary": "What determines how a fund is regulated, the main types of fund and manager regime, and how investment services rules apply to distribution.",
+   "objectives": [
+    "Identify the factors that determine a fund's regulatory treatment",
+    "Describe retail fund product rules and alternative fund manager regimes",
+    "Explain how investment services rules apply to fund distribution"
+   ],
+   "syllabus": [
+    "Fund domicile, investor type and legal form as regulatory drivers",
+    "Retail fund product regimes: eligible assets, diversification and investor protection",
+    "Alternative fund manager regimes and their requirements",
+    "Investment services rules, cross-border passports and international standards"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1037,
+   "number": 6,
+   "title": "Governance and Oversight of Funds",
+   "summary": "How fund governance is structured, how management companies are organised, and how the board and key personnel oversee delegated activities.",
+   "objectives": [
+    "Describe the governance structure of a fund and its management company",
+    "Explain the role of the fund board and its directors",
+    "Explain how key personnel and assurance functions oversee delegates"
+   ],
+   "syllabus": [
+    "Governance structure of an investment fund",
+    "Organisation and substance of management companies",
+    "Fund board composition, duties and independence",
+    "Key management personnel, assurance functions and delegate oversight"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1038,
+   "number": 7,
+   "title": "Types of Investment Fund",
+   "summary": "The features that distinguish fund types, how funds are classified by regulators, and a closer look at exchange traded funds and money market funds.",
+   "objectives": [
+    "Identify the factors that distinguish different types of fund",
+    "Describe regulatory classifications of retail and alternative funds",
+    "Explain how exchange traded funds and money market funds work"
+   ],
+   "syllabus": [
+    "Asset class, strategy, liquidity and investor type",
+    "Regulatory classification of funds",
+    "Exchange traded funds: creation, redemption and secondary trading",
+    "Money market funds: types, liquidity rules and stability"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1039,
+   "number": 8,
+   "title": "Alternative Investment Funds",
+   "summary": "The main alternative fund types, how their strategies, liquidity and investor base differ, and the specialist fund labels used for long-term investment.",
+   "objectives": [
+    "Describe hedge funds, private equity and real estate funds",
+    "Explain how loan origination funds work and their risks",
+    "Outline specialist and labelled long-term investment funds"
+   ],
+   "syllabus": [
+    "Hedge funds: strategies, leverage and liquidity terms",
+    "Private equity and loan origination funds",
+    "Real estate funds",
+    "Specialist alternative funds and long-term, venture and social investment fund labels"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1040,
+   "number": 9,
+   "title": "Marketing and Distribution of Funds",
+   "summary": "How funds reach investors, how marketing is regulated, and how funds are sold across borders within and outside regional passport regimes.",
+   "objectives": [
+    "Describe the channels used to market and distribute funds",
+    "Explain how fund marketing is regulated",
+    "Distinguish passported, private placement and third-country marketing routes"
+   ],
+   "syllabus": [
+    "Distribution channels, platforms and intermediaries",
+    "Regulation of fund marketing and communications",
+    "Cross-border marketing within a passport regime",
+    "Marketing outside the home region and private placement regimes"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1041,
+   "number": 10,
+   "title": "Fund Documentation and Key Agreements",
+   "summary": "The prospectus, investor disclosures, promotional materials and the agreements that bind a fund to its manager and service providers.",
+   "objectives": [
+    "Explain the purpose and content of a fund prospectus",
+    "Describe the documents investors receive and promotional materials",
+    "Outline the investment management agreement and service provider contracts"
+   ],
+   "syllabus": [
+    "The prospectus and supplements",
+    "Key information documents, reports and accounts for investors",
+    "Promotional materials and fair communication",
+    "Investment management, depositary, administration and distribution agreements"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1042,
+   "number": 11,
+   "title": "Fund Operations: Dealing, Pricing and Liquidity",
+   "summary": "How investors subscribe and redeem, how funds are valued and priced, and how liquidity risk is managed day to day.",
+   "objectives": [
+    "Explain the subscription and redemption process",
+    "Describe valuation, pricing and net asset value calculation",
+    "Explain liquidity risk management tools and other fund transactions"
+   ],
+   "syllabus": [
+    "Operational features that drive fund processes",
+    "Subscriptions, dealing cycles and investor onboarding",
+    "Valuation, pricing and net asset value calculation",
+    "Redemptions, liquidity management tools, switches and transfers"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1043,
+   "number": 12,
+   "title": "Investing the Fund's Portfolio",
+   "summary": "What determines how a fund invests, the assets funds buy and sell, the rules that constrain portfolios and the techniques managers use.",
+   "objectives": [
+    "Describe the investment considerations for a fund",
+    "Explain the main asset classes funds hold",
+    "Describe regulatory limits and investment techniques such as derivatives and leverage"
+   ],
+   "syllabus": [
+    "Investment objective, policy and restrictions",
+    "Equities, bonds, money market instruments, derivatives and real assets",
+    "Regulatory limits: eligible assets, diversification and leverage",
+    "Investment techniques: hedging, securities lending and efficient portfolio management"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1044,
+   "number": 13,
+   "title": "Legal Considerations for Funds",
+   "summary": "The legal issues funds face, the role of legal counsel, ownership of fund assets, contracts and how security is taken and given over assets.",
+   "objectives": [
+    "Describe the main legal issues for investment funds",
+    "Explain legal and beneficial ownership of fund assets",
+    "Explain contract law considerations and methods of taking security"
+   ],
+   "syllabus": [
+    "The legal issues for funds and the role of legal counsel",
+    "Legal and beneficial ownership",
+    "Contract law: formation, terms, liability and termination",
+    "Taking and providing security: pledges, charges, title transfer and collateral"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1045,
+   "number": 14,
+   "title": "The Fund Lifecycle: Launch, Risk and Wind-Down",
+   "summary": "How a new fund is designed, authorised and launched, how risk is managed through its life, and how a fund is terminated and wound up.",
+   "objectives": [
+    "Explain the considerations for establishing and authorising a new fund",
+    "Describe how risk is managed across the fund lifecycle",
+    "Explain how a fund is terminated, merged or wound up"
+   ],
+   "syllabus": [
+    "Product design, domicile choice and the authorisation process",
+    "Launch, seeding and bringing a fund to market",
+    "Risk management through the lifecycle: investment, liquidity, operational and counterparty",
+    "Workshop: closing, merging and winding up a fund"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 262,
+   "entryType": "programme",
+   "title": "Fund Regulation Country Briefings",
+   "summary": "Eleven country webinar briefings on fund vehicles, regulators, authorisation, distribution and recent developments in leading European, offshore and Asia Pacific fund markets.",
+   "level": "Intermediate",
+   "moduleCount": 11,
+   "hours": 11,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 271,
+   "entryType": "programme",
+   "title": "International Fund Regulation: Global and Regional Briefings",
+   "summary": "A ten-module webinar series mapping international, EU and Asia Pacific fund regulation and how cross-border fund distribution, management and investment are regulated.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 10,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 276,
+   "entryType": "programme",
+   "title": "Investment Funds Supervision",
+   "summary": "A ten-module programme equipping supervisors to oversee investment funds and their managers, from authorisation and valuation to liquidity, leverage, private markets and tokenised funds.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 261,
+   "entryType": "programme",
+   "title": "Fund Governance and Compliance for Managers and Service Providers",
+   "summary": "A ten-module programme giving fund managers and service providers the practical tools to meet fund rules and supervisory expectations across the fund lifecycle.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  }
+ ]
+}

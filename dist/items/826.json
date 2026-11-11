@@ -1,0 +1,164 @@
+{
+ "id": 826,
+ "entryType": "module",
+ "title": "Resolution Regimes and the Key Attributes",
+ "summary": "What an effective resolution regime contains, how resolution tools work, and how government can assess whether the national regime meets the FSB Key Attributes.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters"
+ ],
+ "firmType": [],
+ "slug": "resolution-regimes-and-the-key-attributes",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Crisis Management & Resolution",
+  "Policy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What an effective resolution regime contains, how resolution tools work, and how government can assess whether the national regime meets the FSB Key Attributes.",
+  "Learning Objectives": [
+   "Explain the purpose of resolution and its objectives",
+   "Describe the main resolution tools and powers",
+   "Assess the national regime and resolution planning against the Key Attributes"
+  ],
+  "Syllabus": [
+   "Resolution objectives and the public interest test",
+   "Sale of business, bridge institutions, asset separation and bail-in",
+   "Resolution planning, resolvability and loss-absorbing capacity",
+   "Resolution of insurers, central counterparties and non-banks"
+  ],
+  "Intended Audience": [
+   "Senior officials in finance ministries and treasuries with responsibility for financial stability and crisis management",
+   "Members and secretariats of national financial stability and crisis management committees",
+   "Legal, fiscal and communications advisers who would support ministers in a financial crisis"
+  ],
+  "Useful Prior Knowledge and Experience": "Experience of financial stability, fiscal or financial sector policy is helpful. No prior crisis management experience is required.",
+  "Core Reading": [
+   "FSB (2014), Key Attributes of Effective Resolution Regimes for Financial Institutions",
+   "IADI (2014), IADI Core Principles for Effective Deposit Insurance Systems",
+   "FSB (2016), Guiding Principles on the Temporary Funding Needed to Support the Orderly Resolution of a Global Systemically Important Bank",
+   "FSB (2018), Principles on Bail-in Execution"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 248,
+   "module": 3,
+   "title": "Financial Crises and Public Finances: Crisis Preparedness for Government",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 824,
+     "number": 1,
+     "title": "Anatomy of a Financial Crisis"
+    },
+    {
+     "id": 825,
+     "number": 2,
+     "title": "Crisis Management Architecture and the Finance Ministry"
+    },
+    {
+     "id": 826,
+     "number": 3,
+     "title": "Resolution Regimes and the Key Attributes"
+    },
+    {
+     "id": 827,
+     "number": 4,
+     "title": "Bail-In, Loss Allocation and Public Support"
+    },
+    {
+     "id": 828,
+     "number": 5,
+     "title": "Deposit Insurance and Investor Protection"
+    },
+    {
+     "id": 829,
+     "number": 6,
+     "title": "Liquidity Support and Funding in Resolution"
+    },
+    {
+     "id": 830,
+     "number": 7,
+     "title": "Cross-Border Coordination and Crisis Communication"
+    },
+    {
+     "id": 831,
+     "number": 8,
+     "title": "Crisis Simulation and Preparedness Planning"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 235,
+   "entryType": "programme",
+   "title": "Drafting Financial Services Legislation",
+   "summary": "An eight-module programme helping legislative drafters and legal advisers design and draft effective, enforceable and technology-neutral financial services legislation.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 251,
+   "entryType": "programme",
+   "title": "Financial Services Policy Essentials for Government",
+   "summary": "A ten-module programme giving government officials a clear grounding in the financial system, regulatory architecture, international standards and the policy levers government holds.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

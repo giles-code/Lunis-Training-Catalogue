@@ -1,0 +1,117 @@
+{
+ "id": 46,
+ "entryType": "module",
+ "title": "Cross-Border Management Structures and Delegation",
+ "summary": "The aim of this workshop is to build participants' understanding of how cross-border management structures and delegation arrangements operate, and how supervisors assess substance and guard against 'letter-box' entity risk.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Management",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "cross-border-management-structures-and-delegation",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how cross-border management structures and delegation arrangements operate, and how supervisors assess substance and guard against 'letter-box' entity risk.",
+  "Intended Audience": "Junior to mid-level supervisors working in investment management supervision.",
+  "Learning Objectives": [
+   "Explain common cross-border management company structures",
+   "Describe substance requirements for management companies",
+   "Assess whether a management company has sufficient local substance",
+   "Identify indicators of 'letter-box' entity risk",
+   "Formulate a supervisory assessment of a cross-border management structure"
+  ],
+  "Syllabus": [
+   "Why fund managers use cross-border management company structures",
+   "Management company passporting",
+   "Typical delegation arrangements within these structures",
+   "Regulatory concerns about substance and letter-box entities",
+   "Facilitated discussion: cross-border structures participants have reviewed",
+   "What 'substance' means in a management company context",
+   "Staffing, decision-making authority, and local presence expectations",
+   "Assessing substance in practice: what to look for",
+   "Regulatory guidance on minimum substance expectations",
+   "Group exercise: assess a sample management company's substance against regulatory expectations",
+   "Indicators of letter-box entity risk",
+   "Consequences of insufficient substance for investor protection and supervision",
+   "Case study: a management company with substance concerns",
+   "Case study: formulate a supervisory assessment of a cross-border management structure",
+   "Recap: cross-border structures, substance, letter-box risk",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Cross-border management structures (09:30–10:45)\n- Session 2: Substance requirements (11:00–12:30)\n- Session 3: Letter-box risk and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Substance requirements exist to ensure real decision-making capability sits where regulatory responsibility sits\n- Letter-box entity risk undermines both investor protection and effective supervision\n- Assessing substance requires looking past organisational charts to actual staffing and decision-making authority",
+  "Useful Prior Knowledge and Experience": "Some familiarity with investment management is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 277,
+   "entryType": "programme",
+   "title": "Investment Management and Private Markets Supervision",
+   "summary": "A ten-module programme equipping supervisors to oversee investment, wealth and private market managers, including private credit, leverage, valuation and non-bank systemic risk.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

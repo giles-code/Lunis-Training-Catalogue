@@ -1,0 +1,172 @@
+{
+ "id": 1490,
+ "entryType": "module",
+ "title": "Proliferation Financing Networks",
+ "summary": "How networks finance the procurement of weapons of mass destruction and dual-use goods, conceal their activity through front companies and shipping, and how investigators identify them.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Intelligence & Law Enforcement",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "FIU analysts",
+  "Financial investigators & police",
+  "Prosecutors & judiciary"
+ ],
+ "firmType": [],
+ "slug": "proliferation-financing-networks",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "International & Cross-Border Affairs"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How networks finance the procurement of weapons of mass destruction and dual-use goods, conceal their activity through front companies and shipping, and how investigators identify them.",
+  "Learning Objectives": [
+   "Explain how proliferation networks procure goods and move funds",
+   "Recognise indicators of proliferation financing and sanctions evasion",
+   "Link financial, trade and export control information"
+  ],
+  "Syllabus": [
+   "Procurement networks, dual-use goods and front companies",
+   "Sanctions evasion through trade, shipping and corporate structures",
+   "Proliferation financing risk indicators",
+   "Working with export control and customs authorities"
+  ],
+  "Intended Audience": [
+   "FIU analysts and counter-terrorism financial investigators",
+   "Prosecutors, intelligence officers and sanctions implementation officials",
+   "Customs, export control and non-profit oversight officials working on terrorist or proliferation financing"
+  ],
+  "Useful Prior Knowledge and Experience": "Substantial experience of financial intelligence, counter-terrorism or financial crime investigation is helpful. Familiarity with the FATF standards is assumed.",
+  "Core Reading": [
+   "FATF (2015), Emerging Terrorist Financing Risks",
+   "FATF (2019), Terrorist Financing Risk Assessment Guidance",
+   "FATF (2023), Best Practices on Combating the Abuse of Non-Profit Organisations",
+   "FATF (2021), Guidance on Proliferation Financing Risk Assessment and Mitigation",
+   "FATF (2013), International Best Practices: Targeted Financial Sanctions Related to Terrorism and Terrorist Financing (Recommendation 6)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 324,
+   "module": 5,
+   "title": "Terrorist and Proliferation Financing Investigations",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 1486,
+     "number": 1,
+     "title": "The Threat and the International Framework"
+    },
+    {
+     "id": 1487,
+     "number": 2,
+     "title": "Sources of Terrorist Funds"
+    },
+    {
+     "id": 1488,
+     "number": 3,
+     "title": "Movement and Storage of Funds"
+    },
+    {
+     "id": 1489,
+     "number": 4,
+     "title": "The Non-Profit Sector: Risk-Based Protection"
+    },
+    {
+     "id": 1490,
+     "number": 5,
+     "title": "Proliferation Financing Networks"
+    },
+    {
+     "id": 1491,
+     "number": 6,
+     "title": "Targeted Financial Sanctions in Practice"
+    },
+    {
+     "id": 1492,
+     "number": 7,
+     "title": "Financial Intelligence and Information Sharing"
+    },
+    {
+     "id": 1493,
+     "number": 8,
+     "title": "Prosecution, Disruption and Multi-Agency Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 256,
+   "entryType": "programme",
+   "title": "FIU Operational and Strategic Analysis",
+   "summary": "A ten-module programme equipping FIU analysts to prioritise and analyse reports, produce operational and strategic intelligence, and cooperate effectively at home and abroad.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

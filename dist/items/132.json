@@ -1,0 +1,118 @@
+{
+ "id": 132,
+ "entryType": "module",
+ "title": "Money Market Funds: Regulation and Systemic Risk",
+ "summary": "The aim of this workshop is to build participants' understanding of how money market funds are regulated under money market fund rules and the systemic risk considerations that drive regulatory reform, and the supervisory tools used to assess MMF resilience.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Funds",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "money-market-funds-regulation-and-systemic-risk",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how money market funds are regulated under money market fund rules and the systemic risk considerations that drive regulatory reform, and the supervisory tools used to assess MMF resilience.",
+  "Intended Audience": "Junior to mid-level supervisors working in investment funds supervision.",
+  "Learning Objectives": [
+   "Explain the role and structure of money market funds",
+   "Describe the key requirements of money market fund regulation",
+   "Assess the systemic risk posed by money market funds",
+   "Evaluate NAV stability mechanisms and their limitations",
+   "Formulate a supervisory assessment of an MMF's resilience"
+  ],
+  "Syllabus": [
+   "The role of money market funds in short-term funding markets",
+   "Types of MMF: public debt CNAV, LVNAV, VNAV",
+   "Key MMF regulatory requirements: liquidity buffers, stress testing, reporting",
+   "Why MMFs attracted post-crisis regulatory reform",
+   "Facilitated discussion: MMF stress episodes participants are aware of",
+   "Why MMFs are considered systemically significant",
+   "Run risk and first-mover advantage in MMF redemptions",
+   "NAV stability mechanisms and their limitations under stress",
+   "Ongoing international reform debates (e.g. swing pricing for MMFs)",
+   "Group exercise: assess the run risk profile of a sample MMF structure",
+   "Supervisory tools for assessing MMF resilience",
+   "Reviewing stress-test results and liquidity buffer adequacy",
+   "Case study: an MMF facing redemption pressure",
+   "Case study: formulate a supervisory assessment of a sample MMF's resilience",
+   "Recap: MMF structure, MMF regulation, systemic risk, NAV stability",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: MMFs and their regulation (09:30–10:45)\n- Session 2: Systemic risk and NAV stability (11:00–12:30)\n- Session 3: Supervisory assessment and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Money market funds sit at the intersection of fund regulation and systemic risk, requiring both lenses\n- First-mover redemption advantage is the core structural vulnerability MMF regulation seeks to address\n- NAV stability mechanisms reduce but do not eliminate run risk under sufficiently severe stress",
+  "Useful Prior Knowledge and Experience": "Some familiarity with investment funds is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 262,
+   "entryType": "programme",
+   "title": "Fund Regulation Country Briefings",
+   "summary": "Eleven country webinar briefings on fund vehicles, regulators, authorisation, distribution and recent developments in leading European, offshore and Asia Pacific fund markets.",
+   "level": "Intermediate",
+   "moduleCount": 11,
+   "hours": 11,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

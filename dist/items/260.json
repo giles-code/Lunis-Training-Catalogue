@@ -1,0 +1,260 @@
+{
+ "id": 260,
+ "entryType": "programme",
+ "title": "Fund Board Governance Toolkit: A Risk-Based Oversight Workshop",
+ "summary": "A six-module practical workshop giving fund directors a risk-based governance toolkit, from skills matrices to escalation triggers, and a draft oversight plan for their own board.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 18,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "fund-board-governance-toolkit",
+ "moduleCount": 6,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips fund and management company directors with a practical, risk-based toolkit for organising their board, overseeing service providers and evidencing effective governance, leaving each participant with a draft oversight plan.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give directors a working set of governance tools, from skills matrices and committee terms of reference to oversight calendars and escalation triggers, built on a risk-based view of the fund and its service providers. Participants apply each tool to their own board and leave with a draft oversight plan they can take back and adopt.",
+  "What It Covers": "Board composition, independence and skills, board organisation, meetings and delegation, a risk-based oversight framework across service providers, oversight calendars, management information and escalation, ethics, culture and professional standards, and board evaluation and director development.",
+  "Intended Audience": [
+   "Chairs, independent and non-executive directors of investment funds and fund management companies",
+   "Executive directors, conducting officers and designated persons who prepare board business",
+   "Company secretaries and governance professionals who design and maintain board frameworks"
+  ],
+  "Learning Objectives": [
+   "Assess board composition, independence and skills against the fund's risk profile",
+   "Design board and committee arrangements, agendas and delegations that focus time on what matters",
+   "Apply a risk-based oversight framework across the manager and each service provider",
+   "Build an oversight calendar, management information set and escalation triggers",
+   "Evaluate the ethical standards, culture and conduct expected of fund directors",
+   "Produce a board evaluation approach and a draft oversight plan for the participant's own board"
+  ],
+  "Structure and Format": "Six workshop modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a three-day programme or as a series of half-day sessions. Each module combines a short briefing with hands-on exercises using governance templates, and modules can be selected or tailored to a single board or a mixed group of directors.",
+  "Useful Prior Knowledge and Experience": "Current or prospective experience as a fund or management company director is helpful. No prior governance qualification is required.",
+  "Core Reading": [
+   "IOSCO, Examination of Governance for Collective Investment Schemes (2006–2007)",
+   "G20/OECD Principles of Corporate Governance (2023)",
+   "FSB, Enhancing Third-Party Risk Management and Oversight: A Toolkit for Financial Institutions and Financial Authorities (2023)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 927,
+   "number": 1,
+   "title": "Board Composition, Independence and Skills Matrix",
+   "summary": "How to compose a fund board that matches the fund's risks, test independence in substance as well as form, and build a skills matrix that drives appointments and development.",
+   "objectives": [
+    "Distinguish executive, non-executive and independent directors and test independence",
+    "Build a skills matrix linked to the fund's strategy and risk profile",
+    "Assess diversity, location, time commitment and fitness and probity"
+   ],
+   "syllabus": [
+    "Board profile: executive, non-executive and independent roles",
+    "Independence tests, tenure, affiliations and multiple directorships",
+    "Building a skills matrix from the fund's risk profile",
+    "Tool: a completed skills matrix and gap analysis"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 928,
+   "number": 2,
+   "title": "Board Organisation: Meetings, Agendas, Committees and Delegation",
+   "summary": "How the board organises its work: meeting frequency and format, agendas that protect decision time, committees with clear mandates and delegations that do not become abdication.",
+   "objectives": [
+    "Design a meeting schedule, format and agenda structure for a fund board",
+    "Draft committee mandates and a schedule of matters reserved to the board",
+    "Evaluate delegations of authority and how they are monitored"
+   ],
+   "syllabus": [
+    "Meeting frequency, attendance, observers and virtual meetings",
+    "Standing agenda items, decision papers and minutes that evidence challenge",
+    "Committees: formal and ad hoc, terms of reference and scope of authority",
+    "Tool: a matters reserved schedule and committee terms of reference"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 929,
+   "number": 3,
+   "title": "A Risk-Based Oversight Framework for Service Providers",
+   "summary": "How to build an oversight framework from the risks to the fund and its investors, covering the manager, administrator, transfer agent, depositary, distributors and auditors in proportion to risk.",
+   "objectives": [
+    "Identify the key risks each service provider presents to the fund",
+    "Apply proportionate oversight intensity based on risk and materiality",
+    "Define the assurance the board needs from each provider"
+   ],
+   "syllabus": [
+    "Investor protection as the starting point for the oversight framework",
+    "Risk mapping across portfolio management, administration, depositary and distribution",
+    "Oversight intensity: reporting, reviews, due diligence visits and independent assurance",
+    "Tool: a risk-based service provider oversight matrix"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 930,
+   "number": 4,
+   "title": "Oversight Calendars, MI and Escalation",
+   "summary": "How to turn the oversight framework into an annual calendar, a focused management information set and pre-agreed escalation triggers that remove guesswork when something goes wrong.",
+   "objectives": [
+    "Build an annual oversight calendar aligned to reporting and review cycles",
+    "Specify the management information the board needs and in what form",
+    "Set escalation triggers and internal limits that operate before a breach"
+   ],
+   "syllabus": [
+    "The annual cycle: reviews, approvals, audits and provider assessments",
+    "Management information: dashboards, exception reporting and key risk indicators",
+    "Escalation triggers, internal limits and out-of-cycle meetings",
+    "Tool: an oversight calendar and escalation matrix"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 931,
+   "number": 5,
+   "title": "Ethics, Culture and Professional Standards for Directors",
+   "summary": "The ethical standards expected of fund directors, how culture and conflicts are overseen in a delegated model, and how directors handle the dilemmas that rules do not resolve.",
+   "objectives": [
+    "Explain the professional and ethical standards expected of fund directors",
+    "Assess culture, values and conflicts of interest across the fund's delegates",
+    "Apply an ethical decision-making framework to board dilemmas"
+   ],
+   "syllabus": [
+    "Duties of loyalty, care, independence of judgement and acting for investors",
+    "Conflicts of interest: identification, registers, disclosure and management",
+    "Overseeing culture in a delegated model: signals and evidence",
+    "Tool: an ethical decision-making framework applied to case dilemmas"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 932,
+   "number": 6,
+   "title": "Board Evaluation, Director Development and the Oversight Plan",
+   "summary": "How boards evaluate their own effectiveness and develop their directors, ending with each participant drafting a risk-based oversight plan for their own board.",
+   "objectives": [
+    "Design a proportionate board and director evaluation process",
+    "Plan induction, continuing development and succession for the board",
+    "Produce a draft risk-based oversight plan for the participant's board"
+   ],
+   "syllabus": [
+    "Internal and external evaluations, and tracking actions to completion",
+    "Induction, continuing professional development and succession planning",
+    "Due diligence before joining a fund board",
+    "Workshop: drafting the board's risk-based oversight plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 199,
+   "entryType": "programme",
+   "title": "Alternative Investments for Fund Directors",
+   "summary": "An eight-module programme explaining hedge fund, private markets, real asset, structured and digital asset strategies to fund directors, with board questions on valuation, liquidity and fees.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 207,
+   "entryType": "programme",
+   "title": "Board Oversight of Fund Operations and Service Providers",
+   "summary": "A ten-module programme giving fund directors the tools to oversee fund operations and service providers, from NAV production and custody to errors and resilience.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 274,
+   "entryType": "programme",
+   "title": "Investment Fund Governance for Directors",
+   "summary": "A ten-module programme giving fund directors the tools to oversee delegates, manage conflicts, protect investors and evidence effective governance to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 288,
+   "entryType": "programme",
+   "title": "Overseeing Regulatory Change: Annual Update for Fund Directors",
+   "summary": "A six-module annual CPD update for fund directors on the year's regulatory developments and on overseeing regulatory change and regulatory risk.",
+   "level": "Board level",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 306,
+   "entryType": "programme",
+   "title": "Risk Oversight for Fund and Management Company Boards",
+   "summary": "An eight-module programme giving fund and management company directors the tools to oversee investment, operational and emerging risks and challenge the risk function.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 195,
+   "entryType": "programme",
+   "title": "AI Governance for Boards",
+   "summary": "A ten-module programme giving boards and directors the understanding and tools to govern AI responsibly and evidence sound oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

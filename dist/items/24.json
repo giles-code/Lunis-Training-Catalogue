@@ -1,0 +1,116 @@
+{
+ "id": 24,
+ "entryType": "module",
+ "title": "Best Execution and Client Order Handling Supervision",
+ "summary": "The aim of this workshop is to build participants' skills in supervising firms' best execution and client order handling practices, including assessing execution quality monitoring and reporting.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Services & Capital Markets",
+ "tags": [
+  "Investment services & markets"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Firms & Wealth Management",
+  "Market Infrastructure & Trading Venues"
+ ],
+ "slug": "best-execution-and-client-order-handling-supervision",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in supervising firms' best execution and client order handling practices, including assessing execution quality monitoring and reporting.",
+  "Intended Audience": "Junior to mid-level supervisors working in investment services/capital markets supervision.",
+  "Learning Objectives": [
+   "Explain the best execution obligation and its rationale",
+   "Describe order handling rules and their practical application",
+   "Assess a firm's execution quality monitoring framework",
+   "Evaluate execution quality reporting for adequacy and transparency",
+   "Formulate a supervisory assessment of a firm's best execution practice"
+  ],
+  "Syllabus": [
+   "The best execution obligation: what it requires and why",
+   "Order handling rules: fair treatment, aggregation, allocation",
+   "Execution factors: price, cost, speed, likelihood of execution",
+   "Common best execution failures",
+   "Facilitated discussion: best execution challenges participants have encountered",
+   "What good execution quality monitoring looks like",
+   "Data and analytics used to monitor execution outcomes",
+   "Assessing whether monitoring drives genuine improvement",
+   "Common monitoring framework weaknesses",
+   "Group exercise: assess a sample execution quality monitoring framework",
+   "Execution quality reporting requirements and transparency expectations",
+   "Assessing whether reporting is meaningful or merely compliant",
+   "Case study: a firm's best execution practice under review",
+   "Case study: formulate a supervisory assessment of a firm's best execution practice",
+   "Recap: best execution obligation, monitoring, reporting",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Best execution fundamentals (09:30–10:45)\n- Session 2: Execution quality monitoring (11:00–12:30)\n- Session 3: Reporting and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Best execution is an ongoing obligation demonstrated through monitoring, not a one-off policy statement\n- Execution quality data is only useful if a firm actually acts on what it reveals\n- Transparent reporting is both a regulatory requirement and a genuine test of a firm's execution culture",
+  "Useful Prior Knowledge and Experience": "Some familiarity with investment services & capital markets is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 209,
+   "entryType": "programme",
+   "title": "Capital Markets and Investment Services Supervision",
+   "summary": "A ten-module programme equipping supervisors to oversee investment firms, trading venues and issuers, from client conduct and client assets to algorithmic trading and market abuse.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 312,
+   "entryType": "programme",
+   "title": "Supervising Financial Market Infrastructures",
+   "summary": "An advanced ten-module programme equipping supervisors and overseers to apply the PFMI to trading venues, CCPs, CSDs, payment systems and trade repositories.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

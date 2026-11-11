@@ -1,0 +1,176 @@
+{
+ "id": 781,
+ "entryType": "module",
+ "title": "Audit, Accounting Judgements and Valuation",
+ "summary": "Where the numbers depend on judgement, from provisions and impairments to the valuation of hard-to-price assets, and how directors use the auditors to gain assurance.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "audit-accounting-judgements-and-valuation",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Prudential Risk (Capital & Liquidity)"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Where the numbers depend on judgement, from provisions and impairments to the valuation of hard-to-price assets, and how directors use the auditors to gain assurance.",
+  "Learning Objectives": [
+   "Identify significant accounting judgements and estimates",
+   "Assess valuation approaches for illiquid and complex assets",
+   "Engage effectively with external and internal auditors"
+  ],
+  "Syllabus": [
+   "Provisions, impairments, expected credit losses and revenue recognition",
+   "Valuation hierarchies, models and independent price verification",
+   "Reading the audit report, key audit matters and management letters",
+   "The board's relationship with the auditors and the audit committee"
+  ],
+  "Intended Audience": [
+   "Non-executive and independent directors without a finance or accounting background",
+   "Chairs and members of board committees other than audit, and newly appointed directors",
+   "Executive directors and senior managers from non-finance functions who sign off plans or returns"
+  ],
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No accounting or finance qualification is required.",
+  "Core Reading": [
+   "Basel Committee, The Basel Framework (consolidated Basel III standards)",
+   "Basel Committee, Principles for Sound Liquidity Risk Management and Supervision (2008)",
+   "Basel Committee, Stress Testing Principles (2018)",
+   "IOSCO, Principles for the Valuation of Collective Investment Schemes (2013)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 242,
+   "module": 6,
+   "title": "Finance and Prudential Essentials for Directors of Regulated Firms",
+   "moduleCount": 8,
+   "durationValue": 16,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 776,
+     "number": 1,
+     "title": "Reading the Financial Statements of a Regulated Firm"
+    },
+    {
+     "id": 777,
+     "number": 2,
+     "title": "Key Ratios and Performance Measures"
+    },
+    {
+     "id": 778,
+     "number": 3,
+     "title": "Capital and Liquidity Adequacy"
+    },
+    {
+     "id": 779,
+     "number": 4,
+     "title": "Regulatory Returns and Internal Capital and Liquidity Assessments"
+    },
+    {
+     "id": 780,
+     "number": 5,
+     "title": "Budgets, Business Plans and Forecasts"
+    },
+    {
+     "id": 781,
+     "number": 6,
+     "title": "Audit, Accounting Judgements and Valuation"
+    },
+    {
+     "id": 782,
+     "number": 7,
+     "title": "Stress Testing and Reverse Stress Testing"
+    },
+    {
+     "id": 783,
+     "number": 8,
+     "title": "Holding the Finance Function to Account"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 236,
+   "entryType": "programme",
+   "title": "Effective Governance for Boards and Directors",
+   "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+   "level": "Board level",
+   "moduleCount": 12,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

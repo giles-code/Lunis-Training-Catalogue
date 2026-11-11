@@ -1,0 +1,99 @@
+{
+ "id": 73,
+ "entryType": "module",
+ "title": "Executive Coaching",
+ "summary": "Provide tailored, on-demand coaching interventions to support individual leadership development needs.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "Senior Leadership Development",
+ "tags": [
+  "Leadership & strategy"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 1,
+ "durationUnit": "days",
+ "role": [
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "executive-coaching",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Conduct & Culture / HR"
+ ],
+ "contentGaps": [
+  "aimAndPurpose: expanded from a one-line catalogue summary only",
+  "learningObjectives: derived from focus-area keywords, not explicit source content",
+  "syllabus: derived from focus-area keywords, needs expansion",
+  "structureAndFormat: not specified in source catalogue",
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "duration: not stated in source catalogue; defaulted to a single full day pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "Provide tailored, on-demand coaching interventions to support individual leadership development needs.",
+  "Intended Audience": "Senior managers and executives within the authority.",
+  "Learning Objectives": [
+   "Understand and apply: Bespoke",
+   "Understand and apply: on-demand interventions"
+  ],
+  "Syllabus": [
+   "Bespoke",
+   "on-demand interventions"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with senior leadership development is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 280,
+   "entryType": "programme",
+   "title": "Management and Leadership for Supervisors",
+   "summary": "A ten-module programme giving new and developing managers in supervisory authorities the practical skills to lead teams and make sound decisions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 302,
+   "entryType": "programme",
+   "title": "Regulatory Leadership and Strategy",
+   "summary": "An eight-module programme for the authority's leaders on mandate, governance, independence, risk appetite, growth objectives, effectiveness and leading change.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 200,
+   "entryType": "programme",
+   "title": "Applied AI for Supervisory Staff",
+   "summary": "An eight-module hands-on programme helping supervisory staff use generative AI and analytics tools safely and productively in everyday supervisory work.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

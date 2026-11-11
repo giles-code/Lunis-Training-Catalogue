@@ -1,0 +1,185 @@
+{
+ "id": 1328,
+ "entryType": "module",
+ "title": "Risk Management Information and Reporting",
+ "summary": "Building risk reporting that is accurate, timely and decision-useful, from data aggregation to dashboards that tell the board what it needs to know.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "risk-management-information-and-reporting",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Risk Management",
+  "Prudential Risk (Capital & Liquidity)"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Building risk reporting that is accurate, timely and decision-useful, from data aggregation to dashboards that tell the board what it needs to know.",
+  "Learning Objectives": [
+   "Design risk management information aligned to appetite and principal risks",
+   "Apply principles of risk data aggregation and reporting quality",
+   "Produce risk reports that support decisions rather than reassure"
+  ],
+  "Syllabus": [
+   "Risk data aggregation, quality and lineage",
+   "Dashboards, key risk indicators and trend analysis",
+   "Writing the CRO report: insight, judgement and recommendations",
+   "Case study: reporting that failed to warn the board"
+  ],
+  "Intended Audience": [
+   "Chief risk officers, heads of risk and risk managers in regulated firms",
+   "Risk analysts and operational risk staff developing their framework and reporting skills",
+   "Finance, compliance, internal audit and business managers who own or oversee risks"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of risk management, finance or control work in a regulated firm is helpful. No quantitative modelling background is required.",
+  "Core Reading": [
+   "FSB, Principles for an Effective Risk Appetite Framework (2013)",
+   "Basel Committee, Principles for Effective Risk Data Aggregation and Risk Reporting (BCBS 239) (2013)",
+   "Basel Committee, Stress Testing Principles (2018)",
+   "Basel Committee, Revisions to the Principles for the Sound Management of Operational Risk (2021)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 305,
+   "module": 9,
+   "title": "Risk Management for Regulated Firms",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1320,
+     "number": 1,
+     "title": "Risk Governance and the Three Lines Model"
+    },
+    {
+     "id": 1321,
+     "number": 2,
+     "title": "Risk Appetite Frameworks"
+    },
+    {
+     "id": 1322,
+     "number": 3,
+     "title": "Risk Identification and Taxonomy"
+    },
+    {
+     "id": 1323,
+     "number": 4,
+     "title": "Operational Risk and Risk and Control Self-Assessment"
+    },
+    {
+     "id": 1324,
+     "number": 5,
+     "title": "Capital Adequacy Self-Assessment"
+    },
+    {
+     "id": 1325,
+     "number": 6,
+     "title": "Liquidity Risk and Wind-Down Planning"
+    },
+    {
+     "id": 1326,
+     "number": 7,
+     "title": "Stress Testing and Reverse Stress Testing"
+    },
+    {
+     "id": 1327,
+     "number": 8,
+     "title": "Emerging Risks: AI, Cyber and Climate"
+    },
+    {
+     "id": 1328,
+     "number": 9,
+     "title": "Risk Management Information and Reporting"
+    },
+    {
+     "id": 1329,
+     "number": 10,
+     "title": "The CRO, the Board and Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 211,
+   "entryType": "programme",
+   "title": "Compliance Officer Academy",
+   "summary": "A ten-module academy giving compliance officers the tools to run an independent, risk-based compliance function and handle supervisory engagement with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 269,
+   "entryType": "programme",
+   "title": "Internal Audit in Regulated Firms",
+   "summary": "An eight-module programme giving internal auditors the tools to deliver risk-based assurance over the regulatory risks that matter most to boards and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 270,
+   "entryType": "programme",
+   "title": "Internal Investigations and Interviewing Skills",
+   "summary": "A nine-module programme giving control functions a structured method to investigate misconduct, whistleblowing reports and breaches, interview witnesses and subjects, and report findings.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

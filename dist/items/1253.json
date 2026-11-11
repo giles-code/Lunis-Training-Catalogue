@@ -1,0 +1,160 @@
+{
+ "id": 1253,
+ "entryType": "module",
+ "title": "Tactical and Strategic Sharing in Practice",
+ "summary": "How partnerships share information on specific cases and subjects and on threats and typologies, and how outputs feed investigations, reporting and firms' controls.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Intelligence & Law Enforcement",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "FIU analysts",
+  "Financial investigators & police"
+ ],
+ "firmType": [],
+ "slug": "tactical-and-strategic-sharing-in-practice",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Policy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How partnerships share information on specific cases and subjects and on threats and typologies, and how outputs feed investigations, reporting and firms' controls.",
+  "Learning Objectives": [
+   "Run tactical sharing on live cases securely and lawfully",
+   "Produce strategic threat and typology products with partners",
+   "Turn shared intelligence into investigative and preventive action"
+  ],
+  "Syllabus": [
+   "Tactical sharing: requests, responses and targeted reporting",
+   "Strategic sharing: threat assessments, typologies and alerts",
+   "Handling, dissemination and onward use of shared information",
+   "Feeding results into investigations and firms' monitoring"
+  ],
+  "Intended Audience": [
+   "FIU heads, partnership managers and senior analysts",
+   "Law-enforcement leads for economic crime, fraud and terrorist financing",
+   "Policy, legal and data protection officers advising on information-sharing arrangements"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of financial intelligence, investigation or AML/CFT policy is helpful. No legal or data protection expertise is required.",
+  "Core Reading": [
+   "FATF (2017), Guidance on Private Sector Information Sharing",
+   "FATF (2021), Stocktake on Data Pooling, Collaborative Analytics and Data Protection",
+   "FATF (2022), Partnering in the Fight Against Financial Crime: Data Protection, Technology and Private Sector Information Sharing",
+   "Egmont Group (2013), Principles for Information Exchange Between Financial Intelligence Units"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 296,
+   "module": 4,
+   "title": "Public-Private Partnerships and Financial Intelligence Sharing",
+   "moduleCount": 6,
+   "durationValue": 18,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1250,
+     "number": 1,
+     "title": "The Case for Public-Private Partnerships"
+    },
+    {
+     "id": 1251,
+     "number": 2,
+     "title": "Partnership Models and Governance"
+    },
+    {
+     "id": 1252,
+     "number": 3,
+     "title": "Legal Gateways and Data Protection"
+    },
+    {
+     "id": 1253,
+     "number": 4,
+     "title": "Tactical and Strategic Sharing in Practice"
+    },
+    {
+     "id": 1254,
+     "number": 5,
+     "title": "Measuring Results and Demonstrating Value"
+    },
+    {
+     "id": 1255,
+     "number": 6,
+     "title": "Designing a Partnership: Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 256,
+   "entryType": "programme",
+   "title": "FIU Operational and Strategic Analysis",
+   "summary": "A ten-module programme equipping FIU analysts to prioritise and analyse reports, produce operational and strategic intelligence, and cooperate effectively at home and abroad.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "id": 71,
+ "entryType": "module",
+ "title": "Evidence-Gathering to an Enforcement Standard",
+ "summary": "The aim of this workshop is to build participants' skills in gathering and preserving evidence to a standard suitable for enforcement or court proceedings, including disclosure obligations and maintaining a defensible evidential record.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Enforcement & Sanctions",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Enforcement & investigations"
+ ],
+ "firmType": [],
+ "slug": "evidence-gathering-to-an-enforcement-standard",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Enforcement"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in gathering and preserving evidence to a standard suitable for enforcement or court proceedings, including disclosure obligations and maintaining a defensible evidential record.",
+  "Intended Audience": "Junior to mid-level enforcement investigators and case officers.",
+  "Learning Objectives": [
+   "Explain the evidential standards required for enforcement action",
+   "Describe disclosure obligations during an investigation",
+   "Apply techniques for maintaining a defensible chain of custody",
+   "Draft an evidentially sound witness statement",
+   "Evaluate a sample evidence file for gaps or weaknesses"
+  ],
+  "Syllabus": [
+   "Evidential standards required for enforcement versus supervisory action",
+   "Disclosure obligations to the subject of an investigation",
+   "Types of evidence: documentary, testimonial, digital, expert",
+   "Legal privilege and its limits",
+   "Facilitated discussion: evidential challenges from participants' own investigations",
+   "Maintaining a defensible chain of custody",
+   "Preserving digital evidence without contamination",
+   "Documenting the provenance of evidence",
+   "Common evidence-handling errors that undermine cases",
+   "Exercise: identify chain-of-custody gaps in a sample evidence file",
+   "Structuring an evidentially sound witness statement",
+   "Avoiding leading or suggestive statement-taking",
+   "Case study: a case undermined by evidential weaknesses",
+   "Case study: draft a witness statement and evaluate a sample evidence file for gaps",
+   "Recap: standards, disclosure, chain of custody, statements",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Evidential standards (09:30–10:45)\n- Session 2: Chain of custody and evidence preservation (11:00–12:30)\n- Session 3: Witness statements and evidence review (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Evidence gathered to a supervisory standard is often insufficient for enforcement action — the bar is higher\n- A broken chain of custody can undermine an otherwise strong case\n- Disclosure obligations must be actively managed throughout an investigation, not just at its conclusion",
+  "Useful Prior Knowledge and Experience": "Some familiarity with enforcement & sanctions is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 238,
+   "entryType": "programme",
+   "title": "Enforcement and Sanctions",
+   "summary": "A ten-module programme taking enforcement and supervisory staff through the full life of an enforcement case, from triage and evidence to sanctions, settlement and cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

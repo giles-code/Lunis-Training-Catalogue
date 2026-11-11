@@ -1,0 +1,101 @@
+{
+ "id": 120,
+ "entryType": "module",
+ "title": "Managing with Emotional Intelligence & Accountability",
+ "summary": "Build managers’ self-awareness and accountability practices that foster a strong feedback culture and enhance team performance.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "Management & Leadership Fundamentals",
+ "tags": [
+  "Leadership & strategy"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 1,
+ "durationUnit": "days",
+ "role": [
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "managing-with-emotional-intelligence-and-accountability",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Conduct & Culture / HR"
+ ],
+ "contentGaps": [
+  "aimAndPurpose: expanded from a one-line catalogue summary only",
+  "learningObjectives: derived from focus-area keywords, not explicit source content",
+  "syllabus: derived from focus-area keywords, needs expansion",
+  "structureAndFormat: not specified in source catalogue",
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "duration: not stated in source catalogue; defaulted to a single full day pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "Build managers’ self-awareness and accountability practices that foster a strong feedback culture and enhance team performance.",
+  "Intended Audience": "New and aspiring line managers within the authority.",
+  "Learning Objectives": [
+   "Understand and apply: Self-awareness",
+   "Understand and apply: feedback culture",
+   "Understand and apply: accountability"
+  ],
+  "Syllabus": [
+   "Self-awareness",
+   "feedback culture",
+   "accountability"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with management & leadership fundamentals is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 280,
+   "entryType": "programme",
+   "title": "Management and Leadership for Supervisors",
+   "summary": "A ten-module programme giving new and developing managers in supervisory authorities the practical skills to lead teams and make sound decisions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 302,
+   "entryType": "programme",
+   "title": "Regulatory Leadership and Strategy",
+   "summary": "An eight-module programme for the authority's leaders on mandate, governance, independence, risk appetite, growth objectives, effectiveness and leading change.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 200,
+   "entryType": "programme",
+   "title": "Applied AI for Supervisory Staff",
+   "summary": "An eight-module hands-on programme helping supervisory staff use generative AI and analytics tools safely and productively in everyday supervisory work.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

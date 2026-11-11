@@ -1,0 +1,343 @@
+{
+ "id": 290,
+ "entryType": "programme",
+ "title": "Payments and E-Money Compliance",
+ "summary": "A ten-module programme giving payment and e-money firms the practical tools to meet safeguarding, fraud, financial crime and resilience expectations.",
+ "clientType": [
+  "firms",
+  "payments"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes",
+  "payments": "Sector Programmes"
+ },
+ "topic": "Sector Programmes",
+ "tags": [
+  "Payments"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders",
+  "Senior leaders & managers"
+ ],
+ "firmType": [
+  "Payments & E-Money"
+ ],
+ "slug": "payments-and-e-money-compliance",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips payment and e-money firms to meet authorisation, safeguarding, operational, fraud and financial crime requirements, and to prepare for new payment rails, stablecoins and wind-down scrutiny.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Financial Crime, AML & Sanctions Compliance"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give payment and e-money firms a practical understanding of the rules and supervisory expectations that apply to their business, from authorisation and safeguarding to fraud and wind-down. Participants leave able to strengthen their controls, evidence compliance and see their payments business the way a supervisor does.",
+  "What It Covers": "Authorisation and the regulatory perimeter, safeguarding, governance and capital, operational and security risk, fraud and authorised push payment scams, AML/CFT and sanctions, agents and distributors, open banking, wind-down planning, and stablecoins and new payment rails.",
+  "Intended Audience": [
+   "Compliance officers, MLROs and risk managers at payment institutions and e-money issuers",
+   "Finance, operations, safeguarding and fraud teams responsible for day-to-day controls",
+   "Directors, senior managers and founders of payment and fintech firms"
+  ],
+  "Learning Objectives": [
+   "Explain the regulatory framework and authorisation requirements for payment and e-money firms",
+   "Design and evidence robust safeguarding arrangements",
+   "Assess governance, capital, operational and security risk controls",
+   "Implement fraud, AML/CFT and sanctions controls suited to payment business models",
+   "Oversee agents, distributors and open banking arrangements effectively",
+   "Prepare a credible wind-down plan and assess the impact of new payment rails"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Modules combine short briefings with case studies, group exercises and practical templates, and can be selected or tailored to the firm's business model.",
+  "Useful Prior Knowledge and Experience": "Some experience of payments, e-money or compliance is helpful. No prior knowledge of specific payment services rules is required.",
+  "Core Reading": [
+   "CPMI, Fast Payments: Enhancing the Speed and Availability of Retail Payments (2016)",
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "CPMI and World Bank, Payment Aspects of Financial Inclusion (2016)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1198,
+   "number": 1,
+   "title": "Authorisation and the Regulatory Perimeter",
+   "summary": "The main categories of payment and e-money business, how firms determine which permissions they need, and what the authority looks for in a strong application.",
+   "objectives": [
+    "Distinguish payment institution, e-money and other payment business models",
+    "Map the firm's activities to the regulatory perimeter and exclusions",
+    "Prepare an authorisation application that anticipates supervisory concerns"
+   ],
+   "syllabus": [
+    "Payment services, e-money issuance and their regulatory treatment",
+    "Perimeter questions: exclusions, commercial agents and limited networks",
+    "Capital, business plans and the programme of operations",
+    "Common weaknesses in payment and e-money applications"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1199,
+   "number": 2,
+   "title": "Safeguarding Customer Funds",
+   "summary": "Why safeguarding is the single most important customer protection in payments, the methods available and how firms design, reconcile and audit their arrangements.",
+   "objectives": [
+    "Explain the purpose and methods of safeguarding",
+    "Design safeguarding reconciliations and controls",
+    "Prepare for safeguarding audits and supervisory reviews"
+   ],
+   "syllabus": [
+    "Segregation, insurance and guarantee methods",
+    "Relevant funds, timing and designated safeguarding accounts",
+    "Daily reconciliations, breaks and escalation",
+    "Safeguarding audits, attestations and failures in insolvency"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1200,
+   "number": 3,
+   "title": "Governance, Capital and Fitness",
+   "summary": "The governance, risk management and capital arrangements a payment or e-money firm needs, and how boards and senior managers evidence sound oversight.",
+   "objectives": [
+    "Assess governance arrangements against supervisory expectations",
+    "Calculate and monitor own funds and capital requirements",
+    "Apply fitness and propriety standards to directors and key function holders"
+   ],
+   "syllabus": [
+    "Board composition, control functions and three lines of defence",
+    "Own funds calculations, capital planning and liquidity",
+    "Fitness and propriety of directors and qualifying holders",
+    "Management information and regulatory reporting"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1201,
+   "number": 4,
+   "title": "Operational, Security and Third-Party Risk",
+   "summary": "How payment firms manage operational and security risk, including incident reporting, strong customer authentication, outsourcing and reliance on technology providers.",
+   "objectives": [
+    "Design an operational and security risk management framework",
+    "Implement strong customer authentication and incident reporting",
+    "Manage outsourcing and third-party risk, including cloud and banking partners"
+   ],
+   "syllabus": [
+    "Operational and security risk assessments and controls",
+    "Strong customer authentication and its exemptions",
+    "Major incident management and reporting to the authority",
+    "Outsourcing, banking partners, cloud and concentration risk"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1202,
+   "number": 5,
+   "title": "Fraud and Authorised Push Payment Scams",
+   "summary": "How payment fraud and authorised push payment scams work, the controls that prevent them, and emerging approaches to reimbursement and liability sharing.",
+   "objectives": [
+    "Recognise payment fraud and scam typologies",
+    "Design fraud prevention, detection and customer warning controls",
+    "Apply reimbursement, liability and data-sharing arrangements"
+   ],
+   "syllabus": [
+    "Fraud typologies: account takeover, impersonation and investment scams",
+    "Transaction monitoring, confirmation of payee and effective warnings",
+    "Reimbursement, liability sharing and vulnerable customers",
+    "Fraud data, intelligence sharing and AI-enabled detection"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1203,
+   "number": 6,
+   "title": "AML/CFT and Sanctions in Payments",
+   "summary": "The financial crime risks specific to payment and e-money firms and how to build a risk-based AML/CFT and sanctions framework aligned with FATF standards.",
+   "objectives": [
+    "Assess money laundering and terrorist financing risks in payments",
+    "Design customer due diligence, monitoring and travel rule controls",
+    "Implement sanctions screening for payments and customers"
+   ],
+   "syllabus": [
+    "Business-wide risk assessment for payment and e-money models",
+    "Customer due diligence, simplified due diligence and e-money thresholds",
+    "Transaction monitoring, payment transparency and suspicious activity reporting",
+    "Sanctions screening, payment filtering and money mule risk"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1204,
+   "number": 7,
+   "title": "Agents, Distributors and Partners",
+   "summary": "How firms oversee agents, distributors and programme partners who act on their behalf, and remain responsible for their compliance and conduct.",
+   "objectives": [
+    "Explain the firm's responsibility for agents and distributors",
+    "Design onboarding, registration and monitoring of agents and distributors",
+    "Assess risks in embedded finance and partner programmes"
+   ],
+   "syllabus": [
+    "Agents versus distributors: roles and regulatory treatment",
+    "Due diligence, registration and fitness of agents",
+    "Ongoing monitoring, audits and termination",
+    "Embedded finance, programme managers and white-label models"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1205,
+   "number": 8,
+   "title": "Open Banking and Customer Outcomes",
+   "summary": "How account information and payment initiation services work, the obligations of providers and account holders, and how to deliver fair outcomes for payment customers.",
+   "objectives": [
+    "Explain account information and payment initiation services",
+    "Assess API access, consent and data protection obligations",
+    "Evaluate customer outcomes, complaints and disclosure in payments"
+   ],
+   "syllabus": [
+    "Account information and payment initiation services",
+    "Dedicated interfaces, consent and data sharing",
+    "Fees, transparency and information requirements",
+    "Complaints handling and redress"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1206,
+   "number": 9,
+   "title": "Wind-Down Planning and Resolution",
+   "summary": "How payment and e-money firms prepare for an orderly wind-down that returns customer funds promptly, and what supervisors expect to see in a credible plan.",
+   "objectives": [
+    "Design a credible wind-down plan and trigger framework",
+    "Identify the resources and dependencies needed for an orderly exit",
+    "Test the plan and integrate it with safeguarding and recovery arrangements"
+   ],
+   "syllabus": [
+    "Wind-down triggers, indicators and governance",
+    "Returning customer funds and insolvency considerations",
+    "Critical staff, systems, partners and costs of exit",
+    "Testing, review and board approval"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1207,
+   "number": 10,
+   "title": "Stablecoins and New Payment Rails",
+   "summary": "Brings the programme together with the developments reshaping payments: instant payments, stablecoins, tokenised deposits and agentic payments, closing with a compliance action plan.",
+   "objectives": [
+    "Explain how instant payments, stablecoins and tokenised deposits work",
+    "Assess the regulatory and risk implications of new payment rails",
+    "Produce a payments compliance action plan"
+   ],
+   "syllabus": [
+    "Instant payments and settlement risk",
+    "Stablecoins, e-money tokens and tokenised deposits under regional crypto-asset regimes",
+    "Agentic payments and programmable money",
+    "Workshop: seeing the payments business the way a supervisor does"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 241,
+   "entryType": "programme",
+   "title": "EU Payments Regulation: PSD2, PSD3 and the Payment Services Regulation (EU Edition)",
+   "summary": "An eight-module programme on EU payments regulation for supervisors and firms, covering PSD2 and EMD2 today and the PSD3 and Payment Services Regulation reform package.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 223,
+   "entryType": "programme",
+   "title": "Crypto-Asset Compliance Programme",
+   "summary": "An advanced twelve-module programme for compliance, risk and MLRO staff at crypto-asset service providers, from authorisation and custody to market abuse, AML/CFT and wind-down.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 42,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 234,
+   "entryType": "programme",
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "summary": "An eight-module programme on DORA for supervisors and financial entities: ICT risk management, incident reporting, resilience testing and TLPT, ICT third-party risk and critical provider oversight.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 261,
+   "entryType": "programme",
+   "title": "Fund Governance and Compliance for Managers and Service Providers",
+   "summary": "A ten-module programme giving fund managers and service providers the practical tools to meet fund rules and supervisory expectations across the fund lifecycle.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 265,
+   "entryType": "programme",
+   "title": "Governance, Risk and Compliance for Market Infrastructures",
+   "summary": "A ten-module programme for boards, managers and control functions of trading venues, CCPs, CSDs and payment systems on meeting the PFMI in governance, risk, default management and recovery.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 278,
+   "entryType": "programme",
+   "title": "Investment Services Compliance",
+   "summary": "A ten-module programme giving compliance and risk staff at investment firms the tools to build, test and evidence compliance across the client journey and market activity.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  }
+ ]
+}

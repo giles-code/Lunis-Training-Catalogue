@@ -1,0 +1,295 @@
+{
+ "id": 267,
+ "entryType": "programme",
+ "title": "How Financial Firms Work: Business Models and Financial Statements for Supervisors",
+ "summary": "An eight-module programme helping supervisors understand how financial firms make money, read their accounts and identify capital, liquidity and business model risks.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Ongoing Supervision",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "New joiners & developing staff",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "how-financial-firms-work-for-supervisors",
+ "moduleCount": 8,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisory staff to understand how financial firms make money, read their financial statements and identify the capital, liquidity and business model risks that matter for supervision.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Prudential Risk (Capital & Liquidity)"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors a practical understanding of the business models of banks, investment firms, funds, payment firms and crypto-asset firms, and of the financial information that reveals their health. Participants leave able to read a firm's accounts with a supervisory eye, understand capital and liquidity basics and frame the right questions for management.",
+  "What It Covers": "How different financial firms make money, reading the balance sheet, income statement and cash flow, capital and liquidity basics, group structures and intra-group dependencies, sector-specific risks across banking, investment, funds, payments and crypto-assets, and a business model case workshop.",
+  "Intended Audience": [
+   "New joiners and developing staff in supervisory, authorisation and policy functions",
+   "Supervisors and inspectors moving into a new sector or wishing to strengthen their financial analysis",
+   "Staff from legal, enforcement or support functions who need to understand firms' business and finances"
+  ],
+  "Learning Objectives": [
+   "Explain how banks, investment firms, funds, payment firms and crypto-asset firms generate revenue and incur risk",
+   "Interpret the main financial statements and identify warning signs of financial weakness",
+   "Describe the basic principles of capital and liquidity and why they matter to the authority",
+   "Analyse group structures, intra-group dependencies and where risks can be hidden",
+   "Identify the key risks for each sector and the supervisory questions they raise",
+   "Apply business model analysis to form an initial view of a firm's viability and sustainability"
+  ],
+  "Structure and Format": "Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a four-day programme or as a series of half-day sessions. Each module combines a short briefing with worked examples and exercises using realistic financial statements, and modules can be selected or tailored to the sectors the authority supervises.",
+  "Useful Prior Knowledge and Experience": "No accounting qualification is required. Basic numeracy and some familiarity with financial services are helpful.",
+  "Core Reading": [
+   "Basel Committee on Banking Supervision (2024), Core Principles for Effective Banking Supervision",
+   "Basel Committee on Banking Supervision (2008), Principles for Sound Liquidity Risk Management and Supervision",
+   "IOSCO (2017), Objectives and Principles of Securities Regulation",
+   "FSB (2023), High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-asset Activities and Markets"
+  ]
+ },
+ "modules": [
+  {
+   "id": 987,
+   "number": 1,
+   "title": "Business Models: How Financial Firms Make Money",
+   "summary": "An introduction to business model analysis, the main ways financial firms earn revenue and why supervisors need to understand where profits and risks come from.",
+   "objectives": [
+    "Explain why business model analysis is central to supervision",
+    "Identify the main revenue drivers of different types of financial firm",
+    "Recognise business models that are unsustainable or depend on excessive risk"
+   ],
+   "syllabus": [
+    "Interest margin, fees, commissions, spreads and principal risk-taking",
+    "Value chains, distribution and dependence on intermediaries",
+    "Viability and sustainability: the supervisor's two questions",
+    "Signs of a stretched model: rapid growth, outlier returns and concentration"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 988,
+   "number": 2,
+   "title": "Reading Financial Statements with a Supervisory Eye",
+   "summary": "How to read the balance sheet, income statement and cash flow statement, and how to spot what they reveal and what they conceal.",
+   "objectives": [
+    "Interpret the structure and main lines of the financial statements",
+    "Calculate and use basic ratios to assess performance and position",
+    "Identify accounting judgements and disclosures that warrant challenge"
+   ],
+   "syllabus": [
+    "Balance sheet, income statement, cash flow and notes to the accounts",
+    "Key ratios: profitability, leverage, cost efficiency and asset quality",
+    "Audit opinions, going concern and related party disclosures",
+    "Red flags: aggressive accounting, unexplained movements and late filing"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 989,
+   "number": 3,
+   "title": "Capital and Liquidity Basics",
+   "summary": "The purpose of capital and liquidity requirements, how they are measured and how supervisors judge whether a firm holds enough to absorb losses and meet obligations.",
+   "objectives": [
+    "Explain the purpose of capital and liquidity in protecting customers and markets",
+    "Describe how capital requirements and liquidity measures are calculated in outline",
+    "Assess whether a firm's capital and liquidity position supports its business plan"
+   ],
+   "syllabus": [
+    "Loss absorption, quality of capital and own funds",
+    "Risk-weighted assets, leverage and fixed overheads requirements in outline",
+    "Liquidity risk, funding profiles, buffers and stress",
+    "Reading regulatory returns and capital planning"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 990,
+   "number": 4,
+   "title": "Banks and Deposit-Takers",
+   "summary": "How banks and deposit-takers create credit, manage maturity transformation and earn margin, and the credit, liquidity and concentration risks that most often cause failure.",
+   "objectives": [
+    "Explain maturity transformation, credit creation and net interest margin",
+    "Identify the main credit, liquidity and interest rate risks of banks",
+    "Frame supervisory questions on lending, funding and asset quality"
+   ],
+   "syllabus": [
+    "Deposit-taking, lending and the net interest margin",
+    "Credit risk, provisioning and non-performing exposures",
+    "Funding concentration, deposit runs and interest rate risk",
+    "Lessons from recent bank failures for supervisors"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 991,
+   "number": 5,
+   "title": "Investment Firms and Investment Funds",
+   "summary": "How brokers, asset managers, advisers and funds make money, the role of service providers and depositaries, and the conduct, liquidity and operational risks they carry.",
+   "objectives": [
+    "Distinguish the business models of brokers, managers, advisers and funds",
+    "Explain the roles of fund managers, depositaries, administrators and distributors",
+    "Identify key risks including client asset, liquidity mismatch and conflict risks"
+   ],
+   "syllabus": [
+    "Brokerage, execution, asset management and advice revenue models",
+    "Fund structures, fees and the fund service provider chain",
+    "Client money and assets, liquidity mismatch and valuation risk",
+    "Conflicts of interest and the supervisory question set"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 992,
+   "number": 6,
+   "title": "Payment Firms and Crypto-Asset Firms",
+   "summary": "The business models of payment, e-money and crypto-asset firms, how they earn revenue and why safeguarding, operational and financial crime risks dominate.",
+   "objectives": [
+    "Explain how payment, e-money and crypto-asset firms generate revenue",
+    "Assess safeguarding, custody and operational dependency risks",
+    "Identify financial crime and consumer harm red flags specific to these sectors"
+   ],
+   "syllabus": [
+    "Payment flows, interchange, float income and e-money issuance",
+    "Crypto-asset exchanges, custody, staking, lending and token issuance",
+    "Safeguarding, segregation and the risk of customer shortfalls",
+    "Rapid growth, thin capital and dependence on banking partners"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 993,
+   "number": 7,
+   "title": "Group Structures and Intra-Group Risks",
+   "summary": "How financial groups are organised, why firms sit within wider groups and how intra-group transactions, shared services and parent support affect the regulated entity.",
+   "objectives": [
+    "Map a group structure and identify the regulated entity's position within it",
+    "Assess intra-group dependencies, transactions and contagion risk",
+    "Frame supervisory questions on group governance and ownership"
+   ],
+   "syllabus": [
+    "Holding companies, branches, subsidiaries and ownership chains",
+    "Intra-group funding, guarantees, outsourcing and shared services",
+    "Opaque and complex structures: a supervisory red flag",
+    "Group-wide supervision and cooperation with other authorities"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 994,
+   "number": 8,
+   "title": "Business Model Analysis: Case Workshop",
+   "summary": "Brings the programme together in a facilitated case in which participants analyse a firm's business model and financial statements and present their supervisory concerns.",
+   "objectives": [
+    "Analyse a firm's business model, financial position and key risks",
+    "Prioritise concerns and draft supervisory questions for management",
+    "Present and defend an initial view of the firm's viability"
+   ],
+   "syllabus": [
+    "Case briefing: firm profile, accounts and regulatory returns",
+    "Ratio analysis, peer comparison and identifying outliers",
+    "Drafting questions for a meeting with the finance director",
+    "Workshop: presenting the business model assessment"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 218,
+   "entryType": "programme",
+   "title": "Core Supervisory Skills: Business Models, Governance and Risk Governance Panels",
+   "summary": "A three-day workshop taking supervisors from business model analysis through governance interviews to a risk governance panel, using running case studies and role plays.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 310,
+   "entryType": "programme",
+   "title": "Supervising Compliance in Practice: Masterclass Series",
+   "summary": "Ten half-day masterclasses showing supervisors how to test whether firms' compliance arrangements work in practice across core compliance areas.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 35,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 315,
+   "entryType": "programme",
+   "title": "Supervisory Risk Assessment Toolkit",
+   "summary": "A ten-module toolkit taking supervisors through the full firm risk assessment cycle, from business model and governance analysis to panels, risk ratings and findings.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 257,
+   "entryType": "programme",
+   "title": "Foundations of Financial Regulation and Supervision",
+   "summary": "An eight-module induction for new regulatory staff covering why we regulate, the authority's powers, risk-based supervision and a first supervisory case.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 217,
+   "entryType": "programme",
+   "title": "Core Professional Skills for Regulatory Staff",
+   "summary": "An eight-module practical programme building the core writing, analysis, meeting, challenge, presentation and data skills that regulatory staff need every day.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

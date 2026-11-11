@@ -1,0 +1,173 @@
+{
+ "id": 1410,
+ "entryType": "module",
+ "title": "Findings and Risk Mitigation Programmes",
+ "summary": "How to turn analysis into well-evidenced findings and a risk mitigation programme with specific, measurable actions, owners and deadlines, and how to track remediation to closure.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "Supervisory Judgement & Professional Practice",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "findings-and-risk-mitigation-programmes",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Capability & Capacity Building"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to turn analysis into well-evidenced findings and a risk mitigation programme with specific, measurable actions, owners and deadlines, and how to track remediation to closure.",
+  "Learning Objectives": [
+   "Formulate findings that link evidence, root cause and risk",
+   "Design a risk mitigation programme with measurable actions and deadlines",
+   "Assess whether remediation is complete, effective and sustained"
+  ],
+  "Syllabus": [
+   "Anatomy of a good finding: issue, evidence, root cause and impact",
+   "Designing actions, owners, deadlines and evidence of completion",
+   "Tracking remediation and validating closure",
+   "Red flags: repeat findings, slippage and cosmetic remediation"
+  ],
+  "Intended Audience": [
+   "Supervisors and senior supervisors responsible for risk assessments, firm engagement and supervisory findings",
+   "Team leaders and managers who review, challenge and sign off supervisory judgements and correspondence",
+   "Staff in enforcement, authorisation and policy functions who rely on, or contribute to, supervisory conclusions"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of supervising regulated firms is helpful. The programme is suitable for both newer and experienced supervisors.",
+  "Core Reading": [
+   "IMF, The Making of Good Supervision: Learning to Say \"No\" (Staff Position Note SPN/10/08, 2010)",
+   "IMF, Good Supervision: Lessons from the Field (Working Paper WP/23/181, 2023)",
+   "Daniel Kahneman, Olivier Sibony and Cass R. Sunstein, Noise: A Flaw in Human Judgment (2021)",
+   "Daniel Kahneman, Thinking, Fast and Slow (2011)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 314,
+   "module": 8,
+   "title": "Supervisory Judgement and Professional Practice",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1403,
+     "number": 1,
+     "title": "The Nature of Supervisory Judgement"
+    },
+    {
+     "id": 1404,
+     "number": 2,
+     "title": "Evidence, Professional Scepticism and Challenge"
+    },
+    {
+     "id": 1405,
+     "number": 3,
+     "title": "Cognitive Bias and Structured Decision-Making"
+    },
+    {
+     "id": 1406,
+     "number": 4,
+     "title": "Proportionality and Risk-Based Prioritisation"
+    },
+    {
+     "id": 1407,
+     "number": 5,
+     "title": "Meetings with Boards and Senior Management"
+    },
+    {
+     "id": 1408,
+     "number": 6,
+     "title": "Difficult Conversations and Managing Pushback"
+    },
+    {
+     "id": 1409,
+     "number": 7,
+     "title": "Writing Supervisory Reports and Letters"
+    },
+    {
+     "id": 1410,
+     "number": 8,
+     "title": "Findings and Risk Mitigation Programmes"
+    },
+    {
+     "id": 1411,
+     "number": 9,
+     "title": "Escalation, Ethics and Independence"
+    },
+    {
+     "id": 1412,
+     "number": 10,
+     "title": "Forming and Defending Judgements: Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 273,
+   "entryType": "programme",
+   "title": "Investigative and Interviewing Skills for Supervisors",
+   "summary": "An eight-module practical programme on planning and conducting supervisory interviews and turning interview evidence into sound findings.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 217,
+   "entryType": "programme",
+   "title": "Core Professional Skills for Regulatory Staff",
+   "summary": "An eight-module practical programme building the core writing, analysis, meeting, challenge, presentation and data skills that regulatory staff need every day.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

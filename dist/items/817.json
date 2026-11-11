@@ -1,0 +1,174 @@
+{
+ "id": 817,
+ "entryType": "module",
+ "title": "Personal Liability and the Board's Action Plan",
+ "summary": "Brings the programme together into a board action plan, examining directors' personal exposure and how the board evidences effective financial crime oversight.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "personal-liability-and-the-board-s-action-plan",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Financial Crime, AML & Sanctions Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together into a board action plan, examining directors' personal exposure and how the board evidences effective financial crime oversight.",
+  "Learning Objectives": [
+   "Assess directors' personal regulatory, civil and criminal exposure",
+   "Prepare the board to evidence its oversight to supervisors",
+   "Produce a board action plan for financial crime oversight"
+  ],
+  "Syllabus": [
+   "Personal accountability, fitness and probity and enforcement against individuals",
+   "Reasonable steps: what the minutes and papers need to show",
+   "Board skills, training and external advice on financial crime",
+   "Workshop: the board's twelve-month financial crime oversight plan"
+  ],
+  "Intended Audience": [
+   "Chairs, non-executive and independent directors and board committee members, especially on risk and audit committees",
+   "Executive directors and senior managers accountable for financial crime, compliance and operations",
+   "Company secretaries and heads of governance supporting board oversight"
+  ],
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No specialist background in financial crime compliance is required.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "FATF, Guidance on Risk-Based Supervision (2021)",
+   "Basel Committee, Corporate Governance Principles for Banks (2015)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 246,
+   "module": 8,
+   "title": "Financial Crime Oversight for Boards",
+   "moduleCount": 8,
+   "durationValue": 16,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 810,
+     "number": 1,
+     "title": "Financial Crime and the Board"
+    },
+    {
+     "id": 811,
+     "number": 2,
+     "title": "Risk Assessment and Risk Appetite"
+    },
+    {
+     "id": 812,
+     "number": 3,
+     "title": "Sanctions, Fraud, Bribery and Tax Evasion"
+    },
+    {
+     "id": 813,
+     "number": 4,
+     "title": "The MLRO and the Financial Crime Function"
+    },
+    {
+     "id": 814,
+     "number": 5,
+     "title": "Reading Financial Crime MI"
+    },
+    {
+     "id": 815,
+     "number": 6,
+     "title": "Culture, Conduct and Speaking Up"
+    },
+    {
+     "id": 816,
+     "number": 7,
+     "title": "Supervisory Findings and Remediation"
+    },
+    {
+     "id": 817,
+     "number": 8,
+     "title": "Personal Liability and the Board's Action Plan"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 195,
+   "entryType": "programme",
+   "title": "AI Governance for Boards",
+   "summary": "A ten-module programme giving boards and directors the understanding and tools to govern AI responsibly and evidence sound oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 210,
+   "entryType": "programme",
+   "title": "Climate and Sustainability for Boards",
+   "summary": "An eight-module programme giving boards and directors the understanding and tools to oversee climate and nature-related risk, transition plans and sustainability disclosures.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

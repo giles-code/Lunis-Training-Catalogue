@@ -1,0 +1,175 @@
+{
+ "id": 472,
+ "entryType": "module",
+ "title": "Distribution and Product Oversight",
+ "summary": "The distribution life cycle from the investor's and the product's perspective, and how the board oversees who is buying the fund, what they are buying and how it is sold.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "distribution-and-product-oversight",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Operational Resilience & Technology/Cyber"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The distribution life cycle from the investor's and the product's perspective, and how the board oversees who is buying the fund, what they are buying and how it is sold.",
+  "Learning Objectives": [
+   "Explain the board's role in distribution strategy and distributor oversight",
+   "Apply product governance questions before launch, during the fund's life and at closure",
+   "Assess distribution data, marketing materials and value for investors"
+  ],
+  "Syllabus": [
+   "Distribution models, platforms and bipartite versus tripartite agreements",
+   "Target market, stress testing and product reviews",
+   "Distribution data: who is buying, through which channel and why",
+   "Marketing communications and value for investors"
+  ],
+  "Intended Audience": [
+   "Independent and non-executive directors of investment funds and fund management companies",
+   "Executive directors, designated persons and senior managers responsible for operations and delegate oversight",
+   "Company secretaries, governance leads and service provider relationship managers supporting fund boards"
+  ],
+  "Useful Prior Knowledge and Experience": "Experience as a fund director or in fund management or servicing is helpful. No operational or accounting specialism is required.",
+  "Core Reading": [
+   "IOSCO, Examination of Governance for Collective Investment Schemes (2006–2007)",
+   "IOSCO, Principles for the Valuation of Collective Investment Schemes (2013)",
+   "Basel Committee, Principles for Operational Resilience (2021)",
+   "FSB, Enhancing Third-Party Risk Management and Oversight: A Toolkit for Financial Institutions and Financial Authorities (2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 207,
+   "module": 8,
+   "title": "Board Oversight of Fund Operations and Service Providers",
+   "moduleCount": 10,
+   "durationValue": 20,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 465,
+     "number": 1,
+     "title": "Who Does What: The Fund Service Provider Map"
+    },
+    {
+     "id": 466,
+     "number": 2,
+     "title": "Fund Administration and NAV Production"
+    },
+    {
+     "id": 467,
+     "number": 3,
+     "title": "Transfer Agency, Investor Services and AML"
+    },
+    {
+     "id": 468,
+     "number": 4,
+     "title": "Valuation Oversight in Practice"
+    },
+    {
+     "id": 469,
+     "number": 5,
+     "title": "Financial Statements and the External Audit"
+    },
+    {
+     "id": 470,
+     "number": 6,
+     "title": "Depositary and Custody Oversight"
+    },
+    {
+     "id": 471,
+     "number": 7,
+     "title": "Portfolio Management Oversight"
+    },
+    {
+     "id": 472,
+     "number": 8,
+     "title": "Distribution and Product Oversight"
+    },
+    {
+     "id": 473,
+     "number": 9,
+     "title": "Operational Risk, Resilience, Technology and AI"
+    },
+    {
+     "id": 474,
+     "number": 10,
+     "title": "Errors, Breaches and Service Provider Reviews"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 199,
+   "entryType": "programme",
+   "title": "Alternative Investments for Fund Directors",
+   "summary": "An eight-module programme explaining hedge fund, private markets, real asset, structured and digital asset strategies to fund directors, with board questions on valuation, liquidity and fees.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 260,
+   "entryType": "programme",
+   "title": "Fund Board Governance Toolkit: A Risk-Based Oversight Workshop",
+   "summary": "A six-module practical workshop giving fund directors a risk-based governance toolkit, from skills matrices to escalation triggers, and a draft oversight plan for their own board.",
+   "level": "Board level",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 274,
+   "entryType": "programme",
+   "title": "Investment Fund Governance for Directors",
+   "summary": "A ten-module programme giving fund directors the tools to oversee delegates, manage conflicts, protect investors and evidence effective governance to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  }
+ ]
+}

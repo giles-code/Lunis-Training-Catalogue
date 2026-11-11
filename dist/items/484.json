@@ -1,0 +1,176 @@
+{
+ "id": 484,
+ "entryType": "module",
+ "title": "Authorising and Supervising Investment Firms",
+ "summary": "How the authority assesses investment firm applications and supervises firms on an ongoing basis, covering governance, fit and proper requirements, prudential resources and orderly wind-down.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Services & Capital Markets",
+ "tags": [
+  "Investment services & markets"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Firms & Wealth Management",
+  "Market Infrastructure & Trading Venues"
+ ],
+ "slug": "authorising-and-supervising-investment-firms",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Consumer Protection"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How the authority assesses investment firm applications and supervises firms on an ongoing basis, covering governance, fit and proper requirements, prudential resources and orderly wind-down.",
+  "Learning Objectives": [
+   "Assess an investment firm application against authorisation criteria",
+   "Evaluate governance, compliance and risk management arrangements",
+   "Judge whether capital, liquidity and wind-down planning are adequate"
+  ],
+  "Syllabus": [
+   "Authorisation: business model, people, systems and controls",
+   "Governance, fit and proper assessment and the compliance function",
+   "Prudential requirements for investment firms and the risk of harm to clients and markets",
+   "Wind-down planning and orderly exit"
+  ],
+  "Intended Audience": [
+   "Supervisors and inspectors responsible for brokers, investment advisers, portfolio managers and other investment firms",
+   "Market surveillance, market infrastructure and issuer disclosure staff",
+   "Policy specialists, team leaders and heads of department responsible for securities markets"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of supervising investment firms or securities markets is helpful. No trading or quantitative background is required.",
+  "Core Reading": [
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "CPMI-IOSCO, Principles for Financial Market Infrastructures (2012)",
+   "IOSCO, Regulatory Issues Raised by Changes in Market Structure (2013)",
+   "IOSCO, Compliance Function at Market Intermediaries (2006)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 209,
+   "module": 2,
+   "title": "Capital Markets and Investment Services Supervision",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 483,
+     "number": 1,
+     "title": "Investment Services, Capital Markets and the Perimeter"
+    },
+    {
+     "id": 484,
+     "number": 2,
+     "title": "Authorising and Supervising Investment Firms"
+    },
+    {
+     "id": 485,
+     "number": 3,
+     "title": "Suitability, Appropriateness and Product Governance"
+    },
+    {
+     "id": 486,
+     "number": 4,
+     "title": "Best Execution and Client Order Handling"
+    },
+    {
+     "id": 487,
+     "number": 5,
+     "title": "Client Assets and Client Money Protection"
+    },
+    {
+     "id": 488,
+     "number": 6,
+     "title": "Trading Venues, Market Structure and Infrastructure"
+    },
+    {
+     "id": 489,
+     "number": 7,
+     "title": "Algorithmic and High-Frequency Trading"
+    },
+    {
+     "id": 490,
+     "number": 8,
+     "title": "Market Abuse Surveillance and Transaction Reporting"
+    },
+    {
+     "id": 491,
+     "number": 9,
+     "title": "Issuer Disclosure, Prospectuses and Ongoing Transparency"
+    },
+    {
+     "id": 492,
+     "number": 10,
+     "title": "Emerging Risks and Integrated Supervisory Practice"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 312,
+   "entryType": "programme",
+   "title": "Supervising Financial Market Infrastructures",
+   "summary": "An advanced ten-module programme equipping supervisors and overseers to apply the PFMI to trading venues, CCPs, CSDs, payment systems and trade repositories.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

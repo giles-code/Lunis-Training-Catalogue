@@ -1,0 +1,169 @@
+{
+ "id": 477,
+ "entryType": "module",
+ "title": "Regulatory Reputation and the Role of the Regulator",
+ "summary": "Why regulatory quality and independence are a competitive asset, how reputation is built and lost, and how government should frame the regulator's role in growth without compromising its independence.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Policy, authorisation & enforcement",
+  "Funds & asset management"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Public agencies & investment promotion",
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management",
+  "FinTech & Big Tech"
+ ],
+ "slug": "regulatory-reputation-and-the-role-of-the-regulator",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Strategy",
+  "Policy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Why regulatory quality and independence are a competitive asset, how reputation is built and lost, and how government should frame the regulator's role in growth without compromising its independence.",
+  "Learning Objectives": [
+   "Explain why international firms and investors value a credible regulator",
+   "Assess the risks of competitiveness or growth objectives for regulators",
+   "Define a constructive relationship between promotion bodies and the regulator"
+  ],
+  "Syllabus": [
+   "Regulatory reputation as the foundation of market access",
+   "Growth and competitiveness objectives: design and safeguards",
+   "Separation of promotion and supervision functions",
+   "Case studies of reputational damage from regulatory failure"
+  ],
+  "Intended Audience": [
+   "Staff of investment promotion agencies, financial centre development bodies and economic development boards",
+   "Officials in finance and economy ministries responsible for financial sector growth strategy",
+   "Senior officials and advisers who oversee financial centre strategy and its relationship with the regulator"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of economic development, investment promotion or financial services policy is helpful. No technical background in regulation is required.",
+  "Core Reading": [
+   "IOSCO (2017), Objectives and Principles of Securities Regulation",
+   "FATF (2012, updated), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations",
+   "OECD (2021), Statement on a Two-Pillar Solution to Address the Tax Challenges Arising from the Digitalisation of the Economy",
+   "OECD (2023), OECD Guidelines for Multinational Enterprises on Responsible Business Conduct"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 208,
+   "module": 3,
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 475,
+     "number": 1,
+     "title": "What Makes a Financial Centre Competitive"
+    },
+    {
+     "id": 476,
+     "number": 2,
+     "title": "Strategy and Positioning"
+    },
+    {
+     "id": 477,
+     "number": 3,
+     "title": "Regulatory Reputation and the Role of the Regulator"
+    },
+    {
+     "id": 478,
+     "number": 4,
+     "title": "Licensing Speed, Standards and the Race to the Bottom"
+    },
+    {
+     "id": 479,
+     "number": 5,
+     "title": "Legal, Tax and Market Infrastructure"
+    },
+    {
+     "id": 480,
+     "number": 6,
+     "title": "Talent, Skills and Quality of Life"
+    },
+    {
+     "id": 481,
+     "number": 7,
+     "title": "Attracting Fund Managers, Fintechs and Digital Asset Firms"
+    },
+    {
+     "id": 482,
+     "number": 8,
+     "title": "International Standards, Reputation and Measuring Success"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 229,
+   "entryType": "programme",
+   "title": "Developing Capital Markets and Investment Fund Industries",
+   "summary": "An eight-module programme helping policymakers develop deep, well-regulated capital markets and fund industries through credible, well-sequenced reform.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 235,
+   "entryType": "programme",
+   "title": "Drafting Financial Services Legislation",
+   "summary": "An eight-module programme helping legislative drafters and legal advisers design and draft effective, enforceable and technology-neutral financial services legislation.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 248,
+   "entryType": "programme",
+   "title": "Financial Crises and Public Finances: Crisis Preparedness for Government",
+   "summary": "An eight-module advanced programme preparing finance ministries and senior officials to manage financial crises, protect public finances and coordinate resolution.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "id": 1423,
+ "entryType": "module",
+ "title": "SupTech, RegTech and the Data-Driven Authority",
+ "summary": "What SupTech is, how it differs from firms' RegTech, and why the quality of an authority's evidence base increasingly determines the quality of its supervisory judgement.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "SupTech, Data & Supervisory Analytics",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "suptech-regtech-and-the-data-driven-authority",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Data & Supervisory Analytics",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What SupTech is, how it differs from firms' RegTech, and why the quality of an authority's evidence base increasingly determines the quality of its supervisory judgement.",
+  "Learning Objectives": [
+   "Explain SupTech and RegTech and how they interact",
+   "Identify the main categories of SupTech tools and their purposes",
+   "Assess realistic expectations of what SupTech can and cannot do"
+  ],
+  "Syllabus": [
+   "SupTech versus RegTech: whose tools and whose data",
+   "Categories: data collection, analytics, reporting automation and surveillance",
+   "International experience: BIS, FSB and authority surveys",
+   "The link between data quality and supervisory judgement"
+  ],
+  "Intended Audience": [
+   "Supervisors and analysts who use regulatory returns, risk scores and dashboards in their day-to-day work",
+   "Data, statistics, IT and SupTech teams building the authority's data and analytics capability",
+   "Heads of department and senior managers responsible for supervisory strategy, resourcing and technology investment"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of financial supervision or working with regulatory data is helpful. No programming or data science background is required.",
+  "Core Reading": [
+   "BIS Financial Stability Institute, Innovative Technology in Financial Supervision (Suptech): The Experience of Early Users (FSI Insights No 9, 2018)",
+   "FSB, The Use of Supervisory and Regulatory Technology by Authorities and Regulated Institutions (2020)",
+   "Basel Committee, Principles for Effective Risk Data Aggregation and Risk Reporting (BCBS 239) (2013)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 316,
+   "module": 1,
+   "title": "SupTech, Data and Supervisory Analytics",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1423,
+     "number": 1,
+     "title": "SupTech, RegTech and the Data-Driven Authority"
+    },
+    {
+     "id": 29,
+     "number": 2,
+     "title": "Building Supervisory Data Infrastructure"
+    },
+    {
+     "id": 52,
+     "number": 3,
+     "title": "Data Governance for Supervisory Decision-Making"
+    },
+    {
+     "id": 1424,
+     "number": 4,
+     "title": "Regulatory Reporting and Data Collection"
+    },
+    {
+     "id": 104,
+     "number": 5,
+     "title": "Interrogating Regulatory Returns"
+    },
+    {
+     "id": 1425,
+     "number": 6,
+     "title": "Anomaly Detection, Risk Scoring and Dashboards"
+    },
+    {
+     "id": 1426,
+     "number": 7,
+     "title": "Advanced Analytics and AI in Supervision"
+    },
+    {
+     "id": 1427,
+     "number": 8,
+     "title": "SupTech Use Cases Across Supervisory Functions"
+    },
+    {
+     "id": 1428,
+     "number": 9,
+     "title": "Building the Authority's SupTech Capability"
+    },
+    {
+     "id": 1429,
+     "number": 10,
+     "title": "Governing Supervisory Analytics and the SupTech Roadmap"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 325,
+   "entryType": "programme",
+   "title": "The EU AI Act and Financial Services (EU Edition)",
+   "summary": "An eight-module programme on the EU AI Act for supervisors and financial firms: risk classification, high-risk credit and insurance uses, provider and deployer duties, supervision and compliance programmes.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

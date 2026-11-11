@@ -1,0 +1,180 @@
+{
+ "id": 887,
+ "entryType": "module",
+ "title": "Competence, Capability and Capacity",
+ "summary": "How to test whether a candidate has the knowledge, experience and time the role requires, using evidence rather than assertion, and how to close gaps without lowering the standard.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Regulatory Readiness",
+  "payments": "Regulatory Readiness",
+  "crypto": "Regulatory Readiness"
+ },
+ "topic": "Regulatory Readiness",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "competence-capability-and-capacity-fit-and-proper-for-firms-appointing-and",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Authorisations",
+  "Conduct & Culture / HR"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to test whether a candidate has the knowledge, experience and time the role requires, using evidence rather than assertion, and how to close gaps without lowering the standard.",
+  "Learning Objectives": [
+   "Assess competence against the role profile using documentary and interview evidence",
+   "Judge capacity, other commitments and conflicts of interest",
+   "Design development plans and conditions where gaps exist"
+  ],
+  "Syllabus": [
+   "Evidence of experience, qualifications and track record",
+   "Structured competency interviews and scenario questions",
+   "Time commitment, multiple directorships and conflicts of interest",
+   "Closing gaps: induction, development plans and conditional appointments"
+  ],
+  "Intended Audience": [
+   "Heads of compliance, company secretaries and governance teams who manage approved and certified roles",
+   "HR, talent and nominations committee support staff responsible for senior appointments and references",
+   "Senior managers and chairs who sponsor appointments and sign off fitness assessments"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of compliance, company secretarial, HR or governance work in a regulated firm is helpful. No prior experience of regulatory applications is required.",
+  "Core Reading": [
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "G20/OECD Principles of Corporate Governance (2023)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 255,
+   "module": 4,
+   "title": "Fit and Proper for Firms: Appointing and Assessing Key Function Holders",
+   "moduleCount": 9,
+   "durationValue": 27,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 884,
+     "number": 1,
+     "title": "The Fit and Proper Standard: What the Firm Must Show"
+    },
+    {
+     "id": 885,
+     "number": 2,
+     "title": "Role Design, Role Profiles and Succession"
+    },
+    {
+     "id": 886,
+     "number": 3,
+     "title": "Due Diligence: Honesty, Integrity and Reputation"
+    },
+    {
+     "id": 887,
+     "number": 4,
+     "title": "Competence, Capability and Capacity"
+    },
+    {
+     "id": 888,
+     "number": 5,
+     "title": "Owners, Controllers and Change in Control"
+    },
+    {
+     "id": 889,
+     "number": 6,
+     "title": "Applications to the Authority"
+    },
+    {
+     "id": 890,
+     "number": 7,
+     "title": "Preparing Candidates for Regulatory Interviews"
+    },
+    {
+     "id": 891,
+     "number": 8,
+     "title": "Ongoing Fitness and Annual Certification"
+    },
+    {
+     "id": 892,
+     "number": 9,
+     "title": "Adverse Information, Removal and Case Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 239,
+   "entryType": "programme",
+   "title": "Engaging Effectively with Your Supervisor: How Firms Are Assessed",
+   "summary": "A ten-module programme showing firms how supervisors assess business models, governance and risk, so they can see themselves as the supervisor does and engage with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 264,
+   "entryType": "programme",
+   "title": "Governance Reviews and Supervisory Interviews: Preparing Your Board and Management",
+   "summary": "A one-day workshop on how supervisors assess governance and interview directors and staff, and how licensees can evidence effective governance and prepare openly.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 6,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 299,
+   "entryType": "programme",
+   "title": "Recovery and Wind-Down Planning for Firms",
+   "summary": "An eight-module programme helping firms build credible recovery and wind-down plans, from scenarios and triggers to client asset return, testing and supervisory review.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

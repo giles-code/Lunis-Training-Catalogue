@@ -1,0 +1,175 @@
+{
+ "id": 499,
+ "entryType": "module",
+ "title": "Risk Appetite and Integration into the Risk Framework",
+ "summary": "How climate and nature risk are embedded in the risk management framework, risk appetite statement and capital planning, and what management information the board needs.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Sustainable finance"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "risk-appetite-and-integration-into-the-risk-framework",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Sustainable Finance & ESG"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How climate and nature risk are embedded in the risk management framework, risk appetite statement and capital planning, and what management information the board needs.",
+  "Learning Objectives": [
+   "Set climate and nature risk appetite with measurable limits and triggers",
+   "Evaluate how climate risk is integrated across the three lines of defence",
+   "Specify the management information and indicators the board needs"
+  ],
+  "Syllabus": [
+   "Drafting climate risk appetite: sectors, concentrations and limits",
+   "Integration into credit, underwriting, investment and capital processes",
+   "Key risk indicators and the core board information set",
+   "Supervisory expectations for the management of climate-related financial risk"
+  ],
+  "Intended Audience": [
+   "Chairs, non-executive and independent directors and board committee members, especially on risk, audit and sustainability committees",
+   "Executive directors and senior managers accountable for strategy, risk, sustainability and disclosure",
+   "Company secretaries and heads of governance supporting board oversight of sustainability"
+  ],
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No technical background in climate science or sustainability reporting is required.",
+  "Core Reading": [
+   "ISSB, IFRS S1 General Requirements and IFRS S2 Climate-related Disclosures (2023)",
+   "TCFD, Recommendations of the Task Force on Climate-related Financial Disclosures (2017)",
+   "Basel Committee, Principles for the Effective Management and Supervision of Climate-related Financial Risks (2022)",
+   "TNFD, Recommendations of the Taskforce on Nature-related Financial Disclosures (2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 210,
+   "module": 7,
+   "title": "Climate and Sustainability for Boards",
+   "moduleCount": 8,
+   "durationValue": 16,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 493,
+     "number": 1,
+     "title": "Climate and Nature-Related Financial Risk"
+    },
+    {
+     "id": 494,
+     "number": 2,
+     "title": "Strategy and Transition Planning"
+    },
+    {
+     "id": 495,
+     "number": 3,
+     "title": "Scenario Analysis and Stress Testing"
+    },
+    {
+     "id": 496,
+     "number": 4,
+     "title": "Sustainability Disclosure and Reporting"
+    },
+    {
+     "id": 497,
+     "number": 5,
+     "title": "Greenwashing and Conduct Risk"
+    },
+    {
+     "id": 498,
+     "number": 6,
+     "title": "Stewardship and Engagement"
+    },
+    {
+     "id": 499,
+     "number": 7,
+     "title": "Risk Appetite and Integration into the Risk Framework"
+    },
+    {
+     "id": 500,
+     "number": 8,
+     "title": "Board Skills, Incentives and Action Plan"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 195,
+   "entryType": "programme",
+   "title": "AI Governance for Boards",
+   "summary": "A ten-module programme giving boards and directors the understanding and tools to govern AI responsibly and evidence sound oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

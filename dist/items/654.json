@@ -1,0 +1,165 @@
+{
+ "id": 654,
+ "entryType": "module",
+ "title": "Data Protection and Confidentiality",
+ "summary": "How to handle personal and confidential information lawfully and securely throughout its lifecycle, from collection to sharing, retention and disposal.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Operational resilience & cyber"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1.5,
+ "durationUnit": "hours",
+ "role": [
+  "All staff"
+ ],
+ "firmType": [],
+ "slug": "data-protection-and-confidentiality",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to handle personal and confidential information lawfully and securely throughout its lifecycle, from collection to sharing, retention and disposal.",
+  "Learning Objectives": [
+   "Apply data protection principles to everyday handling of information",
+   "Share, store and dispose of data securely and on a need-to-know basis",
+   "Respond correctly to requests from individuals and third parties for information"
+  ],
+  "Syllabus": [
+   "Personal data, special category data and confidential information",
+   "Lawful use, minimisation, accuracy and retention",
+   "Secure sharing: email, file transfer, printing and clear desk",
+   "Individuals' rights and handling requests for information"
+  ],
+  "Intended Audience": [
+   "All staff in regulated firms, including new joiners, contractors and temporary staff with access to the firm's systems",
+   "Front-office, operations, technology, HR, finance and support staff who handle customer data or critical processes",
+   "Line managers responsible for secure working practices and continuity arrangements in their teams"
+  ],
+  "Useful Prior Knowledge and Experience": "No technical background is required. The programme is suitable for new joiners and as annual refresher training.",
+  "Core Reading": [
+   "NIST (2024), The NIST Cybersecurity Framework (CSF) 2.0",
+   "ISO/IEC (2022), ISO/IEC 27001:2022 Information Security, Cybersecurity and Privacy Protection – Information Security Management Systems – Requirements",
+   "ISO (2019), ISO 22301:2019 Security and Resilience – Business Continuity Management Systems – Requirements",
+   "BCBS (2021), Principles for Operational Resilience"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 228,
+   "module": 4,
+   "title": "Cyber, Data and Resilience Essentials",
+   "moduleCount": 6,
+   "durationValue": 9,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 651,
+     "number": 1,
+     "title": "The Threat Landscape and Your Role"
+    },
+    {
+     "id": 652,
+     "number": 2,
+     "title": "Phishing, Social Engineering and Impersonation"
+    },
+    {
+     "id": 653,
+     "number": 3,
+     "title": "Passwords, Authentication and Secure Devices"
+    },
+    {
+     "id": 654,
+     "number": 4,
+     "title": "Data Protection and Confidentiality"
+    },
+    {
+     "id": 655,
+     "number": 5,
+     "title": "Incident Reporting, Business Continuity and Resilience"
+    },
+    {
+     "id": 656,
+     "number": 6,
+     "title": "Safe Use of AI Tools and Third-Party Apps"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 213,
+   "entryType": "programme",
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 244,
+   "entryType": "programme",
+   "title": "Financial Crime Essentials for All Staff",
+   "summary": "An eight-module foundation programme helping all staff recognise financial crime red flags, follow the firm's controls and report suspicions without tipping off.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+{
+ "id": 772,
+ "entryType": "module",
+ "title": "Fraud, Liability and Impersonation Scams",
+ "summary": "The shift from unauthorised fraud to authorised push payment scams, the reform's liability rules including impersonation of payment service provider staff, payee verification and fraud data sharing, and how fraud controls are assessed.",
+ "clientType": [
+  "firms",
+  "payments",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes",
+  "payments": "Sector Programmes",
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Payment Services",
+ "tags": [
+  "Payments",
+  "EU"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Policy & specialist teams",
+  "Control function holders"
+ ],
+ "firmType": [
+  "Payments & E-Money"
+ ],
+ "slug": "fraud-liability-and-impersonation-scams",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The shift from unauthorised fraud to authorised push payment scams, the reform's liability rules including impersonation of payment service provider staff, payee verification and fraud data sharing, and how fraud controls are assessed.",
+  "Learning Objectives": [
+   "Distinguish unauthorised transactions, authorised push payment fraud and impersonation fraud",
+   "Apply liability, refund and gross negligence rules under the current and reformed regimes",
+   "Assess transaction monitoring, payee verification and fraud data sharing"
+  ],
+  "Syllabus": [
+   "Unauthorised transactions, gross negligence and refund timelines",
+   "IBAN and name verification under the Instant Payments Regulation and the reform",
+   "Impersonation fraud refunds and cooperation with electronic communications providers",
+   "Fraud monitoring, data sharing, spending limits and customer education"
+  ],
+  "Intended Audience": [
+   "Authorisation, supervision and policy staff at national competent authorities covering payment and e-money institutions",
+   "Compliance, risk, legal, fraud and product staff at payment institutions, e-money institutions and banks",
+   "Senior managers and directors of payment firms responsible for regulatory change and transition planning"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of payment services, e-money or their supervision is helpful. No legal background or prior knowledge of EU law is required.",
+  "Core Reading": [
+   "Directive (EU) 2015/2366 on payment services in the internal market (PSD2)",
+   "Directive 2009/110/EC on the taking up, pursuit and prudential supervision of the business of electronic money institutions (Second E-Money Directive)",
+   "Regulation (EU) 2024/886 amending Regulations (EU) No 260/2012 and (EU) 2021/1230 and Directives 98/26/EC and (EU) 2015/2366 as regards instant credit transfers in euro (Instant Payments Regulation)",
+   "CPMI, Fast Payments: Enhancing the Speed and Availability of Retail Payments (2016)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 241,
+   "module": 5,
+   "title": "EU Payments Regulation: PSD2, PSD3 and the Payment Services Regulation (EU Edition)",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 768,
+     "number": 1,
+     "title": "The EU Payments Framework and the Reform Package"
+    },
+    {
+     "id": 769,
+     "number": 2,
+     "title": "Authorisation, Capital and the Integration of E-Money"
+    },
+    {
+     "id": 770,
+     "number": 3,
+     "title": "Safeguarding, Wind-Down and Prudential Resilience"
+    },
+    {
+     "id": 771,
+     "number": 4,
+     "title": "Strong Customer Authentication and Operational Risk"
+    },
+    {
+     "id": 772,
+     "number": 5,
+     "title": "Fraud, Liability and Impersonation Scams"
+    },
+    {
+     "id": 773,
+     "number": 6,
+     "title": "Open Banking and Access to Data"
+    },
+    {
+     "id": 774,
+     "number": 7,
+     "title": "Access to Payment Systems, Accounts and New Payment Rails"
+    },
+    {
+     "id": 775,
+     "number": 8,
+     "title": "Supervising Payments and Preparing for Transition"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 234,
+   "entryType": "programme",
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "summary": "An eight-module programme on DORA for supervisors and financial entities: ICT risk management, incident reporting, resilience testing and TLPT, ICT third-party risk and critical provider oversight.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 325,
+   "entryType": "programme",
+   "title": "The EU AI Act and Financial Services (EU Edition)",
+   "summary": "An eight-module programme on the EU AI Act for supervisors and financial firms: risk classification, high-risk credit and insurance uses, provider and deployer duties, supervision and compliance programmes.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

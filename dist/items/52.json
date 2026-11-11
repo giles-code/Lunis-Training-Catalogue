@@ -1,0 +1,186 @@
+{
+ "id": 52,
+ "entryType": "module",
+ "title": "Data Governance for Supervisory Decision-Making",
+ "summary": "The aim of this workshop is to build participants' understanding of data governance principles and their application to supervisory decision-making, ensuring that decisions are supported by reliable, well-governed data.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Cross-Cutting Themes"
+ },
+ "topic": "Data & Technology as Supervisory Infrastructure",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "data-governance-for-supervisory-decision-making",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Data & Supervisory Analytics"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of data governance principles and their application to supervisory decision-making, ensuring that decisions are supported by reliable, well-governed data.",
+  "Intended Audience": "Mid-to-senior staff involved in the authority's own data and technology infrastructure.",
+  "Learning Objectives": [
+   "Explain the principles of good data governance",
+   "Describe common data quality issues affecting supervisory decisions",
+   "Assess data lineage and its importance for defensible decisions",
+   "Evaluate the governance of decision-support systems",
+   "Formulate data governance improvements for a sample scenario"
+  ],
+  "Syllabus": [
+   "What data governance means for a supervisory authority",
+   "Data ownership, stewardship, and accountability",
+   "Data quality dimensions: accuracy, completeness, timeliness",
+   "Consequences of poor data governance for supervisory decisions",
+   "Facilitated discussion: data quality issues participants have encountered",
+   "What data lineage is and why it matters",
+   "Tracing a supervisory decision back to its underlying data",
+   "Governance of decision-support and analytics systems",
+   "Documenting data provenance for audit and challenge",
+   "Exercise: trace the data lineage behind a sample supervisory decision",
+   "Common data governance weaknesses in supervisory authorities",
+   "Practical steps to strengthen data governance",
+   "Case study: a decision challenged due to poor data governance",
+   "Case study: propose data governance improvements for a sample authority",
+   "Recap: governance principles, lineage, applying improvements",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Principles of data governance (09:30–10:45)\n- Session 2: Data lineage and decision defensibility (11:00–12:30)\n- Session 3: Applying data governance (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Good data governance is a precondition for defensible supervisory decisions, not a bureaucratic add-on\n- Data lineage lets an authority show its working when a decision is challenged\n- Decision-support systems need the same governance rigour as the decisions they inform",
+  "Useful Prior Knowledge and Experience": "Some familiarity with data & technology as supervisory infrastructure is helpful but not essential.",
+  "Core Reading": [
+   "BIS Financial Stability Institute, Innovative Technology in Financial Supervision (Suptech): The Experience of Early Users (FSI Insights No 9, 2018)",
+   "FSB, The Use of Supervisory and Regulatory Technology by Authorities and Regulated Institutions (2020)",
+   "Basel Committee, Principles for Effective Risk Data Aggregation and Risk Reporting (BCBS 239) (2013)"
+  ]
+ },
+ "inherited": [
+  "Core Reading",
+  "level"
+ ],
+ "partOf": [
+  {
+   "programme": 316,
+   "module": 3,
+   "title": "SupTech, Data and Supervisory Analytics",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1423,
+     "number": 1,
+     "title": "SupTech, RegTech and the Data-Driven Authority"
+    },
+    {
+     "id": 29,
+     "number": 2,
+     "title": "Building Supervisory Data Infrastructure"
+    },
+    {
+     "id": 52,
+     "number": 3,
+     "title": "Data Governance for Supervisory Decision-Making"
+    },
+    {
+     "id": 1424,
+     "number": 4,
+     "title": "Regulatory Reporting and Data Collection"
+    },
+    {
+     "id": 104,
+     "number": 5,
+     "title": "Interrogating Regulatory Returns"
+    },
+    {
+     "id": 1425,
+     "number": 6,
+     "title": "Anomaly Detection, Risk Scoring and Dashboards"
+    },
+    {
+     "id": 1426,
+     "number": 7,
+     "title": "Advanced Analytics and AI in Supervision"
+    },
+    {
+     "id": 1427,
+     "number": 8,
+     "title": "SupTech Use Cases Across Supervisory Functions"
+    },
+    {
+     "id": 1428,
+     "number": 9,
+     "title": "Building the Authority's SupTech Capability"
+    },
+    {
+     "id": 1429,
+     "number": 10,
+     "title": "Governing Supervisory Analytics and the SupTech Roadmap"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

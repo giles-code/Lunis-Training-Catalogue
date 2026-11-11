@@ -1,0 +1,169 @@
+{
+ "id": 809,
+ "entryType": "module",
+ "title": "Financial Crime Red Flags: Case Workshop",
+ "summary": "Brings the programme together in a case study in which participants review a firm's profile and information, identify financial crime risks and agree the supervisory response.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Reducing Financial Crime & Delivering Market Integrity",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "New joiners & developing staff",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "financial-crime-red-flags-case-workshop",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Capability & Capacity Building"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together in a case study in which participants review a firm's profile and information, identify financial crime risks and agree the supervisory response.",
+  "Learning Objectives": [
+   "Identify financial crime risks and red flags in a case scenario",
+   "Assess the adequacy of the firm's controls",
+   "Agree and justify an appropriate supervisory response and escalation"
+  ],
+  "Syllabus": [
+   "Case briefing: firm profile, customer base and transaction data",
+   "Identifying red flags and control weaknesses in small groups",
+   "Deciding on escalation and referral",
+   "Workshop: presenting findings and the proposed supervisory response"
+  ],
+  "Intended Audience": [
+   "New joiners and developing staff across supervisory, authorisation, policy and enforcement functions",
+   "Supervisors and inspectors without a specialist financial crime background",
+   "Staff joining a financial crime or AML/CFT supervision team"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior financial crime experience is required. Some familiarity with financial services or the authority's work is helpful.",
+  "Core Reading": [
+   "FATF (2012, as updated), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations",
+   "FATF (2021), Guidance on Risk-Based Supervision",
+   "Basel Committee on Banking Supervision (2017, revised 2020), Sound Management of Risks Related to Money Laundering and Financing of Terrorism",
+   "FATF (2023), Guidance on Beneficial Ownership of Legal Persons"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 245,
+   "module": 8,
+   "title": "Financial Crime Foundations for Regulatory Staff",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 802,
+     "number": 1,
+     "title": "Understanding Money Laundering and Terrorist Financing"
+    },
+    {
+     "id": 803,
+     "number": 2,
+     "title": "The FATF Framework and the Authority's Role"
+    },
+    {
+     "id": 804,
+     "number": 3,
+     "title": "Financial Sanctions"
+    },
+    {
+     "id": 805,
+     "number": 4,
+     "title": "Fraud and Scams"
+    },
+    {
+     "id": 806,
+     "number": 5,
+     "title": "How Firms' Financial Crime Controls Work"
+    },
+    {
+     "id": 807,
+     "number": 6,
+     "title": "Red Flags in Supervisory Work"
+    },
+    {
+     "id": 808,
+     "number": 7,
+     "title": "Working with the FIU and Law Enforcement"
+    },
+    {
+     "id": 809,
+     "number": 8,
+     "title": "Financial Crime Red Flags: Case Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 225,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 247,
+   "entryType": "programme",
+   "title": "Financial Crime Supervision in the Age of AI",
+   "summary": "A ten-module programme equipping supervisors to assess financial crime controls and firms' use of AI in monitoring, screening, fraud and surveillance.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 326,
+   "entryType": "programme",
+   "title": "The EU AML Package: AMLR, AMLD6 and AMLA (EU Edition)",
+   "summary": "An eight-module programme on the EU AML package for supervisors and firms: the AML Regulation single rulebook, AMLD6, AMLA's supervisory model, crypto-asset transfers and transition planning.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

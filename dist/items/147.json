@@ -1,0 +1,102 @@
+{
+ "id": 147,
+ "entryType": "module",
+ "title": "Public Speaking and Presentation Skills: From Preparation to Delivery",
+ "summary": "Learn how to design and deliver presentations with clarity, confidence, and impact.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "People & Communication Fundamentals",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 1,
+ "durationUnit": "days",
+ "role": [
+  "Supervisors & inspectors",
+  "New joiners & developing staff"
+ ],
+ "firmType": [],
+ "slug": "public-speaking-and-presentation-skills-from-preparation-to-delivery",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Conduct & Culture / HR"
+ ],
+ "contentGaps": [
+  "aimAndPurpose: expanded from a one-line catalogue summary only",
+  "learningObjectives: derived from focus-area keywords, not explicit source content",
+  "syllabus: derived from focus-area keywords, needs expansion",
+  "structureAndFormat: not specified in source catalogue",
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "duration: not stated in source catalogue; defaulted to a single full day pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "Learn how to design and deliver presentations with clarity, confidence, and impact.",
+  "Intended Audience": "Staff at all levels seeking to strengthen core communication and interpersonal skills.",
+  "Learning Objectives": [
+   "Understand and apply: Presentation design",
+   "Understand and apply: public speaking",
+   "Understand and apply: stage presence"
+  ],
+  "Syllabus": [
+   "Presentation design",
+   "public speaking",
+   "stage presence"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with people & communication fundamentals is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 217,
+   "entryType": "programme",
+   "title": "Core Professional Skills for Regulatory Staff",
+   "summary": "An eight-module practical programme building the core writing, analysis, meeting, challenge, presentation and data skills that regulatory staff need every day.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 273,
+   "entryType": "programme",
+   "title": "Investigative and Interviewing Skills for Supervisors",
+   "summary": "An eight-module practical programme on planning and conducting supervisory interviews and turning interview evidence into sound findings.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 314,
+   "entryType": "programme",
+   "title": "Supervisory Judgement and Professional Practice",
+   "summary": "A ten-module programme on forming, documenting and defending supervisory judgements, and turning them into clear findings, letters and interventions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

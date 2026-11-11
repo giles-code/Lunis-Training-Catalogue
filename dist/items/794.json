@@ -1,0 +1,174 @@
+{
+ "id": 794,
+ "entryType": "module",
+ "title": "Financial Crime: Why It Matters to Your Job",
+ "summary": "What financial crime is, why criminals target financial firms, and why every role, not just compliance, forms part of the firm's defences.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1.5,
+ "durationUnit": "hours",
+ "role": [
+  "All staff"
+ ],
+ "firmType": [],
+ "slug": "financial-crime-why-it-matters-to-your-job",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What financial crime is, why criminals target financial firms, and why every role, not just compliance, forms part of the firm's defences.",
+  "Learning Objectives": [
+   "Explain the main types of financial crime and the harm they cause",
+   "Describe why firms and staff carry legal obligations to prevent it",
+   "Identify where their own role touches financial crime risk"
+  ],
+  "Syllabus": [
+   "The main threats: laundering, terrorist financing, sanctions evasion, bribery and fraud",
+   "Real-world harm: victims, communities and the integrity of the financial system",
+   "The firm's defences and the role of the money laundering reporting officer",
+   "Personal liability, criminal offences and consequences for staff"
+  ],
+  "Intended Audience": [
+   "All staff in regulated firms, including new joiners as part of induction and existing staff as annual refresher training",
+   "Customer-facing, operations, payments, technology, HR, finance and procurement staff who may encounter financial crime risk",
+   "Line managers who receive concerns from their teams and need to know how to escalate them"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior knowledge of financial crime or regulation is required. Familiarity with the firm's own policies is helpful but not essential.",
+  "Core Reading": [
+   "FATF (2012, as updated), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations",
+   "OECD (1997), Convention on Combating Bribery of Foreign Public Officials in International Business Transactions",
+   "FATF, Egmont Group and INTERPOL (2023), Illicit Financial Flows from Cyber-Enabled Fraud"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 244,
+   "module": 1,
+   "title": "Financial Crime Essentials for All Staff",
+   "moduleCount": 8,
+   "durationValue": 12,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 794,
+     "number": 1,
+     "title": "Financial Crime: Why It Matters to Your Job"
+    },
+    {
+     "id": 795,
+     "number": 2,
+     "title": "Money Laundering: How Criminal Money Moves"
+    },
+    {
+     "id": 796,
+     "number": 3,
+     "title": "Terrorist Financing and Proliferation Financing"
+    },
+    {
+     "id": 797,
+     "number": 4,
+     "title": "Know Your Customer and Customer Due Diligence"
+    },
+    {
+     "id": 798,
+     "number": 5,
+     "title": "Sanctions: What Every Member of Staff Must Know"
+    },
+    {
+     "id": 799,
+     "number": 6,
+     "title": "Bribery and Corruption"
+    },
+    {
+     "id": 800,
+     "number": 7,
+     "title": "Fraud and Scams: Protecting Customers and the Firm"
+    },
+    {
+     "id": 801,
+     "number": 8,
+     "title": "Reporting Suspicion, Tipping Off and Red-Flag Scenarios"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 213,
+   "entryType": "programme",
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 228,
+   "entryType": "programme",
+   "title": "Cyber, Data and Resilience Essentials",
+   "summary": "A six-module foundation programme giving all staff the practical habits to resist cyber attacks, protect data, use AI tools safely and report incidents.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

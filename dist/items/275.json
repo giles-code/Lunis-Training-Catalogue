@@ -1,0 +1,345 @@
+{
+ "id": 275,
+ "entryType": "programme",
+ "title": "Investment Funds Essentials",
+ "summary": "A ten-module foundation programme giving new joiners and staff across the funds industry a practical, end-to-end understanding of how investment funds work.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 15,
+ "durationUnit": "hours",
+ "role": [
+  "All staff"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "investment-funds-essentials",
+ "moduleCount": 10,
+ "hoursPerModule": 1.5,
+ "intro": "This training programme equips new joiners and staff across the funds industry with a clear understanding of how investment funds work, how they are structured, governed, regulated and serviced, and where their own role fits.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Capability & Capacity Building"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give staff at fund managers, administrators, depositaries and other service providers a practical, end-to-end grounding in investment funds and the industry that services them. Participants leave able to explain how a fund operates, who does what, why the rules exist and how their own work contributes to good investor outcomes.",
+  "What It Covers": "Investing and asset classes, fund structures and legal forms, types of investment fund, why and how funds are regulated, governance and delegation, the main service providers, fund administration, dealing and valuation, portfolio investment and risk, distribution and sustainable investment, and the fund lifecycle and careers in the industry.",
+  "Intended Audience": [
+   "New joiners and graduates at fund managers, administrators, depositaries and other fund service providers",
+   "Operations, client service, finance, technology and support staff who need a grounding in funds",
+   "Staff moving into the funds industry from banking, insurance or other sectors"
+  ],
+  "Learning Objectives": [
+   "Explain what investment funds are, how they work and why investors use them",
+   "Describe the main fund structures, legal forms and types of fund",
+   "Identify the parties to a fund and the role each service provider plays",
+   "Explain why funds are regulated and how governance and delegation work in practice",
+   "Describe how funds are administered, valued, invested, distributed and wound up",
+   "Recognise the risks, trends and career paths across the funds industry"
+  ],
+  "Structure and Format": "Ten modules of about ninety minutes each, delivered in person, virtually or in a hybrid format, either as a two-day induction programme or as a series of short sessions. Modules combine short briefings with real-world examples and quick quizzes, and can be selected or tailored to the firm's business and fund range.",
+  "Useful Prior Knowledge and Experience": "No prior knowledge of investment funds is required. The programme is suitable for new joiners, graduates and staff moving into the funds industry.",
+  "Core Reading": [
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "IOSCO, Principles for the Valuation of Collective Investment Schemes (2013)",
+   "IOSCO, Recommendations for Liquidity Risk Management for Collective Investment Schemes (2018)",
+   "IOSCO, Recommendations on Sustainability-Related Practices, Policies, Procedures and Disclosure in Asset Management (2021)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1064,
+   "number": 1,
+   "title": "Investing and Investment Funds: The Basics",
+   "summary": "Why people save and invest, the main asset classes funds buy, and what an investment fund is and offers compared with investing directly or holding a deposit.",
+   "objectives": [
+    "Distinguish saving from investing and explain why people invest",
+    "Describe shares, bonds, derivatives and other asset classes",
+    "Explain what an investment fund provides to investors"
+   ],
+   "syllabus": [
+    "Savings versus investments: risk, return and time horizon",
+    "Shares, bonds, derivatives and alternative assets",
+    "Pooling, diversification, professional management and liquidity",
+    "Who invests in funds and how they access them"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1065,
+   "number": 2,
+   "title": "How Funds Are Organised and Structured",
+   "summary": "The parties to a fund, the difference between self-managed and externally managed funds, and the common structures and legal forms funds take.",
+   "objectives": [
+    "Identify the main parties to an investment fund",
+    "Describe stand-alone, umbrella, master-feeder and fund of funds structures",
+    "Explain why funds use different legal forms and share classes"
+   ],
+   "syllabus": [
+    "Management company, investment manager, depositary and administrator",
+    "Self-managed versus externally managed funds",
+    "Umbrella and sub-funds, master-feeder and fund of funds structures",
+    "Corporate, contractual and partnership forms and share classes"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1066,
+   "number": 3,
+   "title": "Types of Investment Fund",
+   "summary": "The main families of fund, from traditional retail funds and money market funds to exchange traded funds, hedge funds, private equity and real estate funds.",
+   "objectives": [
+    "Distinguish traditional, alternative and exchange traded funds",
+    "Explain how open-ended and closed-ended funds differ",
+    "Describe the investors, assets and fees typical of each fund type"
+   ],
+   "syllabus": [
+    "Equity, fixed income, multi-asset and money market funds",
+    "Exchange traded funds and listed investment companies",
+    "Hedge funds, private equity, venture capital and real estate funds",
+    "Open-ended versus closed-ended funds, gates, lock-ups and side pockets"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1067,
+   "number": 4,
+   "title": "Why and How Funds Are Regulated",
+   "summary": "Why investment funds are regulated, how rules apply to managers, products and service providers, and how a fund's investors and strategy shape the regime that applies.",
+   "objectives": [
+    "Explain the objectives of fund regulation",
+    "Distinguish regulation of fund managers, fund products and service providers",
+    "Identify how investor type and strategy determine the applicable rules"
+   ],
+   "syllabus": [
+    "Investor protection, market integrity and financial stability",
+    "Fund manager and fund product rules: retail, professional and private funds",
+    "Regulated activities: management, administration, custody and distribution",
+    "International standards, including the IOSCO Objectives and Principles"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1068,
+   "number": 5,
+   "title": "Fund Governance, Management and Delegation",
+   "summary": "How funds are governed and managed: the role of the fund board and management company, key management personnel and assurance functions, and how delegation is overseen.",
+   "objectives": [
+    "Explain the role of fund boards, directors and management companies",
+    "Describe managerial functions, designated persons and assurance functions",
+    "Explain why delegated activities must be overseen and how"
+   ],
+   "syllabus": [
+    "The purpose of fund governance and the fund board's role",
+    "Management company resources, senior managers and managerial functions",
+    "Compliance, risk management and internal audit as assurance functions",
+    "Delegation, outsourcing and the oversight of delegates"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1069,
+   "number": 6,
+   "title": "Service Providers: Who Does What",
+   "summary": "The roles of the main service providers to a fund, including the depositary, investment manager, prime broker, distributor, auditor and legal adviser, and how they work together.",
+   "objectives": [
+    "Describe the role and duties of each main service provider",
+    "Explain the depositary's safekeeping, cash monitoring and oversight duties",
+    "Recognise how service providers interact across a fund's operations"
+   ],
+   "syllabus": [
+    "The depositary: safekeeping, cash flow monitoring and oversight",
+    "The investment manager and the prime broker",
+    "Distributors, platforms and paying agents",
+    "Auditors, legal advisers and other specialist providers"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1070,
+   "number": 7,
+   "title": "Fund Administration: Dealing, Valuation and Transfer Agency",
+   "summary": "How investors subscribe and redeem, how a fund's assets are valued and its units priced, and the work of the fund accountant and transfer agent, including anti-money laundering checks.",
+   "objectives": [
+    "Explain the subscription and redemption process",
+    "Describe how a fund is valued and its NAV calculated",
+    "Explain the transfer agency function and its AML responsibilities"
+   ],
+   "syllabus": [
+    "Dealing days, cut-off times and settlement",
+    "Portfolio valuation, NAV calculation and the treatment of fees and expenses",
+    "The transfer agent: register, investor onboarding and AML checks",
+    "Pricing errors and why accuracy matters to investors"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1071,
+   "number": 8,
+   "title": "Investing the Portfolio and Managing Risk",
+   "summary": "How funds buy and sell assets, the investment restrictions and techniques they use, and the main investment, liquidity and operational risks funds face during their life.",
+   "objectives": [
+    "Explain how funds trade traditional and other assets",
+    "Describe investment restrictions, leverage and efficient portfolio management techniques",
+    "Identify the main risks a fund faces and how they are managed"
+   ],
+   "syllabus": [
+    "The investment process, trading and settlement",
+    "Diversification limits, eligible assets and borrowing restrictions",
+    "Derivatives, leverage, securities lending and collateral",
+    "Market, liquidity, counterparty and operational risk"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1072,
+   "number": 9,
+   "title": "Marketing, Distribution and Sustainable Investment",
+   "summary": "How funds reach investors, how marketing and cross-border distribution are regulated, and how sustainable investment approaches and stewardship apply to funds.",
+   "objectives": [
+    "Describe the main distribution channels for funds",
+    "Explain the rules that apply to fund marketing and cross-border sales",
+    "Distinguish the main approaches to sustainable investment and stewardship"
+   ],
+   "syllabus": [
+    "Direct, intermediated and platform distribution",
+    "Marketing communications, investor documents and product governance",
+    "Exclusions, integration, thematic and impact investing",
+    "Stewardship, sustainability disclosures and greenwashing risk"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1073,
+   "number": 10,
+   "title": "The Fund Lifecycle and Working in the Industry",
+   "summary": "Brings the programme together by following a fund from launch to closure, and looks at how the industry is changing and the skills and roles it needs.",
+   "objectives": [
+    "Describe the business, legal and operational stages of launching a fund",
+    "Explain what happens when funds merge, close or are wound up",
+    "Identify industry trends, career paths and the skills employers value"
+   ],
+   "syllabus": [
+    "Launching a fund: business case, approval, pre-launch and post-launch",
+    "Mergers, closures and wind-downs",
+    "Technology, tokenisation and other trends reshaping the industry",
+    "Workshop: following a fund from launch to wind-up"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 213,
+   "entryType": "programme",
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 228,
+   "entryType": "programme",
+   "title": "Cyber, Data and Resilience Essentials",
+   "summary": "A six-module foundation programme giving all staff the practical habits to resist cyber attacks, protect data, use AI tools safely and report incidents.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 244,
+   "entryType": "programme",
+   "title": "Financial Crime Essentials for All Staff",
+   "summary": "An eight-module foundation programme helping all staff recognise financial crime red flags, follow the firm's controls and report suspicions without tipping off.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 281,
+   "entryType": "programme",
+   "title": "Market Conduct Essentials: Inside Information, Conflicts and Personal Dealing",
+   "summary": "A six-module foundation programme helping all staff handle inside information, personal dealing, gifts and communications correctly and avoid market abuse.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 300,
+   "entryType": "programme",
+   "title": "Regulatory Essentials for All Staff",
+   "summary": "An eight-module foundation programme giving all staff a practical understanding of regulation, conduct, financial crime awareness and their own responsibilities.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

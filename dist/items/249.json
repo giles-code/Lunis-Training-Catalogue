@@ -1,0 +1,300 @@
+{
+ "id": 249,
+ "entryType": "programme",
+ "title": "Financial Inclusion and Consumer Protection Policy",
+ "summary": "An eight-module programme helping policymakers widen access to financial services while protecting consumers through strategy, regulation, redress and fraud prevention.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Consumer protection & conduct",
+  "Payments"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters",
+  "Public agencies & investment promotion"
+ ],
+ "firmType": [
+  "Payments & E-Money"
+ ],
+ "slug": "financial-inclusion-and-consumer-protection-policy",
+ "moduleCount": 8,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips ministries, legislators and public agencies to design policy that widens access to financial services while protecting consumers: inclusion strategies, digital finance, financial literacy, consumer protection frameworks, redress and the fight against fraud and scams.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Consumer Protection",
+  "Policy"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give policymakers a practical understanding of how to expand access to useful, affordable financial services and how to protect consumers once they use them. Participants leave able to design a national financial inclusion strategy, strengthen the consumer protection framework, set up effective complaints and redress arrangements, and respond to the growing threat of fraud and scams.",
+  "What It Covers": "Measuring financial access and exclusion, national financial inclusion strategies, digital financial services and mobile money, digital identity and proportionate customer due diligence, financial literacy and capability strategies, consumer protection frameworks and institutional models, complaints handling and ombudsman schemes, fraud and scams, and evaluating policy impact.",
+  "Intended Audience": [
+   "Officials in finance ministries, treasuries and central banks responsible for financial inclusion and consumer policy",
+   "Staff of consumer protection agencies, ombudsman schemes and financial education bodies",
+   "Legislative drafters, legal advisers and parliamentary committee staff working on consumer and financial inclusion legislation"
+  ],
+  "Learning Objectives": [
+   "Measure financial access, usage and exclusion and identify the groups most affected",
+   "Design a national financial inclusion strategy with clear targets and governance",
+   "Assess the opportunities and risks of digital financial services for inclusion",
+   "Develop a national financial literacy and capability strategy",
+   "Evaluate consumer protection frameworks, institutional models and redress arrangements",
+   "Design a coordinated policy response to fraud and scams"
+  ],
+  "Structure and Format": "Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as an intensive programme over two to three days or as a series of half-day sessions. Each module combines a briefing with country case studies and policy exercises, ending in a strategy workshop, and modules can be selected or tailored to the government's priorities.",
+  "Useful Prior Knowledge and Experience": "Some familiarity with financial services, social or consumer policy is helpful. No technical background in financial regulation is required.",
+  "Core Reading": [
+   "G20/OECD (2022), High-Level Principles on Financial Consumer Protection",
+   "World Bank (2017), Good Practices for Financial Consumer Protection",
+   "OECD (2020), Recommendation of the Council on Financial Literacy",
+   "CPMI and World Bank (2016), Payment Aspects of Financial Inclusion",
+   "World Bank (2022), The Global Findex Database 2021: Financial Inclusion, Digital Payments, and Resilience in the Age of COVID-19"
+  ]
+ },
+ "modules": [
+  {
+   "id": 832,
+   "number": 1,
+   "title": "Financial Inclusion: Evidence and Barriers",
+   "summary": "Why financial inclusion matters for growth and resilience, how access and usage are measured, and the economic, social and regulatory barriers that keep people excluded.",
+   "objectives": [
+    "Explain the economic and social case for financial inclusion",
+    "Use demand-side and supply-side data to measure access and usage",
+    "Identify the barriers facing women, rural, low-income and other excluded groups"
+   ],
+   "syllabus": [
+    "Inclusion, growth, resilience and poverty reduction",
+    "Global Findex and national survey data",
+    "Barriers: cost, distance, documentation, trust and capability",
+    "Gender gaps, small businesses and forcibly displaced people"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 833,
+   "number": 2,
+   "title": "National Financial Inclusion Strategies",
+   "summary": "How to develop, govern and implement a national financial inclusion strategy, setting priorities and targets and aligning ministries, regulators and the private sector.",
+   "objectives": [
+    "Design the structure, priorities and targets of a national strategy",
+    "Establish governance and coordination for implementation",
+    "Monitor progress with a results framework"
+   ],
+   "syllabus": [
+    "Diagnostics, stakeholder engagement and priority setting",
+    "Governance: steering committees, working groups and secretariats",
+    "Public sector levers: government payments, postal networks and state banks",
+    "Results frameworks, targets and reporting"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 834,
+   "number": 3,
+   "title": "Digital Finance, Mobile Money and Digital Public Infrastructure",
+   "summary": "How mobile money, agent networks, digital identity and fast payment systems have transformed access, and the regulatory choices that enable them while managing new risks.",
+   "objectives": [
+    "Explain how digital financial services expand access",
+    "Assess enabling regulation for e-money, agents and digital credit",
+    "Evaluate the role of digital identity and proportionate customer due diligence"
+   ],
+   "syllabus": [
+    "Mobile money, agent networks and interoperability",
+    "Digital credit, buy now pay later and over-indebtedness",
+    "Digital identity, tiered due diligence and FATF guidance on inclusion",
+    "Digital public infrastructure and government-to-person payments"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 835,
+   "number": 4,
+   "title": "Financial Literacy and Capability Strategies",
+   "summary": "How to design a national strategy to improve financial literacy and capability, what evidence shows about what works, and how to reach different audiences effectively.",
+   "objectives": [
+    "Explain the OECD framework for national financial literacy strategies",
+    "Assess the evidence on effective financial education interventions",
+    "Design programmes for schools, adults, small businesses and vulnerable groups"
+   ],
+   "syllabus": [
+    "National strategy design, governance and stakeholder roles",
+    "Measuring financial literacy and capability",
+    "Behavioural insights and teachable moments",
+    "Digital financial literacy and scam awareness"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 836,
+   "number": 5,
+   "title": "Consumer Protection Frameworks and Institutions",
+   "summary": "The legal and institutional foundations of financial consumer protection, the international principles that guide them, and the choices in assigning responsibilities to regulators.",
+   "objectives": [
+    "Explain the G20/OECD High-Level Principles on Financial Consumer Protection",
+    "Compare institutional models for financial consumer protection",
+    "Assess gaps in disclosure, fair treatment, product and conduct rules"
+   ],
+   "syllabus": [
+    "Disclosure, transparency of costs and fair treatment",
+    "Responsible lending, product governance and suitability",
+    "Institutional models: integrated, twin peaks and dedicated agencies",
+    "Data protection, privacy and vulnerable consumers"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 837,
+   "number": 6,
+   "title": "Complaints, Redress and Ombudsman Schemes",
+   "summary": "How to give consumers effective routes to redress, from internal complaints handling to independent ombudsman schemes, and how complaints data can inform policy and supervision.",
+   "objectives": [
+    "Set standards for internal complaints handling by firms",
+    "Design an independent, accessible and fair ombudsman scheme",
+    "Use complaints data to identify emerging harm"
+   ],
+   "syllabus": [
+    "Internal dispute resolution standards",
+    "Ombudsman scheme design: independence, jurisdiction, funding and binding decisions",
+    "Mass redress, collective actions and compensation schemes",
+    "Complaints data as an early warning system"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 838,
+   "number": 7,
+   "title": "Fraud, Scams and Consumer Harm",
+   "summary": "The rapid growth of authorised push payment fraud, investment scams and online financial harm, and the policy tools to prevent fraud, allocate liability and support victims.",
+   "objectives": [
+    "Describe the main fraud and scam typologies affecting consumers",
+    "Evaluate prevention, reimbursement and liability allocation policies",
+    "Design coordination between regulators, law enforcement, telecoms and online platforms"
+   ],
+   "syllabus": [
+    "Investment, romance, impersonation and authorised push payment scams",
+    "Reimbursement and liability models for payment fraud",
+    "Online platforms, telecoms and advertising controls",
+    "National fraud strategies and victim support"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 839,
+   "number": 8,
+   "title": "Balancing Inclusion, Protection and Innovation",
+   "summary": "Brings the programme together by examining the trade-offs between inclusion, protection, stability and integrity, and building an integrated policy action plan.",
+   "objectives": [
+    "Weigh trade-offs between inclusion, consumer protection and financial integrity",
+    "Evaluate policy impact using evidence and data",
+    "Produce an integrated inclusion and consumer protection action plan"
+   ],
+   "syllabus": [
+    "Proportionality and the inclusion, stability, integrity and protection balance",
+    "Sandboxes and innovation in inclusive finance",
+    "Impact evaluation and course correction",
+    "Workshop: an inclusion and consumer protection action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 291,
+   "entryType": "programme",
+   "title": "Payments, Digital Money and CBDCs: Policy for Government",
+   "summary": "An eight-module programme helping policymakers understand payments and digital money and make informed choices on legislation, stablecoins, CBDCs and cross-border payments.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 198,
+   "entryType": "programme",
+   "title": "AI in Financial Services: Policy Choices for Government",
+   "summary": "An eight-module programme helping policymakers understand AI in financial services and make informed choices on regulation, institutional roles and national strategy.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 229,
+   "entryType": "programme",
+   "title": "Developing Capital Markets and Investment Fund Industries",
+   "summary": "An eight-module programme helping policymakers develop deep, well-regulated capital markets and fund industries through credible, well-sequenced reform.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 230,
+   "entryType": "programme",
+   "title": "Digital Assets and Blockchain: A Policy Programme for Government",
+   "summary": "An eight-module programme giving policymakers the understanding to set digital asset policy, design legislation and meet international standards on crypto-assets and stablecoins.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 235,
+   "entryType": "programme",
+   "title": "Drafting Financial Services Legislation",
+   "summary": "An eight-module programme helping legislative drafters and legal advisers design and draft effective, enforceable and technology-neutral financial services legislation.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "id": 1295,
+ "entryType": "module",
+ "title": "From Mandate to Strategy",
+ "summary": "How a supervisory authority interprets its statutory mandate, ranks its primary and secondary objectives, and turns them into a credible strategic plan and work programme.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Governance, Strategy & Leadership",
+ "tags": [
+  "Leadership & strategy"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "from-mandate-to-strategy",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Strategy",
+  "Board & Senior Leadership"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How a supervisory authority interprets its statutory mandate, ranks its primary and secondary objectives, and turns them into a credible strategic plan and work programme.",
+  "Learning Objectives": [
+   "Interpret a statutory mandate and the hierarchy of its objectives",
+   "Explain the role of strategic planning in a supervisory authority",
+   "Align strategy with mandate, international standards and public expectations"
+  ],
+  "Syllabus": [
+   "Interpreting statutory objectives: primary, secondary and implicit duties",
+   "IOSCO and Basel principles relating to the regulator",
+   "Strategic planning frameworks for public authorities",
+   "From strategy to annual business plan and work programme"
+  ],
+  "Intended Audience": [
+   "Board members, commissioners and executive leaders of supervisory authorities",
+   "Heads of department and senior managers responsible for strategy, resourcing and supervisory priorities",
+   "Strategy, governance, international affairs and board secretariat staff supporting the authority's leadership"
+  ],
+  "Useful Prior Knowledge and Experience": "Senior management experience in a supervisory authority or public body is helpful. No specialist background in strategy or governance is required.",
+  "Core Reading": [
+   "OECD, Best Practice Principles for Regulatory Policy: The Governance of Regulators (2014)",
+   "IMF, The Making of Good Supervision: Learning to Say \"No\" (Staff Position Note SPN/10/08, 2010)",
+   "IMF, Good Supervision: Lessons from the Field (Working Paper WP/23/181, 2023)",
+   "Basel Committee, Core Principles for Effective Banking Supervision (2024)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 302,
+   "module": 1,
+   "title": "Regulatory Leadership and Strategy",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 1295,
+     "number": 1,
+     "title": "From Mandate to Strategy"
+    },
+    {
+     "id": 1296,
+     "number": 2,
+     "title": "Governance of the Authority: Board and Executive"
+    },
+    {
+     "id": 1297,
+     "number": 3,
+     "title": "Operational Independence and Accountability"
+    },
+    {
+     "id": 1298,
+     "number": 4,
+     "title": "The Regulator's Risk Appetite and Prioritisation"
+    },
+    {
+     "id": 1299,
+     "number": 5,
+     "title": "Growth, Competitiveness and Secondary Objectives"
+    },
+    {
+     "id": 1300,
+     "number": 6,
+     "title": "Stakeholder and International Engagement"
+    },
+    {
+     "id": 127,
+     "number": 7,
+     "title": "Measuring Supervisory Effectiveness"
+    },
+    {
+     "id": 1301,
+     "number": 8,
+     "title": "Leading Change in the Authority"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 280,
+   "entryType": "programme",
+   "title": "Management and Leadership for Supervisors",
+   "summary": "A ten-module programme giving new and developing managers in supervisory authorities the practical skills to lead teams and make sound decisions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

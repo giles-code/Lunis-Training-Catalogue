@@ -1,0 +1,113 @@
+{
+ "id": 97,
+ "entryType": "module",
+ "title": "Having Difficult Supervisory Conversations",
+ "summary": "The aim of this workshop is to build participants' skills in delivering difficult messages to regulated firms — including adverse findings and escalation decisions — while managing pushback constructively and maintaining a professional, credible supervisory relationship.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "Supervisory Judgement & Professional Practice",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "having-difficult-supervisory-conversations",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in delivering difficult messages to regulated firms — including adverse findings and escalation decisions — while managing pushback constructively and maintaining a professional, credible supervisory relationship.",
+  "Intended Audience": "Junior to mid-level supervisory staff developing core professional judgement skills.",
+  "Learning Objectives": [
+   "Explain what makes a supervisory conversation difficult",
+   "Apply techniques for delivering adverse findings clearly and constructively",
+   "Manage pushback and defensive reactions from firms",
+   "Maintain professional credibility while holding a firm position",
+   "Practise a difficult supervisory conversation in a simulated scenario"
+  ],
+  "Syllabus": [
+   "Common types of difficult supervisory conversation",
+   "Why firms react defensively to adverse findings",
+   "The tension between relationship management and regulatory firmness",
+   "Preparing for a difficult conversation in advance",
+   "Facilitated discussion: difficult conversations participants have had to hold",
+   "Structuring the delivery of an adverse finding",
+   "Being clear without being unnecessarily confrontational",
+   "Anticipating and preparing for likely pushback",
+   "Written versus verbal delivery of difficult messages",
+   "Exercise: draft the opening of a difficult supervisory conversation for a sample finding",
+   "Techniques for managing defensive or aggressive reactions",
+   "Staying firm without becoming inflexible",
+   "Maintaining credibility for future engagements",
+   "Role-play: hold a difficult supervisory conversation with a firm representative",
+   "Recap: sources of difficulty, delivery technique, managing pushback",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: What makes a conversation difficult (09:30–10:45)\n- Session 2: Delivering adverse findings (11:00–12:30)\n- Session 3: Managing pushback and practice (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Preparation is the single most effective way to improve a difficult supervisory conversation\n- Clarity and firmness do not require confrontation — tone matters as much as content\n- Credibility built through fair, professional difficult conversations pays off in every future engagement with a firm",
+  "Useful Prior Knowledge and Experience": "Some familiarity with supervisory judgement & professional practice is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 273,
+   "entryType": "programme",
+   "title": "Investigative and Interviewing Skills for Supervisors",
+   "summary": "An eight-module practical programme on planning and conducting supervisory interviews and turning interview evidence into sound findings.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 314,
+   "entryType": "programme",
+   "title": "Supervisory Judgement and Professional Practice",
+   "summary": "A ten-module programme on forming, documenting and defending supervisory judgements, and turning them into clear findings, letters and interventions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 217,
+   "entryType": "programme",
+   "title": "Core Professional Skills for Regulatory Staff",
+   "summary": "An eight-module practical programme building the core writing, analysis, meeting, challenge, presentation and data skills that regulatory staff need every day.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

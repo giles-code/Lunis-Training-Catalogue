@@ -1,0 +1,221 @@
+{
+ "id": 1256,
+ "entryType": "module",
+ "title": "Quantum Computing and the Cryptographic Threat",
+ "summary": "A plain-language introduction to quantum computing, why it breaks today's public-key cryptography, the uncertainty around timelines and why data harvested now may be decrypted later.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes",
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Cybersecurity & Operational Resilience",
+ "tags": [
+  "Operational resilience & cyber",
+  "Crypto & digital assets"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "quantum-computing-and-the-cryptographic-threat",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "A plain-language introduction to quantum computing, why it breaks today's public-key cryptography, the uncertainty around timelines and why data harvested now may be decrypted later.",
+  "Learning Objectives": [
+   "Explain in plain language how quantum computers differ from classical computers",
+   "Distinguish the impact of quantum attacks on public-key and symmetric cryptography",
+   "Assess the harvest now, decrypt later risk and its link to data shelf life"
+  ],
+  "Syllabus": [
+   "Qubits, error correction and the path to cryptographically relevant machines",
+   "Why public-key encryption and digital signatures are most at risk",
+   "Timeline estimates and why uncertainty is not a reason to wait",
+   "Harvest now, decrypt later and long-lived confidential data"
+  ],
+  "Intended Audience": [
+   "Supervisors and inspectors responsible for technology, cyber and operational resilience risk",
+   "Payments, market infrastructure and digital asset specialists in supervisory and central bank functions",
+   "Policy staff and senior managers shaping the authority's cyber and quantum readiness approach"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of cyber, technology risk or operational resilience supervision is helpful. No background in mathematics or cryptography is required.",
+  "Core Reading": [
+   "NIST, FIPS 203, 204 and 205: Post-Quantum Cryptography Standards (2024)",
+   "G7 Cyber Expert Group, Public Statement on Planning for the Opportunities and Risks of Quantum Computing (2024)",
+   "NIST, Cybersecurity Framework 2.0 (2024)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 297,
+   "module": 1,
+   "title": "Quantum and Cryptographic Resilience",
+   "moduleCount": 6,
+   "durationValue": 18,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1256,
+     "number": 1,
+     "title": "Quantum Computing and the Cryptographic Threat"
+    },
+    {
+     "id": 1257,
+     "number": 2,
+     "title": "Where Cryptography Sits in Financial Services"
+    },
+    {
+     "id": 1258,
+     "number": 3,
+     "title": "Cryptographic Inventories and Risk Assessment"
+    },
+    {
+     "id": 1259,
+     "number": 4,
+     "title": "Post-Quantum Standards, Migration and Crypto-Agility"
+    },
+    {
+     "id": 1260,
+     "number": 5,
+     "title": "Third Parties, Payments and Crypto-Assets"
+    },
+    {
+     "id": 1261,
+     "number": 6,
+     "title": "Supervisory Expectations and Quantum Readiness"
+    }
+   ]
+  },
+  {
+   "programme": 298,
+   "module": 1,
+   "title": "Quantum and Cryptographic Resilience for Firms",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1256,
+     "number": 1,
+     "title": "Quantum Computing and the Cryptographic Threat"
+    },
+    {
+     "id": 1262,
+     "number": 2,
+     "title": "Where Cryptography Sits in Your Firm"
+    },
+    {
+     "id": 1263,
+     "number": 3,
+     "title": "Building the Cryptographic Inventory"
+    },
+    {
+     "id": 1264,
+     "number": 4,
+     "title": "Risk Assessment and Prioritisation"
+    },
+    {
+     "id": 1265,
+     "number": 5,
+     "title": "Post-Quantum Standards and Crypto-Agility"
+    },
+    {
+     "id": 1266,
+     "number": 6,
+     "title": "Planning and Running the Migration Programme"
+    },
+    {
+     "id": 1267,
+     "number": 7,
+     "title": "Vendors, Infrastructures and Digital Assets"
+    },
+    {
+     "id": 1268,
+     "number": 8,
+     "title": "Governance, Board Reporting and Supervisory Engagement"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 286,
+   "entryType": "programme",
+   "title": "Operational Resilience and Cyber Risk for Firms",
+   "summary": "A ten-module programme giving firms the tools to identify, map, test and evidence operational resilience and manage ICT, cyber and third-party risk.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "id": 1029,
+ "entryType": "module",
+ "title": "The EU Regulatory Agenda for Funds",
+ "summary": "How the EU sets its financial services agenda and the current initiatives most relevant to funds, from capital markets integration and retail investment to sustainability, digital finance and supervisory convergence.",
+ "clientType": [
+  "firms",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes",
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Funds",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Online"
+ ],
+ "durationValue": 1,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "New joiners & developing staff",
+  "Policy & specialist teams",
+  "Boards & directors",
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "the-eu-regulatory-agenda-for-funds",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "International & Cross-Border Affairs"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How the EU sets its financial services agenda and the current initiatives most relevant to funds, from capital markets integration and retail investment to sustainability, digital finance and supervisory convergence.",
+  "Learning Objectives": [
+   "Explain how the EU regulatory agenda is set and who influences it",
+   "Describe the current EU initiatives most relevant to funds and managers",
+   "Assess the implications of these initiatives for fund products, costs and distribution"
+  ],
+  "Syllabus": [
+   "Drivers of the agenda: international commitments, member states and the EU institutions",
+   "Capital markets integration, retail investment reform and value for money",
+   "Sustainable finance disclosures, digital operational resilience and tokenisation",
+   "Supervisory convergence and the relationship with non-EU fund centres"
+  ],
+  "Intended Audience": [
+   "Staff of fund managers, distributors, depositaries, administrators and other fund service providers working on cross-border business",
+   "Compliance, legal, risk and product professionals who need a reliable map of international and regional fund rules",
+   "Staff of supervisory authorities and policy teams responsible for funds, asset management or international affairs"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with investment funds or asset management is helpful. No legal background or prior knowledge of EU or Asia Pacific regulation is required.",
+  "Core Reading": [
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)",
+   "Directive 2009/65/EC on undertakings for collective investment in transferable securities (UCITS Directive)",
+   "Directive 2011/61/EU on Alternative Investment Fund Managers (AIFMD)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 271,
+   "module": 8,
+   "title": "International Fund Regulation: Global and Regional Briefings",
+   "moduleCount": 10,
+   "durationValue": 10,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 1022,
+     "number": 1,
+     "title": "International Regulatory Standards for Funds"
+    },
+    {
+     "id": 1023,
+     "number": 2,
+     "title": "Cross-Border Fund Regulation: Passports and Recognition"
+    },
+    {
+     "id": 1024,
+     "number": 3,
+     "title": "The Global Regulatory Agenda for Funds"
+    },
+    {
+     "id": 1025,
+     "number": 4,
+     "title": "Introduction to EU Fund Regulation"
+    },
+    {
+     "id": 1026,
+     "number": 5,
+     "title": "The UCITS Framework"
+    },
+    {
+     "id": 1027,
+     "number": 6,
+     "title": "The AIFMD Framework"
+    },
+    {
+     "id": 1028,
+     "number": 7,
+     "title": "MiFID II and MiFIR for Fund Distribution"
+    },
+    {
+     "id": 1029,
+     "number": 8,
+     "title": "The EU Regulatory Agenda for Funds"
+    },
+    {
+     "id": 1030,
+     "number": 9,
+     "title": "Fund Regulation in Asia Pacific"
+    },
+    {
+     "id": 1031,
+     "number": 10,
+     "title": "Fund Distribution and Investing Rules in Asia Pacific"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 262,
+   "entryType": "programme",
+   "title": "Fund Regulation Country Briefings",
+   "summary": "Eleven country webinar briefings on fund vehicles, regulators, authorisation, distribution and recent developments in leading European, offshore and Asia Pacific fund markets.",
+   "level": "Intermediate",
+   "moduleCount": 11,
+   "hours": 11,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

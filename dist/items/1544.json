@@ -1,0 +1,168 @@
+{
+ "id": 1544,
+ "entryType": "module",
+ "title": "Investment Funds and Their Place in the Financial System",
+ "summary": "What an investment fund is, why savers and institutions use funds, and how the size and shape of the global funds industry has changed since the global financial crisis.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters",
+  "Parliamentarians & committee staff",
+  "Public agencies & investment promotion"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "investment-funds-and-their-place-in-the-financial-system",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Policy",
+  "Strategy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What an investment fund is, why savers and institutions use funds, and how the size and shape of the global funds industry has changed since the global financial crisis.",
+  "Learning Objectives": [
+   "Explain how a fund pools money and how it differs from savings and other investment products",
+   "Describe who invests in funds and why",
+   "Summarise the size, growth and cross-border nature of the funds industry"
+  ],
+  "Syllabus": [
+   "Saving versus investing and the basics of shares, bonds and derivatives",
+   "What a fund is and how investors buy and redeem units",
+   "Investor base: households, pension schemes, insurers and institutions",
+   "Industry size, growth, domiciles and cross-border distribution"
+  ],
+  "Intended Audience": [
+   "Officials in finance ministries and treasuries responsible for financial services and capital markets policy",
+   "Policy and financial stability staff in central banks and other public bodies who work on asset management",
+   "Advisers to ministers, parliamentary committees and economic development agencies dealing with the funds sector"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with financial services policy is helpful. No technical background in investment or fund management is required.",
+  "Core Reading": [
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)",
+   "IOSCO, Recommendations for Liquidity Risk Management for Collective Investment Schemes (2018)",
+   "FSB, Global Monitoring Report on Non-Bank Financial Intermediation (annual)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 331,
+   "module": 1,
+   "title": "Understanding Investment Funds for Policymakers",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 1544,
+     "number": 1,
+     "title": "Investment Funds and Their Place in the Financial System"
+    },
+    {
+     "id": 1545,
+     "number": 2,
+     "title": "Fund Types, Structures and Strategies"
+    },
+    {
+     "id": 1546,
+     "number": 3,
+     "title": "How Funds Work: Parties, Operations and Valuation"
+    },
+    {
+     "id": 1547,
+     "number": 4,
+     "title": "How Funds Are Regulated and Supervised"
+    },
+    {
+     "id": 1548,
+     "number": 5,
+     "title": "Liquidity, Redemptions and Fund Suspensions"
+    },
+    {
+     "id": 1549,
+     "number": 6,
+     "title": "Leverage, Interconnectedness and Financial Stability"
+    },
+    {
+     "id": 1550,
+     "number": 7,
+     "title": "Taxation, Competitiveness and the Economics of a Funds Centre"
+    },
+    {
+     "id": 1551,
+     "number": 8,
+     "title": "Shaping Funds Policy: Strategy Reviews and Emerging Issues"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 229,
+   "entryType": "programme",
+   "title": "Developing Capital Markets and Investment Fund Industries",
+   "summary": "An eight-module programme helping policymakers develop deep, well-regulated capital markets and fund industries through credible, well-sequenced reform.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 198,
+   "entryType": "programme",
+   "title": "AI in Financial Services: Policy Choices for Government",
+   "summary": "An eight-module programme helping policymakers understand AI in financial services and make informed choices on regulation, institutional roles and national strategy.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

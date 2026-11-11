@@ -1,0 +1,164 @@
+{
+ "id": 1450,
+ "entryType": "module",
+ "title": "Climate Risk in Plain Terms",
+ "summary": "How climate change creates physical and transition risks for the firm, its clients and the wider financial system, and how firms identify, measure and manage them.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Sustainable finance"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1.5,
+ "durationUnit": "hours",
+ "role": [
+  "All staff"
+ ],
+ "firmType": [],
+ "slug": "climate-risk-in-plain-terms",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Sustainable Finance & ESG",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How climate change creates physical and transition risks for the firm, its clients and the wider financial system, and how firms identify, measure and manage them.",
+  "Learning Objectives": [
+   "Distinguish physical and transition climate risks with examples",
+   "Explain how climate risk translates into credit, market, insurance and operational risk",
+   "Describe scenario analysis and climate targets in plain language"
+  ],
+  "Syllabus": [
+   "Physical risks: acute events and chronic change",
+   "Transition risks: policy, technology, market sentiment and litigation",
+   "How climate risk flows through to clients and the firm's balance sheet",
+   "Scenario analysis, financed emissions and transition plans explained"
+  ],
+  "Intended Audience": [
+   "All staff in regulated firms, including new joiners and colleagues who are new to sustainability topics",
+   "Client-facing, product, marketing, investment, operations and risk staff whose work touches ESG products or claims",
+   "Line managers who need their teams to discuss sustainability accurately with clients"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior knowledge of sustainability or ESG is required. The programme is suitable for new joiners and as annual refresher training.",
+  "Core Reading": [
+   "ISSB (2023), IFRS S2 Climate-related Disclosures",
+   "NGFS (2019), A Call for Action: Climate Change as a Source of Financial Risk",
+   "IOSCO (2023), Supervisory Practices to Address Greenwashing"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 319,
+   "module": 3,
+   "title": "Sustainable Finance Essentials",
+   "moduleCount": 6,
+   "durationValue": 9,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 1448,
+     "number": 1,
+     "title": "ESG and Sustainable Finance: The Basics"
+    },
+    {
+     "id": 1449,
+     "number": 2,
+     "title": "Why Sustainability Matters to Financial Firms"
+    },
+    {
+     "id": 1450,
+     "number": 3,
+     "title": "Climate Risk in Plain Terms"
+    },
+    {
+     "id": 1451,
+     "number": 4,
+     "title": "Sustainability in Products and Client Conversations"
+    },
+    {
+     "id": 1452,
+     "number": 5,
+     "title": "Greenwashing and Fair Communication"
+    },
+    {
+     "id": 1453,
+     "number": 6,
+     "title": "Sustainability in Your Role: Putting It into Practice"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 213,
+   "entryType": "programme",
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 228,
+   "entryType": "programme",
+   "title": "Cyber, Data and Resilience Essentials",
+   "summary": "A six-module foundation programme giving all staff the practical habits to resist cyber attacks, protect data, use AI tools safely and report incidents.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

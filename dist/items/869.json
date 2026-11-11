@@ -1,0 +1,197 @@
+{
+ "id": 869,
+ "entryType": "module",
+ "title": "Crowdfunding and Peer-to-Peer Platforms",
+ "summary": "How lending and investment crowdfunding platforms match investors with borrowers and issuers, where conflicts and credit risk sit, and how supervisors test due diligence and client money arrangements.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology",
+  "regulators": "Cross-Cutting Themes"
+ },
+ "topic": "Data & Technology as Supervisory Infrastructure",
+ "tags": [
+  "AI & technology",
+  "Payments",
+  "Crypto & digital assets"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Authorisation & licensing",
+  "Policy & specialist teams",
+  "Leadership & senior management",
+  "Senior leaders & managers"
+ ],
+ "firmType": [
+  "FinTech & Big Tech",
+  "Payments & E-Money",
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "crowdfunding-and-peer-to-peer-platforms",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How lending and investment crowdfunding platforms match investors with borrowers and issuers, where conflicts and credit risk sit, and how supervisors test due diligence and client money arrangements.",
+  "Learning Objectives": [
+   "Explain platform models for lending, equity and real estate crowdfunding",
+   "Assess project due diligence, risk disclosure and investor protections",
+   "Identify conflicts of interest and platform failure risks for investors"
+  ],
+  "Syllabus": [
+   "Platform roles: introducer, servicer, guarantor or balance-sheet lender",
+   "Credit assessment, provision funds and default reporting",
+   "Investor categorisation, appropriateness and concentration limits",
+   "Back-up servicing and continuity of loan books"
+  ],
+  "Intended Audience": [
+   "Supervisors, authorisation and innovation-hub staff dealing with FinTech applicants and fast-growing digital firms",
+   "Policy, consumer protection and financial crime specialists assessing new business models",
+   "Compliance, risk and legal teams in FinTech firms who want to see their firm the way a supervisor does"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of supervision, authorisation or compliance in financial services is helpful. No technical or financial modelling background is required.",
+  "Core Reading": [
+   "FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)",
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "FSB, The Use of Supervisory and Regulatory Technology by Authorities and Regulated Institutions (2020)",
+   "FATF, Guidance on Digital Identity (2020)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 253,
+   "module": 4,
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 866,
+     "number": 1,
+     "title": "The FinTech Landscape and Unit Economics"
+    },
+    {
+     "id": 867,
+     "number": 2,
+     "title": "Digital Lending and Buy Now, Pay Later"
+    },
+    {
+     "id": 868,
+     "number": 3,
+     "title": "Neobanks, Digital Wallets and Payment Apps"
+    },
+    {
+     "id": 869,
+     "number": 4,
+     "title": "Crowdfunding and Peer-to-Peer Platforms"
+    },
+    {
+     "id": 870,
+     "number": 5,
+     "title": "Robo-Advice and Trading Apps"
+    },
+    {
+     "id": 871,
+     "number": 6,
+     "title": "Insurtech, Crypto On-Ramps and Regtech"
+    },
+    {
+     "id": 872,
+     "number": 7,
+     "title": "Growth, Funding and Partnership-Chain Risk"
+    },
+    {
+     "id": 873,
+     "number": 8,
+     "title": "Consumer Outcomes, Financial Crime and Operational Resilience"
+    },
+    {
+     "id": 874,
+     "number": 9,
+     "title": "Licensing Approaches, Sandboxes and Innovation Hubs"
+    },
+    {
+     "id": 875,
+     "number": 10,
+     "title": "Failure, Wind-Down and Supervisory Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 192,
+   "entryType": "programme",
+   "title": "Agentic AI and Autonomous Finance for Firms",
+   "summary": "An eight-module programme helping firms deploy AI agents that act and transact with sound authority, controls, governance and customer protection.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 196,
+   "entryType": "programme",
+   "title": "AI Governance for Firms",
+   "summary": "A ten-module programme giving compliance, risk, model risk and technology staff the tools to design, run and evidence robust AI governance across the firm.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

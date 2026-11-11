@@ -1,0 +1,118 @@
+{
+ "id": 146,
+ "entryType": "module",
+ "title": "PSD3/PSR: Transition and Supervisory Implications (EU Edition)",
+ "summary": "The aim of this workshop is to build participants' understanding of the key changes introduced by PSD3 and the Payment Services Regulation compared to PSD2, and the practical implications for supervisors managing the transition.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Payment Services",
+ "tags": [
+  "Payments",
+  "EU"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Payments & E-Money"
+ ],
+ "slug": "psd3-psr-transition-and-supervisory-implications",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of the key changes introduced by PSD3 and the Payment Services Regulation compared to PSD2, and the practical implications for supervisors managing the transition.",
+  "Intended Audience": "Junior to mid-level supervisors working in payment services supervision.",
+  "Learning Objectives": [
+   "Explain the key changes introduced by PSD3 and the PSR compared to PSD2",
+   "Describe the rationale behind moving core requirements into a directly applicable Regulation",
+   "Assess the transition timeline and its practical supervisory implications",
+   "Evaluate how existing authorised institutions will be affected by the transition",
+   "Formulate a supervisory transition plan for a sample authority"
+  ],
+  "Syllabus": [
+   "Overview of PSD3 and the accompanying Payment Services Regulation",
+   "Key substantive changes: fraud liability, authentication, open banking enhancements",
+   "Why some requirements move from Directive to Regulation form",
+   "Anticipated impact on payment institutions and e-money issuers",
+   "Facilitated discussion: PSD3/PSR awareness and preparation among participants",
+   "Anticipated transition timeline and key milestones",
+   "Practical supervisory implications of the Directive-to-Regulation shift",
+   "Managing supervisory resource during the transition period",
+   "Coordinating with other national and EU authorities during transition",
+   "Group exercise: map the transition timeline and identify key supervisory action points",
+   "How existing authorised institutions will need to adapt",
+   "Communicating transition expectations to the regulated population",
+   "Case study: planning a supervisory transition programme",
+   "Case study: formulate a supervisory transition plan for a sample authority",
+   "Recap: PSD3/PSR changes, transition timeline, impact on institutions",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Key changes under PSD3/PSR (09:30–10:45)\n- Session 2: Transition timeline and implications (11:00–12:30)\n- Session 3: Impact on existing institutions and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- The shift of core requirements into a directly applicable Regulation is intended to improve consistency across the EU\n- Existing authorised institutions will need active supervisory support to navigate the PSD3/PSR transition smoothly\n- Early transition planning reduces the risk of supervisory bottlenecks as the deadline approaches",
+  "Useful Prior Knowledge and Experience": "Some familiarity with payment services is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 241,
+   "entryType": "programme",
+   "title": "EU Payments Regulation: PSD2, PSD3 and the Payment Services Regulation (EU Edition)",
+   "summary": "An eight-module programme on EU payments regulation for supervisors and firms, covering PSD2 and EMD2 today and the PSD3 and Payment Services Regulation reform package.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 289,
+   "entryType": "programme",
+   "title": "Payment Services Supervision",
+   "summary": "A ten-module programme equipping supervisors to authorise and supervise payment and e-money institutions, from safeguarding and fraud to open banking, instant payments and wind-down.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

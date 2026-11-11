@@ -1,0 +1,176 @@
+{
+ "id": 926,
+ "entryType": "module",
+ "title": "Data Sharing, Governance and Board Reporting",
+ "summary": "Brings the programme together into a fraud governance framework: intelligence and data sharing, collaboration with other firms and law enforcement, management information and board oversight.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "data-sharing-governance-and-board-reporting",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Consumer Protection"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together into a fraud governance framework: intelligence and data sharing, collaboration with other firms and law enforcement, management information and board oversight.",
+  "Learning Objectives": [
+   "Use intelligence and data sharing lawfully and effectively",
+   "Specify fraud management information and key risk indicators for the board",
+   "Produce an action plan to strengthen the firm's fraud framework"
+  ],
+  "Syllabus": [
+   "Data sharing between firms, industry bodies, telecoms, platforms and law enforcement",
+   "Recovering funds, mule account disruption and suspicious activity reporting",
+   "Fraud management information, loss metrics and board reporting",
+   "Workshop: fraud framework gap analysis and action plan"
+  ],
+  "Intended Audience": [
+   "Fraud prevention, fraud operations and investigations teams",
+   "Payments operations, customer service and complaints staff who handle suspected fraud cases",
+   "Compliance, financial crime and risk staff, and managers accountable for fraud outcomes"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of fraud, payments operations or financial crime compliance is helpful. No technical background in data analytics is required.",
+  "Core Reading": [
+   "FATF, Guidance on Digital Identity (2020)",
+   "FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)",
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "CPMI, Fast Payments: Enhancing the Speed and Availability of Retail Payments (2016)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 259,
+   "module": 8,
+   "title": "Fraud and Scams: Prevention, Detection and Response",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 919,
+     "number": 1,
+     "title": "The Fraud and Scams Landscape"
+    },
+    {
+     "id": 920,
+     "number": 2,
+     "title": "Authorised Push Payment and Investment Scams"
+    },
+    {
+     "id": 921,
+     "number": 3,
+     "title": "Account Takeover, Synthetic Identity and Deepfakes"
+    },
+    {
+     "id": 922,
+     "number": 4,
+     "title": "Insider Fraud and First-Party Fraud"
+    },
+    {
+     "id": 923,
+     "number": 5,
+     "title": "Fraud Risk Assessment and Control Design"
+    },
+    {
+     "id": 924,
+     "number": 6,
+     "title": "Transaction Monitoring and Behavioural Analytics"
+    },
+    {
+     "id": 925,
+     "number": 7,
+     "title": "Customer Warnings, Vulnerability, Reimbursement and Redress"
+    },
+    {
+     "id": 926,
+     "number": 8,
+     "title": "Data Sharing, Governance and Board Reporting"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 224,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Tracing and Controls for Compliance Teams",
+   "summary": "A nine-module programme equipping compliance teams to detect crypto-asset financial crime, use blockchain analytics, meet travel rule and sanctions obligations, and investigate and report suspicion.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 243,
+   "entryType": "programme",
+   "title": "Financial Crime Compliance in the Age of AI",
+   "summary": "A ten-module programme for MLROs and financial crime teams on the risk-based approach, AI-driven detection, AI-enabled threats and evidencing effectiveness to supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 283,
+   "entryType": "programme",
+   "title": "MLRO and Financial Crime Leadership",
+   "summary": "An eight-module programme giving MLROs and deputies the tools to lead the firm's financial crime framework, report to the board and handle supervisory inspections.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

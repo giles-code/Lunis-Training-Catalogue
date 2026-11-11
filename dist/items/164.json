@@ -1,0 +1,115 @@
+{
+ "id": 164,
+ "entryType": "module",
+ "title": "Setting Supervisory Tolerance and Strategy for Cyber Risk",
+ "summary": "The aim of this workshop is to build participants' skills in establishing a supervisory tolerance for cyber-related harm and prioritising supervisory resource allocation across the regulated population.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Cybersecurity & Operational Resilience",
+ "tags": [
+  "Operational resilience & cyber"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "setting-supervisory-tolerance-and-strategy-for-cyber-risk",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in establishing a supervisory tolerance for cyber-related harm and prioritising supervisory resource allocation across the regulated population.",
+  "Intended Audience": "Mid-level supervisory staff building capability in cyber and operational resilience supervision.",
+  "Learning Objectives": [
+   "Explain the concept of supervisory risk tolerance as applied to cyber risk",
+   "Describe approaches to prioritising cyber supervisory resource across a population",
+   "Assess proportionality considerations in cyber risk supervision",
+   "Evaluate a sample cyber supervisory strategy",
+   "Formulate a cyber risk tolerance statement for a supervisory authority"
+  ],
+  "Syllabus": [
+   "Why cyber risk requires an explicit tolerance statement",
+   "Balancing zero-tolerance aspirations against operational reality",
+   "Aligning cyber risk tolerance with the authority's overall risk appetite",
+   "International approaches to setting cyber risk tolerance",
+   "Facilitated discussion: how participants' own authorities currently approach cyber risk tolerance",
+   "Approaches to prioritising cyber supervisory resource by firm risk tier",
+   "Proportionality: applying more intensive scrutiny where systemic importance is higher",
+   "Balancing thematic reviews against firm-specific deep dives",
+   "Resourcing constraints specific to cyber expertise",
+   "Group exercise: design a cyber resource prioritisation approach for a sample regulated population",
+   "Criteria for evaluating a cyber supervisory strategy",
+   "Case study: a sample cyber supervisory strategy",
+   "Case study: formulate a cyber risk tolerance statement for a supervisory authority",
+   "Recap: risk tolerance, resource prioritisation, proportionality",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Supervisory tolerance for cyber risk (09:30–10:45)\n- Session 2: Prioritising resource across the population (11:00–12:30)\n- Session 3: Strategy evaluation and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- An explicit cyber risk tolerance statement gives supervisory resourcing decisions a clear anchor\n- Proportionate cyber supervision concentrates the most intensive scrutiny on the most systemically important firms\n- Cyber expertise is scarce, making resource prioritisation decisions especially consequential",
+  "Useful Prior Knowledge and Experience": "Some familiarity with cybersecurity & operational resilience is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 234,
+   "entryType": "programme",
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "summary": "An eight-module programme on DORA for supervisors and financial entities: ICT risk management, incident reporting, resilience testing and TLPT, ICT third-party risk and critical provider oversight.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 287,
+   "entryType": "programme",
+   "title": "Operational Resilience, Cyber and Critical Third Parties",
+   "summary": "A ten-module programme equipping supervisors to assess firms' operational resilience, cyber risk, incident response and third-party dependencies, and to shape the authority's resilience strategy.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "id": 581,
+ "entryType": "module",
+ "title": "MoUs and Information Sharing",
+ "summary": "How information-sharing gateways and memoranda of understanding work, what a good MoU contains, and how to make and respond to cooperation requests effectively.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Cross-Cutting Themes"
+ },
+ "topic": "Cross-Border & Group Supervision",
+ "tags": [
+  "Cross-border & groups"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams",
+  "Supervisors & inspectors",
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "mous-and-information-sharing",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "International & Cross-Border Affairs",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How information-sharing gateways and memoranda of understanding work, what a good MoU contains, and how to make and respond to cooperation requests effectively.",
+  "Learning Objectives": [
+   "Explain information-sharing gateways and confidentiality constraints",
+   "Assess whether an MoU is fit for purpose",
+   "Prepare and respond to cross-border information requests"
+  ],
+  "Syllabus": [
+   "Bilateral and multilateral MoUs, including the IOSCO MMoU",
+   "Confidentiality, data protection and onward-sharing limits",
+   "Making a clear, proportionate cooperation request",
+   "Exercise: reviewing a sample MoU for strengths and gaps"
+  ],
+  "Intended Audience": [
+   "Supervisors responsible for cross-border groups, branches, subsidiaries or third-country firms",
+   "International affairs, legal and cooperation staff managing MoUs and information requests",
+   "Senior supervisors and managers who represent the authority in colleges and crisis management groups"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of prudential or conduct supervision is helpful. No prior involvement in colleges or international cooperation is required.",
+  "Core Reading": [
+   "Basel Committee, Principles for Effective Supervisory Colleges (2014)",
+   "IOSCO, Multilateral Memorandum of Understanding (MMoU) and Enhanced MMoU (2016)",
+   "FSB, Key Attributes of Effective Resolution Regimes for Financial Institutions (2014)",
+   "IAIS, Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups (ComFrame)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 220,
+   "module": 4,
+   "title": "Cross-Border and Group Supervision",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 578,
+     "number": 1,
+     "title": "Foundations of Home and Host Supervision"
+    },
+    {
+     "id": 579,
+     "number": 2,
+     "title": "Consolidated and Group-Wide Supervision"
+    },
+    {
+     "id": 580,
+     "number": 3,
+     "title": "Intra-Group Exposures, Contagion and Complex Structures"
+    },
+    {
+     "id": 581,
+     "number": 4,
+     "title": "MoUs and Information Sharing"
+    },
+    {
+     "id": 582,
+     "number": 5,
+     "title": "Supervisory Colleges: Joint Risk Assessment and Decisions"
+    },
+    {
+     "id": 583,
+     "number": 6,
+     "title": "Branches, Subsidiaries and Third-Country Firms"
+    },
+    {
+     "id": 584,
+     "number": 7,
+     "title": "Cross-Border Crisis Cooperation and Resolution"
+    },
+    {
+     "id": 585,
+     "number": 8,
+     "title": "Making Cross-Border Cooperation Work"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 212,
+   "entryType": "programme",
+   "title": "Conduct, Culture and Behavioural Supervision",
+   "summary": "An eight-module programme on assessing conduct risk and culture in firms, using behavioural insights, data and targeted supervisory interventions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 216,
+   "entryType": "programme",
+   "title": "Consumer Protection and Financial Inclusion",
+   "summary": "A ten-module programme equipping supervisors to assess product governance, fair value, disclosure, vulnerable customer treatment, complaints and financial inclusion.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

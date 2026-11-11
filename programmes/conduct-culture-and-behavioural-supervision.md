@@ -1,29 +1,21 @@
 ---
-id: "conduct-culture-and-behavioural-supervision"
-slug: "conduct-culture-and-behavioural-supervision"
+id: 212
+entryType: "programme"
 title: "Conduct, Culture and Behavioural Supervision"
 summary: "An eight-module programme on assessing conduct risk and culture in firms, using behavioural insights, data and targeted supervisory interventions."
 intro: "This training programme equips supervisors to assess conduct risk and culture in regulated firms, using behavioural insights, data and targeted interventions to identify the drivers of poor customer outcomes and misconduct."
-format: "Programme"
-audience: ["Financial Supervisors"]
-firmType: ["All firm types"]
-role: ["Enforcement & investigations", "Supervisors & inspectors"]
-topics: ["Consumer protection & conduct"]
-pillar: "Cross-Cutting Themes"
-track: "X3. Consumer Protection & Financial Inclusion"
-edition: "International"
+clientType: ["regulators"]
+pillar: {"regulators": "Cross-Cutting Themes"}
+topic: "Consumer Protection & Financial Inclusion"
+tags: ["Consumer protection & conduct"]
 level: "Intermediate"
-moduleCount: 8
 hoursPerModule: 3.0
+deliveryFormat: ["Hybrid", "In-person", "Online"]
 durationValue: 24.0
 durationUnit: "hours"
-deliveryFormat: ["Hybrid", "In-person", "Online"]
-clientType: ["Regulatory Authority"]
-businessFunction: ["Conduct & Culture / HR", "Consumer Protection"]
-delivered: false
-bookingMode: "enquiry"
-brochure: "Conduct_Culture_and_Behavioural_Supervision.docx"
 active: true
+role: ["Enforcement & investigations", "Supervisors & inspectors"]
+businessFunction: ["Conduct & Culture / HR", "Consumer Protection"]
 lastUpdated: "2026-10-23"
 ---
 
@@ -31,7 +23,9 @@ lastUpdated: "2026-10-23"
 
 To give supervisors a practical grounding in how consumer behaviour, firm culture and incentives drive conduct outcomes, and how to supervise them. Participants leave able to assess culture and the governance of conduct, challenge product governance and sales practices, use behavioural and data tools, and choose effective supervisory interventions.
 
-**Coverage:** Behavioural economics in consumer markets, assessing culture and the governance of conduct, incentives and remuneration, product governance and fair value, sales practices and distribution, data and behavioural supervision tools, misconduct and individual accountability, and supervisory interventions.
+## What It Covers
+
+Behavioural economics in consumer markets, assessing culture and the governance of conduct, incentives and remuneration, product governance and fair value, sales practices and distribution, data and behavioural supervision tools, misconduct and individual accountability, and supervisory interventions.
 
 ## Intended Audience
 
@@ -41,152 +35,12 @@ To give supervisors a practical grounding in how consumer behaviour, firm cultur
 
 ## Learning Objectives
 
-By the end of the programme, participants will be able to:
-
 - Explain how behavioural biases in consumers and firms shape conduct outcomes
 - Assess a firm's culture and the governance and accountability arrangements for conduct
 - Evaluate incentives, product governance and sales practices for conduct risk
 - Apply data and behavioural tools to identify poor outcomes and emerging harm
 - Identify indicators of misconduct and test individual accountability
 - Select and design proportionate supervisory interventions that change behaviour
-
-## Syllabus
-
-### Module 1: Behavioural Economics in Consumer Markets
-
-How consumers actually make financial decisions, the biases firms can exploit or mitigate, and why behavioural insights change how supervisors define and detect conduct risk.
-
-**Objectives**
-
-- Explain the main behavioural biases affecting consumer financial decisions
-- Identify how product design and presentation can exploit those biases
-- Assess the implications of behavioural insights for conduct supervision
-
-**Syllabus**
-
-- Limited attention, present bias, inertia and overconfidence
-- Choice architecture, defaults, framing and sludge
-- Where behavioural harm arises: complex products, pricing and add-ons
-- From disclosure-based to outcomes-focused supervision
-
-### Module 2: Assessing Culture and the Governance of Conduct
-
-How supervisors assess firm culture through its drivers and observable behaviours, and how boards and senior managers govern conduct risk and are held accountable for it.
-
-**Objectives**
-
-- Explain the drivers of culture and why supervisors assess them
-- Assess board oversight, management information and accountability for conduct
-- Gather and triangulate evidence on culture from multiple sources
-
-**Syllabus**
-
-- Drivers of culture: purpose, leadership, people, governance and incentives
-- Board oversight of conduct and senior manager accountability regimes
-- Evidence of culture: interviews, focus groups, surveys and documents
-- Red flags: tone at the top versus behaviour in the middle
-
-### Module 3: Incentives, Remuneration and Performance Management
-
-How sales targets, remuneration and performance management shape behaviour, and how supervisors assess whether incentive schemes encourage poor outcomes or misconduct.
-
-**Objectives**
-
-- Explain how incentives drive front-line and management behaviour
-- Evaluate the design and controls of incentive and remuneration schemes
-- Identify incentive structures linked to poor outcomes and mis-selling
-
-**Syllabus**
-
-- Variable pay, sales targets and balanced scorecards
-- Non-financial incentives: promotion, recognition and pressure
-- Controls: deferral, malus, clawback and quality gateways
-- Case studies: incentive-driven mis-selling
-
-### Module 4: Product Governance and Fair Value
-
-How to assess firms' product design, target market definition, testing, fair value assessments and post-sale review across the product lifecycle.
-
-**Objectives**
-
-- Assess product approval, target market and distribution strategy
-- Apply a fair value framework to a financial product
-- Evaluate post-sale monitoring and product review
-
-**Syllabus**
-
-- The product lifecycle: design, approval, distribution and review
-- Target market definition and consumer testing
-- Fair value: price, quality, cross-subsidy and outcomes
-- Post-sale monitoring and product withdrawal or remediation
-
-### Module 5: Sales Practices and Distribution
-
-How products reach consumers through advice, non-advised, digital and intermediary channels, and how supervisors identify pressure selling, mis-selling and poor treatment of vulnerable customers.
-
-**Objectives**
-
-- Identify conduct risks across advised, non-advised and digital channels
-- Assess sales processes, scripts and digital journeys for harmful practices
-- Evaluate the treatment of vulnerable customers in sales and servicing
-
-**Syllabus**
-
-- Distribution models and the role of intermediaries
-- Pressure selling, bundling, cross-selling and dark patterns
-- Mystery shopping and testing digital customer journeys
-- Vulnerable customers in sales and servicing
-
-### Module 6: Data and Behavioural Supervision Tools
-
-How supervisors use firm data, complaints, market intelligence and behavioural methods to detect poor outcomes early and target supervisory attention.
-
-**Objectives**
-
-- Identify data sources that indicate poor customer outcomes
-- Apply analytical and behavioural tools to detect emerging harm
-- Assess firms' own conduct management information and outcome testing
-
-**Syllabus**
-
-- Outcome indicators: complaints, cancellations, persistency and arrears
-- Market intelligence, whistleblowing and consumer research
-- Behavioural methods: experiments, surveys and journey analysis
-- Testing firms' conduct dashboards and outcome monitoring
-
-### Module 7: Misconduct, Speaking Up and Individual Accountability
-
-How misconduct arises and spreads, how firms detect and respond to it, and how supervisors test speak-up arrangements, conduct rules and the accountability of individuals.
-
-**Objectives**
-
-- Explain how misconduct arises, normalises and spreads within firms
-- Assess speak-up, whistleblowing and conduct breach arrangements
-- Evaluate how firms hold individuals to account for misconduct
-
-**Syllabus**
-
-- Rationalisation, normalisation and the bystander effect
-- Speak-up and whistleblowing arrangements and their effectiveness
-- Conduct breaches, disciplinary action and references
-- Linking misconduct findings to fitness and propriety
-
-### Module 8: Supervisory Interventions and Capstone Workshop
-
-Brings the programme together by examining the interventions that change firm behaviour, from dialogue and thematic work to redress and enforcement referral, applied in an integrated case study.
-
-**Objectives**
-
-- Select interventions proportionate to the conduct and culture issues identified
-- Design interventions that address root causes rather than symptoms
-- Evaluate whether interventions have changed behaviour and outcomes
-
-**Syllabus**
-
-- The intervention toolkit: dialogue, thematic reviews, remediation and redress
-- Using behavioural insights to design supervisory communications
-- Measuring the impact of supervisory interventions
-- Workshop: a culture and conduct case study and intervention plan
 
 ## Structure and Format
 

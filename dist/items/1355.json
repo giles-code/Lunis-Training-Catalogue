@@ -1,0 +1,174 @@
+{
+ "id": 1355,
+ "entryType": "module",
+ "title": "Challenging the Business Plan and Its Assumptions",
+ "summary": "How boards test the business plan as a supervisor would, from the competitive environment to financial projections, and recognise the patterns behind failed strategies.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "challenging-the-business-plan-and-its-assumptions",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Strategy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How boards test the business plan as a supervisor would, from the competitive environment to financial projections, and recognise the patterns behind failed strategies.",
+  "Learning Objectives": [
+   "Analyse the firm's macro and competitive environment and its position within it",
+   "Challenge financial projections, growth assumptions and execution risk",
+   "Recognise why strategies fail and identify key vulnerabilities"
+  ],
+  "Syllabus": [
+   "Environmental and competitive analysis: suppliers, buyers, entrants and substitutes",
+   "Testing projections: growth, margins, costs and sensitivities",
+   "Execution risk, management capacity and change load",
+   "Case study: comparing two contrasting business strategies"
+  ],
+  "Intended Audience": [
+   "Chairs, non-executive and independent directors and members of board risk and audit committees",
+   "Chief executives, finance and risk directors and senior managers accountable for strategy and planning",
+   "Company secretaries, strategy and planning teams supporting the board"
+  ],
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No specialist background in finance or risk modelling is required.",
+  "Core Reading": [
+   "FSB, Principles for an Effective Risk Appetite Framework (2013)",
+   "Basel Committee, Stress Testing Principles (2018)",
+   "Basel Committee, Corporate Governance Principles for Banks (2015)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 309,
+   "module": 2,
+   "title": "Strategy, Risk Appetite and Business Model Oversight for Boards",
+   "moduleCount": 8,
+   "durationValue": 16,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 1354,
+     "number": 1,
+     "title": "Seeing Your Firm the Way a Supervisor Does"
+    },
+    {
+     "id": 1355,
+     "number": 2,
+     "title": "Challenging the Business Plan and Its Assumptions"
+    },
+    {
+     "id": 1356,
+     "number": 3,
+     "title": "Financial Resilience and Key Risk Indicators"
+    },
+    {
+     "id": 1357,
+     "number": 4,
+     "title": "Risk Appetite Statements and Limits"
+    },
+    {
+     "id": 1358,
+     "number": 5,
+     "title": "Stress Testing and Reverse Stress Testing"
+    },
+    {
+     "id": 1359,
+     "number": 6,
+     "title": "Recovery and Wind-Down Planning"
+    },
+    {
+     "id": 1360,
+     "number": 7,
+     "title": "Major Decisions: M&A, Outsourcing and Shareholder Influence"
+    },
+    {
+     "id": 1361,
+     "number": 8,
+     "title": "Monitoring Delivery and Board Action Plan"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 236,
+   "entryType": "programme",
+   "title": "Effective Governance for Boards and Directors",
+   "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+   "level": "Board level",
+   "moduleCount": 12,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

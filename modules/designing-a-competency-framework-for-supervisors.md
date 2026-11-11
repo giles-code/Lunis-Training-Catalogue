@@ -1,0 +1,85 @@
+---
+id: 55
+entryType: "module"
+title: "Designing a Competency Framework for Supervisors"
+summary: "The aim of this workshop is to build participants' skills in designing a structured competency framework and certification pathway for supervisory staff, drawing on established supervisory certification models (mandatory core curriculum plus…"
+clientType: ["regulators"]
+pillar: {"regulators": "Regulatory Functions"}
+topic: "Capability & Capacity Building"
+tags: ["Supervisory practice & skills"]
+deliveryFormat: ["In-person"]
+durationValue: 3.5
+durationUnit: "hours"
+active: true
+role: ["Leadership & senior management", "New joiners & developing staff"]
+businessFunction: ["Capability & Capacity Building"]
+contentGaps: ["deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation", "intendedAudience: generic per-track guidance, not individually sourced", "priorKnowledge: inferred from course title/track, not stated in source", "level: not yet set"]
+---
+
+## Aim and Purpose
+
+The aim of this workshop is to build participants' skills in designing a structured competency framework and certification pathway for supervisory staff, drawing on established supervisory certification models (mandatory core curriculum plus specialist electives, with a minimum-experience threshold).
+
+## Intended Audience
+
+Managers and learning & development leads responsible for building supervisory capability within the authority.
+
+## Learning Objectives
+
+- Explain the purpose of a competency framework for supervisory staff
+- Describe the mandatory-foundation-plus-electives model used by leading providers
+- Apply competency mapping techniques to a supervisory role
+- Assess experience-threshold and certification design choices
+- Formulate a draft competency framework for a sample supervisory function
+
+## Syllabus
+
+**Session 1: The purpose of a competency framework (09:30–10:45)**
+*Objective: Explain the purpose of competency frameworks*
+- Why a competency framework benefits both staff and the authority
+- Linking competencies to career pathways and progression
+- International models: foundation-plus-electives certification with a minimum-experience threshold
+- Competency frameworks as a recruitment and retention tool
+Activities:
+- Facilitated discussion: competency framework models participants have encountered
+
+**Session 2: Competency mapping (11:00–12:30)**
+*Objective: Apply competency mapping techniques*
+- Mapping competencies against supervisory role requirements
+- Distinguishing foundational from specialist competencies
+- Techniques for validating a competency map with practitioners
+- Common pitfalls in competency framework design
+Activities:
+- Group exercise: map competencies for a sample supervisory role
+
+**Session 3: Certification design and application (13:30–14:45)**
+*Objective: Assess certification design choices and formulate a framework*
+- Design choices: experience thresholds, assessment methods, renewal requirements
+- Balancing rigour against accessibility
+- Case study: designing a certification pathway for a sample function
+Activities:
+- Case study: draft a competency framework and certification pathway for a sample supervisory function
+
+**Session 4: Wrap-up and key takeaways (14:45–15:00)**
+*Objective: Consolidate learning*
+- Recap: purpose, mapping, certification design
+Activities:
+- Reflection and discussion
+- Q&A
+
+## Structure and Format
+
+Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:
+- Session 1: The purpose of a competency framework (09:30–10:45)
+- Session 2: Competency mapping (11:00–12:30)
+- Session 3: Certification design and application (13:30–14:45)
+- Session 4: Wrap-up and key takeaways (14:45–15:00)
+
+**Key Takeaways**
+- A well-designed competency framework benefits both individual career development and organisational capability
+- The mandatory-foundation-plus-electives model balances common baseline standards with specialist depth
+- Competency frameworks work best when built with practitioner input, not designed in isolation
+
+## Useful Prior Knowledge and Experience
+
+Some familiarity with capability & capacity building is helpful but not essential.

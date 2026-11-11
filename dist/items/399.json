@@ -1,0 +1,165 @@
+{
+ "id": 399,
+ "entryType": "module",
+ "title": "Real Assets: Real Estate and Infrastructure",
+ "summary": "How real estate and infrastructure funds generate income and growth, how these assets are valued, and why liquidity and leverage need close board attention.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "real-assets-real-estate-and-infrastructure",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How real estate and infrastructure funds generate income and growth, how these assets are valued, and why liquidity and leverage need close board attention.",
+  "Learning Objectives": [
+   "Explain core, value-add and opportunistic real estate and infrastructure strategies",
+   "Assess appraisal-based valuation, valuation lag and independent valuers",
+   "Challenge the fit between illiquid real assets and dealing terms"
+  ],
+  "Syllabus": [
+   "Real estate strategies, sectors and income versus capital growth",
+   "Infrastructure: regulated, contracted and merchant revenue models",
+   "Appraisals, valuation lag and the role of independent valuers",
+   "Leverage, refinancing risk and open-ended property fund suspensions"
+  ],
+  "Intended Audience": [
+   "Independent and non-executive directors of alternative investment funds and their management companies",
+   "Directors of traditional funds whose portfolios increasingly include alternative assets or strategies",
+   "Fund professionals preparing for board roles, and governance staff supporting alternative fund boards"
+  ],
+  "Useful Prior Knowledge and Experience": "Familiarity with investment funds and traditional asset classes is helpful. No prior experience of alternative investments is required.",
+  "Core Reading": [
+   "IOSCO, Thematic Analysis: Emerging Risks in Private Finance (2023)",
+   "IOSCO, Principles for the Valuation of Collective Investment Schemes (2013)",
+   "FSB, Global Monitoring Report on Non-Bank Financial Intermediation (annual)",
+   "FSB, The Financial Stability Implications of Tokenisation (2024)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 199,
+   "module": 5,
+   "title": "Alternative Investments for Fund Directors",
+   "moduleCount": 8,
+   "durationValue": 16,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 395,
+     "number": 1,
+     "title": "The Alternative Investments Landscape"
+    },
+    {
+     "id": 396,
+     "number": 2,
+     "title": "Hedge Fund Strategies"
+    },
+    {
+     "id": 397,
+     "number": 3,
+     "title": "Private Equity and Venture Capital"
+    },
+    {
+     "id": 398,
+     "number": 4,
+     "title": "Private Credit"
+    },
+    {
+     "id": 399,
+     "number": 5,
+     "title": "Real Assets: Real Estate and Infrastructure"
+    },
+    {
+     "id": 400,
+     "number": 6,
+     "title": "Commodities and Structured Products"
+    },
+    {
+     "id": 401,
+     "number": 7,
+     "title": "Digital Assets and Tokenised Funds"
+    },
+    {
+     "id": 402,
+     "number": 8,
+     "title": "Workshop: The Board's Questions on Alternatives"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 207,
+   "entryType": "programme",
+   "title": "Board Oversight of Fund Operations and Service Providers",
+   "summary": "A ten-module programme giving fund directors the tools to oversee fund operations and service providers, from NAV production and custody to errors and resilience.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 260,
+   "entryType": "programme",
+   "title": "Fund Board Governance Toolkit: A Risk-Based Oversight Workshop",
+   "summary": "A six-module practical workshop giving fund directors a risk-based governance toolkit, from skills matrices to escalation triggers, and a draft oversight plan for their own board.",
+   "level": "Board level",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 274,
+   "entryType": "programme",
+   "title": "Investment Fund Governance for Directors",
+   "summary": "A ten-module programme giving fund directors the tools to oversee delegates, manage conflicts, protect investors and evidence effective governance to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  }
+ ]
+}

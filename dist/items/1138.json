@@ -1,0 +1,174 @@
+{
+ "id": 1138,
+ "entryType": "module",
+ "title": "The Policy Framework and Customer Due Diligence Oversight",
+ "summary": "Setting policies and procedures that implement the risk assessment, and overseeing customer due diligence and enhanced due diligence across the business.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "the-policy-framework-and-customer-due-diligence-oversight",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Setting policies and procedures that implement the risk assessment, and overseeing customer due diligence and enhanced due diligence across the business.",
+  "Learning Objectives": [
+   "Design a financial crime policy framework aligned with the risk assessment",
+   "Evaluate the quality of customer due diligence and enhanced due diligence",
+   "Assess higher-risk relationships including politically exposed persons and complex structures"
+  ],
+  "Syllabus": [
+   "Policies, procedures and the customer risk rating model",
+   "Beneficial ownership and complex structures",
+   "Enhanced due diligence, politically exposed persons and high-risk jurisdictions",
+   "Reliance, outsourcing and introduced business"
+  ],
+  "Intended Audience": [
+   "Money laundering reporting officers, nominated officers and their deputies",
+   "Heads of financial crime, sanctions and anti-money laundering compliance",
+   "Senior financial crime staff preparing to step into the MLRO role"
+  ],
+  "Useful Prior Knowledge and Experience": "Experience of anti-money laundering or financial crime compliance in a regulated firm is expected. Prior MLRO experience is helpful, not mandatory.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "FATF, Guidance on Risk-Based Supervision (2021)",
+   "FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 283,
+   "module": 3,
+   "title": "MLRO and Financial Crime Leadership",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 1136,
+     "number": 1,
+     "title": "The MLRO Role and Accountability"
+    },
+    {
+     "id": 1137,
+     "number": 2,
+     "title": "The Business-Wide Risk Assessment"
+    },
+    {
+     "id": 1138,
+     "number": 3,
+     "title": "The Policy Framework and Customer Due Diligence Oversight"
+    },
+    {
+     "id": 1139,
+     "number": 4,
+     "title": "Monitoring, Assurance and Sanctions"
+    },
+    {
+     "id": 1140,
+     "number": 5,
+     "title": "Reporting Suspicion and Working with the FIU"
+    },
+    {
+     "id": 1141,
+     "number": 6,
+     "title": "MLRO Reporting to the Board"
+    },
+    {
+     "id": 1142,
+     "number": 7,
+     "title": "Supervisory Inspections and Remediation"
+    },
+    {
+     "id": 1143,
+     "number": 8,
+     "title": "Personal Liability and Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 224,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Tracing and Controls for Compliance Teams",
+   "summary": "A nine-module programme equipping compliance teams to detect crypto-asset financial crime, use blockchain analytics, meet travel rule and sanctions obligations, and investigate and report suspicion.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 243,
+   "entryType": "programme",
+   "title": "Financial Crime Compliance in the Age of AI",
+   "summary": "A ten-module programme for MLROs and financial crime teams on the risk-based approach, AI-driven detection, AI-enabled threats and evidencing effectiveness to supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 259,
+   "entryType": "programme",
+   "title": "Fraud and Scams: Prevention, Detection and Response",
+   "summary": "An eight-module practitioner programme on preventing, detecting and responding to fraud and scams, from authorised push payment scams and deepfakes to reimbursement and board reporting.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

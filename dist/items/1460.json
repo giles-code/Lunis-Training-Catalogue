@@ -1,0 +1,166 @@
+{
+ "id": 1460,
+ "entryType": "module",
+ "title": "Greenwashing, Investor Protection and Market Integrity",
+ "summary": "How greenwashing arises in products, labels and corporate claims, and the legislative, regulatory and enforcement tools available to protect investors and market credibility.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Sustainable finance"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters",
+  "Public agencies & investment promotion"
+ ],
+ "firmType": [],
+ "slug": "greenwashing-investor-protection-and-market-integrity",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Sustainable Finance & ESG",
+  "Policy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How greenwashing arises in products, labels and corporate claims, and the legislative, regulatory and enforcement tools available to protect investors and market credibility.",
+  "Learning Objectives": [
+   "Identify common forms of greenwashing in financial products and claims",
+   "Evaluate fund labelling, naming and marketing rules",
+   "Assess the role of ESG ratings and data providers"
+  ],
+  "Syllabus": [
+   "Greenwashing typologies and enforcement case studies",
+   "Sustainable fund labels, naming and marketing standards",
+   "ESG ratings and data providers: IOSCO recommendations",
+   "Coordinating consumer, securities and competition authorities"
+  ],
+  "Intended Audience": [
+   "Officials in finance, environment and climate ministries developing sustainable finance and green growth policy",
+   "Debt management office staff and public agencies involved in green bond issuance and climate finance",
+   "Legislative drafters, legal advisers and parliamentary committee staff working on sustainability disclosure or climate legislation"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with financial services, climate or economic policy is helpful. No technical background in sustainability reporting or climate science is required.",
+  "Core Reading": [
+   "ISSB (2023), IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information and IFRS S2 Climate-related Disclosures",
+   "G20 Sustainable Finance Working Group (2021), G20 Sustainable Finance Roadmap",
+   "FSB (2021), FSB Roadmap for Addressing Climate-Related Financial Risks",
+   "NGFS (2019), A Call for Action: Climate Change as a Source of Financial Risk",
+   "IOSCO (2021), Environmental, Social and Governance (ESG) Ratings and Data Products Providers: Final Report"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 320,
+   "module": 7,
+   "title": "Sustainable Finance Policy and Green Capital Markets",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1454,
+     "number": 1,
+     "title": "The Policy Case for Sustainable Finance"
+    },
+    {
+     "id": 1455,
+     "number": 2,
+     "title": "Climate Risk and the Financial System"
+    },
+    {
+     "id": 1456,
+     "number": 3,
+     "title": "Sustainable Finance Taxonomies"
+    },
+    {
+     "id": 1457,
+     "number": 4,
+     "title": "Sustainability Disclosure and the ISSB Standards"
+    },
+    {
+     "id": 1458,
+     "number": 5,
+     "title": "Green Bonds and Sovereign Sustainable Issuance"
+    },
+    {
+     "id": 1459,
+     "number": 6,
+     "title": "Transition Finance and Transition Plans"
+    },
+    {
+     "id": 1460,
+     "number": 7,
+     "title": "Greenwashing, Investor Protection and Market Integrity"
+    },
+    {
+     "id": 1461,
+     "number": 8,
+     "title": "Mobilising Private Capital and National Roadmaps"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 198,
+   "entryType": "programme",
+   "title": "AI in Financial Services: Policy Choices for Government",
+   "summary": "An eight-module programme helping policymakers understand AI in financial services and make informed choices on regulation, institutional roles and national strategy.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 229,
+   "entryType": "programme",
+   "title": "Developing Capital Markets and Investment Fund Industries",
+   "summary": "An eight-module programme helping policymakers develop deep, well-regulated capital markets and fund industries through credible, well-sequenced reform.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

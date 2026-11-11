@@ -1,0 +1,185 @@
+{
+ "id": 601,
+ "entryType": "module",
+ "title": "Digital Finance Strategy and the Regulatory Outlook",
+ "summary": "Brings the programme together to examine how tokenisation, stablecoins and DeFi are reshaping markets and regulation, and how firms can position themselves to grow while meeting rising expectations.",
+ "clientType": [
+  "firms",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "Crypto & digital assets"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 4,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders",
+  "All staff"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "digital-finance-strategy-and-the-regulatory-outlook",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together to examine how tokenisation, stablecoins and DeFi are reshaping markets and regulation, and how firms can position themselves to grow while meeting rising expectations.",
+  "Learning Objectives": [
+   "Explain the trends shaping the future of digital finance",
+   "Compare regulatory approaches and international standards across jurisdictions",
+   "Evaluate strategic options, licensing choices and readiness for regulatory change"
+  ],
+  "Syllabus": [
+   "Comprehensive crypto-asset regimes, convergence and divergence across jurisdictions",
+   "International standards: FSB, IOSCO, FATF and the Basel Committee",
+   "Institutional adoption, stablecoins in payments and tokenised infrastructure",
+   "Workshop: a growth and regulatory readiness plan for a crypto-asset business"
+  ],
+  "Intended Audience": [
+   "Founders, senior managers and staff of crypto-asset service providers, issuers and fintech firms, and of banks, asset managers and payment firms entering digital assets",
+   "Compliance, risk, MLRO, legal, operations and product professionals working on digital asset activities",
+   "Consultants, lawyers, auditors, investors and other advisers who support crypto-asset businesses"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of financial services, compliance, risk or advisory work is helpful. No technical background in blockchain or crypto-assets is required.",
+  "Core Reading": [
+   "FSB, High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-Asset Activities and Markets (2023)",
+   "IOSCO, Policy Recommendations for Crypto and Digital Asset Markets (2023)",
+   "FATF, Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (2021)",
+   "Basel Committee, Prudential Treatment of Cryptoasset Exposures (2022)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 222,
+   "module": 10,
+   "title": "Crypto and Blockchain Fundamentals for Industry",
+   "moduleCount": 10,
+   "durationValue": 40,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 586,
+     "number": 1,
+     "title": "Foundations of Blockchain Technology"
+    },
+    {
+     "id": 587,
+     "number": 2,
+     "title": "Crypto-Assets and Market Structure"
+    },
+    {
+     "id": 596,
+     "number": 3,
+     "title": "Wallets, Custody and Key Management"
+    },
+    {
+     "id": 597,
+     "number": 4,
+     "title": "Crypto-Asset Service Providers and Business Models"
+    },
+    {
+     "id": 598,
+     "number": 5,
+     "title": "Tokenisation"
+    },
+    {
+     "id": 591,
+     "number": 6,
+     "title": "Stablecoins and Unbacked Crypto-Assets"
+    },
+    {
+     "id": 599,
+     "number": 7,
+     "title": "DeFi and Emerging Financial Technologies"
+    },
+    {
+     "id": 600,
+     "number": 8,
+     "title": "Managing Risk in a Crypto-Asset Business"
+    },
+    {
+     "id": 594,
+     "number": 9,
+     "title": "Financial Crime and AML/CFT Risks"
+    },
+    {
+     "id": 601,
+     "number": 10,
+     "title": "Digital Finance Strategy and the Regulatory Outlook"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 298,
+   "entryType": "programme",
+   "title": "Quantum and Cryptographic Resilience for Firms",
+   "summary": "An eight-module programme helping firms understand the quantum threat, build a cryptographic inventory, plan post-quantum migration and report readiness to the board and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 328,
+   "entryType": "programme",
+   "title": "Tokenisation of Financial Markets for Firms",
+   "summary": "A ten-module programme for firms designing, launching and running tokenised securities, funds and platforms, from business case and legal structure to custody, settlement and supervisory engagement.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

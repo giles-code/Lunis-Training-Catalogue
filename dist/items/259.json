@@ -1,0 +1,315 @@
+{
+ "id": 259,
+ "entryType": "programme",
+ "title": "Fraud and Scams: Prevention, Detection and Response",
+ "summary": "An eight-module practitioner programme on preventing, detecting and responding to fraud and scams, from authorised push payment scams and deepfakes to reimbursement and board reporting.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "fraud-and-scams-risk-management",
+ "moduleCount": 8,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips fraud, payments operations and compliance teams to prevent, detect and respond to fraud and scams: assessing risk, deploying monitoring and customer interventions, protecting vulnerable customers and evidencing effective controls to supervisors.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Consumer Protection"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To equip practitioners with a clear understanding of how modern fraud and scams work, from authorised push payment scams to deepfakes and insider fraud, and the controls that stop them. Participants leave able to assess fraud risk, tune detection, design effective customer interventions, handle reimbursement and redress fairly, and report meaningfully to the board.",
+  "What It Covers": "The fraud and scams landscape, authorised push payment and investment scams, account takeover and identity fraud, synthetic identities and deepfakes, insider and first-party fraud, fraud risk assessment, transaction monitoring and behavioural analytics, customer warnings and vulnerable customers, reimbursement and redress, data sharing and board reporting.",
+  "Intended Audience": [
+   "Fraud prevention, fraud operations and investigations teams",
+   "Payments operations, customer service and complaints staff who handle suspected fraud cases",
+   "Compliance, financial crime and risk staff, and managers accountable for fraud outcomes"
+  ],
+  "Learning Objectives": [
+   "Explain how the main fraud and scam typologies work and why they succeed",
+   "Assess the firm's fraud risk across products, channels and customer groups",
+   "Design detection using transaction monitoring, behavioural analytics and identity controls",
+   "Apply effective customer warnings and interventions, especially for vulnerable customers",
+   "Handle reimbursement, redress and data sharing fairly and consistently",
+   "Evaluate fraud governance and management information, and agree an improvement plan"
+  ],
+  "Structure and Format": "Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a three- to four-day programme or as a series of half-day sessions. Each module combines a short briefing with typology case studies and practical exercises, and modules can be selected or tailored to the firm's products and payment channels.",
+  "Useful Prior Knowledge and Experience": "Some experience of fraud, payments operations or financial crime compliance is helpful. No technical background in data analytics is required.",
+  "Core Reading": [
+   "FATF, Guidance on Digital Identity (2020)",
+   "FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)",
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "CPMI, Fast Payments: Enhancing the Speed and Availability of Retail Payments (2016)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 919,
+   "number": 1,
+   "title": "The Fraud and Scams Landscape",
+   "summary": "How fraud has shifted from unauthorised to authorised and socially engineered losses, who the perpetrators are, and why fraud is now a conduct, financial crime and resilience risk.",
+   "objectives": [
+    "Distinguish unauthorised fraud, authorised scams, insider and first-party fraud",
+    "Explain the organised crime and technology drivers of current fraud trends",
+    "Identify the firm's obligations and exposures arising from fraud losses"
+   ],
+   "syllabus": [
+    "Fraud taxonomy: unauthorised, authorised, insider and first-party",
+    "Organised crime, fraud-as-a-service and money mule networks",
+    "Links between fraud, money laundering and consumer harm",
+    "Measuring losses: what the numbers show and conceal"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 920,
+   "number": 2,
+   "title": "Authorised Push Payment and Investment Scams",
+   "summary": "How criminals persuade customers to send money themselves, from impersonation and romance scams to fake investment platforms, and the points at which firms can intervene.",
+   "objectives": [
+    "Recognise the stages and psychology of authorised push payment scams",
+    "Identify investment, crypto-asset and impersonation scam patterns",
+    "Map intervention points across the payment journey"
+   ],
+   "syllabus": [
+    "Impersonation, purchase, romance and invoice redirection scams",
+    "Investment and crypto-asset scams, cloned firms and fake platforms",
+    "Social engineering, coaching and why customers override warnings",
+    "Case studies: tracing a scam from first contact to cash-out"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 921,
+   "number": 3,
+   "title": "Account Takeover, Synthetic Identity and Deepfakes",
+   "summary": "How criminals take over genuine accounts or create fictitious customers, including the use of synthetic identities, deepfake audio and video, and AI-generated documents.",
+   "objectives": [
+    "Explain account takeover methods, including phishing, SIM swap and malware",
+    "Recognise synthetic identity and document forgery at onboarding",
+    "Assess identity verification and authentication controls against deepfake attacks"
+   ],
+   "syllabus": [
+    "Credential theft, SIM swap, remote access and device compromise",
+    "Synthetic identities, bust-out fraud and mule account opening",
+    "Deepfakes and generative AI in onboarding and impersonation",
+    "Strong authentication, liveness checks and digital identity"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 922,
+   "number": 4,
+   "title": "Insider Fraud and First-Party Fraud",
+   "summary": "Fraud committed by employees, contractors and the firm's own customers, how it is concealed, and the controls, culture and investigation practices that reduce it.",
+   "objectives": [
+    "Identify insider fraud risk across roles, systems and third parties",
+    "Recognise first-party fraud, including false claims and mule activity",
+    "Apply proportionate investigation and response to suspected cases"
+   ],
+   "syllabus": [
+    "Insider threat: access, opportunity, pressure and rationalisation",
+    "Preventive controls: segregation of duties, access reviews and vetting",
+    "First-party fraud: false claims, refund abuse and complicit mules",
+    "Whistleblowing, investigations and evidence handling"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 923,
+   "number": 5,
+   "title": "Fraud Risk Assessment and Control Design",
+   "summary": "Building a fraud risk assessment that covers products, channels, customers and third parties, and turning it into a proportionate prevention and detection control framework.",
+   "objectives": [
+    "Conduct a fraud risk assessment across products, channels and customer segments",
+    "Design preventive and detective controls proportionate to the assessed risk",
+    "Embed fraud risk in product design, change and third-party oversight"
+   ],
+   "syllabus": [
+    "Inherent risk, control effectiveness and residual risk for fraud",
+    "Fraud risk in product design, onboarding journeys and new payment channels",
+    "Balancing friction, customer experience and loss prevention",
+    "Exercise: fraud risk assessment for a new payment product"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 924,
+   "number": 6,
+   "title": "Transaction Monitoring and Behavioural Analytics",
+   "summary": "How real-time monitoring, device and behavioural analytics and machine learning detect fraud, how to tune them, and how to evidence their effectiveness.",
+   "objectives": [
+    "Explain rules-based, behavioural and machine learning detection approaches",
+    "Tune detection to balance fraud capture, false positives and customer friction",
+    "Assess model performance, drift and explainability"
+   ],
+   "syllabus": [
+    "Real-time payment monitoring, risk scoring and holds",
+    "Device intelligence, behavioural biometrics and confirmation of payee checks",
+    "Machine learning models: training data, drift and validation",
+    "Exercise: interpreting detection performance metrics"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 925,
+   "number": 7,
+   "title": "Customer Warnings, Vulnerability, Reimbursement and Redress",
+   "summary": "How to intervene effectively with customers at risk, support vulnerable customers, and handle reimbursement, complaints and redress fairly under generic reimbursement frameworks.",
+   "objectives": [
+    "Design warnings and interventions that change customer behaviour",
+    "Identify and support customers in vulnerable circumstances",
+    "Apply reimbursement and redress decisions consistently and fairly"
+   ],
+   "syllabus": [
+    "Effective warnings: dynamic, specific and timed to the risk",
+    "Vulnerability indicators, escalation and tailored support",
+    "Reimbursement models, liability sharing and consumer standard of care",
+    "Complaints, redress and learning from outcomes"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 926,
+   "number": 8,
+   "title": "Data Sharing, Governance and Board Reporting",
+   "summary": "Brings the programme together into a fraud governance framework: intelligence and data sharing, collaboration with other firms and law enforcement, management information and board oversight.",
+   "objectives": [
+    "Use intelligence and data sharing lawfully and effectively",
+    "Specify fraud management information and key risk indicators for the board",
+    "Produce an action plan to strengthen the firm's fraud framework"
+   ],
+   "syllabus": [
+    "Data sharing between firms, industry bodies, telecoms, platforms and law enforcement",
+    "Recovering funds, mule account disruption and suspicious activity reporting",
+    "Fraud management information, loss metrics and board reporting",
+    "Workshop: fraud framework gap analysis and action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 224,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Tracing and Controls for Compliance Teams",
+   "summary": "A nine-module programme equipping compliance teams to detect crypto-asset financial crime, use blockchain analytics, meet travel rule and sanctions obligations, and investigate and report suspicion.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 243,
+   "entryType": "programme",
+   "title": "Financial Crime Compliance in the Age of AI",
+   "summary": "A ten-module programme for MLROs and financial crime teams on the risk-based approach, AI-driven detection, AI-enabled threats and evidencing effectiveness to supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 283,
+   "entryType": "programme",
+   "title": "MLRO and Financial Crime Leadership",
+   "summary": "An eight-module programme giving MLROs and deputies the tools to lead the firm's financial crime framework, report to the board and handle supervisory inspections.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 307,
+   "entryType": "programme",
+   "title": "Sanctions Compliance",
+   "summary": "An eight-module practitioner programme on designing and running effective sanctions compliance, from ownership and screening to evasion typologies, licensing and breach reporting.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 326,
+   "entryType": "programme",
+   "title": "The EU AML Package: AMLR, AMLD6 and AMLA (EU Edition)",
+   "summary": "An eight-module programme on the EU AML package for supervisors and firms: the AML Regulation single rulebook, AMLD6, AMLA's supervisory model, crypto-asset transfers and transition planning.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 211,
+   "entryType": "programme",
+   "title": "Compliance Officer Academy",
+   "summary": "A ten-module academy giving compliance officers the tools to run an independent, risk-based compliance function and handle supervisory engagement with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

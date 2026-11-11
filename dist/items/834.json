@@ -1,0 +1,169 @@
+{
+ "id": 834,
+ "entryType": "module",
+ "title": "Digital Finance, Mobile Money and Digital Public Infrastructure",
+ "summary": "How mobile money, agent networks, digital identity and fast payment systems have transformed access, and the regulatory choices that enable them while managing new risks.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Consumer protection & conduct",
+  "Payments"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters",
+  "Public agencies & investment promotion"
+ ],
+ "firmType": [
+  "Payments & E-Money"
+ ],
+ "slug": "digital-finance-mobile-money-and-digital-public-infrastructure",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Consumer Protection",
+  "Policy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How mobile money, agent networks, digital identity and fast payment systems have transformed access, and the regulatory choices that enable them while managing new risks.",
+  "Learning Objectives": [
+   "Explain how digital financial services expand access",
+   "Assess enabling regulation for e-money, agents and digital credit",
+   "Evaluate the role of digital identity and proportionate customer due diligence"
+  ],
+  "Syllabus": [
+   "Mobile money, agent networks and interoperability",
+   "Digital credit, buy now pay later and over-indebtedness",
+   "Digital identity, tiered due diligence and FATF guidance on inclusion",
+   "Digital public infrastructure and government-to-person payments"
+  ],
+  "Intended Audience": [
+   "Officials in finance ministries, treasuries and central banks responsible for financial inclusion and consumer policy",
+   "Staff of consumer protection agencies, ombudsman schemes and financial education bodies",
+   "Legislative drafters, legal advisers and parliamentary committee staff working on consumer and financial inclusion legislation"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with financial services, social or consumer policy is helpful. No technical background in financial regulation is required.",
+  "Core Reading": [
+   "G20/OECD (2022), High-Level Principles on Financial Consumer Protection",
+   "World Bank (2017), Good Practices for Financial Consumer Protection",
+   "OECD (2020), Recommendation of the Council on Financial Literacy",
+   "CPMI and World Bank (2016), Payment Aspects of Financial Inclusion",
+   "World Bank (2022), The Global Findex Database 2021: Financial Inclusion, Digital Payments, and Resilience in the Age of COVID-19"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 249,
+   "module": 3,
+   "title": "Financial Inclusion and Consumer Protection Policy",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 832,
+     "number": 1,
+     "title": "Financial Inclusion: Evidence and Barriers"
+    },
+    {
+     "id": 833,
+     "number": 2,
+     "title": "National Financial Inclusion Strategies"
+    },
+    {
+     "id": 834,
+     "number": 3,
+     "title": "Digital Finance, Mobile Money and Digital Public Infrastructure"
+    },
+    {
+     "id": 835,
+     "number": 4,
+     "title": "Financial Literacy and Capability Strategies"
+    },
+    {
+     "id": 836,
+     "number": 5,
+     "title": "Consumer Protection Frameworks and Institutions"
+    },
+    {
+     "id": 837,
+     "number": 6,
+     "title": "Complaints, Redress and Ombudsman Schemes"
+    },
+    {
+     "id": 838,
+     "number": 7,
+     "title": "Fraud, Scams and Consumer Harm"
+    },
+    {
+     "id": 839,
+     "number": 8,
+     "title": "Balancing Inclusion, Protection and Innovation"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 291,
+   "entryType": "programme",
+   "title": "Payments, Digital Money and CBDCs: Policy for Government",
+   "summary": "An eight-module programme helping policymakers understand payments and digital money and make informed choices on legislation, stablecoins, CBDCs and cross-border payments.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 198,
+   "entryType": "programme",
+   "title": "AI in Financial Services: Policy Choices for Government",
+   "summary": "An eight-module programme helping policymakers understand AI in financial services and make informed choices on regulation, institutional roles and national strategy.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

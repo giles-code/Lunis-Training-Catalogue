@@ -1,0 +1,352 @@
+{
+ "id": 196,
+ "entryType": "programme",
+ "title": "AI Governance for Firms",
+ "summary": "A ten-module programme giving compliance, risk, model risk and technology staff the tools to design, run and evidence robust AI governance across the firm.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "ai-governance-for-firms",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips compliance, risk, model risk, data and technology staff with the practical tools to design, run and evidence robust AI governance across the firm, seeing its AI the way a supervisor does.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Risk Management"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To equip the people who build, validate and control AI in a regulated firm with a working understanding of how AI systems are developed and fail, and with the governance, model risk and control tools to manage them. Participants leave able to design and operate the firm's AI framework, document and validate models to a standard that withstands scrutiny, and evidence sound control to supervisors and auditors.",
+  "What It Covers": "AI and machine learning foundations, the firm's AI governance framework, model risk management and explainability, bias and fairness testing, AI in trading and operations, AI in advice and client-facing tools, vulnerabilities and third-party AI risk, regulatory expectations across jurisdictions, AI for the firm's own compliance and risk functions, and embedding AI governance across the firm.",
+  "Intended Audience": [
+   "Compliance, risk and legal professionals responsible for AI policy, oversight and regulatory compliance",
+   "Model risk, model validation, data science and technology staff who build, buy or run AI systems",
+   "Senior managers and business-line owners accountable for AI use cases and their outcomes"
+  ],
+  "Learning Objectives": [
+   "Explain how machine learning and generative AI systems are built, trained and deployed, and the risks each stage introduces",
+   "Design an AI governance framework, inventory and accountability structure fit for the firm's scale and use cases",
+   "Apply model risk management, explainability and fairness testing to the firm's AI models",
+   "Implement controls, kill-switches and escalation for AI used in trading, operations and client-facing services",
+   "Assess AI vulnerabilities, vendor dependency and regulatory obligations across the jurisdictions in which the firm operates",
+   "Evidence effective AI governance to supervisors and auditors and agree an action plan for the firm"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines technical grounding with case studies, group exercises and practical templates, and modules can be selected or tailored to the firm's use cases.",
+  "Useful Prior Knowledge and Experience": "Some experience of compliance, risk, model development or technology in a regulated firm is helpful. No data science background is required.",
+  "Core Reading": [
+   "NIST, Artificial Intelligence Risk Management Framework (AI RMF 1.0) (2023)",
+   "ISO/IEC 42001:2023, Artificial Intelligence – Management System",
+   "IOSCO, The Use of Artificial Intelligence and Machine Learning by Market Intermediaries and Asset Managers (2021)",
+   "FSB, The Financial Stability Implications of Artificial Intelligence (2024)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 367,
+   "number": 1,
+   "title": "Foundations of AI and Machine Learning",
+   "summary": "The technical grounding needed to engage credibly with AI governance: how models are built, trained and deployed, how generative AI differs from traditional approaches, and what each choice means for risk.",
+   "objectives": [
+    "Explain how supervised, unsupervised and reinforcement learning models are built and deployed",
+    "Distinguish statistical models, machine learning and generative AI, and their risk implications",
+    "Assess the governance trade-offs between building AI in-house and buying from vendors"
+   ],
+   "syllabus": [
+    "The AI system lifecycle: data, training, testing, deployment and retirement",
+    "Statistics, machine learning and large language models compared",
+    "Build versus buy: accountability for vendor and third-party AI",
+    "Documenting the business case for an AI use case"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 368,
+   "number": 2,
+   "title": "Building the Firm's AI Governance Framework",
+   "summary": "How the firm designs and operates an AI governance framework, from board accountability to day-to-day oversight, with the policies, inventory and lines of defence that give credible assurance.",
+   "objectives": [
+    "Design a framework that allocates clear accountability from the board to the business line",
+    "Develop an AI policy, risk appetite statement and firm-wide model inventory",
+    "Structure the three lines of defence for AI risk, including independent validation"
+   ],
+   "syllabus": [
+    "Board and senior management accountability for AI outcomes",
+    "AI policy, risk appetite, use-case approval and the model inventory",
+    "Principles in practice: fairness, transparency and meaningful human oversight",
+    "Common governance weaknesses and how supervisors spot them"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 369,
+   "number": 3,
+   "title": "Model Risk Management and Explainability",
+   "summary": "Extending the firm's model risk framework to machine learning and generative AI, with the interpretation techniques, documentation, validation and monitoring standards that withstand internal and external scrutiny.",
+   "objectives": [
+    "Apply interpretation techniques such as feature importance and counterfactual explanations",
+    "Extend model risk management to machine learning and generative AI",
+    "Design documentation, independent validation and ongoing monitoring for AI models"
+   ],
+   "syllabus": [
+    "Black-box models and practical interpretation techniques",
+    "Explainability needs by use case, from credit decisions to trading",
+    "Documentation and validation standards before and after deployment",
+    "Drift monitoring, retraining and model retirement protocols"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 370,
+   "number": 4,
+   "title": "Bias, Fairness and Customer Outcomes",
+   "summary": "Building bias and fairness testing into the model development lifecycle, weighing fairness metrics and trade-offs, and meeting consumer protection and non-discrimination obligations in the firm's own decisioning.",
+   "objectives": [
+    "Explain how historical data, proxies and feedback loops introduce bias",
+    "Apply fairness metrics and evaluate the trade-offs between them",
+    "Design bias testing and outcome monitoring across the model lifecycle"
+   ],
+   "syllabus": [
+    "Sources of bias: historical data, proxy discrimination and feedback loops",
+    "Fairness metrics in credit scoring, insurance pricing and targeting",
+    "Fair treatment and non-discrimination obligations applied to AI decisions",
+    "Case studies of AI bias harms and the governance failures behind them"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 371,
+   "number": 5,
+   "title": "AI in Trading, Investment and Operations",
+   "summary": "Controls for AI used in algorithmic trading, portfolio construction and operational processing, the market integrity risks it can introduce, and the kill-switches and escalation the firm must build.",
+   "objectives": [
+    "Explain how AI is used in trading, portfolio construction, signal generation and processing",
+    "Assess market integrity risks, including correlated behaviour and flash events",
+    "Design kill-switches, human oversight and escalation for AI-driven systems"
+   ],
+   "syllabus": [
+    "AI in algorithmic and high-frequency trading",
+    "AI-driven portfolio construction, risk tools and reconciliation",
+    "Market integrity risks: correlated behaviour, flash events and algorithmic collusion",
+    "Designing kill-switches, limits and escalation protocols"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 372,
+   "number": 6,
+   "title": "AI in Advice and Client-Facing Services",
+   "summary": "Designing robo-advice, chatbots and personalisation tools that meet suitability, disclosure and record-keeping obligations, treat customers fairly and stay on the right side of the guidance versus advice boundary.",
+   "objectives": [
+    "Explain how automated advice, chatbots and virtual assistants are designed and deployed",
+    "Apply suitability, disclosure and record-keeping requirements to automated processes",
+    "Evaluate personalisation and dynamic pricing against fair treatment obligations"
+   ],
+   "syllabus": [
+    "Robo-advice and automated portfolio recommendations",
+    "Chatbots and generative AI assistants in service and sales",
+    "Guidance versus regulated advice in AI-enabled client tools",
+    "Fair treatment risks in personalisation and dynamic pricing"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 373,
+   "number": 7,
+   "title": "AI Vulnerabilities, Resilience and Third-Party Risk",
+   "summary": "Identifying and managing vulnerabilities in the firm's AI estate, from silent degradation to adversarial attack, with vendor due diligence, resilience testing and incident response for when things go wrong.",
+   "objectives": [
+    "Identify drift, data quality degradation and silent failure modes",
+    "Assess exposure to adversarial attacks, data poisoning and prompt injection",
+    "Design vendor due diligence, resilience testing and incident response for AI"
+   ],
+   "syllabus": [
+    "Drift, data degradation and silent failures",
+    "Adversarial attacks, data poisoning and prompt injection",
+    "Vendor and foundation-model dependency, concentration and exit planning",
+    "Resilience testing, scenario analysis and AI incident response"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 374,
+   "number": 8,
+   "title": "AI Regulation and Supervisory Expectations",
+   "summary": "How jurisdictions are regulating AI, how AI-specific rules overlay existing financial services obligations, and how the firm evidences compliance when operating across several regimes.",
+   "objectives": [
+    "Explain the main approaches to AI regulation and the duties they place on providers and deployers",
+    "Identify which of the firm's AI uses are likely to be treated as high-risk",
+    "Evidence compliance to financial supervisors and other authorities"
+   ],
+   "syllabus": [
+    "Approaches to AI regulation: risk-based laws, sectoral rules and supervisory guidance",
+    "International frameworks: OECD, NIST, ISO/IEC 42001, IOSCO, FSB and BIS",
+    "Overlay with conduct, prudential, consumer and data protection rules",
+    "Managing divergence across jurisdictions and preparing for supervisory reviews"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 375,
+   "number": 9,
+   "title": "AI for the Firm's Own Compliance and Risk Functions",
+   "summary": "Using AI and RegTech tools to strengthen the firm's compliance monitoring, surveillance and regulatory reporting, and the data, governance and skills foundations needed to get real value from them.",
+   "objectives": [
+    "Explain how RegTech supports compliance monitoring, surveillance and reporting",
+    "Apply anomaly detection, network analysis and dashboards within the compliance function",
+    "Assess the data, governance and skills foundations required for effective adoption"
+   ],
+   "syllabus": [
+    "RegTech for compliance monitoring and regulatory reporting",
+    "AI-enabled surveillance, anomaly detection and network analysis",
+    "Compliance dashboards and management information",
+    "Data quality, governance and in-house skills for adoption"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 376,
+   "number": 10,
+   "title": "Embedding AI Governance Across the Firm",
+   "summary": "Brings the programme together into a firm-wide approach covering capability, culture, generative AI and autonomous agents, keeping the framework current and evidencing it to supervisors.",
+   "objectives": [
+    "Embed AI oversight consistently across business, risk, compliance and technology functions",
+    "Evaluate governance questions raised by generative AI and autonomous agents",
+    "Produce a prioritised action plan for the firm's AI governance"
+   ],
+   "syllabus": [
+    "Building AI capability: skills, tools and organisational placement",
+    "Generative AI and autonomous agents: accountability and control",
+    "Seeing the firm's AI the way a supervisor does: evidence and readiness",
+    "Workshop: the firm's twelve-month AI governance action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 192,
+   "entryType": "programme",
+   "title": "Agentic AI and Autonomous Finance for Firms",
+   "summary": "An eight-module programme helping firms deploy AI agents that act and transact with sound authority, controls, governance and customer protection.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 286,
+   "entryType": "programme",
+   "title": "Operational Resilience and Cyber Risk for Firms",
+   "summary": "A ten-module programme giving firms the tools to identify, map, test and evidence operational resilience and manage ICT, cyber and third-party risk.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 298,
+   "entryType": "programme",
+   "title": "Quantum and Cryptographic Resilience for Firms",
+   "summary": "An eight-module programme helping firms understand the quantum threat, build a cryptographic inventory, plan post-quantum migration and report readiness to the board and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 317,
+   "entryType": "programme",
+   "title": "Sustainable Finance and ESG for Firms",
+   "summary": "An eight-module programme giving firms the tools to manage climate and ESG risks, prepare credible disclosures and transition plans, and avoid greenwashing.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "id": 82,
+ "entryType": "module",
+ "title": "Foundations of Payment Institution and E-Money Regulation",
+ "summary": "The aim of this workshop is to build participants' understanding of the regulatory foundations for authorising and supervising payment institutions and e-money issuers, including current payment services regime reform considerations.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Payment Services",
+ "tags": [
+  "Payments"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Payments & E-Money"
+ ],
+ "slug": "foundations-of-payment-institution-and-e-money-regulation",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of the regulatory foundations for authorising and supervising payment institutions and e-money issuers, including current payment services regime reform considerations.",
+  "Intended Audience": "Junior to mid-level supervisors working in payment services supervision.",
+  "Learning Objectives": [
+   "Explain the categories of authorisation under payment services regimes",
+   "Describe e-money issuance requirements",
+   "Assess licensing requirements for different payment institution categories",
+   "Evaluate the practical implications of payment services regime reform",
+   "Formulate an authorisation approach for a sample payment institution application"
+  ],
+  "Syllabus": [
+   "Categories of payment institution authorisation",
+   "E-money institution authorisation and its distinguishing features",
+   "Registered versus authorised status for smaller providers",
+   "Capital and safeguarding requirements by category",
+   "Facilitated discussion: payment institution authorisation experiences from participants",
+   "Assessing licensing applications against category-specific requirements",
+   "Common application weaknesses for payment institutions",
+   "Safeguarding arrangements and their verification",
+   "Governance and fit-and-proper expectations for payment institutions",
+   "Group exercise: assess a sample payment institution licence application",
+   "Key changes introduced by recent payment services reforms",
+   "Practical transition considerations for existing authorised institutions",
+   "Case study: an authorisation application under the transitioning framework",
+   "Case study: formulate an authorisation approach for a sample application",
+   "Recap: authorisation categories, licensing requirements, regime reform transition",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Authorisation categories (09:30–10:45)\n- Session 2: Licensing requirements in practice (11:00–12:30)\n- Session 3: Regime reform transition and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Payment institution authorisation categories carry meaningfully different regulatory requirements that must be matched carefully to the applicant's actual business model\n- Safeguarding arrangements are a critical, frequently under-scrutinised element of payment institution authorisation\n- Payment services regime reform creates practical challenges for both new applicants and existing authorised institutions",
+  "Useful Prior Knowledge and Experience": "No formal prerequisites — this course is designed as an introduction to payment services."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 241,
+   "entryType": "programme",
+   "title": "EU Payments Regulation: PSD2, PSD3 and the Payment Services Regulation (EU Edition)",
+   "summary": "An eight-module programme on EU payments regulation for supervisors and firms, covering PSD2 and EMD2 today and the PSD3 and Payment Services Regulation reform package.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 289,
+   "entryType": "programme",
+   "title": "Payment Services Supervision",
+   "summary": "A ten-module programme equipping supervisors to authorise and supervise payment and e-money institutions, from safeguarding and fraud to open banking, instant payments and wind-down.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

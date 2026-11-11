@@ -1,0 +1,203 @@
+{
+ "id": 1382,
+ "entryType": "module",
+ "title": "Market Integrity: Preventing Crypto Market Abuse",
+ "summary": "MiCA's market abuse regime and how it adapts established market abuse concepts to crypto, the manipulation schemes specific to crypto markets, and how supervisors assess surveillance and use order reports as intelligence.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Digital Assets & Blockchain",
+ "tags": [
+  "Crypto & digital assets",
+  "EU"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 5,
+ "durationUnit": "hours",
+ "role": [
+  "Authorisation & licensing",
+  "Supervisors & inspectors",
+  "Policy & specialist teams"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "market-integrity-preventing-crypto-market-abuse",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "MiCA's market abuse regime and how it adapts established market abuse concepts to crypto, the manipulation schemes specific to crypto markets, and how supervisors assess surveillance and use order reports as intelligence.",
+  "Learning Objectives": [
+   "Explain MiCA's prohibitions on insider dealing, unlawful disclosure and manipulation",
+   "Detect crypto-native manipulation, including wash trading, spoofing and MEV extraction",
+   "Assess CASP surveillance systems and suspicious transaction and order reporting"
+  ],
+  "Syllabus": [
+   "Inside information in token issuance, listings and CASP operations",
+   "Wash trading, pump-and-dump schemes, spoofing and MEV",
+   "Surveillance calibration, investigation workflows and STORs as intelligence",
+   "Cross-venue analysis, enforcement referral and cross-border cooperation"
+  ],
+  "Intended Audience": [
+   "Authorisation, supervision and inspection staff responsible for crypto-asset service providers and token issuers",
+   "AML/CFT, market integrity, ICT risk and enforcement specialists covering digital finance",
+   "Heads of department and senior managers setting the authority's crypto-asset supervisory strategy"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of authorising or supervising financial firms is helpful. No technical background in blockchain is required, as the first pathway builds the foundations.",
+  "Core Reading": [
+   "Regulation (EU) 2023/1114 on markets in crypto-assets (MiCA)",
+   "Regulation (EU) 2023/1113 on information accompanying transfers of funds and certain crypto-assets (Transfer of Funds Regulation)",
+   "Regulation (EU) 2022/2554 on digital operational resilience for the financial sector (DORA)",
+   "FSB, High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-Asset Activities and Markets (2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 311,
+   "module": 11,
+   "title": "Supervising Crypto-Asset Service Providers under MiCA (EU Edition)",
+   "moduleCount": 15,
+   "durationValue": 75,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 1372,
+     "number": 1,
+     "title": "Blockchain and Distributed Ledgers for Supervisors"
+    },
+    {
+     "id": 1373,
+     "number": 2,
+     "title": "The Crypto Ecosystem: Assets, Tokenisation and Market Structure"
+    },
+    {
+     "id": 1374,
+     "number": 3,
+     "title": "MiCA Fundamentals: Objectives, Scope and Architecture"
+    },
+    {
+     "id": 1375,
+     "number": 4,
+     "title": "CASP Business Models and the CeFi–DeFi Spectrum"
+    },
+    {
+     "id": 1376,
+     "number": 5,
+     "title": "Governance, Risk Management and Internal Controls in CASPs"
+    },
+    {
+     "id": 1377,
+     "number": 6,
+     "title": "Prudential Risk, Financial Resources and Sustainability"
+    },
+    {
+     "id": 1378,
+     "number": 7,
+     "title": "Authorising Crypto-Asset Service Providers"
+    },
+    {
+     "id": 1379,
+     "number": 8,
+     "title": "Risk-Based Supervision of CASPs in Practice"
+    },
+    {
+     "id": 1380,
+     "number": 9,
+     "title": "Operational Resilience: ICT Risk and DORA"
+    },
+    {
+     "id": 1381,
+     "number": 10,
+     "title": "Wallets, Custody and Safeguarding of Crypto-Assets"
+    },
+    {
+     "id": 1382,
+     "number": 11,
+     "title": "Market Integrity: Preventing Crypto Market Abuse"
+    },
+    {
+     "id": 1383,
+     "number": 12,
+     "title": "Financial Crime: AML/CFT and the Travel Rule"
+    },
+    {
+     "id": 1384,
+     "number": 13,
+     "title": "Stablecoins: Asset-Referenced and E-Money Tokens"
+    },
+    {
+     "id": 1385,
+     "number": 14,
+     "title": "Passporting, Sanctions and Supervisory Cooperation"
+    },
+    {
+     "id": 1386,
+     "number": 15,
+     "title": "Enforcement, Crisis Management and Emerging Risks"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 282,
+   "entryType": "programme",
+   "title": "MiCA Essentials for Supervisors (EU Edition)",
+   "summary": "A six-module essentials programme giving EU national competent authority staff a practical command of MiCA, from token regimes and CASP authorisation to supervision and enforcement.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 221,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals",
+   "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 226,
+   "entryType": "programme",
+   "title": "Crypto-Asset Regulation and Supervision",
+   "summary": "An advanced twelve-module programme equipping supervisors to authorise, supervise and take action against crypto-asset firms under comprehensive regimes and international standards.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 48,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": 163,
+ "entryType": "module",
+ "title": "Setting Regulatory Strategy and Priorities",
+ "summary": "The aim of this workshop is to equip participants with the skills to translate a supervisory authority's statutory mandate into a strategic plan and prioritised work programme, balancing risk, resource, and stakeholder expectations.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Governance, Strategy & Leadership",
+ "tags": [
+  "Leadership & strategy"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "setting-regulatory-strategy-and-priorities",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Governance & Company Secretarial",
+  "Strategy"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to equip participants with the skills to translate a supervisory authority's statutory mandate into a strategic plan and prioritised work programme, balancing risk, resource, and stakeholder expectations.",
+  "Intended Audience": "Mid-to-senior supervisory staff involved in setting or reviewing their authority's strategy, governance, or resourcing decisions.",
+  "Learning Objectives": [
+   "Explain the relationship between statutory mandate and strategic priorities",
+   "Apply a risk-based approach to prioritising supervisory work",
+   "Assess resource constraints and their impact on strategic choices",
+   "Evaluate stakeholder expectations and how to balance competing demands",
+   "Formulate a prioritised strategic work programme",
+   "Communicate strategic priorities clearly to internal and external audiences"
+  ],
+  "Syllabus": [
+   "Interpreting a statutory mandate",
+   "The role of strategic planning in a supervisory authority",
+   "Common strategic planning frameworks",
+   "Aligning strategy with mandate and public expectations",
+   "Facilitated discussion: participants' own authority's mandate and how it shapes strategy",
+   "Risk-based approaches to prioritising supervisory work",
+   "Resource constraints: budget, headcount, specialist skills",
+   "Trade-offs between breadth and depth of supervisory coverage",
+   "Tools for structured prioritisation",
+   "Group exercise: prioritise a sample list of supervisory risks under resource constraints",
+   "Mapping stakeholder expectations: government, industry, public",
+   "Balancing competing demands in strategy-setting",
+   "Communicating strategic priorities clearly",
+   "Case study: setting priorities amid competing pressures",
+   "Case study: draft a prioritised strategic work programme and a communication plan for it",
+   "Recap: mandate, prioritisation, stakeholders, communication",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: From mandate to strategy (09:30–10:45)\n- Session 2: Risk-based prioritisation (11:00–12:30)\n- Session 3: Stakeholders and strategic communication (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Strategy is the bridge between a broad statutory mandate and specific day-to-day priorities\n- Risk-based prioritisation makes resource trade-offs explicit rather than accidental\n- Clear communication of strategic priorities builds credibility with all stakeholder groups",
+  "Useful Prior Knowledge and Experience": "Some familiarity with governance, strategy & leadership is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 302,
+   "entryType": "programme",
+   "title": "Regulatory Leadership and Strategy",
+   "summary": "An eight-module programme for the authority's leaders on mandate, governance, independence, risk appetite, growth objectives, effectiveness and leading change.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 280,
+   "entryType": "programme",
+   "title": "Management and Leadership for Supervisors",
+   "summary": "A ten-module programme giving new and developing managers in supervisory authorities the practical skills to lead teams and make sound decisions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

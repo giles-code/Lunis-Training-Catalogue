@@ -1,0 +1,292 @@
+{
+ "id": 292,
+ "entryType": "programme",
+ "title": "Policy-Making and Rule-Making",
+ "summary": "An eight-module programme covering the full policy cycle, from problem definition and cost-benefit analysis to drafting, standards implementation and post-implementation review.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Policy-Making & Rule-Making",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "policy-making-and-rule-making",
+ "moduleCount": 8,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisory staff to make better rules: defining the problem, weighing costs and benefits, consulting well, drafting clearly, implementing international standards and reviewing whether policy has worked.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Policy"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give policy, legal and supervisory staff a practical, end-to-end grounding in how a supervisory authority develops, consults on and issues rules and guidance. Participants leave able to build an evidence-based case for intervention, test it for proportionality, draft enforceable rules and evaluate their impact after implementation.",
+  "What It Covers": "The policy cycle and rule-making powers, problem definition and options analysis, cost-benefit analysis and proportionality, consultation and stakeholder engagement, legal drafting, implementing international standards, policy for innovation including sandboxes, and post-implementation review.",
+  "Intended Audience": [
+   "Policy and rule-making staff developing rules, guidance and policy positions",
+   "Legal advisers and drafters working on secondary rules and supervisory guidance",
+   "Supervisors and economists who contribute evidence, impact analysis or consultation input"
+  ],
+  "Learning Objectives": [
+   "Explain the legal hierarchy of rule-making and the stages of the policy cycle",
+   "Define a regulatory problem and evaluate options, including not intervening",
+   "Apply cost-benefit analysis and proportionality tests to proposed rules",
+   "Design and run a consultation and respond transparently to feedback",
+   "Draft clear, consistent and enforceable rules, including those implementing international standards",
+   "Design policy for innovation and evaluate rules through post-implementation review"
+  ],
+  "Structure and Format": "Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines a practical briefing with case studies and drafting or analysis exercises, and modules can be selected or tailored to the authority's needs.",
+  "Useful Prior Knowledge and Experience": "Some experience of policy, legal or supervisory work is helpful. No formal legal or economics training is required.",
+  "Core Reading": [
+   "OECD, Recommendation of the Council on Regulatory Policy and Governance (2012)",
+   "OECD, Best Practice Principles for Regulatory Policy: Regulatory Impact Assessment (2020)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1216,
+   "number": 1,
+   "title": "The Policy Cycle and Rule-Making Powers",
+   "summary": "Where a supervisory authority's rule-making power comes from, what primary legislation, secondary rules and guidance can each achieve, and how the policy cycle fits together.",
+   "objectives": [
+    "Explain the legal hierarchy of legislation, rules and guidance",
+    "Identify the sources and limits of the authority's rule-making powers",
+    "Describe the stages of the policy cycle from problem to review"
+   ],
+   "syllabus": [
+    "Primary legislation, secondary rules and guidance: what each can do",
+    "Delegated powers, their limits and legal challenge",
+    "Binding rules versus non-binding guidance and supervisory statements",
+    "The policy cycle: define, analyse, consult, decide, implement, review"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1217,
+   "number": 2,
+   "title": "Problem Definition and Options Analysis",
+   "summary": "How to establish whether there is a genuine market failure or harm that justifies intervention, gather the evidence, and compare regulatory and non-regulatory options.",
+   "objectives": [
+    "Define a regulatory problem in terms of harm, cause and scale",
+    "Gather and assess evidence to support the case for intervention",
+    "Compare options, including non-regulatory and do-nothing alternatives"
+   ],
+   "syllabus": [
+    "Market failures, consumer harm and systemic risk as rationales",
+    "Evidence sources: supervisory data, complaints, research and surveys",
+    "Option sets: rules, guidance, disclosure, supervision or no action",
+    "Exercise: writing a problem statement and options paper"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1218,
+   "number": 3,
+   "title": "Cost-Benefit Analysis and Proportionality",
+   "summary": "Practical techniques for assessing the costs and benefits of proposed rules, testing proportionality across firms of different sizes, and anticipating unintended consequences before rules are finalised.",
+   "objectives": [
+    "Apply cost-benefit techniques to a proposed rule",
+    "Assess proportionality and distributional effects across firm sizes",
+    "Identify unintended consequences and market reactions in advance"
+   ],
+   "syllabus": [
+    "Impact assessment frameworks and data sources",
+    "Quantifying compliance costs and valuing hard-to-measure benefits",
+    "Proportionality: is the intervention justified by the risk?",
+    "Case study: a rule with significant unintended consequences"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1219,
+   "number": 4,
+   "title": "Consultation and Stakeholder Engagement",
+   "summary": "How to design and run a consultation that improves rule quality and legitimacy, hears from less-resourced stakeholders, and responds to feedback transparently.",
+   "objectives": [
+    "Design a consultation document, questions and timeline",
+    "Plan stakeholder engagement beyond the largest industry voices",
+    "Analyse responses and draft a transparent feedback statement"
+   ],
+   "syllabus": [
+    "Statutory and voluntary consultation requirements",
+    "Consultation questions: open, closed and avoiding leading questions",
+    "Engagement channels: written responses, roundtables, targeted outreach",
+    "Analysing responses and handling contentious or high-volume feedback"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1220,
+   "number": 5,
+   "title": "Drafting Clear and Enforceable Rules",
+   "summary": "Core legal drafting skills for rules and guidance that are precise, internally consistent and enforceable, written for firms, courts and the public alike.",
+   "objectives": [
+    "Apply principles of precision, clarity and consistency to regulatory drafting",
+    "Structure rules logically with definitions, obligations and exceptions",
+    "Draft obligations that are testable and resistant to legal challenge"
+   ],
+   "syllabus": [
+    "Principles-based versus rules-based drafting",
+    "Defined terms, cross-references and version control",
+    "Common pitfalls: ambiguity, loopholes and inconsistent definitions",
+    "Exercise: redrafting a provision for enforceability"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1221,
+   "number": 6,
+   "title": "From International Standard to Domestic Rule",
+   "summary": "How international standards from bodies such as the FSB, BCBS, IOSCO, IAIS and FATF become domestic rules, and how to use national discretion deliberately rather than by default.",
+   "objectives": [
+    "Explain how international standards are implemented in domestic frameworks",
+    "Assess the risks of over- and under-implementation",
+    "Identify and use the discretion available within a standard"
+   ],
+   "syllabus": [
+    "Standard-setters, peer reviews and assessment programmes",
+    "Minimum versus maximum harmonisation and regional frameworks",
+    "Gold-plating, competitiveness and assessment failure risks",
+    "Case study: implementing a sample international standard"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1222,
+   "number": 7,
+   "title": "Policy for Innovation: Sandboxes and Innovation Hubs",
+   "summary": "How authorities design policy for new business models and technologies, from innovation hubs and regulatory sandboxes to technology-neutral rules and perimeter guidance.",
+   "objectives": [
+    "Explain the purpose and design of innovation hubs and regulatory sandboxes",
+    "Assess the risks of innovation facilitation, including perimeter and consumer risks",
+    "Apply technology-neutral principles when drafting rules for new activities"
+   ],
+   "syllabus": [
+    "Innovation hubs, sandboxes and testing environments compared",
+    "Eligibility, safeguards, exit and lessons-learned reporting",
+    "Technology neutrality and same activity, same risk, same regulation",
+    "Perimeter guidance for new products and business models"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1223,
+   "number": 8,
+   "title": "Post-Implementation Review and Policy Workshop",
+   "summary": "Brings the programme together by examining how the authority evaluates whether rules have achieved their aims, and applying the full policy cycle to a live scenario.",
+   "objectives": [
+    "Design a post-implementation review with measurable success criteria",
+    "Evaluate evidence on whether a rule has met its objectives",
+    "Produce a policy proposal applying the full policy cycle"
+   ],
+   "syllabus": [
+    "Setting success measures at the design stage",
+    "Post-implementation review methods and data",
+    "Amending, simplifying or withdrawing rules that do not work",
+    "Workshop: from problem statement to draft rule and review plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 219,
+   "entryType": "programme",
+   "title": "Crisis Management and Resolution",
+   "summary": "A ten-module programme preparing supervisors for firm and system-wide stress, from early intervention and recovery and resolution planning to crisis communication and a live simulation.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 238,
+   "entryType": "programme",
+   "title": "Enforcement and Sanctions",
+   "summary": "A ten-module programme taking enforcement and supervisory staff through the full life of an enforcement case, from triage and evidence to sanctions, settlement and cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 254,
+   "entryType": "programme",
+   "title": "Fit and Proper Assessments: Approving Owners, Directors and Key Function Holders",
+   "summary": "An eight-module practitioner programme on assessing owners, controllers, directors and key function holders, from evidence gathering and interviews to defensible decisions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

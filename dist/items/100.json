@@ -1,0 +1,116 @@
+{
+ "id": 100,
+ "entryType": "module",
+ "title": "Instant Payments and Payment System Oversight",
+ "summary": "The aim of this workshop is to build participants' understanding of the regulatory framework for instant/fast payments and the oversight considerations specific to payment system operators and settlement risk.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Payment Services",
+ "tags": [
+  "Payments"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Payments & E-Money"
+ ],
+ "slug": "instant-payments-and-payment-system-oversight",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of the regulatory framework for instant/fast payments and the oversight considerations specific to payment system operators and settlement risk.",
+  "Intended Audience": "Junior to mid-level supervisors working in payment services supervision.",
+  "Learning Objectives": [
+   "Explain how instant payment systems operate technically and operationally",
+   "Describe instant payments regulation and its key requirements",
+   "Assess settlement risk within instant payment systems",
+   "Evaluate the oversight responsibilities specific to payment system operators",
+   "Formulate a supervisory assessment of an instant payment system's resilience"
+  ],
+  "Syllabus": [
+   "How instant/fast payment systems achieve near-real-time settlement",
+   "Instant payments regulation: scope and key requirements",
+   "Verification of payee requirements and fraud prevention implications",
+   "Growth and adoption trends in instant payments",
+   "Facilitated discussion: instant payment developments in participants' own markets",
+   "Settlement risk considerations unique to near-instant settlement",
+   "Payment system operator oversight responsibilities",
+   "Liquidity management challenges for participants in instant payment systems",
+   "Systemic importance of payment system infrastructure",
+   "Group exercise: assess settlement risk considerations for a sample instant payment system",
+   "Criteria for assessing an instant payment system's resilience",
+   "Case study: an instant payment system facing an operational disruption",
+   "Case study: formulate a supervisory assessment of an instant payment system's resilience",
+   "Recap: instant payment operation, settlement risk, oversight responsibilities",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Instant payment systems (09:30–10:45)\n- Session 2: Settlement risk and oversight (11:00–12:30)\n- Session 3: Resilience assessment and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Near-instant settlement compresses the time available to detect and prevent fraud, raising the stakes for verification controls\n- Payment system operators carry systemic oversight responsibilities distinct from individual participant supervision\n- Liquidity management becomes more demanding as settlement cycles compress toward real time",
+  "Useful Prior Knowledge and Experience": "Some familiarity with payment services is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 241,
+   "entryType": "programme",
+   "title": "EU Payments Regulation: PSD2, PSD3 and the Payment Services Regulation (EU Edition)",
+   "summary": "An eight-module programme on EU payments regulation for supervisors and firms, covering PSD2 and EMD2 today and the PSD3 and Payment Services Regulation reform package.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 289,
+   "entryType": "programme",
+   "title": "Payment Services Supervision",
+   "summary": "A ten-module programme equipping supervisors to authorise and supervise payment and e-money institutions, from safeguarding and fraud to open banking, instant payments and wind-down.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

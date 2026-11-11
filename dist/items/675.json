@@ -1,0 +1,183 @@
+{
+ "id": 675,
+ "entryType": "module",
+ "title": "Custody, Safeguarding and Client Assets",
+ "summary": "Why custody is the critical risk in digital assets, how client assets are held and protected, and what assurance the board needs that client holdings are safe and reconciled.",
+ "clientType": [
+  "firms",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Crypto & digital assets"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "custody-safeguarding-and-client-assets",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Why custody is the critical risk in digital assets, how client assets are held and protected, and what assurance the board needs that client holdings are safe and reconciled.",
+  "Learning Objectives": [
+   "Explain how private keys, wallets and custody arrangements protect or expose client assets",
+   "Evaluate segregation, reconciliation and safeguarding controls",
+   "Judge the adequacy of independent assurance over client holdings"
+  ],
+  "Syllabus": [
+   "Hot, warm and cold storage, multi-signature and key management",
+   "Segregation of client assets and treatment on insolvency",
+   "Reconciliation, proof of reserves and their limits",
+   "Sub-custody and third-party custodian due diligence"
+  ],
+  "Intended Audience": [
+   "Chairs, non-executive and independent directors of firms offering, or planning to offer, digital asset products and services",
+   "Executive directors and senior managers accountable for digital asset strategy, risk, compliance and operations",
+   "Board committee members and company secretaries supporting oversight of new business lines"
+  ],
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No technical background in blockchain or digital assets is required.",
+  "Core Reading": [
+   "FSB, High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-Asset Activities and Markets (2023)",
+   "IOSCO, Policy Recommendations for Crypto and Digital Asset Markets (2023)",
+   "Basel Committee, Prudential Treatment of Cryptoasset Exposures (2022)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 231,
+   "module": 3,
+   "title": "Digital Assets for Boards",
+   "moduleCount": 10,
+   "durationValue": 20,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 673,
+     "number": 1,
+     "title": "Digital Assets for Directors"
+    },
+    {
+     "id": 674,
+     "number": 2,
+     "title": "Strategy, Opportunity and Business Model Risk"
+    },
+    {
+     "id": 675,
+     "number": 3,
+     "title": "Custody, Safeguarding and Client Assets"
+    },
+    {
+     "id": 676,
+     "number": 4,
+     "title": "Financial Crime and Sanctions Risk"
+    },
+    {
+     "id": 677,
+     "number": 5,
+     "title": "Market Integrity and Client Outcomes"
+    },
+    {
+     "id": 678,
+     "number": 6,
+     "title": "Technology, Cyber and Third-Party Risk"
+    },
+    {
+     "id": 679,
+     "number": 7,
+     "title": "International Regulatory Approaches and Supervisory Expectations"
+    },
+    {
+     "id": 680,
+     "number": 8,
+     "title": "Risk Appetite for Digital Assets"
+    },
+    {
+     "id": 681,
+     "number": 9,
+     "title": "Board Oversight, Information and Assurance"
+    },
+    {
+     "id": 682,
+     "number": 10,
+     "title": "Leading Digital Asset Oversight: Board Action Plan"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 195,
+   "entryType": "programme",
+   "title": "AI Governance for Boards",
+   "summary": "A ten-module programme giving boards and directors the understanding and tools to govern AI responsibly and evidence sound oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 210,
+   "entryType": "programme",
+   "title": "Climate and Sustainability for Boards",
+   "summary": "An eight-module programme giving boards and directors the understanding and tools to oversee climate and nature-related risk, transition plans and sustainability disclosures.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

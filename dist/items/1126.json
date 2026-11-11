@@ -1,0 +1,164 @@
+{
+ "id": 1126,
+ "entryType": "module",
+ "title": "Personal Account Dealing",
+ "summary": "The rules on staff dealing for themselves and connected persons, why pre-clearance and holding periods exist, and how to avoid conflicts and front running.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Essentials for all staff"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1.5,
+ "durationUnit": "hours",
+ "role": [
+  "All staff"
+ ],
+ "firmType": [],
+ "slug": "personal-account-dealing",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Conduct & Culture / HR"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The rules on staff dealing for themselves and connected persons, why pre-clearance and holding periods exist, and how to avoid conflicts and front running.",
+  "Learning Objectives": [
+   "Explain the purpose and scope of the firm's personal account dealing policy",
+   "Apply pre-clearance, holding period and reporting requirements",
+   "Recognise dealing that creates conflicts of interest or market abuse risk"
+  ],
+  "Syllabus": [
+   "Accounts, instruments and connected persons covered by the rules",
+   "Pre-clearance, restricted lists, holding periods and disclosure",
+   "Front running, derivatives, crypto-assets and other grey areas",
+   "Monitoring, breaches and what happens when things go wrong"
+  ],
+  "Intended Audience": [
+   "All staff in regulated firms, including those outside trading and investment roles who may come across inside information",
+   "Front-office, research, operations, technology, marketing, HR and executive support staff",
+   "Line managers responsible for approving personal dealing, gifts and communications in their teams"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior knowledge of markets or regulation is required. The programme is relevant to all staff, not only those in trading or investment roles.",
+  "Core Reading": [
+   "IOSCO (2017), Objectives and Principles of Securities Regulation",
+   "IOSCO (2003), Insider Trading: How Jurisdictions Regulate It",
+   "FSB (2018), Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 281,
+   "module": 3,
+   "title": "Market Conduct Essentials: Inside Information, Conflicts and Personal Dealing",
+   "moduleCount": 6,
+   "durationValue": 9,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 1124,
+     "number": 1,
+     "title": "Market Integrity and Why It Matters to Everyone"
+    },
+    {
+     "id": 1125,
+     "number": 2,
+     "title": "Inside Information and Market Abuse"
+    },
+    {
+     "id": 1126,
+     "number": 3,
+     "title": "Personal Account Dealing"
+    },
+    {
+     "id": 1127,
+     "number": 4,
+     "title": "Gifts, Hospitality and Inducements"
+    },
+    {
+     "id": 1128,
+     "number": 5,
+     "title": "Communications and Recordkeeping"
+    },
+    {
+     "id": 1129,
+     "number": 6,
+     "title": "Social Media, Public Statements and Practical Scenarios"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 213,
+   "entryType": "programme",
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 300,
+   "entryType": "programme",
+   "title": "Regulatory Essentials for All Staff",
+   "summary": "An eight-module foundation programme giving all staff a practical understanding of regulation, conduct, financial crime awareness and their own responsibilities.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

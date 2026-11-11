@@ -1,0 +1,176 @@
+{
+ "id": 522,
+ "entryType": "module",
+ "title": "Treating Customers Fairly and Delivering Good Outcomes",
+ "summary": "What fair treatment and good customer outcomes mean in practice across products, pricing, service and support, and how each role contributes to them.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Essentials for all staff"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1.5,
+ "durationUnit": "hours",
+ "role": [
+  "All staff",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "treating-customers-fairly-and-delivering-good-outcomes",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Conduct & Culture / HR",
+  "Consumer Protection"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What fair treatment and good customer outcomes mean in practice across products, pricing, service and support, and how each role contributes to them.",
+  "Learning Objectives": [
+   "Explain the principles of fair treatment and good customer outcomes",
+   "Recognise products, practices and sales behaviours that cause foreseeable harm",
+   "Describe how the firm monitors and evidences customer outcomes"
+  ],
+  "Syllabus": [
+   "Acting in good faith and avoiding foreseeable harm",
+   "Products that meet customers' needs and offer fair value",
+   "Customer support, unreasonable friction and sludge practices",
+   "Outcome testing, management information and what good looks like"
+  ],
+  "Intended Audience": [
+   "All staff in regulated firms, from new joiners to experienced colleagues, as induction or annual refresher training",
+   "Customer-facing, product, marketing, operations, technology and support staff whose work affects customer outcomes",
+   "Team leaders and managers who set the tone for conduct and respond when concerns are raised"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior knowledge of regulation is required. Some experience of working with customers is helpful but not essential.",
+  "Core Reading": [
+   "FSB (2018), Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors",
+   "G20/OECD (2022), High-Level Principles on Financial Consumer Protection",
+   "FSB (2014), Guidance on Supervisory Interaction with Financial Institutions on Risk Culture: A Framework for Assessing Risk Culture",
+   "ISO (2021), ISO 37002:2021 Whistleblowing Management Systems – Guidelines"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 213,
+   "module": 4,
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "moduleCount": 8,
+   "durationValue": 12,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 519,
+     "number": 1,
+     "title": "Culture, Ethics and Why Conduct Matters"
+    },
+    {
+     "id": 520,
+     "number": 2,
+     "title": "Ethical Decision-Making in Practice"
+    },
+    {
+     "id": 521,
+     "number": 3,
+     "title": "Conflicts of Interest in Everyday Work"
+    },
+    {
+     "id": 522,
+     "number": 4,
+     "title": "Treating Customers Fairly and Delivering Good Outcomes"
+    },
+    {
+     "id": 523,
+     "number": 5,
+     "title": "Clear Communication and Customer Understanding"
+    },
+    {
+     "id": 524,
+     "number": 6,
+     "title": "Customers in Vulnerable Circumstances"
+    },
+    {
+     "id": 525,
+     "number": 7,
+     "title": "Complaints: Listening, Resolving and Learning"
+    },
+    {
+     "id": 526,
+     "number": 8,
+     "title": "Speaking Up, Whistleblowing and Personal Accountability"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 281,
+   "entryType": "programme",
+   "title": "Market Conduct Essentials: Inside Information, Conflicts and Personal Dealing",
+   "summary": "A six-module foundation programme helping all staff handle inside information, personal dealing, gifts and communications correctly and avoid market abuse.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 300,
+   "entryType": "programme",
+   "title": "Regulatory Essentials for All Staff",
+   "summary": "An eight-module foundation programme giving all staff a practical understanding of regulation, conduct, financial crime awareness and their own responsibilities.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

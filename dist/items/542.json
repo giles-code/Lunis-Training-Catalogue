@@ -1,0 +1,185 @@
+{
+ "id": 542,
+ "entryType": "module",
+ "title": "Outcomes Testing and Management Information",
+ "summary": "Building outcome testing and management information that show whether customers are being well served, and acting on what the data reveals.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Consumer protection & conduct"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "outcomes-testing-and-management-information",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Consumer Protection",
+  "Conduct & Culture / HR"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Building outcome testing and management information that show whether customers are being well served, and acting on what the data reveals.",
+  "Learning Objectives": [
+   "Design outcome metrics across products, value, understanding and support",
+   "Apply outcome testing and data analysis to identify harm",
+   "Use management information to drive action rather than reassurance"
+  ],
+  "Syllabus": [
+   "Outcome metrics and indicators of customer harm",
+   "Testing methods: data analysis, mystery shopping and file reviews",
+   "Data quality and segmentation by customer group",
+   "Data exercise: analysing a firm's outcomes data"
+  ],
+  "Intended Audience": [
+   "Compliance, conduct risk and consumer outcome specialists",
+   "Product, marketing, pricing and customer service managers",
+   "Senior managers and business-line owners accountable for retail customer outcomes"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of compliance, product or customer-facing work in a retail financial services firm is helpful. No specialist conduct background is required.",
+  "Core Reading": [
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "World Bank, Good Practices for Financial Consumer Protection (2017)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 215,
+   "module": 8,
+   "title": "Consumer Outcomes and Conduct Risk for Firms",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 535,
+     "number": 1,
+     "title": "Conduct Risk and the Outcomes-Based Approach"
+    },
+    {
+     "id": 536,
+     "number": 2,
+     "title": "Product Governance"
+    },
+    {
+     "id": 537,
+     "number": 3,
+     "title": "Fair Value and Pricing"
+    },
+    {
+     "id": 538,
+     "number": 4,
+     "title": "Communications and Disclosure"
+    },
+    {
+     "id": 539,
+     "number": 5,
+     "title": "Vulnerable Customers"
+    },
+    {
+     "id": 540,
+     "number": 6,
+     "title": "Sales, Advice and Customer Support"
+    },
+    {
+     "id": 541,
+     "number": 7,
+     "title": "Complaints and Root Cause Analysis"
+    },
+    {
+     "id": 542,
+     "number": 8,
+     "title": "Outcomes Testing and Management Information"
+    },
+    {
+     "id": 543,
+     "number": 9,
+     "title": "Conduct Risk Frameworks, Culture and Incentives"
+    },
+    {
+     "id": 544,
+     "number": 10,
+     "title": "Board Reporting and Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 211,
+   "entryType": "programme",
+   "title": "Compliance Officer Academy",
+   "summary": "A ten-module academy giving compliance officers the tools to run an independent, risk-based compliance function and handle supervisory engagement with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 224,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Tracing and Controls for Compliance Teams",
+   "summary": "A nine-module programme equipping compliance teams to detect crypto-asset financial crime, use blockchain analytics, meet travel rule and sanctions obligations, and investigate and report suspicion.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 243,
+   "entryType": "programme",
+   "title": "Financial Crime Compliance in the Age of AI",
+   "summary": "A ten-module programme for MLROs and financial crime teams on the risk-based approach, AI-driven detection, AI-enabled threats and evidencing effectiveness to supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

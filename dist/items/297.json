@@ -1,0 +1,260 @@
+{
+ "id": 297,
+ "entryType": "programme",
+ "title": "Quantum and Cryptographic Resilience",
+ "summary": "A six-module programme equipping supervisors to assess firms' exposure to quantum threats, cryptographic inventories and post-quantum migration plans, and to set proportionate expectations.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Cybersecurity & Operational Resilience",
+ "tags": [
+  "Operational resilience & cyber",
+  "Crypto & digital assets"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 18,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "quantum-and-cryptographic-resilience",
+ "moduleCount": 6,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisory staff to assess the financial sector's readiness for quantum computing: understanding the threat to public-key cryptography, challenging firms' cryptographic inventories and migration plans, and setting proportionate supervisory expectations.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber",
+  "Supervision"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors a plain-language understanding of how quantum computing threatens the cryptography that secures payments, data and digital assets, and of what a credible migration to post-quantum cryptography involves. Participants leave able to assess firms' inventories, migration plans and third-party dependencies, identify red flags and contribute to the authority's quantum readiness strategy.",
+  "What It Covers": "Quantum computing and the cryptographic threat, harvest now decrypt later, where cryptography sits in financial services, cryptographic inventories and risk assessment, NIST post-quantum standards, migration planning and crypto-agility, third-party dependencies, impacts on payments and crypto-assets, and supervisory expectations.",
+  "Intended Audience": [
+   "Supervisors and inspectors responsible for technology, cyber and operational resilience risk",
+   "Payments, market infrastructure and digital asset specialists in supervisory and central bank functions",
+   "Policy staff and senior managers shaping the authority's cyber and quantum readiness approach"
+  ],
+  "Learning Objectives": [
+   "Explain how quantum computing threatens public-key cryptography and why the risk is already present",
+   "Identify where cryptography is embedded in financial services and which assets are most exposed",
+   "Assess the completeness and quality of a firm's cryptographic inventory and risk assessment",
+   "Evaluate post-quantum migration plans, crypto-agility and the use of NIST standards",
+   "Analyse third-party, payments and crypto-asset dependencies that constrain migration",
+   "Design proportionate supervisory expectations and a quantum readiness plan for the authority"
+  ],
+  "Structure and Format": "Six modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a two-day programme or as a series of half-day sessions. Each module combines a plain-language technical briefing with case studies and supervisory question exercises, and modules can be selected or tailored to the authority's needs.",
+  "Useful Prior Knowledge and Experience": "Some experience of cyber, technology risk or operational resilience supervision is helpful. No background in mathematics or cryptography is required.",
+  "Core Reading": [
+   "NIST, FIPS 203, 204 and 205: Post-Quantum Cryptography Standards (2024)",
+   "G7 Cyber Expert Group, Public Statement on Planning for the Opportunities and Risks of Quantum Computing (2024)",
+   "NIST, Cybersecurity Framework 2.0 (2024)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1256,
+   "number": 1,
+   "title": "Quantum Computing and the Cryptographic Threat",
+   "summary": "A plain-language introduction to quantum computing, why it breaks today's public-key cryptography, the uncertainty around timelines and why data harvested now may be decrypted later.",
+   "objectives": [
+    "Explain in plain language how quantum computers differ from classical computers",
+    "Distinguish the impact of quantum attacks on public-key and symmetric cryptography",
+    "Assess the harvest now, decrypt later risk and its link to data shelf life"
+   ],
+   "syllabus": [
+    "Qubits, error correction and the path to cryptographically relevant machines",
+    "Why public-key encryption and digital signatures are most at risk",
+    "Timeline estimates and why uncertainty is not a reason to wait",
+    "Harvest now, decrypt later and long-lived confidential data"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1257,
+   "number": 2,
+   "title": "Where Cryptography Sits in Financial Services",
+   "summary": "A map of where cryptography protects the financial system, from customer channels and payment messaging to hardware security modules, certificates and digital signatures on contracts and ledgers.",
+   "objectives": [
+    "Identify the main uses of cryptography across financial services",
+    "Analyse which systems and data carry the highest quantum exposure",
+    "Explain why cryptography is often invisible and poorly documented within firms"
+   ],
+   "syllabus": [
+    "Secure communications, certificates and public key infrastructure",
+    "Payment cards, messaging networks and hardware security modules",
+    "Digital signatures, identity and authentication",
+    "Embedded cryptography in legacy and vendor systems"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1258,
+   "number": 3,
+   "title": "Cryptographic Inventories and Risk Assessment",
+   "summary": "How firms discover and record where and how cryptography is used, prioritise exposed systems and data, and how supervisors judge whether an inventory is complete and decision-useful.",
+   "objectives": [
+    "Explain the purpose and contents of a cryptographic inventory",
+    "Assess the completeness of a firm's inventory, including third-party and embedded uses",
+    "Evaluate a firm's prioritisation of systems by exposure and data shelf life"
+   ],
+   "syllabus": [
+    "Discovery tools, manual review and the cryptographic bill of materials",
+    "Prioritising by data sensitivity, shelf life and system criticality",
+    "Governance: ownership, board reporting and risk appetite",
+    "Red flags: partial inventories and no named owner"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1259,
+   "number": 4,
+   "title": "Post-Quantum Standards, Migration and Crypto-Agility",
+   "summary": "The NIST post-quantum standards, what a realistic multi-year migration programme involves, and why crypto-agility is as important as the choice of algorithm.",
+   "objectives": [
+    "Explain the NIST post-quantum cryptography standards and their intended uses",
+    "Assess the credibility, sequencing and resourcing of a firm's migration plan",
+    "Evaluate a firm's approach to crypto-agility and hybrid deployment"
+   ],
+   "syllabus": [
+    "NIST post-quantum standards: ML-KEM, ML-DSA and SLH-DSA",
+    "Migration roadmaps, milestones and testing",
+    "Hybrid schemes, performance impacts and interoperability",
+    "Crypto-agility as a design principle for future change"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1260,
+   "number": 5,
+   "title": "Third Parties, Payments and Crypto-Assets",
+   "summary": "Why most firms depend on vendors, payment schemes and market infrastructures to migrate, and the particular challenges quantum computing poses for blockchains, wallets and digital asset custody.",
+   "objectives": [
+    "Assess firms' reliance on vendors and infrastructures for post-quantum migration",
+    "Analyse coordination challenges in payment systems and market infrastructure",
+    "Evaluate quantum risks to blockchain signatures, wallets and custody"
+   ],
+   "syllabus": [
+    "Vendor roadmaps, contractual commitments and supply chain assurance",
+    "Coordinated migration across payment schemes and settlement systems",
+    "Quantum exposure of blockchain signatures and exposed public keys",
+    "Implications for crypto-asset custody and tokenised assets"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1261,
+   "number": 6,
+   "title": "Supervisory Expectations and Quantum Readiness",
+   "summary": "Brings the programme together into proportionate supervisory expectations for quantum readiness, the international work under way and an action plan for the authority's own systems.",
+   "objectives": [
+    "Compare emerging supervisory and international approaches to quantum readiness",
+    "Formulate proportionate supervisory expectations for different types of firm",
+    "Design a quantum readiness plan for the authority and its regulated population"
+   ],
+   "syllabus": [
+    "International work: BIS, G7 Cyber Expert Group and national cyber agencies",
+    "Embedding quantum risk in cyber and operational resilience supervision",
+    "The authority's own cryptographic exposure and migration",
+    "Workshop: the authority's quantum readiness action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 234,
+   "entryType": "programme",
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "summary": "An eight-module programme on DORA for supervisors and financial entities: ICT risk management, incident reporting, resilience testing and TLPT, ICT third-party risk and critical provider oversight.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 287,
+   "entryType": "programme",
+   "title": "Operational Resilience, Cyber and Critical Third Parties",
+   "summary": "A ten-module programme equipping supervisors to assess firms' operational resilience, cyber risk, incident response and third-party dependencies, and to shape the authority's resilience strategy.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 221,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals",
+   "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 226,
+   "entryType": "programme",
+   "title": "Crypto-Asset Regulation and Supervision",
+   "summary": "An advanced twelve-module programme equipping supervisors to authorise, supervise and take action against crypto-asset firms under comprehensive regimes and international standards.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 48,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 233,
+   "entryType": "programme",
+   "title": "Digital Money: Stablecoins, Tokenised Deposits and CBDCs",
+   "summary": "A ten-module programme equipping supervisors and central bankers to assess stablecoins, tokenised deposits and CBDCs, and their risks to payments and financial stability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

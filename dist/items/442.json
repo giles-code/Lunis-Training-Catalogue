@@ -1,0 +1,173 @@
+{
+ "id": 442,
+ "entryType": "module",
+ "title": "Fit and Proper in Practice: Interviews and Difficult Cases",
+ "summary": "Using interviews to test competence and integrity, weighing adverse information fairly, and documenting consistent, defensible decisions in borderline cases.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Authorisation & Licensing",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Authorisation & licensing"
+ ],
+ "firmType": [],
+ "slug": "fit-and-proper-in-practice-interviews-and-difficult-cases",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Authorisations",
+  "Registration & Licensing"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Using interviews to test competence and integrity, weighing adverse information fairly, and documenting consistent, defensible decisions in borderline cases.",
+  "Learning Objectives": [
+   "Plan and conduct a fit and proper interview",
+   "Weigh adverse information consistently and fairly",
+   "Document a fit and proper decision that will withstand challenge"
+  ],
+  "Syllabus": [
+   "Interview planning and questioning for competence and probity",
+   "Handling adverse information, non-disclosure and inconsistency",
+   "Consistency across candidates, roles and decision-makers",
+   "Case study: a borderline fit and proper assessment"
+  ],
+  "Intended Audience": [
+   "Authorisation, licensing and registration staff assessing new applications and changes to existing firms",
+   "Fitness and propriety and governance specialists assessing controllers, directors and senior managers",
+   "Supervisors and financial crime specialists who contribute to authorisation decisions or take over newly authorised firms"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of authorisation, supervision or financial crime work is helpful. No legal or accounting qualification is required.",
+  "Core Reading": [
+   "Basel Committee, Core Principles for Effective Banking Supervision (2024)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "IAIS, Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups (ComFrame)",
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 204,
+   "module": 6,
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 437,
+     "number": 1,
+     "title": "The Regulatory Gateway: Purpose and Standards"
+    },
+    {
+     "id": 438,
+     "number": 2,
+     "title": "The Application Process: From First Contact to Decision"
+    },
+    {
+     "id": 439,
+     "number": 3,
+     "title": "Assessing Business Plans and Financial Projections"
+    },
+    {
+     "id": 440,
+     "number": 4,
+     "title": "Organisational Readiness: Governance, Systems and Controls"
+    },
+    {
+     "id": 441,
+     "number": 5,
+     "title": "Fit and Proper Assessment: Criteria and Evidence"
+    },
+    {
+     "id": 442,
+     "number": 6,
+     "title": "Fit and Proper in Practice: Interviews and Difficult Cases"
+    },
+    {
+     "id": 443,
+     "number": 7,
+     "title": "Controllers, Ownership and Change of Control"
+    },
+    {
+     "id": 444,
+     "number": 8,
+     "title": "Financial Crime Checks at the Gateway"
+    },
+    {
+     "id": 445,
+     "number": 9,
+     "title": "Cross-Border Authorisation and Supervisory Cooperation"
+    },
+    {
+     "id": 446,
+     "number": 10,
+     "title": "Licence Variations, Conditions and Decisions"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 254,
+   "entryType": "programme",
+   "title": "Fit and Proper Assessments: Approving Owners, Directors and Key Function Holders",
+   "summary": "An eight-module practitioner programme on assessing owners, controllers, directors and key function holders, from evidence gathering and interviews to defensible decisions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 219,
+   "entryType": "programme",
+   "title": "Crisis Management and Resolution",
+   "summary": "A ten-module programme preparing supervisors for firm and system-wide stress, from early intervention and recovery and resolution planning to crisis communication and a live simulation.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

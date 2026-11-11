@@ -1,0 +1,165 @@
+{
+ "id": 1553,
+ "entryType": "module",
+ "title": "Reading the Numbers",
+ "summary": "The quantitative picture supervisors build from the profit and loss account, balance sheet and key risk indicators, and what the trends reveal about how the firm makes money.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Regulatory Readiness",
+  "payments": "Regulatory Readiness",
+  "crypto": "Regulatory Readiness"
+ },
+ "topic": "Regulatory Readiness",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "reading-the-numbers",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Strategy",
+  "Board & Senior Leadership"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The quantitative picture supervisors build from the profit and loss account, balance sheet and key risk indicators, and what the trends reveal about how the firm makes money.",
+  "Learning Objectives": [
+   "Interpret profitability, cash and capital trends",
+   "Break returns down into their drivers",
+   "Spot the numbers that will prompt supervisory questions"
+  ],
+  "Syllabus": [
+   "Profit and loss: revenue mix, margins and cost base",
+   "Balance sheet: funding, capital quality and tangible net worth",
+   "Key ratios, driver trees and sector metrics",
+   "Worked example: growing, but who benefits?"
+  ],
+  "Intended Audience": [
+   "Board members, chief executives and senior managers responsible for strategy and the business plan",
+   "Finance, risk and compliance staff who prepare business plans, projections and regulatory submissions",
+   "Senior managers preparing for a supervisory risk assessment or business model review"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with the firm's business plan and financial statements is helpful. No accounting qualification is required.",
+  "Core Reading": [
+   "IMF, Good Supervision: Lessons from the Field (Working Paper WP/23/181, 2023)",
+   "FSB, Principles for an Effective Risk Appetite Framework (2013)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 332,
+   "module": 2,
+   "title": "Your Business Model Through the Supervisor's Lens",
+   "moduleCount": 6,
+   "durationValue": 6,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1552,
+     "number": 1,
+     "title": "Why Supervisors Analyse Business Models"
+    },
+    {
+     "id": 1553,
+     "number": 2,
+     "title": "Reading the Numbers"
+    },
+    {
+     "id": 1554,
+     "number": 3,
+     "title": "Concentrations and Dependencies"
+    },
+    {
+     "id": 1555,
+     "number": 4,
+     "title": "The Business Environment and Competitive Position"
+    },
+    {
+     "id": 1556,
+     "number": 5,
+     "title": "Strategy, Projections and Stress Testing"
+    },
+    {
+     "id": 1557,
+     "number": 6,
+     "title": "Presenting Your Business Model to the Supervisor"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 239,
+   "entryType": "programme",
+   "title": "Engaging Effectively with Your Supervisor: How Firms Are Assessed",
+   "summary": "A ten-module programme showing firms how supervisors assess business models, governance and risk, so they can see themselves as the supervisor does and engage with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 255,
+   "entryType": "programme",
+   "title": "Fit and Proper for Firms: Appointing and Assessing Key Function Holders",
+   "summary": "A nine-module programme showing firms how to appoint and assess key function holders, prepare applications and interviews, and manage fitness and certification on an ongoing basis.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 264,
+   "entryType": "programme",
+   "title": "Governance Reviews and Supervisory Interviews: Preparing Your Board and Management",
+   "summary": "A one-day workshop on how supervisors assess governance and interview directors and staff, and how licensees can evidence effective governance and prepare openly.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 6,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

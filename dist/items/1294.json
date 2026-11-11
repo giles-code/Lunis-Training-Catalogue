@@ -1,0 +1,185 @@
+{
+ "id": 1294,
+ "entryType": "module",
+ "title": "Communications, Lessons Learned and Simulation Workshop",
+ "summary": "Brings the programme together: managing publicity and stakeholder communications, reporting to the board, embedding lessons, and a simulation that takes a case from first notice to outcome.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Regulatory Readiness",
+  "payments": "Regulatory Readiness",
+  "crypto": "Regulatory Readiness"
+ },
+ "topic": "Regulatory Readiness",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "communications-lessons-learned-and-simulation-workshop",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together: managing publicity and stakeholder communications, reporting to the board, embedding lessons, and a simulation that takes a case from first notice to outcome.",
+  "Learning Objectives": [
+   "Plan communications with staff, customers, investors and counterparties",
+   "Report the case and its lessons to the board with candour",
+   "Apply the programme in a full enforcement simulation"
+  ],
+  "Syllabus": [
+   "Final notices, publicity and reputational management",
+   "Board reporting, disclosure obligations and investor communications",
+   "Post-case reviews, culture change and rebuilding the supervisory relationship",
+   "Workshop: simulation from first notice to settlement decision"
+  ],
+  "Intended Audience": [
+   "Chief executives, senior managers and directors who may be accountable when the firm is investigated",
+   "Heads of compliance, risk, internal audit and financial crime, and their deputies",
+   "General counsel, in-house lawyers and company secretaries who coordinate the firm's response"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of compliance, legal or senior management work in a regulated firm is helpful. No prior experience of enforcement proceedings is required.",
+  "Core Reading": [
+   "IOSCO, Credible Deterrence in the Enforcement of Securities Regulation (2015)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)",
+   "IOSCO, Multilateral Memorandum of Understanding (MMoU) and Enhanced MMoU (2016)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 301,
+   "module": 10,
+   "title": "Regulatory Investigations and Enforcement: Responding as a Firm",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1285,
+     "number": 1,
+     "title": "How Enforcement Cases Begin"
+    },
+    {
+     "id": 1286,
+     "number": 2,
+     "title": "Enforcement Readiness: Before the Investigation"
+    },
+    {
+     "id": 1287,
+     "number": 3,
+     "title": "Self-Reporting, Notification and Early Engagement"
+    },
+    {
+     "id": 1288,
+     "number": 4,
+     "title": "Information Requests and Formal Powers"
+    },
+    {
+     "id": 1289,
+     "number": 5,
+     "title": "Legal Privilege, Confidentiality and Evidence Preservation"
+    },
+    {
+     "id": 1290,
+     "number": 6,
+     "title": "Compelled Interviews: Preparing and Supporting Staff"
+    },
+    {
+     "id": 1291,
+     "number": 7,
+     "title": "Cooperation, Remediation and Credit"
+    },
+    {
+     "id": 1292,
+     "number": 8,
+     "title": "Warning Notices, Representations and Settlement"
+    },
+    {
+     "id": 1293,
+     "number": 9,
+     "title": "Individual Liability and Parallel Proceedings"
+    },
+    {
+     "id": 1294,
+     "number": 10,
+     "title": "Communications, Lessons Learned and Simulation Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 239,
+   "entryType": "programme",
+   "title": "Engaging Effectively with Your Supervisor: How Firms Are Assessed",
+   "summary": "A ten-module programme showing firms how supervisors assess business models, governance and risk, so they can see themselves as the supervisor does and engage with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 255,
+   "entryType": "programme",
+   "title": "Fit and Proper for Firms: Appointing and Assessing Key Function Holders",
+   "summary": "A nine-module programme showing firms how to appoint and assess key function holders, prepare applications and interviews, and manage fitness and certification on an ongoing basis.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 264,
+   "entryType": "programme",
+   "title": "Governance Reviews and Supervisory Interviews: Preparing Your Board and Management",
+   "summary": "A one-day workshop on how supervisors assess governance and interview directors and staff, and how licensees can evidence effective governance and prepare openly.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 6,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

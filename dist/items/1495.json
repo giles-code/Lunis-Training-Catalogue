@@ -1,0 +1,182 @@
+{
+ "id": 1495,
+ "entryType": "module",
+ "title": "Prohibited Practices and Transparency Obligations",
+ "summary": "The AI practices banned outright, those most relevant to financial services, and the transparency duties for chatbots, emotion recognition and AI-generated content used in customer journeys.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes",
+  "payments": "Sector Programmes",
+  "crypto": "Sector Programmes",
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Artificial Intelligence",
+ "tags": [
+  "AI & technology",
+  "EU"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Leadership & senior management",
+  "Policy & specialist teams",
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "prohibited-practices-and-transparency-obligations",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The AI practices banned outright, those most relevant to financial services, and the transparency duties for chatbots, emotion recognition and AI-generated content used in customer journeys.",
+  "Learning Objectives": [
+   "Identify prohibited practices and their relevance to financial services",
+   "Apply transparency obligations to customer-facing AI and synthetic content",
+   "Assess the controls that prevent prohibited uses within the firm"
+  ],
+  "Syllabus": [
+   "Manipulative and exploitative techniques, social scoring and biometric categorisation",
+   "Emotion recognition in the workplace and its limited exceptions",
+   "Chatbot disclosure, deepfakes and labelling of AI-generated content",
+   "Red flags in marketing, collections and customer engagement tools"
+  ],
+  "Intended Audience": [
+   "Supervisors, policy and innovation staff at national competent authorities responsible for AI used by financial entities",
+   "Compliance, risk, legal, data protection and model risk staff at banks, insurers, investment firms and payment firms",
+   "Senior managers and directors accountable for the firm's use of AI and its AI Act compliance"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with how AI or models are used in financial services is helpful. No technical or legal background is required.",
+  "Core Reading": [
+   "Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+   "Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation)",
+   "OECD, Recommendation of the Council on Artificial Intelligence (2019, revised 2024)",
+   "FSB, The Financial Stability Implications of Artificial Intelligence (2024)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 325,
+   "module": 2,
+   "title": "The EU AI Act and Financial Services (EU Edition)",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1494,
+     "number": 1,
+     "title": "The AI Act: Objectives, Scope and Risk-Based Approach"
+    },
+    {
+     "id": 1495,
+     "number": 2,
+     "title": "Prohibited Practices and Transparency Obligations"
+    },
+    {
+     "id": 1496,
+     "number": 3,
+     "title": "High-Risk AI Systems in Financial Services"
+    },
+    {
+     "id": 1497,
+     "number": 4,
+     "title": "Obligations of Providers and Deployers"
+    },
+    {
+     "id": 1498,
+     "number": 5,
+     "title": "General-Purpose AI Models and the Value Chain"
+    },
+    {
+     "id": 1499,
+     "number": 6,
+     "title": "Governance, the AI Office and Financial Supervisors"
+    },
+    {
+     "id": 1500,
+     "number": 7,
+     "title": "Interplay with Financial Services Rules and Data Protection"
+    },
+    {
+     "id": 1501,
+     "number": 8,
+     "title": "Implementation Timeline and Building a Compliance Programme"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 234,
+   "entryType": "programme",
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "summary": "An eight-module programme on DORA for supervisors and financial entities: ICT risk management, incident reporting, resilience testing and TLPT, ICT third-party risk and critical provider oversight.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 241,
+   "entryType": "programme",
+   "title": "EU Payments Regulation: PSD2, PSD3 and the Payment Services Regulation (EU Edition)",
+   "summary": "An eight-module programme on EU payments regulation for supervisors and firms, covering PSD2 and EMD2 today and the PSD3 and Payment Services Regulation reform package.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

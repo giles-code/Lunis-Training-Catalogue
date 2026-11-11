@@ -1,0 +1,167 @@
+{
+ "id": 394,
+ "entryType": "module",
+ "title": "Designing a National Approach to AI in Finance",
+ "summary": "Brings the programme together into a policy approach that links financial sector AI policy with national AI strategy, and anticipates emerging issues from generative AI and autonomous agents.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters",
+  "Parliamentarians & committee staff"
+ ],
+ "firmType": [
+  "FinTech & Big Tech"
+ ],
+ "slug": "designing-a-national-approach-to-ai-in-finance",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Policy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together into a policy approach that links financial sector AI policy with national AI strategy, and anticipates emerging issues from generative AI and autonomous agents.",
+  "Learning Objectives": [
+   "Align financial sector AI policy with national AI and digital strategy",
+   "Anticipate policy issues from generative AI and autonomous agents",
+   "Produce a policy action plan for AI in the financial sector"
+  ],
+  "Syllabus": [
+   "Linking AI, data, competition and financial services policy",
+   "Sandboxes, pilots and public-private collaboration",
+   "Agentic AI, accountability and liability questions",
+   "Workshop: a national AI in finance policy action plan"
+  ],
+  "Intended Audience": [
+   "Officials in finance ministries, treasuries and digital ministries developing AI, fintech and financial services policy",
+   "Legislative drafters, legal advisers and parliamentary committee staff working on AI or financial legislation",
+   "Senior officials in data protection, competition and other public bodies whose remit touches AI in finance"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with financial services or digital policy is helpful. No technical background in AI or data science is required.",
+  "Core Reading": [
+   "OECD (2019, revised 2024), Recommendation of the Council on Artificial Intelligence",
+   "FSB (2024), The Financial Stability Implications of Artificial Intelligence",
+   "IOSCO (2021), The Use of Artificial Intelligence and Machine Learning by Market Intermediaries and Asset Managers: Final Report",
+   "NIST (2023), Artificial Intelligence Risk Management Framework (AI RMF 1.0)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 198,
+   "module": 8,
+   "title": "AI in Financial Services: Policy Choices for Government",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 387,
+     "number": 1,
+     "title": "AI Explained for Policymakers"
+    },
+    {
+     "id": 388,
+     "number": 2,
+     "title": "How Financial Services Use AI"
+    },
+    {
+     "id": 389,
+     "number": 3,
+     "title": "Consumer, Fairness and Data Protection Risks"
+    },
+    {
+     "id": 390,
+     "number": 4,
+     "title": "Market Integrity, Financial Stability and Concentration"
+    },
+    {
+     "id": 391,
+     "number": 5,
+     "title": "Approaches to Regulating AI"
+    },
+    {
+     "id": 392,
+     "number": 6,
+     "title": "International Principles and Cooperation"
+    },
+    {
+     "id": 393,
+     "number": 7,
+     "title": "Institutional Roles and Regulators' Capability"
+    },
+    {
+     "id": 394,
+     "number": 8,
+     "title": "Designing a National Approach to AI in Finance"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 229,
+   "entryType": "programme",
+   "title": "Developing Capital Markets and Investment Fund Industries",
+   "summary": "An eight-module programme helping policymakers develop deep, well-regulated capital markets and fund industries through credible, well-sequenced reform.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 230,
+   "entryType": "programme",
+   "title": "Digital Assets and Blockchain: A Policy Programme for Government",
+   "summary": "An eight-module programme giving policymakers the understanding to set digital asset policy, design legislation and meet international standards on crypto-assets and stablecoins.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

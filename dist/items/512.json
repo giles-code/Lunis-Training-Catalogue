@@ -1,0 +1,167 @@
+{
+ "id": 512,
+ "entryType": "module",
+ "title": "Assessing Culture and the Governance of Conduct",
+ "summary": "How supervisors assess firm culture through its drivers and observable behaviours, and how boards and senior managers govern conduct risk and are held accountable for it.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Cross-Cutting Themes"
+ },
+ "topic": "Consumer Protection & Financial Inclusion",
+ "tags": [
+  "Consumer protection & conduct"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Enforcement & investigations",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "assessing-culture-and-the-governance-of-conduct",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Conduct & Culture / HR",
+  "Consumer Protection"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How supervisors assess firm culture through its drivers and observable behaviours, and how boards and senior managers govern conduct risk and are held accountable for it.",
+  "Learning Objectives": [
+   "Explain the drivers of culture and why supervisors assess them",
+   "Assess board oversight, management information and accountability for conduct",
+   "Gather and triangulate evidence on culture from multiple sources"
+  ],
+  "Syllabus": [
+   "Drivers of culture: purpose, leadership, people, governance and incentives",
+   "Board oversight of conduct and senior manager accountability regimes",
+   "Evidence of culture: interviews, focus groups, surveys and documents",
+   "Red flags: tone at the top versus behaviour in the middle"
+  ],
+  "Intended Audience": [
+   "Conduct and consumer protection supervisors, including those supervising retail-facing firms",
+   "Prudential and governance supervisors seeking to assess culture and its link to risk",
+   "Policy, data and enforcement staff working on conduct risk and customer outcomes"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of conduct or consumer protection supervision is helpful. No background in economics or behavioural science is required.",
+  "Core Reading": [
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)",
+   "FSB, Guidance on Supervisory Interaction with Financial Institutions on Risk Culture (2014)",
+   "Group of Thirty, Banking Conduct and Culture: A Call for Sustained and Comprehensive Reform (2015)",
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 212,
+   "module": 2,
+   "title": "Conduct, Culture and Behavioural Supervision",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 511,
+     "number": 1,
+     "title": "Behavioural Economics in Consumer Markets"
+    },
+    {
+     "id": 512,
+     "number": 2,
+     "title": "Assessing Culture and the Governance of Conduct"
+    },
+    {
+     "id": 513,
+     "number": 3,
+     "title": "Incentives, Remuneration and Performance Management"
+    },
+    {
+     "id": 514,
+     "number": 4,
+     "title": "Product Governance and Fair Value"
+    },
+    {
+     "id": 515,
+     "number": 5,
+     "title": "Sales Practices and Distribution"
+    },
+    {
+     "id": 516,
+     "number": 6,
+     "title": "Data and Behavioural Supervision Tools"
+    },
+    {
+     "id": 517,
+     "number": 7,
+     "title": "Misconduct, Speaking Up and Individual Accountability"
+    },
+    {
+     "id": 518,
+     "number": 8,
+     "title": "Supervisory Interventions and Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 216,
+   "entryType": "programme",
+   "title": "Consumer Protection and Financial Inclusion",
+   "summary": "A ten-module programme equipping supervisors to assess product governance, fair value, disclosure, vulnerable customer treatment, complaints and financial inclusion.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 220,
+   "entryType": "programme",
+   "title": "Cross-Border and Group Supervision",
+   "summary": "An eight-module programme on home-host supervision, consolidated group oversight, MoUs, supervisory colleges, third-country firms and cross-border crisis cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

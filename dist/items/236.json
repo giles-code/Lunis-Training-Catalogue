@@ -1,0 +1,388 @@
+{
+ "id": 236,
+ "entryType": "programme",
+ "title": "Effective Governance for Boards and Directors",
+ "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "effective-governance-for-boards-and-directors",
+ "moduleCount": 12,
+ "hoursPerModule": 2,
+ "intro": "This training programme equips boards and directors with the duties, standards and practical skills of effective governance: who should sit on the board, what each director is accountable for, and how a board works well in practice.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give directors of regulated firms, fund boards and management companies a complete grounding in effective governance, from the standards expected of each director to the dynamics that decide whether a board actually oversees the business. Participants leave able to evidence their fitness, independence and reasonable steps, and to improve how their board is chaired, informed and evaluated.",
+  "What It Covers": "Good governance, directors' duties, fitness and probity, independence and time commitment, board composition and diversity, delegation and oversight, conflicts of interest, individual accountability, the chair and the agenda, board information, boardroom dynamics, and board evaluation.",
+  "Intended Audience": [
+   "Chairs, executive, non-executive and independent directors of regulated firms, fund boards and management companies",
+   "Senior managers preparing for a first board appointment or moving from an executive to a non-executive role",
+   "Company secretaries, heads of governance and compliance staff who support the board and its committees"
+  ],
+  "Learning Objectives": [
+   "Explain what good governance requires of a regulated board and how it differs from general corporate governance",
+   "Apply directors' duties and fitness and probity standards to their own role and appointments",
+   "Assess board composition, independence, tenure and diversity against good practice",
+   "Oversee delegated functions and conflicts of interest so that responsibility is demonstrably retained",
+   "Evidence reasonable steps under an individual accountability regime",
+   "Improve the board's agenda, information, challenge and decision-making, and design a board effectiveness action plan"
+  ],
+  "Structure and Format": "Twelve modules of about two hours each, delivered in person, virtually or in a hybrid format, typically as a three- to four-day programme or as a series of board briefing sessions. Part one covers the individual director; part two covers how the board works as a team. Modules can be selected or tailored for a fund, management company or other regulated firm.",
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No prior governance training is required.",
+  "Core Reading": [
+   "G20/OECD Principles of Corporate Governance (2023)",
+   "IOSCO, Examination of Governance for Collective Investment Schemes (2006–2007)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)",
+   "Olivier Sibony, You're About to Make a Terrible Mistake! How Biases Distort Decision-Making (2020)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 719,
+   "number": 1,
+   "title": "What Good Governance Looks Like",
+   "summary": "What governance is for in a regulated firm or fund, what good, bad and failed governance look like in practice, and why governing a fund or licensee differs from governing an ordinary company.",
+   "objectives": [
+    "Define governance in terms of the interests the board must serve",
+    "Distinguish good, poor and failed governance using real enforcement outcomes",
+    "Map the parties around the board: owners, regulators, managers and delegates"
+   ],
+   "syllabus": [
+    "Purpose of governance: acting efficiently and exclusively in investors' and customers' interests",
+    "Good governance: clear responsibilities, documented policies and structures that foster challenge",
+    "When governance fails: lessons from regulatory fines and misconduct cases",
+    "The distinctive features of fund and regulated-firm governance"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 720,
+   "number": 2,
+   "title": "The Role of the Director: Duties and Collective Responsibility",
+   "summary": "The legal duties a director owes, the different roles of executive, non-executive and independent directors and the chair, and how individual responsibility sits alongside the board's collective decision-making.",
+   "objectives": [
+    "Explain the core duties of a director and to whom they are owed",
+    "Compare the roles of executive, non-executive and independent directors",
+    "Balance individual responsibility with the board's collective accountability"
+   ],
+   "syllabus": [
+    "Statutory and fiduciary duties: skill, care, diligence and acting in good faith",
+    "Is there a job description for a director of a fund or a management company?",
+    "Executive, non-executive, independent and chair roles on the board and its committees",
+    "Individual versus collective responsibility and protecting against liability"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 721,
+   "number": 3,
+   "title": "Fitness and Probity",
+   "summary": "The standards of competence, honesty, integrity and financial soundness that directors must meet, how regulators act as gatekeepers at appointment, and how firms assess fitness on an ongoing basis.",
+   "objectives": [
+    "Apply fitness and probity standards to directors and other key roles",
+    "Prepare for a regulatory fitness and probity assessment or interview",
+    "Recognise the circumstances that call fitness or probity into question"
+   ],
+   "syllabus": [
+    "Competent and capable: qualifications, experience, competence and capacity",
+    "Honest, ethical and acting with integrity, including non-financial misconduct",
+    "Financial soundness and the firm's due diligence and certification",
+    "Regulatory gatekeeping, interviews, refusals and lessons from case law"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 722,
+   "number": 4,
+   "title": "Independence of Mind and Time Commitment",
+   "summary": "What it means to bring independence of mind to the board, the threats to independence in practice, and how directors and boards judge whether a director has enough time for the role.",
+   "objectives": [
+    "Distinguish formal independence from independence of mind",
+    "Identify relationships and incentives that threaten independent judgement",
+    "Assess time commitment and the risks of multiple directorships"
+   ],
+   "syllabus": [
+    "Independence of mind: sound, objective and independent decisions",
+    "Threats to independence: tenure, fees, group links and personal relationships",
+    "Time commitment: what is sufficient and how boards evidence it",
+    "Multiple directorships, capacity limits and regulatory scrutiny"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 723,
+   "number": 5,
+   "title": "Board Composition: Appointment, Tenure, Succession and Diversity",
+   "summary": "How to build a board with the right mix of skills, independence and perspectives, the due diligence a director should complete before accepting an appointment, and how to manage tenure, refreshment and succession.",
+   "objectives": [
+    "Design a board composition and skills matrix for a regulated firm or fund",
+    "Carry out due diligence before accepting a board appointment",
+    "Plan tenure, refreshment, succession and diversity objectives"
+   ],
+   "syllabus": [
+    "Board size, balance of non-executive and independent directors, and skills matrices",
+    "Due diligence before accepting an offer: good practice and red flags",
+    "Tenure limits, board refreshment and succession planning",
+    "Diversity of skills, background and thinking, barriers and effective initiatives"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 724,
+   "number": 6,
+   "title": "Delegation and Oversight: Retaining Responsibility",
+   "summary": "Delegation is permitted but responsibility is retained. This module covers how the board decides what to delegate, how it oversees delegates and service providers, and what effective oversight looks like to a regulator.",
+   "objectives": [
+    "Explain which decisions the board must retain and which it may delegate",
+    "Design an oversight framework for delegates and service providers",
+    "Evidence effective oversight through reporting, dialogue and escalation"
+   ],
+   "syllabus": [
+    "Delegation permitted, responsibility retained: reserved matters and delegated authority",
+    "The relationship between the board, the management company and delegates",
+    "Reporting, open dialogue and the board's right to information from delegates",
+    "Regulatory findings on delegate oversight and the reasonable steps expected"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 725,
+   "number": 7,
+   "title": "Conflicts of Interest",
+   "summary": "How conflicts arise for boards and individual directors, including in group structures, smaller firms and multiple directorships, and how they should be identified, managed, monitored and disclosed.",
+   "objectives": [
+    "Identify conflicts of interest at board, group and individual level",
+    "Apply a conflicts policy, register and management arrangements",
+    "Judge when a conflict should be disclosed, mitigated or avoided altogether"
+   ],
+   "syllabus": [
+    "Sources of conflict: group links, delegates, fees and personal interests",
+    "Multiple directorships and full-time roles elsewhere in the group",
+    "Smaller firms and condensed structures: when senior staff wear several hats",
+    "Conflicts registers, board minutes and evidencing that conflicts are managed"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 726,
+   "number": 8,
+   "title": "Individual Accountability and Reasonable Steps",
+   "summary": "Individual accountability regimes and what they mean for directors: prescribed responsibilities, responsibilities maps, conduct standards and the duty to take reasonable steps, illustrated through enforcement cases against senior individuals.",
+   "objectives": [
+    "Explain how individual accountability regimes allocate responsibility to directors",
+    "Demonstrate reasonable steps for the areas a director is responsible for",
+    "Draw lessons from enforcement action against chairs and directors"
+   ],
+   "syllabus": [
+    "Senior executive accountability regimes around the world and their common features",
+    "Inherent and prescribed responsibilities, responsibilities maps and statements",
+    "Conduct standards and the duty of responsibility: what reasonable steps look like",
+    "Enforcement case studies, personal liability and directors' and officers' insurance"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 727,
+   "number": 9,
+   "title": "The Chair, the Agenda and the Company Secretary",
+   "summary": "The pivotal role of the chair in setting the tone and running effective meetings, how to manage agenda overload and time, and the role of the company secretary and pre-board engagement.",
+   "objectives": [
+    "Describe the responsibilities and attributes of an effective chair",
+    "Design an agenda that prioritises strategy, risk and key decisions",
+    "Use the company secretary and pre-board engagement to strengthen meetings"
+   ],
+   "syllabus": [
+    "The chair's responsibilities, attributes and relationship with the chief executive",
+    "Agenda overload: frequency, duration, committees and priorities",
+    "Agenda rules: important topics first, timed items and clear decisions",
+    "The company secretary, pre-board meetings and minutes that evidence challenge"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 728,
+   "number": 10,
+   "title": "Board Information: Papers, Presentations and Asymmetry",
+   "summary": "What good board information looks like, why oversized packs harm decisions, how to get the information the board needs without micromanaging, and how directors handle technical topics such as technology and AI.",
+   "objectives": [
+    "Evaluate board papers against the qualities of good information",
+    "Reduce information asymmetry between management and non-executives",
+    "Engage with technical presentations and know what questions to ask"
+   ],
+   "syllabus": [
+    "Good information: accurate, timely, clear, comparable and focused on decisions",
+    "Board pack size, information overload and cover papers that state the question",
+    "Information asymmetry, independent assurance and the fear of micromanaging",
+    "Technical topics, technology and AI: building enough knowledge to challenge"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 729,
+   "number": 11,
+   "title": "Boardroom Dynamics: Challenge, Culture and Decision-Making",
+   "summary": "How boardroom culture, personalities and bias shape decisions, how to challenge well, and practical counter-measures against group think, dominant voices and poor decision-making.",
+   "objectives": [
+    "Recognise the risk factors for poor board decision-making",
+    "Challenge constructively and handle difficult board members",
+    "Apply counter-measures to group think and judgemental bias"
+   ],
+   "syllabus": [
+    "Risk factors for poor decisions: dominant voices, time pressure and isolation",
+    "Challenge well: preparation, curiosity and a bracing rather than collegial culture",
+    "Difficult personalities, non-attendance and managing difficult conversations",
+    "Heuristics, framing and group think, and practical counter-measures"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 730,
+   "number": 12,
+   "title": "Keeping the Board Effective: Evaluation, Development and Action Plan",
+   "summary": "How boards evaluate themselves, what regulators look for in board effectiveness reviews, how directors keep their skills current, and a capstone in which each participant builds a board effectiveness action plan.",
+   "objectives": [
+    "Design an internal or externally facilitated board evaluation",
+    "Plan ongoing development for the board and individual directors",
+    "Produce a practical board effectiveness action plan"
+   ],
+   "syllabus": [
+    "Board evaluation: scope, methods, frequency and acting on findings",
+    "What supervisors look for in board effectiveness reviews",
+    "Director development, upskilling and moving from executive to non-executive",
+    "Capstone: a board effectiveness action plan for each participant"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 242,
+   "entryType": "programme",
+   "title": "Finance and Prudential Essentials for Directors of Regulated Firms",
+   "summary": "An eight-module programme giving non-financial directors the confidence to read a regulated firm's accounts, capital and liquidity position, and to challenge the CFO.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 263,
+   "entryType": "programme",
+   "title": "Geopolitical and Emerging Risks for Boards",
+   "summary": "An eight-module programme helping boards identify, debate and prepare for geopolitical and emerging risks, ending with a facilitated board scenario exercise.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 266,
+   "entryType": "programme",
+   "title": "Group Governance and Cross-Border Operations",
+   "summary": "A nine-module programme helping boards and senior managers of cross-border groups balance group direction with local accountability, oversee intragroup arrangements and deal with multiple supervisors.",
+   "level": "Advanced",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 268,
+   "entryType": "programme",
+   "title": "Induction for Directors of Regulated Firms",
+   "summary": "A ten-module induction giving new directors of regulated firms the grounding to discharge their duties, understand supervisory expectations and oversee the firm's risks.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

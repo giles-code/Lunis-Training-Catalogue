@@ -1,0 +1,398 @@
+{
+ "id": 247,
+ "entryType": "programme",
+ "title": "Financial Crime Supervision in the Age of AI",
+ "summary": "A ten-module programme equipping supervisors to assess financial crime controls and firms' use of AI in monitoring, screening, fraud and surveillance.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Reducing Financial Crime & Delivering Market Integrity",
+ "tags": [
+  "Financial crime",
+  "AI & technology"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Enforcement & investigations",
+  "Policy & specialist teams",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "financial-crime-supervision-in-the-age-of-ai",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisory staff to assess firms' financial crime controls as AI transforms both detection and criminality: from AML/CFT foundations and sanctions to AI-driven monitoring, fraud and new generative AI typologies.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Data & Supervisory Analytics"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors a firm grounding in risk-based AML/CFT, sanctions and market abuse supervision, together with the technical understanding to assess firms' use of AI to detect financial crime. Participants leave able to challenge AI-driven monitoring and screening, recognise emerging AI-enabled typologies and form evidence-based supervisory judgements.",
+  "What It Covers": "The AML/CFT framework and risk-based approach, ML/TF typologies, supervising AML/CFT controls, AI in transaction monitoring, model risk in financial crime systems, sanctions and adverse media screening, fraud and behavioural analytics, generative AI typologies, market abuse surveillance, and bias, accountability and SupTech.",
+  "Intended Audience": [
+   "AML/CFT, sanctions and financial crime supervisors and inspectors",
+   "Market surveillance, conduct and data analytics staff working on financial crime risk",
+   "Senior managers shaping the authority's financial crime strategy and use of SupTech"
+  ],
+  "Learning Objectives": [
+   "Explain the international AML/CFT framework and apply a risk-based supervisory approach",
+   "Identify ML/TF, fraud and market abuse typologies and the red flags they leave",
+   "Assess how firms use AI and machine learning in monitoring, screening and fraud detection",
+   "Evaluate model risk, explainability, bias and human oversight in financial crime AI",
+   "Challenge firms' resilience to new typologies enabled by generative AI",
+   "Design the authority's supervisory response, including its own use of SupTech"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, grouped into three pathways and delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines a technical briefing with case studies, red flags and supervisory question exercises, and pathways or individual modules can be selected or tailored to the authority's needs.",
+  "Useful Prior Knowledge and Experience": "Some experience of AML/CFT, sanctions or conduct supervision is helpful. No technical background in AI or data science is required.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "FATF, Guidance on Risk-Based Supervision (2021)",
+   "FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)",
+   "FATF, Guidance on Digital Identity (2020)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 818,
+   "number": 1,
+   "title": "The AML/CFT Framework and Risk-Based Supervision",
+   "summary": "The international foundations of AML/CFT supervision, the FATF Recommendations and mutual evaluations, and how authorities apply a risk-based approach to their populations of firms.",
+   "objectives": [
+    "Explain the FATF standards and the supervisor's role within the national AML/CFT system",
+    "Apply a risk-based approach to supervisory planning and resourcing",
+    "Describe how mutual evaluations assess supervisory effectiveness"
+   ],
+   "syllabus": [
+    "FATF Recommendations, immediate outcomes and mutual evaluations",
+    "National risk assessment, sector risk assessment and firm risk scoring",
+    "Roles of the supervisor, the national FIU and law enforcement",
+    "Regional AML frameworks and the move to supranational supervision"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 819,
+   "number": 2,
+   "title": "ML/TF Typologies and Red Flags",
+   "summary": "The main money laundering and terrorist financing typologies across banking, payments, investment and digital asset channels, and how to recognise red flags in real cases.",
+   "objectives": [
+    "Identify key ML/TF typologies across sectors and channels",
+    "Recognise red flags in customer, transaction and structural data",
+    "Determine appropriate escalation when red flags are found"
+   ],
+   "syllabus": [
+    "Placement, layering and integration in modern financial channels",
+    "Trade-based laundering, professional enablers and complex structures",
+    "Terrorist and proliferation financing typologies",
+    "Case study: tracing red flags through a laundering scheme"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 820,
+   "number": 3,
+   "title": "Supervising AML/CFT Controls in Practice",
+   "summary": "How to assess a firm's AML/CFT governance, business-wide risk assessment, due diligence and monitoring, and translate findings into consistent supervisory action.",
+   "objectives": [
+    "Assess a firm's AML/CFT governance and business-wide risk assessment",
+    "Evaluate customer due diligence, monitoring and suspicious activity reporting",
+    "Apply consistent supervisory judgement and follow-up"
+   ],
+   "syllabus": [
+    "Board oversight, the AML compliance officer and management information",
+    "Customer due diligence, enhanced due diligence and beneficial ownership",
+    "Desk-based reviews, onsite inspections and sample testing",
+    "From findings to remediation plans and enforcement referral"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 821,
+   "number": 4,
+   "title": "AI and Machine Learning in Transaction Monitoring",
+   "summary": "How firms move from rules-based to AI-driven monitoring using anomaly detection and network analytics, and the detection trade-offs supervisors should expect firms to manage.",
+   "objectives": [
+    "Explain how AI and machine learning techniques are applied to transaction monitoring",
+    "Assess claims about false-positive reduction and detection performance",
+    "Challenge whether systems are tuned for detection rather than workload"
+   ],
+   "syllabus": [
+    "Rules-based versus AI-driven monitoring: capabilities and limits",
+    "Anomaly detection, behavioural profiling and graph analytics",
+    "False positives, false negatives and reading performance metrics critically",
+    "Case study: an AI monitoring system under supervisory review"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 170,
+   "number": 5,
+   "title": "Supervising AI-Driven Financial Crime Systems",
+   "summary": "The aim of this workshop is to build participants' skills in assessing the governance, validation, and explainability of AI systems deployed by firms for AML/CFT purposes, applying supervisory judgement to model risk and human oversight controls.",
+   "objectives": [
+    "Explain model risk as it applies to AI-driven financial crime systems",
+    "Describe expectations for model validation and ongoing monitoring",
+    "Assess the explainability of an AI-driven financial crime system",
+    "Evaluate the governance framework surrounding an AI model's deployment",
+    "Formulate a supervisory assessment of an AI-driven financial crime system"
+   ],
+   "syllabus": [
+    "What model risk means for AI-driven financial crime systems",
+    "Model risk lifecycle: development, validation, deployment, monitoring",
+    "Why financial crime AI models pose distinct governance challenges",
+    "Regulatory expectations for model risk management",
+    "Facilitated discussion: model risk incidents participants have encountered",
+    "Model validation standards and independent review",
+    "Ongoing monitoring for model drift and degradation",
+    "Explainability techniques for complex models",
+    "Balancing model sophistication against explainability needs",
+    "Group exercise: assess a sample model validation report for adequacy",
+    "Governance framework expectations: ownership, sign-off, escalation",
+    "Case study: a firm's AI model governance under review",
+    "Case study: formulate a supervisory assessment of a firm's AI financial crime system",
+    "Recap: model risk, validation, explainability, governance",
+    "Reflection and discussion",
+    "Q&A"
+   ],
+   "durationValue": 3.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 10,
+   "number": 6,
+   "title": "AI, Sanctions Screening & Adverse Media Monitoring",
+   "summary": "The aim of this workshop is to build participants' understanding of how AI and natural language processing are applied to sanctions screening, PEP identification, and adverse media monitoring, and how to assess whether these tools are appropriately calibrated and effectively…",
+   "objectives": [
+    "Explain how fuzzy matching and NLP are applied to sanctions screening",
+    "Describe the challenges of PEP identification at scale",
+    "Assess the calibration of an adverse media monitoring system",
+    "Evaluate alert quality and escalation processes",
+    "Identify supervisory red flags in a firm's screening framework"
+   ],
+   "syllabus": [
+    "Fuzzy matching techniques in sanctions list screening",
+    "NLP-based approaches to name and entity matching",
+    "Challenges of PEP identification: scale, data quality, false matches",
+    "Regulatory expectations for sanctions screening effectiveness",
+    "Facilitated discussion: sanctions screening challenges from participants' own experience",
+    "How adverse media monitoring tools work",
+    "Calibrating sensitivity to avoid both under- and over-alerting",
+    "Assessing alert quality and escalation workflows",
+    "Common calibration failures",
+    "Group exercise: assess the calibration of a sample adverse media monitoring configuration",
+    "Common red flags in a firm's screening framework",
+    "Case study: a screening framework with calibration weaknesses",
+    "Case study: identify red flags and propose supervisory follow-up",
+    "Recap: fuzzy matching, PEP challenges, calibration, red flags",
+    "Reflection and discussion",
+    "Q&A"
+   ],
+   "durationValue": 3.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 86,
+   "number": 7,
+   "title": "Fraud Detection & Behavioural Analytics",
+   "summary": "The aim of this workshop is to build participants' understanding of how AI-enabled fraud detection systems operate across payments and banking channels, examining behavioural analytics and biometric techniques, and the supervisory considerations for assessing firms' fraud…",
+   "objectives": [
+    "Explain how real-time fraud scoring systems operate",
+    "Describe behavioural biometric techniques used in fraud detection",
+    "Assess common payment fraud typologies",
+    "Evaluate the adequacy of a firm's fraud control framework",
+    "Identify supervisory considerations for assessing fraud detection effectiveness"
+   ],
+   "syllabus": [
+    "How real-time fraud scoring works across payment channels",
+    "Data inputs: transaction, device, behavioural signals",
+    "Speed versus accuracy trade-offs in real-time decisioning",
+    "Regulatory expectations for fraud control frameworks",
+    "Facilitated discussion: fraud typologies observed by participants",
+    "Behavioural biometric techniques: typing patterns, device handling",
+    "Common payment fraud typologies: APP fraud, account takeover, card fraud",
+    "Strengths and limitations of biometric fraud detection",
+    "Privacy considerations in behavioural biometrics",
+    "Group exercise: map fraud typologies to appropriate detection techniques",
+    "Criteria for assessing fraud control framework adequacy",
+    "Case study: a firm's fraud control framework under review",
+    "Case study: evaluate a firm's fraud control framework and identify supervisory considerations",
+    "Recap: fraud scoring, biometrics, typologies, framework assessment",
+    "Reflection and discussion",
+    "Q&A"
+   ],
+   "durationValue": 3.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 822,
+   "number": 8,
+   "title": "Generative AI and Emerging Financial Crime Typologies",
+   "summary": "How criminals use generative AI for synthetic identities, deepfake onboarding and large-scale social engineering, and the resilience firms and supervisors need to build.",
+   "objectives": [
+    "Recognise financial crime typologies enabled by generative AI",
+    "Assess firms' identity verification and liveness controls",
+    "Challenge firms' resilience against AI-enabled social engineering"
+   ],
+   "syllabus": [
+    "Synthetic identity fraud and deepfake-enabled onboarding",
+    "Voice cloning, deepfake video and AI-generated phishing",
+    "Liveness detection, multi-factor verification and their limits",
+    "Case study: a firm targeted by a deepfake-enabled fraud"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 121,
+   "number": 9,
+   "title": "Market Abuse Detection & Surveillance",
+   "summary": "The aim of this workshop is to build participants' understanding of how market abuse is detected through surveillance systems, and how supervisors assess the adequacy of firms' own surveillance and monitoring capability.",
+   "objectives": [
+    "Explain the main categories of market abuse",
+    "Describe how trade surveillance systems detect suspicious trading patterns",
+    "Assess cross-market and cross-asset surveillance challenges",
+    "Evaluate the adequacy of a firm's surveillance framework",
+    "Formulate a supervisory assessment of a market abuse case"
+   ],
+   "syllabus": [
+    "Insider dealing, market manipulation, and unlawful disclosure",
+    "Evolving typologies: spoofing, layering, cross-market manipulation",
+    "Why market abuse undermines market integrity and confidence",
+    "The supervisor's role in market surveillance",
+    "Facilitated discussion: market abuse cases participants are aware of",
+    "How trade surveillance systems detect suspicious patterns",
+    "Alert generation, tuning, and false-positive management",
+    "Cross-market and cross-asset surveillance challenges",
+    "Data and technology requirements for effective surveillance",
+    "Group exercise: review sample surveillance alerts and assess plausibility of abuse",
+    "Criteria for assessing a firm's surveillance framework adequacy",
+    "Case study: a suspected market abuse case",
+    "Case study: formulate a supervisory assessment of a market abuse case",
+    "Recap: abuse categories, surveillance systems, framework assessment",
+    "Reflection and discussion",
+    "Q&A"
+   ],
+   "durationValue": 3.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 823,
+   "number": 10,
+   "title": "Bias, Accountability and the Authority's Own SupTech",
+   "summary": "Brings the programme together by examining fairness and accountability in financial crime AI and how the authority can use data and AI in its own supervision.",
+   "objectives": [
+    "Assess bias and discriminatory outcomes in financial crime AI, including de-risking",
+    "Evaluate audit trails and human-in-the-loop safeguards",
+    "Design priorities for the authority's financial crime SupTech"
+   ],
+   "syllabus": [
+    "Bias sources, testing methods and remediation options",
+    "Audit trails, accountability and customer impact of AI-driven decisions",
+    "SupTech for AML/CFT: risk scoring, network analysis and data sharing",
+    "Workshop: the authority's financial crime and AI action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 225,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 245,
+   "entryType": "programme",
+   "title": "Financial Crime Foundations for Regulatory Staff",
+   "summary": "An eight-module foundation programme giving regulatory staff a grounding in AML/CFT, sanctions and fraud, firms' controls and financial crime red flags.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 326,
+   "entryType": "programme",
+   "title": "The EU AML Package: AMLR, AMLD6 and AMLA (EU Edition)",
+   "summary": "An eight-module programme on the EU AML package for supervisors and firms: the AML Regulation single rulebook, AMLD6, AMLA's supervisory model, crypto-asset transfers and transition planning.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 238,
+   "entryType": "programme",
+   "title": "Enforcement and Sanctions",
+   "summary": "A ten-module programme taking enforcement and supervisory staff through the full life of an enforcement case, from triage and evidence to sanctions, settlement and cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

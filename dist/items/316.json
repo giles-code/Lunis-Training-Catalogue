@@ -1,0 +1,368 @@
+{
+ "id": 316,
+ "entryType": "programme",
+ "title": "SupTech, Data and Supervisory Analytics",
+ "summary": "A ten-module programme equipping supervisors and leaders to govern supervisory data, interrogate returns, use analytics to surface risk and build the authority's SupTech capability.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "SupTech, Data & Supervisory Analytics",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "suptech-data-and-supervisory-analytics",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisory staff and leaders to turn regulatory data into supervisory insight: building and governing the authority's data infrastructure, interrogating returns critically, and adopting SupTech tools that genuinely improve risk detection and judgement.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Data & Supervisory Analytics",
+  "Supervision"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors and managers a practical understanding of the data, infrastructure and analytical tools that underpin modern risk-based supervision, and of the governance needed to rely on them. Participants leave able to challenge the quality of the evidence behind supervisory decisions, use analytics to surface risk and shape the authority's SupTech roadmap.",
+  "What It Covers": "SupTech and the data-driven authority, supervisory data infrastructure, data governance and lineage, regulatory reporting and data collection, interrogating regulatory returns, anomaly detection and dashboards, advanced analytics and AI, SupTech use cases across functions, building SupTech capability, and governing supervisory analytics.",
+  "Intended Audience": [
+   "Supervisors and analysts who use regulatory returns, risk scores and dashboards in their day-to-day work",
+   "Data, statistics, IT and SupTech teams building the authority's data and analytics capability",
+   "Heads of department and senior managers responsible for supervisory strategy, resourcing and technology investment"
+  ],
+  "Learning Objectives": [
+   "Explain how data infrastructure and SupTech support risk-based supervision across functions",
+   "Assess the quality, lineage and governance of the data behind supervisory decisions",
+   "Apply trend, peer and anomaly analysis to interrogate regulatory returns",
+   "Evaluate advanced analytics and AI tools for supervisory use, including their limits",
+   "Assess build-versus-buy, procurement, skills and resourcing choices for SupTech",
+   "Design a phased SupTech and data roadmap for the authority"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines a briefing with case studies and practical exercises using sample data, and modules can be selected or tailored for supervisors, data teams or senior managers.",
+  "Useful Prior Knowledge and Experience": "Some experience of financial supervision or working with regulatory data is helpful. No programming or data science background is required.",
+  "Core Reading": [
+   "BIS Financial Stability Institute, Innovative Technology in Financial Supervision (Suptech): The Experience of Early Users (FSI Insights No 9, 2018)",
+   "FSB, The Use of Supervisory and Regulatory Technology by Authorities and Regulated Institutions (2020)",
+   "Basel Committee, Principles for Effective Risk Data Aggregation and Risk Reporting (BCBS 239) (2013)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1423,
+   "number": 1,
+   "title": "SupTech, RegTech and the Data-Driven Authority",
+   "summary": "What SupTech is, how it differs from firms' RegTech, and why the quality of an authority's evidence base increasingly determines the quality of its supervisory judgement.",
+   "objectives": [
+    "Explain SupTech and RegTech and how they interact",
+    "Identify the main categories of SupTech tools and their purposes",
+    "Assess realistic expectations of what SupTech can and cannot do"
+   ],
+   "syllabus": [
+    "SupTech versus RegTech: whose tools and whose data",
+    "Categories: data collection, analytics, reporting automation and surveillance",
+    "International experience: BIS, FSB and authority surveys",
+    "The link between data quality and supervisory judgement"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 29,
+   "number": 2,
+   "title": "Building Supervisory Data Infrastructure",
+   "summary": "The aim of this workshop is to build participants' understanding of the data and case-management infrastructure that underpins risk-based supervision, and to develop practical skills for evaluating and improving that infrastructure across functions.",
+   "objectives": [
+    "Explain the role of data infrastructure in risk-based supervision",
+    "Describe the components of a supervisory case-management system",
+    "Assess data integration challenges across supervisory functions",
+    "Evaluate the strengths and weaknesses of a sample data architecture",
+    "Identify priorities for improving supervisory data infrastructure"
+   ],
+   "syllabus": [
+    "The link between data quality and supervisory judgement",
+    "Core components: case management, risk scoring, document repositories",
+    "Common data infrastructure failure modes",
+    "Data infrastructure maturity models",
+    "Facilitated discussion: how data gaps have affected participants' own supervisory work",
+    "Why data silos form between authorisation, supervision and enforcement",
+    "Integrating financial crime, prudential and conduct data",
+    "Data standards and taxonomies",
+    "The cost of poor integration: duplicated effort, missed risk signals",
+    "Group exercise: map data flows across a sample authority's functions and identify silos",
+    "Evaluating a data architecture against maturity benchmarks",
+    "Prioritising improvements given resource constraints",
+    "Build versus buy considerations",
+    "Case study: a sample authority's data infrastructure",
+    "Case study: evaluate a sample architecture and propose a prioritised improvement plan",
+    "Recap: infrastructure components, integration, prioritisation",
+    "Reflection and discussion",
+    "Q&A"
+   ],
+   "durationValue": 3.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 52,
+   "number": 3,
+   "title": "Data Governance for Supervisory Decision-Making",
+   "summary": "The aim of this workshop is to build participants' understanding of data governance principles and their application to supervisory decision-making, ensuring that decisions are supported by reliable, well-governed data.",
+   "objectives": [
+    "Explain the principles of good data governance",
+    "Describe common data quality issues affecting supervisory decisions",
+    "Assess data lineage and its importance for defensible decisions",
+    "Evaluate the governance of decision-support systems",
+    "Formulate data governance improvements for a sample scenario"
+   ],
+   "syllabus": [
+    "What data governance means for a supervisory authority",
+    "Data ownership, stewardship, and accountability",
+    "Data quality dimensions: accuracy, completeness, timeliness",
+    "Consequences of poor data governance for supervisory decisions",
+    "Facilitated discussion: data quality issues participants have encountered",
+    "What data lineage is and why it matters",
+    "Tracing a supervisory decision back to its underlying data",
+    "Governance of decision-support and analytics systems",
+    "Documenting data provenance for audit and challenge",
+    "Exercise: trace the data lineage behind a sample supervisory decision",
+    "Common data governance weaknesses in supervisory authorities",
+    "Practical steps to strengthen data governance",
+    "Case study: a decision challenged due to poor data governance",
+    "Case study: propose data governance improvements for a sample authority",
+    "Recap: governance principles, lineage, applying improvements",
+    "Reflection and discussion",
+    "Q&A"
+   ],
+   "durationValue": 3.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1424,
+   "number": 4,
+   "title": "Regulatory Reporting and Data Collection",
+   "summary": "How authorities design what data they collect, in what form and how often, and the shift from template returns towards granular, standardised and machine-readable reporting.",
+   "objectives": [
+    "Explain the design choices in regulatory reporting frameworks",
+    "Assess the costs and benefits of granular and machine-readable reporting",
+    "Evaluate validation, quality checks and feedback loops with reporting firms"
+   ],
+   "syllabus": [
+    "Template returns, granular data and data-pull models",
+    "Data standards and identifiers: taxonomies, LEI and common data dictionaries",
+    "Validation rules, resubmissions and data quality feedback to firms",
+    "Reducing reporting burden while improving supervisory value"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 104,
+   "number": 5,
+   "title": "Interrogating Regulatory Returns",
+   "summary": "Learn how to interrogate regulatory returns data critically, applying trend analysis and peer comparison rather than accepting figures at face value.",
+   "objectives": [
+    "Apply trend, ratio and peer analysis to regulatory returns",
+    "Identify inconsistencies between returns, financial statements and firm narratives",
+    "Formulate targeted supervisory questions from return analysis"
+   ],
+   "syllabus": [
+    "Reading returns critically: what the numbers should and should not show",
+    "Trend analysis, ratios and peer group construction",
+    "Cross-checking returns against accounts, disclosures and other sources",
+    "Exercise: analysing a sample firm's returns and drafting follow-up questions"
+   ],
+   "durationValue": 1,
+   "durationUnit": "days"
+  },
+  {
+   "id": 1425,
+   "number": 6,
+   "title": "Anomaly Detection, Risk Scoring and Dashboards",
+   "summary": "How to build and interpret supervisory dashboards, early warning indicators and risk scores that surface anomalies for investigation without creating false confidence.",
+   "objectives": [
+    "Explain the design of early warning indicators and risk scoring models",
+    "Evaluate supervisory dashboards for clarity, relevance and decision usefulness",
+    "Assess false positives, thresholds and the role of judgement in alerts"
+   ],
+   "syllabus": [
+    "Early warning indicators and outlier detection techniques",
+    "Risk scoring models: weighting, calibration and override",
+    "Dashboard design for supervisors and senior management",
+    "Exercise: building and critiquing a sample supervisory dashboard"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1426,
+   "number": 7,
+   "title": "Advanced Analytics and AI in Supervision",
+   "summary": "The use of natural language processing, network analysis and machine learning in supervision, what these techniques add to traditional analysis, and where they fall short.",
+   "objectives": [
+    "Explain how text analytics, network analysis and machine learning are applied in supervision",
+    "Evaluate the explainability, bias and validation challenges of supervisory AI",
+    "Identify suitable and unsuitable use cases for advanced analytics"
+   ],
+   "syllabus": [
+    "Natural language processing of documents, returns and complaints",
+    "Network analysis of ownership, transactions and interconnectedness",
+    "Machine learning and generative AI for supervisory tasks",
+    "Explainability, bias and validation of supervisory models"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1427,
+   "number": 8,
+   "title": "SupTech Use Cases Across Supervisory Functions",
+   "summary": "A tour of SupTech applications across authorisation, ongoing supervision, market surveillance, financial crime and consumer protection, drawing on international case studies.",
+   "objectives": [
+    "Analyse SupTech use cases across the authority's core functions",
+    "Evaluate case studies of successful and unsuccessful SupTech projects",
+    "Identify use cases with the highest value for the authority"
+   ],
+   "syllabus": [
+    "Authorisation and fitness and propriety screening",
+    "Market surveillance and transaction reporting analytics",
+    "Financial crime, AML/CFT risk scoring and sanctions screening",
+    "Complaints, web monitoring and consumer harm detection"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1428,
+   "number": 9,
+   "title": "Building the Authority's SupTech Capability",
+   "summary": "The practical choices involved in building SupTech capability, including build versus buy, public procurement, skills, resourcing and starting with focused pilots.",
+   "objectives": [
+    "Evaluate build-versus-buy and hybrid approaches for SupTech tools",
+    "Assess the skills, roles and resourcing needed to sustain SupTech",
+    "Identify practical steps for starting or scaling a SupTech programme"
+   ],
+   "syllabus": [
+    "Build, buy and hybrid models: control, speed, cost and lock-in",
+    "Procurement considerations specific to public authorities",
+    "Data scientists, data engineers and supervisory translators",
+    "Pilots, proofs of concept and scaling what works"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1429,
+   "number": 10,
+   "title": "Governing Supervisory Analytics and the SupTech Roadmap",
+   "summary": "Brings the programme together into a governance and strategy view of supervisory analytics, including model risk, ethics, information security and a phased roadmap for the authority.",
+   "objectives": [
+    "Explain the governance, model risk and ethical considerations for supervisory analytics",
+    "Assess the authority's data and SupTech maturity against its supervisory priorities",
+    "Design a phased SupTech and data roadmap"
+   ],
+   "syllabus": [
+    "Model risk management for the authority's own tools",
+    "Confidentiality, information security and cloud use for supervisory data",
+    "Change management and embedding analytics in supervisory culture",
+    "Workshop: the authority's phased SupTech roadmap"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 325,
+   "entryType": "programme",
+   "title": "The EU AI Act and Financial Services (EU Edition)",
+   "summary": "An eight-module programme on the EU AI Act for supervisors and financial firms: risk classification, high-risk credit and insurance uses, provider and deployer duties, supervision and compliance programmes.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 200,
+   "entryType": "programme",
+   "title": "Applied AI for Supervisory Staff",
+   "summary": "An eight-module hands-on programme helping supervisory staff use generative AI and analytics tools safely and productively in everyday supervisory work.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 247,
+   "entryType": "programme",
+   "title": "Financial Crime Supervision in the Age of AI",
+   "summary": "A ten-module programme equipping supervisors to assess financial crime controls and firms' use of AI in monitoring, screening, fraud and surveillance.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

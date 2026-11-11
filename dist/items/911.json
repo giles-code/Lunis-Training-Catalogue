@@ -1,0 +1,171 @@
+{
+ "id": 911,
+ "entryType": "module",
+ "title": "The Fraud and Cyber-Enabled Crime Landscape",
+ "summary": "The scale and nature of fraud and cyber-enabled financial crime, the organised groups behind it, and why speed, volume and cross-border reach challenge traditional investigation.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Intelligence & Law Enforcement",
+ "tags": [
+  "Financial crime",
+  "Operational resilience & cyber"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Financial investigators & police",
+  "FIU analysts"
+ ],
+ "firmType": [],
+ "slug": "the-fraud-and-cyber-enabled-crime-landscape",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The scale and nature of fraud and cyber-enabled financial crime, the organised groups behind it, and why speed, volume and cross-border reach challenge traditional investigation.",
+  "Learning Objectives": [
+   "Describe the main categories of fraud and cyber-enabled financial crime",
+   "Explain the organisation and business models of fraud networks",
+   "Identify the challenges these crimes pose for investigation and prosecution"
+  ],
+  "Syllabus": [
+   "Fraud as a high-volume, organised and transnational crime",
+   "Social engineering and the industrialisation of scams",
+   "Victim and loss data: reporting, under-reporting and triage",
+   "International assessments of cyber-enabled fraud"
+  ],
+  "Intended Audience": [
+   "Fraud, economic crime and cybercrime investigators",
+   "FIU analysts handling fraud-related reports and urgent requests",
+   "Victim liaison, prevention and disruption officers working with the financial sector"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of fraud, cybercrime or financial crime investigation is helpful. No technical background in cyber security or crypto-assets is required.",
+  "Core Reading": [
+   "FATF (2023), Illicit Financial Flows from Cyber-Enabled Fraud",
+   "FATF (2023), Countering Ransomware Financing",
+   "FATF (2022), Partnering in the Fight Against Financial Crime: Data Protection, Technology and Private Sector Information Sharing",
+   "FATF (2021), Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 258,
+   "module": 1,
+   "title": "Fraud and Cyber-Enabled Financial Crime Investigations",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 911,
+     "number": 1,
+     "title": "The Fraud and Cyber-Enabled Crime Landscape"
+    },
+    {
+     "id": 912,
+     "number": 2,
+     "title": "Authorised Push Payment and Impersonation Fraud"
+    },
+    {
+     "id": 913,
+     "number": 3,
+     "title": "Investment Fraud and Online Scam Platforms"
+    },
+    {
+     "id": 914,
+     "number": 4,
+     "title": "Money Mule Networks"
+    },
+    {
+     "id": 915,
+     "number": 5,
+     "title": "Ransomware and Cyber-Enabled Proceeds"
+    },
+    {
+     "id": 916,
+     "number": 6,
+     "title": "Working with Banks and Payment Firms: Rapid Response"
+    },
+    {
+     "id": 917,
+     "number": 7,
+     "title": "Victim Support and Prevention"
+    },
+    {
+     "id": 918,
+     "number": 8,
+     "title": "Recovery, Disruption and Investigation Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 256,
+   "entryType": "programme",
+   "title": "FIU Operational and Strategic Analysis",
+   "summary": "A ten-module programme equipping FIU analysts to prioritise and analyse reports, produce operational and strategic intelligence, and cooperate effectively at home and abroad.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

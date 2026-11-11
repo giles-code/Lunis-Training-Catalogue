@@ -1,0 +1,118 @@
+{
+ "id": 88,
+ "entryType": "module",
+ "title": "Fund Liquidity Stress Testing in Practice",
+ "summary": "The aim of this workshop is to build participants' skills in applying regulatory liquidity stress-testing frameworks in practice, assessing redemption assumptions, liquidity management tools, and the adequacy of a fund's liquidity risk management.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Funds",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "fund-liquidity-stress-testing-in-practice",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in applying regulatory liquidity stress-testing frameworks in practice, assessing redemption assumptions, liquidity management tools, and the adequacy of a fund's liquidity risk management.",
+  "Intended Audience": "Junior to mid-level supervisors working in investment funds supervision.",
+  "Learning Objectives": [
+   "Explain the purpose of fund liquidity stress testing",
+   "Describe international and regional liquidity stress-testing guidance",
+   "Apply redemption modelling techniques to a sample fund",
+   "Assess the adequacy of liquidity management tools deployed by a fund",
+   "Formulate a supervisory view on a fund's liquidity stress-testing framework"
+  ],
+  "Syllabus": [
+   "Why liquidity mismatches pose systemic and investor protection risk",
+   "International and regional guidance on fund liquidity stress testing",
+   "Key components of a liquidity stress test",
+   "Regulatory reporting expectations for stress-testing results",
+   "Facilitated discussion: liquidity stress episodes participants are aware of",
+   "Modelling redemption assumptions under stress scenarios",
+   "Historical redemption behaviour versus stressed assumptions",
+   "Asset-side liquidity assessment alongside liability-side redemption modelling",
+   "Common modelling weaknesses",
+   "Exercise: apply redemption stress assumptions to a sample fund's liability profile",
+   "Liquidity management tools: swing pricing, redemption gates, suspension",
+   "Assessing whether tools are calibrated and usable in practice",
+   "Case study: a fund's liquidity stress-testing framework under review",
+   "Case study: assess a sample fund's liquidity stress-testing framework and formulate a supervisory view",
+   "Recap: purpose, guidelines, redemption modelling, liquidity tools",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Purpose of liquidity stress testing (09:30–10:45)\n- Session 2: Redemption modelling (11:00–12:30)\n- Session 3: Liquidity management tools and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Liquidity stress testing must model genuinely stressed redemption behaviour, not just historical averages\n- Liquidity management tools are only useful if they are actually usable when a fund needs them\n- Both sides of the balance sheet — asset liquidity and redemption liability — must be assessed together",
+  "Useful Prior Knowledge and Experience": "Some familiarity with investment funds is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 262,
+   "entryType": "programme",
+   "title": "Fund Regulation Country Briefings",
+   "summary": "Eleven country webinar briefings on fund vehicles, regulators, authorisation, distribution and recent developments in leading European, offshore and Asia Pacific fund markets.",
+   "level": "Intermediate",
+   "moduleCount": 11,
+   "hours": 11,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

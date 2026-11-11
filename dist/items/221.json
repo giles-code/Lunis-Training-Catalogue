@@ -1,0 +1,335 @@
+{
+ "id": 221,
+ "entryType": "programme",
+ "title": "Crypto and Blockchain Fundamentals",
+ "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Digital Assets & Blockchain",
+ "tags": [
+  "Crypto & digital assets"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 40,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "New joiners & developing staff"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "crypto-and-blockchain-fundamentals",
+ "moduleCount": 10,
+ "hoursPerModule": 4,
+ "intro": "This training programme equips supervisory staff with a working understanding of blockchain technology and the crypto-asset ecosystem, and the analytical tools to assess business models, identify red flags and supervise the sector effectively.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors a comprehensive, practical grounding in how blockchain technology works and how crypto-asset markets, products and service providers operate. Participants leave able to analyse business models and their economic function, identify the key prudential, conduct and financial crime risks, and apply risk-based judgement to digital finance scenarios.",
+  "What It Covers": "Blockchain technology, crypto-asset typology and market structure, wallets and custody, virtual asset service providers, tokenisation, stablecoins and unbacked crypto-assets, DeFi and emerging technologies, supervisory risks, financial crime and the travel rule, and digital finance strategy and policy.",
+  "Intended Audience": [
+   "Supervisors and authorisation staff responsible for, or moving into, oversight of virtual asset service providers",
+   "Risk, policy, legal and financial crime specialists working on digital finance",
+   "Senior managers shaping the authority's approach to crypto-assets and digital finance"
+  ],
+  "Learning Objectives": [
+   "Explain how blockchain and distributed ledger technology operate within digital finance",
+   "Analyse crypto-asset types and business models to determine their economic function and risk profile",
+   "Evaluate the supervisory risks of custody, tokenisation and stablecoins",
+   "Assess the activities, governance and controls of virtual asset service providers",
+   "Apply AML/CFT requirements, including the travel rule, to crypto-asset activity",
+   "Evaluate emerging trends and policy choices that balance innovation with effective risk management"
+  ],
+  "Structure and Format": "Ten modules of about four hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines technical explanation with case studies, red flags and supervisory question exercises, and modules can be selected or tailored to the authority's needs.",
+  "Useful Prior Knowledge and Experience": "Some experience of financial supervision, authorisation or financial crime work is helpful. No technical background in blockchain or crypto-assets is required.",
+  "Core Reading": [
+   "FSB, High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-Asset Activities and Markets (2023)",
+   "IOSCO, Policy Recommendations for Crypto and Digital Asset Markets (2023)",
+   "FATF, Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (2021)",
+   "Basel Committee, Prudential Treatment of Cryptoasset Exposures (2022)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 586,
+   "number": 1,
+   "title": "Foundations of Blockchain Technology",
+   "summary": "An introduction to how blockchains record and validate transactions, and the advantages, trade-offs and limitations of decentralised ledgers compared with centralised databases.",
+   "objectives": [
+    "Explain how blockchain technology operates in practice",
+    "Analyse consensus mechanisms and their implications",
+    "Evaluate technological limitations and scalability challenges"
+   ],
+   "syllabus": [
+    "Distributed ledgers: how data is recorded and validated across networks",
+    "Blocks, hashing and immutability: how cryptography protects integrity",
+    "Proof of work, proof of stake and other consensus mechanisms",
+    "Public, private and permissioned networks: use cases and limits"
+   ],
+   "durationValue": 4,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 587,
+   "number": 2,
+   "title": "Crypto-Assets and Market Structure",
+   "summary": "The typology of crypto-assets and the structure of crypto markets, following the money to understand how value is created, transferred and traded across centralised and decentralised platforms.",
+   "objectives": [
+    "Classify the main types of crypto-asset",
+    "Analyse market structures, incentives and trading dynamics",
+    "Evaluate risks associated with different market participants"
+   ],
+   "syllabus": [
+    "Cryptocurrencies, utility, governance and security tokens",
+    "Exchanges, brokers, market makers and institutional participants",
+    "Centralised exchanges versus decentralised trading platforms",
+    "Liquidity, price formation and market fragmentation risks"
+   ],
+   "durationValue": 4,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 588,
+   "number": 3,
+   "title": "Wallets, Custody and Key Management",
+   "summary": "How control of crypto-assets rests on cryptographic keys, the custody models firms use to safeguard client assets, and the operational and governance risks supervisors should test.",
+   "objectives": [
+    "Explain how private keys determine control of assets",
+    "Evaluate custody models and their risks",
+    "Assess operational and cyber risks in custody arrangements"
+   ],
+   "syllabus": [
+    "Public and private keys: how asset control works",
+    "Hot, cold, hardware, multi-signature and custodial wallets",
+    "Segregation, reconciliation and safeguarding of client assets",
+    "Key loss, hacks and system failure: lessons from custody incidents"
+   ],
+   "durationValue": 4,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 589,
+   "number": 4,
+   "title": "Virtual Asset Service Providers",
+   "summary": "The roles, activities and business models of virtual asset service providers, and the challenges of defining and policing the regulatory perimeter around them.",
+   "objectives": [
+    "Identify core service provider activities and services",
+    "Analyse business models and revenue sources in crypto markets",
+    "Assess perimeter, licensing and registration considerations"
+   ],
+   "syllabus": [
+    "Exchanges, brokers and trading platforms: operating structures",
+    "Custodians, wallet providers, issuers and token platforms",
+    "Infrastructure providers supporting crypto-asset markets",
+    "Hybrid and decentralised models: perimeter implications"
+   ],
+   "durationValue": 4,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 590,
+   "number": 5,
+   "title": "Tokenisation",
+   "summary": "How traditional financial assets are represented on distributed ledgers, the legal, operational and technological considerations involved, and the supervisory challenges as market structure evolves.",
+   "objectives": [
+    "Explain the main tokenisation models",
+    "Analyse tokenised asset and fund structures",
+    "Evaluate the legal and operational risks of tokenisation"
+   ],
+   "syllabus": [
+    "Tokenising real-world assets: equities, bonds and funds",
+    "Smart contracts governing asset behaviour and transfer restrictions",
+    "Claimed benefits: efficiency, transparency and liquidity",
+    "Legal enforceability, settlement finality and custody risks"
+   ],
+   "durationValue": 4,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 591,
+   "number": 6,
+   "title": "Stablecoins and Unbacked Crypto-Assets",
+   "summary": "The design, uses and risks of stablecoins compared with unbacked crypto-assets, with a focus on reserves, redemption and the conditions under which a peg can fail.",
+   "objectives": [
+    "Classify stablecoin types and distinguish them from unbacked crypto-assets",
+    "Evaluate reserve, liquidity and redemption risks",
+    "Assess governance, disclosure and oversight requirements"
+   ],
+   "syllabus": [
+    "Fiat-backed, crypto-collateralised and algorithmic stablecoins",
+    "Use cases in payments, trading and settlement",
+    "Reserve composition, redemption mechanics and stress scenarios",
+    "De-pegging, governance failures and transparency red flags"
+   ],
+   "durationValue": 4,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 592,
+   "number": 7,
+   "title": "DeFi and Emerging Financial Technologies",
+   "summary": "The technologies reshaping digital finance, including smart contracts, decentralised finance, interoperability and digital identity, and their implications for supervision and policy.",
+   "objectives": [
+    "Explain smart contracts and decentralised finance",
+    "Analyse interoperability and integration challenges",
+    "Evaluate the risks and opportunities of new technologies"
+   ],
+   "syllabus": [
+    "Smart contracts and automated transaction execution",
+    "DeFi protocols: lending, exchange and yield structures",
+    "Bridges, interoperability and cross-chain risk",
+    "Digital identity, on-chain credentials and AI in digital finance"
+   ],
+   "durationValue": 4,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 593,
+   "number": 8,
+   "title": "Supervisory Risks in Crypto-Assets and Digital Finance",
+   "summary": "A structured framework for identifying and assessing risks across digital finance, showing how market, operational, cyber and governance risks interact within firms and markets.",
+   "objectives": [
+    "Identify the key risk categories in digital finance",
+    "Analyse operational, cyber and governance risks in crypto firms",
+    "Evaluate market volatility and market abuse risks"
+   ],
+   "syllabus": [
+    "Market volatility, leverage and price dynamics",
+    "Operational failures, cyber threats and attack vectors",
+    "Governance and control failures: lessons from firm collapses",
+    "Market abuse and manipulation in crypto markets"
+   ],
+   "durationValue": 4,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 594,
+   "number": 9,
+   "title": "Financial Crime and AML/CFT Risks",
+   "summary": "Financial crime risks in crypto-asset markets and the application of AML/CFT frameworks, including blockchain analytics, privacy-enhancing technologies and the FATF travel rule.",
+   "objectives": [
+    "Explain AML/CFT obligations for virtual asset service providers",
+    "Apply travel rule requirements and recognise implementation challenges",
+    "Evaluate transaction monitoring and blockchain analytics tools"
+   ],
+   "syllabus": [
+    "Illicit finance typologies in crypto-asset ecosystems",
+    "Blockchain tracing and analytics: capabilities and limits",
+    "Mixers, privacy coins and privacy-enhancing technologies",
+    "FATF Recommendation 15 and the travel rule in practice"
+   ],
+   "durationValue": 4,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 595,
+   "number": 10,
+   "title": "Digital Finance Strategy and Policy",
+   "summary": "Brings the programme together to examine how tokenisation, stablecoins and DeFi affect a jurisdiction's digital finance strategy, and how authorities can balance innovation with effective risk management.",
+   "objectives": [
+    "Explain the trends shaping the future of digital finance",
+    "Compare regulatory approaches and international standards across jurisdictions",
+    "Evaluate policy options, supervisory capability and resourcing needs"
+   ],
+   "syllabus": [
+    "Comprehensive crypto-asset regimes, convergence and divergence across jurisdictions",
+    "International standards: FSB, IOSCO, FATF and the Basel Committee",
+    "Institutional adoption, stablecoins in payments and tokenised infrastructure",
+    "Workshop: balancing growth, market integrity and supervisory capability"
+   ],
+   "durationValue": 4,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 226,
+   "entryType": "programme",
+   "title": "Crypto-Asset Regulation and Supervision",
+   "summary": "An advanced twelve-module programme equipping supervisors to authorise, supervise and take action against crypto-asset firms under comprehensive regimes and international standards.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 48,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 233,
+   "entryType": "programme",
+   "title": "Digital Money: Stablecoins, Tokenised Deposits and CBDCs",
+   "summary": "A ten-module programme equipping supervisors and central bankers to assess stablecoins, tokenised deposits and CBDCs, and their risks to payments and financial stability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 282,
+   "entryType": "programme",
+   "title": "MiCA Essentials for Supervisors (EU Edition)",
+   "summary": "A six-module essentials programme giving EU national competent authority staff a practical command of MiCA, from token regimes and CASP authorisation to supervision and enforcement.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 311,
+   "entryType": "programme",
+   "title": "Supervising Crypto-Asset Service Providers under MiCA (EU Edition)",
+   "summary": "An advanced fifteen-module programme equipping EU national competent authorities to authorise and supervise crypto-asset service providers and token issuers under MiCA.",
+   "level": "Advanced",
+   "moduleCount": 15,
+   "hours": 75,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 327,
+   "entryType": "programme",
+   "title": "Tokenisation of Financial Markets",
+   "summary": "A ten-module programme equipping supervisors to assess tokenised securities, funds and collateral, DLT market infrastructure, settlement finality, custody and smart contract risk.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 297,
+   "entryType": "programme",
+   "title": "Quantum and Cryptographic Resilience",
+   "summary": "A six-module programme equipping supervisors to assess firms' exposure to quantum threats, cryptographic inventories and post-quantum migration plans, and to set proportionate expectations.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

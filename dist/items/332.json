@@ -1,0 +1,274 @@
+{
+ "id": 332,
+ "entryType": "programme",
+ "title": "Your Business Model Through the Supervisor's Lens",
+ "summary": "A one-day workshop helping boards and senior managers analyse their business model and strategy the way a supervisor does, and present it with confidence.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Regulatory Readiness",
+  "payments": "Regulatory Readiness",
+  "crypto": "Regulatory Readiness"
+ },
+ "topic": "Regulatory Readiness",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 6,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "business-model-and-strategy-through-the-supervisors-lens",
+ "moduleCount": 6,
+ "hoursPerModule": 1,
+ "intro": "This training programme equips boards and senior managers to analyse their own business model and strategy the way a risk-based supervisor does, and to explain its viability and sustainability with confidence and evidence.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Strategy",
+  "Board & Senior Leadership"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give boards and senior managers the analytical tools supervisors use to judge whether a business model is viable today and sustainable over the plan period, applied to their own firm. Participants leave able to identify their key vulnerabilities before the supervisor does, test their plans and assumptions, and present a credible account of the business model in supervisory engagement.",
+  "What It Covers": "Why supervisors analyse business models, reading the numbers, concentrations and dependencies, the business environment and competitive position, strategy, projections and stress testing, and presenting the business model to the supervisor.",
+  "Intended Audience": [
+   "Board members, chief executives and senior managers responsible for strategy and the business plan",
+   "Finance, risk and compliance staff who prepare business plans, projections and regulatory submissions",
+   "Senior managers preparing for a supervisory risk assessment or business model review"
+  ],
+  "Learning Objectives": [
+   "Explain why and how risk-based supervisors analyse business models and strategy",
+   "Interpret the firm's financial performance, capital and key ratios as a supervisor would",
+   "Identify concentrations and dependencies that could break the business model",
+   "Assess the firm's competitive position and the external environment using structured frameworks",
+   "Challenge projections and assumptions using plan-versus-outturn, scenarios and reverse stress tests",
+   "Present a clear, evidenced account of the business model and its key vulnerabilities to the supervisor"
+  ],
+  "Structure and Format": "Six modules of about one hour each, delivered as a one-day workshop in person, virtually or in a hybrid format. Each module combines a short briefing with a worked case study and an exercise applied to the participants' own firms. It can be delivered on its own or with the companion workshops on governance and supervisory interviews and on supervisory findings and remediation.",
+  "Useful Prior Knowledge and Experience": "Some familiarity with the firm's business plan and financial statements is helpful. No accounting qualification is required.",
+  "Core Reading": [
+   "IMF, Good Supervision: Lessons from the Field (Working Paper WP/23/181, 2023)",
+   "FSB, Principles for an Effective Risk Appetite Framework (2013)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1552,
+   "number": 1,
+   "title": "Why Supervisors Analyse Business Models",
+   "summary": "How strategy and business model risk fit into risk-based supervision, what supervisors want to learn and how their conclusions shape the firm's supervisory engagement.",
+   "objectives": [
+    "Explain the link between business model weakness and other risks",
+    "Describe what a supervisory business model review covers",
+    "Anticipate the questions supervisors will ask about the firm's strategy"
+   ],
+   "syllabus": [
+    "Strategy, business model and the value chain",
+    "Viability now and sustainability over the plan period",
+    "Proportionality: what prompts a deeper review",
+    "How business model findings feed risk ratings and remediation"
+   ],
+   "durationValue": 1,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1553,
+   "number": 2,
+   "title": "Reading the Numbers",
+   "summary": "The quantitative picture supervisors build from the profit and loss account, balance sheet and key risk indicators, and what the trends reveal about how the firm makes money.",
+   "objectives": [
+    "Interpret profitability, cash and capital trends",
+    "Break returns down into their drivers",
+    "Spot the numbers that will prompt supervisory questions"
+   ],
+   "syllabus": [
+    "Profit and loss: revenue mix, margins and cost base",
+    "Balance sheet: funding, capital quality and tangible net worth",
+    "Key ratios, driver trees and sector metrics",
+    "Worked example: growing, but who benefits?"
+   ],
+   "durationValue": 1,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1554,
+   "number": 3,
+   "title": "Concentrations and Dependencies",
+   "summary": "How concentrations in clients, products, distributors and counterparties, and dependence on outsourced providers and technology, can break a business model.",
+   "objectives": [
+    "Map the firm's material concentrations",
+    "Identify critical internal and external dependencies",
+    "Test what happens when a dependency fails"
+   ],
+   "syllabus": [
+    "Client, product, distribution and counterparty concentrations",
+    "Hidden shared dependencies across concentrations",
+    "Outsourcing, technology and cyber as strategic dependencies",
+    "Linking concentrations to risk appetite"
+   ],
+   "durationValue": 1,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1555,
+   "number": 4,
+   "title": "The Business Environment and Competitive Position",
+   "summary": "How supervisors assess the macro and competitive environment, and how the firm can evidence a real and durable competitive advantage.",
+   "objectives": [
+    "Apply PESTEL and five forces analysis to the firm",
+    "Test claimed competitive advantages",
+    "Assess whether the organisation can deliver the strategy"
+   ],
+   "syllabus": [
+    "PESTEL: which factors matter most for this firm",
+    "Five forces, substitution and new entrants",
+    "Portfolio choices and where the cash comes from",
+    "Testing competitive advantage and organisational alignment"
+   ],
+   "durationValue": 1,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1556,
+   "number": 5,
+   "title": "Strategy, Projections and Stress Testing",
+   "summary": "How to make the business plan credible: challenging assumptions, learning from plan versus outturn and using scenarios and reverse stress tests to find what breaks the model.",
+   "objectives": [
+    "Challenge the key assumptions behind projections",
+    "Use the firm's forecasting record to build credibility",
+    "Design scenarios and reverse stress tests for the business model"
+   ],
+   "syllabus": [
+    "Why strategies fail: poor design versus poor execution",
+    "Assumptions, sensitivities and plan versus outturn",
+    "Scenario analysis and reverse stress testing",
+    "Execution risk and capability to deliver"
+   ],
+   "durationValue": 1,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1557,
+   "number": 6,
+   "title": "Presenting Your Business Model to the Supervisor",
+   "summary": "Bringing the analysis together into an honest statement of key vulnerabilities and mitigants, and presenting it effectively in supervisory meetings and submissions.",
+   "objectives": [
+    "Summarise the firm's key vulnerabilities and mitigants",
+    "Prepare the board and management for business model discussions",
+    "Produce a business model self-assessment"
+   ],
+   "syllabus": [
+    "From analysis to key vulnerabilities",
+    "What a credible business model narrative looks like",
+    "Preparing for supervisory meetings on strategy",
+    "Workshop: a business model self-assessment on your own firm"
+   ],
+   "durationValue": 1,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 239,
+   "entryType": "programme",
+   "title": "Engaging Effectively with Your Supervisor: How Firms Are Assessed",
+   "summary": "A ten-module programme showing firms how supervisors assess business models, governance and risk, so they can see themselves as the supervisor does and engage with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 255,
+   "entryType": "programme",
+   "title": "Fit and Proper for Firms: Appointing and Assessing Key Function Holders",
+   "summary": "A nine-module programme showing firms how to appoint and assess key function holders, prepare applications and interviews, and manage fitness and certification on an ongoing basis.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 264,
+   "entryType": "programme",
+   "title": "Governance Reviews and Supervisory Interviews: Preparing Your Board and Management",
+   "summary": "A one-day workshop on how supervisors assess governance and interview directors and staff, and how licensees can evidence effective governance and prepare openly.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 6,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 299,
+   "entryType": "programme",
+   "title": "Recovery and Wind-Down Planning for Firms",
+   "summary": "An eight-module programme helping firms build credible recovery and wind-down plans, from scenarios and triggers to client asset return, testing and supervisory review.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 301,
+   "entryType": "programme",
+   "title": "Regulatory Investigations and Enforcement: Responding as a Firm",
+   "summary": "A ten-module programme showing firms how to prepare for, manage and respond to supervisory investigations and enforcement, from first information request to settlement.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 303,
+   "entryType": "programme",
+   "title": "Regulatory Readiness: Authorisation and Supervisory Engagement",
+   "summary": "A ten-module programme taking firms from licence application through to established supervision, showing how authorities assess applications and supervise new firms.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

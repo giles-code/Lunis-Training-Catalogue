@@ -1,0 +1,178 @@
+{
+ "id": 1196,
+ "entryType": "module",
+ "title": "Instant Payments, Payment Systems and Stablecoins",
+ "summary": "How instant payment systems settle in near real time, the oversight of payment system operators and access to systems, and the supervisory questions raised by stablecoins used for payments.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Payment Services",
+ "tags": [
+  "Payments"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Authorisation & licensing",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Payments & E-Money"
+ ],
+ "slug": "instant-payments-payment-systems-and-stablecoins",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Authorisations"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How instant payment systems settle in near real time, the oversight of payment system operators and access to systems, and the supervisory questions raised by stablecoins used for payments.",
+  "Learning Objectives": [
+   "Explain instant payment operation, settlement risk and liquidity demands",
+   "Assess payment system oversight and non-bank access to systems",
+   "Evaluate the risks of stablecoins and other new entrants in payments"
+  ],
+  "Syllabus": [
+   "Instant payments: settlement, liquidity and fraud implications",
+   "Payment system operator oversight and the PFMI",
+   "Direct and indirect access to payment systems for non-banks",
+   "Stablecoins in payments: reserves, redemption and run risk"
+  ],
+  "Intended Audience": [
+   "Supervisors, inspectors and authorisation staff responsible for payment institutions, e-money institutions and their agents",
+   "Payment system oversight, consumer protection and financial crime specialists",
+   "Policy staff, team leaders and heads of department responsible for payments and fintech"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of supervision or authorisation is helpful. No specialist payments or technology background is required.",
+  "Core Reading": [
+   "CPMI, Fast Payments: Enhancing the Speed and Availability of Retail Payments (2016)",
+   "FSB, Enhancing Cross-border Payments: Stage 3 Roadmap (2020)",
+   "CPMI-IOSCO, Principles for Financial Market Infrastructures (2012)",
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 289,
+   "module": 9,
+   "title": "Payment Services Supervision",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1190,
+     "number": 1,
+     "title": "The Payments Landscape and Regulatory Framework"
+    },
+    {
+     "id": 1191,
+     "number": 2,
+     "title": "Authorising Payment and E-Money Institutions"
+    },
+    {
+     "id": 156,
+     "number": 3,
+     "title": "Risk-Based Supervision of Payment Institutions"
+    },
+    {
+     "id": 1192,
+     "number": 4,
+     "title": "Safeguarding Client Funds"
+    },
+    {
+     "id": 1193,
+     "number": 5,
+     "title": "Operational, Security and ICT Risk"
+    },
+    {
+     "id": 1194,
+     "number": 6,
+     "title": "Payment Fraud and Authorised Push Payment Scams"
+    },
+    {
+     "id": 135,
+     "number": 7,
+     "title": "Open Banking and Third-Party Provider Access"
+    },
+    {
+     "id": 1195,
+     "number": 8,
+     "title": "Agents, Distributors and Financial Crime"
+    },
+    {
+     "id": 1196,
+     "number": 9,
+     "title": "Instant Payments, Payment Systems and Stablecoins"
+    },
+    {
+     "id": 1197,
+     "number": 10,
+     "title": "Early Intervention, Wind-Down and Failure"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 241,
+   "entryType": "programme",
+   "title": "EU Payments Regulation: PSD2, PSD3 and the Payment Services Regulation (EU Edition)",
+   "summary": "An eight-module programme on EU payments regulation for supervisors and firms, covering PSD2 and EMD2 today and the PSD3 and Payment Services Regulation reform package.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 233,
+   "entryType": "programme",
+   "title": "Digital Money: Stablecoins, Tokenised Deposits and CBDCs",
+   "summary": "A ten-module programme equipping supervisors and central bankers to assess stablecoins, tokenised deposits and CBDCs, and their risks to payments and financial stability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

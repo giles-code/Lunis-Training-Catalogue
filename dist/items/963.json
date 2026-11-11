@@ -1,0 +1,166 @@
+{
+ "id": 963,
+ "entryType": "module",
+ "title": "The Four Pillars of Governance",
+ "summary": "What supervisors expect from the board, senior management, the risk architecture and internal audit, and how these pillars work together, including over outsourced activities.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Regulatory Readiness",
+  "payments": "Regulatory Readiness",
+  "crypto": "Regulatory Readiness"
+ },
+ "topic": "Regulatory Readiness",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors",
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "the-four-pillars-of-governance",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Governance & Company Secretarial",
+  "Board & Senior Leadership"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What supervisors expect from the board, senior management, the risk architecture and internal audit, and how these pillars work together, including over outsourced activities.",
+  "Learning Objectives": [
+   "Assess the firm against each governance pillar",
+   "Identify gaps between documented and actual governance",
+   "Evidence oversight of outsourced and technology services"
+  ],
+  "Syllabus": [
+   "The board: composition, skills, committees and oversight",
+   "Senior management and effective delegation",
+   "Risk architecture: strategy, risk appetite, risk function and three lines",
+   "Internal audit, outsourcing and what the board still owns"
+  ],
+  "Intended Audience": [
+   "Chairs, executive and non-executive directors likely to be interviewed by the supervisor",
+   "Senior managers and control function holders in risk, compliance and internal audit",
+   "Company secretaries and governance staff who prepare board packs and coordinate supervisory visits"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of board or senior management work in a regulated firm is helpful. No prior experience of supervisory interviews is required.",
+  "Core Reading": [
+   "G20/OECD Principles of Corporate Governance (2023)",
+   "FSB, Guidance on Supervisory Interaction with Financial Institutions on Risk Culture (2014)",
+   "Amy C. Edmondson, The Fearless Organization: Creating Psychological Safety in the Workplace (2018)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 264,
+   "module": 2,
+   "title": "Governance Reviews and Supervisory Interviews: Preparing Your Board and Management",
+   "moduleCount": 6,
+   "durationValue": 6,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 962,
+     "number": 1,
+     "title": "How Supervisors Assess Governance"
+    },
+    {
+     "id": 963,
+     "number": 2,
+     "title": "The Four Pillars of Governance"
+    },
+    {
+     "id": 964,
+     "number": 3,
+     "title": "Board Packs, Board Dynamics and Decision-Making"
+    },
+    {
+     "id": 965,
+     "number": 4,
+     "title": "The Role of Interviews in Supervision"
+    },
+    {
+     "id": 966,
+     "number": 5,
+     "title": "Preparing for and Taking Part in Supervisory Interviews"
+    },
+    {
+     "id": 967,
+     "number": 6,
+     "title": "After the Visit: Findings and Follow-Up"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 239,
+   "entryType": "programme",
+   "title": "Engaging Effectively with Your Supervisor: How Firms Are Assessed",
+   "summary": "A ten-module programme showing firms how supervisors assess business models, governance and risk, so they can see themselves as the supervisor does and engage with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 255,
+   "entryType": "programme",
+   "title": "Fit and Proper for Firms: Appointing and Assessing Key Function Holders",
+   "summary": "A nine-module programme showing firms how to appoint and assess key function holders, prepare applications and interviews, and manage fitness and certification on an ongoing basis.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 299,
+   "entryType": "programme",
+   "title": "Recovery and Wind-Down Planning for Firms",
+   "summary": "An eight-module programme helping firms build credible recovery and wind-down plans, from scenarios and triggers to client asset return, testing and supervisory review.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

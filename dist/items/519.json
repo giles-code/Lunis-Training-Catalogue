@@ -1,0 +1,176 @@
+{
+ "id": 519,
+ "entryType": "module",
+ "title": "Culture, Ethics and Why Conduct Matters",
+ "summary": "What culture and conduct mean in a regulated firm, why supervisors care about them, and how everyday behaviour shapes outcomes for customers and markets.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Essentials for all staff"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1.5,
+ "durationUnit": "hours",
+ "role": [
+  "All staff",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "culture-ethics-and-why-conduct-matters",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Conduct & Culture / HR",
+  "Consumer Protection"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What culture and conduct mean in a regulated firm, why supervisors care about them, and how everyday behaviour shapes outcomes for customers and markets.",
+  "Learning Objectives": [
+   "Explain the link between culture, conduct and customer and market outcomes",
+   "Recognise the signs of healthy and unhealthy cultures",
+   "Describe what supervisors and customers expect of firms and their staff"
+  ],
+  "Syllabus": [
+   "Conduct risk in plain terms: how harm happens",
+   "Culture: tone from the top, the middle and within teams",
+   "Lessons from major conduct failures across the industry",
+   "Seeing your firm the way a supervisor does"
+  ],
+  "Intended Audience": [
+   "All staff in regulated firms, from new joiners to experienced colleagues, as induction or annual refresher training",
+   "Customer-facing, product, marketing, operations, technology and support staff whose work affects customer outcomes",
+   "Team leaders and managers who set the tone for conduct and respond when concerns are raised"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior knowledge of regulation is required. Some experience of working with customers is helpful but not essential.",
+  "Core Reading": [
+   "FSB (2018), Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors",
+   "G20/OECD (2022), High-Level Principles on Financial Consumer Protection",
+   "FSB (2014), Guidance on Supervisory Interaction with Financial Institutions on Risk Culture: A Framework for Assessing Risk Culture",
+   "ISO (2021), ISO 37002:2021 Whistleblowing Management Systems – Guidelines"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 213,
+   "module": 1,
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "moduleCount": 8,
+   "durationValue": 12,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 519,
+     "number": 1,
+     "title": "Culture, Ethics and Why Conduct Matters"
+    },
+    {
+     "id": 520,
+     "number": 2,
+     "title": "Ethical Decision-Making in Practice"
+    },
+    {
+     "id": 521,
+     "number": 3,
+     "title": "Conflicts of Interest in Everyday Work"
+    },
+    {
+     "id": 522,
+     "number": 4,
+     "title": "Treating Customers Fairly and Delivering Good Outcomes"
+    },
+    {
+     "id": 523,
+     "number": 5,
+     "title": "Clear Communication and Customer Understanding"
+    },
+    {
+     "id": 524,
+     "number": 6,
+     "title": "Customers in Vulnerable Circumstances"
+    },
+    {
+     "id": 525,
+     "number": 7,
+     "title": "Complaints: Listening, Resolving and Learning"
+    },
+    {
+     "id": 526,
+     "number": 8,
+     "title": "Speaking Up, Whistleblowing and Personal Accountability"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 281,
+   "entryType": "programme",
+   "title": "Market Conduct Essentials: Inside Information, Conflicts and Personal Dealing",
+   "summary": "A six-module foundation programme helping all staff handle inside information, personal dealing, gifts and communications correctly and avoid market abuse.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 300,
+   "entryType": "programme",
+   "title": "Regulatory Essentials for All Staff",
+   "summary": "An eight-module foundation programme giving all staff a practical understanding of regulation, conduct, financial crime awareness and their own responsibilities.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

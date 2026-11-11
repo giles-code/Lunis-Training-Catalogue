@@ -1,0 +1,116 @@
+{
+ "id": 65,
+ "entryType": "module",
+ "title": "Effective Participation in Supervisory Colleges",
+ "summary": "The aim of this workshop is to prepare participants to participate effectively in supervisory colleges, building skills in joint risk assessment and coordinated decision-making with fellow supervisors from other jurisdictions.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Cross-Cutting Themes"
+ },
+ "topic": "Cross-Border & Group Supervision",
+ "tags": [
+  "Cross-border & groups"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "effective-participation-in-supervisory-colleges",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "International & Cross-Border Affairs",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to prepare participants to participate effectively in supervisory colleges, building skills in joint risk assessment and coordinated decision-making with fellow supervisors from other jurisdictions.",
+  "Intended Audience": "Mid-to-senior supervisors involved in cross-border/group supervision and international cooperation.",
+  "Learning Objectives": [
+   "Explain the purpose and governance of supervisory colleges",
+   "Describe the typical structure and cadence of college meetings",
+   "Contribute effectively to a joint risk assessment",
+   "Apply techniques for coordinated supervisory decision-making",
+   "Identify common challenges in college dynamics and how to address them"
+  ],
+  "Syllabus": [
+   "Why supervisory colleges exist",
+   "College governance: chair, secretariat, membership",
+   "The college's role alongside home-host bilateral relationships",
+   "College outputs: joint risk assessments, joint decisions",
+   "Facilitated discussion: participants' experience of multilateral coordination",
+   "Building a shared risk picture across jurisdictions",
+   "Reconciling differing national risk assessments",
+   "Techniques for constructive challenge within a college",
+   "Producing a joint risk assessment output",
+   "Group exercise: draft a joint risk assessment section for a sample group",
+   "Reaching coordinated supervisory decisions",
+   "Managing disagreement between college members",
+   "Common challenges: unequal engagement, language, resourcing",
+   "Case study: a college facing a coordination challenge",
+   "Role-play: a college discussion requiring coordinated decision-making",
+   "Recap: college purpose, joint assessment, coordinated decisions",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Supervisory colleges: purpose and governance (09:30–10:45)\n- Session 2: Joint risk assessment in practice (11:00–12:30)\n- Session 3: Coordinated decision-making and college dynamics (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Colleges exist to build a shared risk picture that no single supervisor could construct alone\n- Effective participation requires active contribution, not passive attendance\n- Coordinated decisions are stronger and more defensible than isolated national ones",
+  "Useful Prior Knowledge and Experience": "Some familiarity with cross-border & group supervision is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 220,
+   "entryType": "programme",
+   "title": "Cross-Border and Group Supervision",
+   "summary": "An eight-module programme on home-host supervision, consolidated group oversight, MoUs, supervisory colleges, third-country firms and cross-border crisis cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 212,
+   "entryType": "programme",
+   "title": "Conduct, Culture and Behavioural Supervision",
+   "summary": "An eight-module programme on assessing conduct risk and culture in firms, using behavioural insights, data and targeted supervisory interventions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 216,
+   "entryType": "programme",
+   "title": "Consumer Protection and Financial Inclusion",
+   "summary": "A ten-module programme equipping supervisors to assess product governance, fair value, disclosure, vulnerable customer treatment, complaints and financial inclusion.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

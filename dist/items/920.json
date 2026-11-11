@@ -1,0 +1,176 @@
+{
+ "id": 920,
+ "entryType": "module",
+ "title": "Authorised Push Payment and Investment Scams",
+ "summary": "How criminals persuade customers to send money themselves, from impersonation and romance scams to fake investment platforms, and the points at which firms can intervene.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "authorised-push-payment-and-investment-scams",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Consumer Protection"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How criminals persuade customers to send money themselves, from impersonation and romance scams to fake investment platforms, and the points at which firms can intervene.",
+  "Learning Objectives": [
+   "Recognise the stages and psychology of authorised push payment scams",
+   "Identify investment, crypto-asset and impersonation scam patterns",
+   "Map intervention points across the payment journey"
+  ],
+  "Syllabus": [
+   "Impersonation, purchase, romance and invoice redirection scams",
+   "Investment and crypto-asset scams, cloned firms and fake platforms",
+   "Social engineering, coaching and why customers override warnings",
+   "Case studies: tracing a scam from first contact to cash-out"
+  ],
+  "Intended Audience": [
+   "Fraud prevention, fraud operations and investigations teams",
+   "Payments operations, customer service and complaints staff who handle suspected fraud cases",
+   "Compliance, financial crime and risk staff, and managers accountable for fraud outcomes"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of fraud, payments operations or financial crime compliance is helpful. No technical background in data analytics is required.",
+  "Core Reading": [
+   "FATF, Guidance on Digital Identity (2020)",
+   "FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)",
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "CPMI, Fast Payments: Enhancing the Speed and Availability of Retail Payments (2016)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 259,
+   "module": 2,
+   "title": "Fraud and Scams: Prevention, Detection and Response",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 919,
+     "number": 1,
+     "title": "The Fraud and Scams Landscape"
+    },
+    {
+     "id": 920,
+     "number": 2,
+     "title": "Authorised Push Payment and Investment Scams"
+    },
+    {
+     "id": 921,
+     "number": 3,
+     "title": "Account Takeover, Synthetic Identity and Deepfakes"
+    },
+    {
+     "id": 922,
+     "number": 4,
+     "title": "Insider Fraud and First-Party Fraud"
+    },
+    {
+     "id": 923,
+     "number": 5,
+     "title": "Fraud Risk Assessment and Control Design"
+    },
+    {
+     "id": 924,
+     "number": 6,
+     "title": "Transaction Monitoring and Behavioural Analytics"
+    },
+    {
+     "id": 925,
+     "number": 7,
+     "title": "Customer Warnings, Vulnerability, Reimbursement and Redress"
+    },
+    {
+     "id": 926,
+     "number": 8,
+     "title": "Data Sharing, Governance and Board Reporting"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 224,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Tracing and Controls for Compliance Teams",
+   "summary": "A nine-module programme equipping compliance teams to detect crypto-asset financial crime, use blockchain analytics, meet travel rule and sanctions obligations, and investigate and report suspicion.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 243,
+   "entryType": "programme",
+   "title": "Financial Crime Compliance in the Age of AI",
+   "summary": "A ten-module programme for MLROs and financial crime teams on the risk-based approach, AI-driven detection, AI-enabled threats and evidencing effectiveness to supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 283,
+   "entryType": "programme",
+   "title": "MLRO and Financial Crime Leadership",
+   "summary": "An eight-module programme giving MLROs and deputies the tools to lead the firm's financial crime framework, report to the board and handle supervisory inspections.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

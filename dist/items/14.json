@@ -1,0 +1,97 @@
+{
+ "id": 14,
+ "entryType": "module",
+ "title": "Anomaly Detection and Supervisory Dashboards",
+ "summary": "Learn how to build and interpret supervisory dashboards that surface anomalies for further investigation.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "SupTech, Data & Supervisory Analytics",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 1,
+ "durationUnit": "days",
+ "role": [
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "anomaly-detection-and-supervisory-dashboards",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Data & Supervisory Analytics"
+ ],
+ "contentGaps": [
+  "aimAndPurpose: expanded from a one-line catalogue summary only",
+  "learningObjectives: derived from focus-area keywords, not explicit source content",
+  "syllabus: derived from focus-area keywords, needs expansion",
+  "structureAndFormat: not specified in source catalogue",
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "duration: not stated in source catalogue; defaulted to a single full day pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "Learn how to build and interpret supervisory dashboards that surface anomalies for further investigation.",
+  "Intended Audience": "Mid-to-senior staff involved in building or using the authority's data/SupTech infrastructure.",
+  "Learning Objectives": [
+   "Understand and apply: Building and interpreting supervisory dashboards"
+  ],
+  "Syllabus": [
+   "Building and interpreting supervisory dashboards"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with suptech, data & supervisory analytics is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 316,
+   "entryType": "programme",
+   "title": "SupTech, Data and Supervisory Analytics",
+   "summary": "A ten-module programme equipping supervisors and leaders to govern supervisory data, interrogate returns, use analytics to surface risk and build the authority's SupTech capability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

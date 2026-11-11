@@ -1,0 +1,176 @@
+{
+ "id": 1263,
+ "entryType": "module",
+ "title": "Building the Cryptographic Inventory",
+ "summary": "How to discover and record where and how cryptography is used across the firm and its supply chain, who owns the inventory and how to keep it complete and decision-useful.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "Crypto & digital assets",
+  "Operational resilience & cyber"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "building-the-cryptographic-inventory",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to discover and record where and how cryptography is used across the firm and its supply chain, who owns the inventory and how to keep it complete and decision-useful.",
+  "Learning Objectives": [
+   "Design the scope, data fields and ownership of a cryptographic inventory",
+   "Combine discovery tools, architecture review and vendor information",
+   "Test the inventory for completeness, including third-party and embedded uses"
+  ],
+  "Syllabus": [
+   "Discovery tools, manual review and the cryptographic bill of materials",
+   "Data fields: algorithm, key length, location, owner and dependency",
+   "Gathering information from vendors and outsourced providers",
+   "Common gaps: partial scope, no named owner and stale records"
+  ],
+  "Intended Audience": [
+   "Chief information security officers, chief technology officers, architects and security engineering leads",
+   "Operational resilience, technology risk, third-party risk and internal audit staff",
+   "Senior managers and programme sponsors accountable for cyber, data protection and change"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of information security, technology risk or operational resilience is helpful. No knowledge of quantum physics or cryptographic mathematics is required.",
+  "Core Reading": [
+   "NIST, FIPS 203, 204 and 205: Post-Quantum Cryptography Standards (2024)",
+   "G7 Cyber Expert Group, Public Statement on Planning for the Opportunities and Risks of Quantum Computing (2024)",
+   "NIST, Cybersecurity Framework 2.0 (2024)",
+   "FSB, Enhancing Third-Party Risk Management and Oversight: A Toolkit for Financial Institutions and Financial Authorities (2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 298,
+   "module": 3,
+   "title": "Quantum and Cryptographic Resilience for Firms",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1256,
+     "number": 1,
+     "title": "Quantum Computing and the Cryptographic Threat"
+    },
+    {
+     "id": 1262,
+     "number": 2,
+     "title": "Where Cryptography Sits in Your Firm"
+    },
+    {
+     "id": 1263,
+     "number": 3,
+     "title": "Building the Cryptographic Inventory"
+    },
+    {
+     "id": 1264,
+     "number": 4,
+     "title": "Risk Assessment and Prioritisation"
+    },
+    {
+     "id": 1265,
+     "number": 5,
+     "title": "Post-Quantum Standards and Crypto-Agility"
+    },
+    {
+     "id": 1266,
+     "number": 6,
+     "title": "Planning and Running the Migration Programme"
+    },
+    {
+     "id": 1267,
+     "number": 7,
+     "title": "Vendors, Infrastructures and Digital Assets"
+    },
+    {
+     "id": 1268,
+     "number": 8,
+     "title": "Governance, Board Reporting and Supervisory Engagement"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 286,
+   "entryType": "programme",
+   "title": "Operational Resilience and Cyber Risk for Firms",
+   "summary": "A ten-module programme giving firms the tools to identify, map, test and evidence operational resilience and manage ICT, cyber and third-party risk.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 222,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals for Industry",
+   "summary": "A ten-module foundation programme giving industry professionals and their advisers a practical understanding of blockchain, crypto-asset markets and service providers, and the risks and controls that matter.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

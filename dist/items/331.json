@@ -1,0 +1,299 @@
+{
+ "id": 331,
+ "entryType": "programme",
+ "title": "Understanding Investment Funds for Policymakers",
+ "summary": "An eight-module programme giving policymakers a clear grounding in how investment funds work, how they are regulated and the policy choices they raise.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters",
+  "Parliamentarians & committee staff",
+  "Public agencies & investment promotion"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "understanding-investment-funds-for-policymakers",
+ "moduleCount": 8,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips officials who shape funds policy with a clear understanding of how investment funds work, how they are regulated, where the risks lie and what drives a competitive, well-governed funds sector.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Policy",
+  "Strategy"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give officials in finance ministries, central bank policy units and other public bodies a practical, non-technical grounding in investment funds, their role in the economy and the policy choices they raise. Participants leave able to understand industry and regulatory proposals, weigh investor protection and financial stability against growth and competitiveness, and contribute with confidence to funds policy and strategy.",
+  "What It Covers": "The purpose of investment funds and their place in the financial system, fund types, structures and strategies, parties and operations, how funds are regulated and supervised, liquidity, redemptions and fund suspensions, leverage and financial stability, taxation and the economics of a funds centre, and evaluating funds sector strategy and emerging issues.",
+  "Intended Audience": [
+   "Officials in finance ministries and treasuries responsible for financial services and capital markets policy",
+   "Policy and financial stability staff in central banks and other public bodies who work on asset management",
+   "Advisers to ministers, parliamentary committees and economic development agencies dealing with the funds sector"
+  ],
+  "Learning Objectives": [
+   "Explain what investment funds are, why investors use them and their role in the economy",
+   "Distinguish the main fund types, legal structures and investment strategies",
+   "Describe how funds operate and the roles of the manager, depositary, administrator and other parties",
+   "Explain how funds are regulated and supervised and how this differs from the role of policymakers",
+   "Assess liquidity, leverage and financial stability risks, drawing on fund suspension case studies",
+   "Evaluate the tax, competitiveness and policy factors that shape a funds sector strategy"
+  ],
+  "Structure and Format": "Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as an intensive programme over two to three days or as a series of half-day sessions. Each module combines a plain-language briefing with case studies, explainers and policy discussion, and modules can be selected or tailored to the department's policy priorities.",
+  "Useful Prior Knowledge and Experience": "Some familiarity with financial services policy is helpful. No technical background in investment or fund management is required.",
+  "Core Reading": [
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)",
+   "IOSCO, Recommendations for Liquidity Risk Management for Collective Investment Schemes (2018)",
+   "FSB, Global Monitoring Report on Non-Bank Financial Intermediation (annual)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1544,
+   "number": 1,
+   "title": "Investment Funds and Their Place in the Financial System",
+   "summary": "What an investment fund is, why savers and institutions use funds, and how the size and shape of the global funds industry has changed since the global financial crisis.",
+   "objectives": [
+    "Explain how a fund pools money and how it differs from savings and other investment products",
+    "Describe who invests in funds and why",
+    "Summarise the size, growth and cross-border nature of the funds industry"
+   ],
+   "syllabus": [
+    "Saving versus investing and the basics of shares, bonds and derivatives",
+    "What a fund is and how investors buy and redeem units",
+    "Investor base: households, pension schemes, insurers and institutions",
+    "Industry size, growth, domiciles and cross-border distribution"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1545,
+   "number": 2,
+   "title": "Fund Types, Structures and Strategies",
+   "summary": "The main families of fund and the legal forms they take, from retail and exchange-traded funds to hedge, private equity, real estate and money market funds.",
+   "objectives": [
+    "Distinguish retail and professional-investor funds, open-ended and closed-ended",
+    "Describe common legal forms and structures, including umbrella and master-feeder funds",
+    "Explain the main investment strategies and emerging asset class trends"
+   ],
+   "syllabus": [
+    "Retail and professional-investor fund product rules",
+    "Legal forms: companies, unit trusts, contractual funds and partnerships",
+    "Umbrella funds, share classes, master-feeder and fund of funds",
+    "Exchange-traded, money market, hedge, private equity, real estate and private credit funds"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1546,
+   "number": 3,
+   "title": "How Funds Work: Parties, Operations and Valuation",
+   "summary": "The fund value chain in practice: who manages, safeguards and administers a fund, how assets are valued and units priced, and how delegation and service providers create jobs and risks.",
+   "objectives": [
+    "Describe the roles of the fund manager, depositary, administrator and other parties",
+    "Explain how net asset value is calculated and units are priced",
+    "Identify where delegation and outsourcing create operational and oversight risk"
+   ],
+   "syllabus": [
+    "Fund governance: boards, management companies and investment managers",
+    "Depositaries, custody, administration and transfer agency",
+    "Valuation, net asset value and fees",
+    "Delegation, outsourcing and substance requirements"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1547,
+   "number": 4,
+   "title": "How Funds Are Regulated and Supervised",
+   "summary": "The building blocks of fund regulation, the international standards behind them, and how the responsibilities of policymakers, legislators and the supervisory authority fit together.",
+   "objectives": [
+    "Explain the objectives of fund regulation: investor protection, market integrity and stability",
+    "Describe fund manager and fund product rules and the international standards that shape them",
+    "Distinguish the roles of policymakers and supervisors and how they work together"
+   ],
+   "syllabus": [
+    "IOSCO principles and the FSB's work on asset management",
+    "Fund manager authorisation and fund product rules",
+    "Disclosure, distribution and cross-border marketing of funds",
+    "Policymaker, legislator and supervisor: roles and coordination"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1548,
+   "number": 5,
+   "title": "Liquidity, Redemptions and Fund Suspensions",
+   "summary": "Why liquidity mismatch matters, the tools funds use to manage redemptions, and what fund suspensions during market stress reveal about investor protection and wider stability.",
+   "objectives": [
+    "Explain liquidity mismatch in open-ended funds and why it matters",
+    "Describe liquidity management tools and when they are used",
+    "Draw policy lessons from case studies of fund suspensions"
+   ],
+   "syllabus": [
+    "Liquidity mismatch, first-mover advantage and fire sales",
+    "Liquidity management tools: swing pricing, anti-dilution levies, gates and suspensions",
+    "Case studies: property and other fund suspensions in market stress",
+    "International policy responses and the questions they leave for policymakers"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1549,
+   "number": 6,
+   "title": "Leverage, Interconnectedness and Financial Stability",
+   "summary": "What leverage means for an investment fund, how it is measured and disclosed, and why authorities see leverage, liquidity and interconnectedness in funds as a financial stability issue.",
+   "objectives": [
+    "Distinguish cash and synthetic leverage and give examples of each",
+    "Explain the main leverage measurement methods and their limitations",
+    "Assess financial stability concerns and the macroprudential tools available"
+   ],
+   "syllabus": [
+    "Borrowing, securities lending, repos and derivatives as sources of leverage",
+    "Gross, commitment and value-at-risk methods",
+    "Disclosure of leverage to authorities and investors",
+    "Non-bank financial intermediation, money market funds and macroprudential limits"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1550,
+   "number": 7,
+   "title": "Taxation, Competitiveness and the Economics of a Funds Centre",
+   "summary": "How tax treatment, legal infrastructure and the regulatory environment shape where funds are domiciled and serviced, and the economic value a funds sector brings.",
+   "objectives": [
+    "Explain tax neutrality and the main tax issues for funds and their investors",
+    "Identify the factors that make a jurisdiction attractive for funds and fund services",
+    "Assess the economic contribution and risks of a funds sector"
+   ],
+   "syllabus": [
+    "Tax neutrality, withholding tax and investor-level taxation",
+    "Indirect tax on fund services and the role of tax treaties",
+    "Competitiveness factors: legal structures, regulation, talent and infrastructure",
+    "Employment, service exports and reputational and concentration risks"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1551,
+   "number": 8,
+   "title": "Shaping Funds Policy: Strategy Reviews and Emerging Issues",
+   "summary": "Brings the programme together by examining how a funds sector strategy is reviewed, how policy options are weighed, and which emerging issues policymakers should prepare for.",
+   "objectives": [
+    "Evaluate an industry strategy review and its evidence base",
+    "Weigh policy options against investor protection, stability and growth objectives",
+    "Anticipate emerging issues in private markets, sustainability and technology"
+   ],
+   "syllabus": [
+    "Anatomy of a funds sector strategy review: evidence, consultation and targets",
+    "Assessing policy proposals from industry and other stakeholders",
+    "Emerging issues: private markets, sustainable funds, tokenisation and AI",
+    "Workshop: reviewing a funds sector strategy and agreeing policy priorities"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 229,
+   "entryType": "programme",
+   "title": "Developing Capital Markets and Investment Fund Industries",
+   "summary": "An eight-module programme helping policymakers develop deep, well-regulated capital markets and fund industries through credible, well-sequenced reform.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 198,
+   "entryType": "programme",
+   "title": "AI in Financial Services: Policy Choices for Government",
+   "summary": "An eight-module programme helping policymakers understand AI in financial services and make informed choices on regulation, institutional roles and national strategy.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 230,
+   "entryType": "programme",
+   "title": "Digital Assets and Blockchain: A Policy Programme for Government",
+   "summary": "An eight-module programme giving policymakers the understanding to set digital asset policy, design legislation and meet international standards on crypto-assets and stablecoins.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 235,
+   "entryType": "programme",
+   "title": "Drafting Financial Services Legislation",
+   "summary": "An eight-module programme helping legislative drafters and legal advisers design and draft effective, enforceable and technology-neutral financial services legislation.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 248,
+   "entryType": "programme",
+   "title": "Financial Crises and Public Finances: Crisis Preparedness for Government",
+   "summary": "An eight-module advanced programme preparing finance ministries and senior officials to manage financial crises, protect public finances and coordinate resolution.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

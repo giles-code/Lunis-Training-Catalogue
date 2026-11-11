@@ -1,0 +1,186 @@
+{
+ "id": 1239,
+ "entryType": "module",
+ "title": "Escalation, Breaches and Notification Decisions",
+ "summary": "How to recognise when an issue must be escalated, write an escalation note that gets a decision, and reason through whether a breach is significant enough to notify the authority.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders",
+  "All staff"
+ ],
+ "firmType": [],
+ "slug": "escalation-breaches-and-notification-decisions",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to recognise when an issue must be escalated, write an escalation note that gets a decision, and reason through whether a breach is significant enough to notify the authority.",
+  "Learning Objectives": [
+   "Identify escalation triggers and the right route in the firm",
+   "Assess the significance of a breach and the case for notification",
+   "Write an escalation note that sets out facts, risk and the decision required"
+  ],
+  "Syllabus": [
+   "Escalation triggers, routes and timing",
+   "Assessing a breach: cause, impact, customers affected and recurrence",
+   "Notification judgements and the cost of late or partial disclosure",
+   "Exercise: escalating an emerging issue to senior management"
+  ],
+  "Intended Audience": [
+   "Compliance, risk and financial crime analysts, officers and advisers in their first years in the role",
+   "Experienced control function staff moving into advisory, investigation or reporting roles who want to sharpen their judgement and writing",
+   "Business-side risk and control staff, such as first-line risk teams, who advise colleagues and escalate concerns"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of working in or alongside a compliance, risk or financial crime function is helpful. No legal qualification is required.",
+  "Core Reading": [
+   "Daniel Kahneman, Thinking, Fast and Slow (2011)",
+   "Daniel Kahneman, Olivier Sibony and Cass R. Sunstein, Noise: A Flaw in Human Judgment (2021)",
+   "Rebecca Milne and Ray Bull, Investigative Interviewing: Psychology and Practice (1999)",
+   "IOSCO, Compliance Function at Market Intermediaries (2006)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 294,
+   "module": 8,
+   "title": "Professional Judgement and Core Skills for Compliance Staff",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 1232,
+     "number": 1,
+     "title": "Professional Judgement in the Control Functions"
+    },
+    {
+     "id": 1233,
+     "number": 2,
+     "title": "Evidence, Professional Scepticism and Cognitive Bias"
+    },
+    {
+     "id": 1234,
+     "number": 3,
+     "title": "Proportionality and Prioritisation"
+    },
+    {
+     "id": 1235,
+     "number": 4,
+     "title": "Advising the Business"
+    },
+    {
+     "id": 1236,
+     "number": 5,
+     "title": "Investigative Questioning and Fact-Finding"
+    },
+    {
+     "id": 1237,
+     "number": 6,
+     "title": "Managing Difficult Conversations"
+    },
+    {
+     "id": 1238,
+     "number": 7,
+     "title": "Writing for the Board and the Regulator"
+    },
+    {
+     "id": 1239,
+     "number": 8,
+     "title": "Escalation, Breaches and Notification Decisions"
+    },
+    {
+     "id": 1240,
+     "number": 9,
+     "title": "Ethics, Independence and Integrity"
+    },
+    {
+     "id": 1241,
+     "number": 10,
+     "title": "Forming and Defending Judgements: Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 211,
+   "entryType": "programme",
+   "title": "Compliance Officer Academy",
+   "summary": "A ten-module academy giving compliance officers the tools to run an independent, risk-based compliance function and handle supervisory engagement with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 269,
+   "entryType": "programme",
+   "title": "Internal Audit in Regulated Firms",
+   "summary": "An eight-module programme giving internal auditors the tools to deliver risk-based assurance over the regulatory risks that matter most to boards and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 270,
+   "entryType": "programme",
+   "title": "Internal Investigations and Interviewing Skills",
+   "summary": "A nine-module programme giving control functions a structured method to investigate misconduct, whistleblowing reports and breaches, interview witnesses and subjects, and report findings.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

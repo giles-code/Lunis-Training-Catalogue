@@ -1,0 +1,352 @@
+{
+ "id": 232,
+ "entryType": "programme",
+ "title": "Digital Money and Tokenisation for Firms",
+ "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "Crypto & digital assets",
+  "Payments"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money",
+  "Payments & E-Money"
+ ],
+ "slug": "digital-money-and-tokenisation-for-firms",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips banks, payment firms, asset managers and market infrastructures to decide whether and how to participate in stablecoins, tokenised deposits, CBDCs and tokenised securities and funds, and to manage the risks.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Strategy"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give strategy, product, risk, compliance, treasury and operations staff a clear, vendor-neutral understanding of the new forms of digital money and tokenised assets and how they are reshaping payments, settlement and asset management. Participants leave able to test the business case, identify the legal, prudential, operational and financial crime risks, and design the governance and controls a supervisor would expect before the firm commits.",
+  "What It Covers": "The forms of digital money and the singleness of money, stablecoin design and reserves, tokenised deposits, central bank digital currencies, tokenised securities and funds, settlement and market infrastructure, legal certainty and custody, prudential and accounting treatment, financial crime and operational resilience, and building the firm's participation strategy.",
+  "Intended Audience": [
+   "Strategy, product, treasury and payments staff at banks, payment and e-money firms evaluating digital money",
+   "Asset managers, custodians, fund administrators and market infrastructure staff working on tokenisation",
+   "Compliance, risk, legal and finance professionals who must assess and control new digital money and tokenisation initiatives"
+  ],
+  "Learning Objectives": [
+   "Explain the main forms of digital money and tokenised assets and how they differ in claim, issuer and risk",
+   "Evaluate the business case for issuing, distributing, holding or settling in digital money and tokenised assets",
+   "Assess the legal, prudential, accounting and operational risks of participation",
+   "Apply financial crime, custody and resilience controls to digital money and tokenised products",
+   "Identify the international standards and supervisory expectations relevant to the firm's plans",
+   "Design a participation strategy and governance framework the firm can evidence to supervisors"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Modules combine briefings with case studies, decision frameworks and group exercises, and can be selected or tailored to banks, payment firms, asset managers or market infrastructures.",
+  "Useful Prior Knowledge and Experience": "Some experience of payments, banking, asset management or market infrastructure is helpful. No technical background in blockchain is required.",
+  "Core Reading": [
+   "BIS, Annual Economic Report 2023, Chapter III: Blueprint for the Future Monetary System",
+   "FSB, High-level Recommendations for the Regulation, Supervision and Oversight of Global Stablecoin Arrangements (2023)",
+   "FSB, The Financial Stability Implications of Tokenisation (2024)",
+   "Basel Committee, Prudential Treatment of Cryptoasset Exposures (2022)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 683,
+   "number": 1,
+   "title": "The Changing Nature of Money and Settlement",
+   "summary": "How central bank money, commercial bank money and new private digital money relate to each other, and why programmable ledgers are prompting firms to rethink payments and settlement.",
+   "objectives": [
+    "Distinguish the forms of money by issuer, claim and protection",
+    "Explain the singleness of money and why it matters to firms",
+    "Identify where tokenisation changes payments and settlement economics"
+   ],
+   "syllabus": [
+    "Central bank, commercial bank and private digital money",
+    "Singleness of money, convertibility at par and confidence",
+    "Shared ledgers, programmability and atomic settlement",
+    "The BIS and CPMI vision of a tokenised unified ledger"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 684,
+   "number": 2,
+   "title": "Stablecoins: Design, Reserves and Use Cases",
+   "summary": "How stablecoins are structured and used, what determines whether they hold their value, and the questions a firm should ask before issuing, distributing, holding or accepting them.",
+   "objectives": [
+    "Classify stablecoin designs and stabilisation mechanisms",
+    "Evaluate reserve quality, redemption rights and run risk",
+    "Assess use cases in payments, trading and cross-border settlement"
+   ],
+   "syllabus": [
+    "Single-currency, multi-asset and algorithmic designs",
+    "Reserve composition, custody, attestation and redemption",
+    "De-pegging episodes and lessons for firms",
+    "FSB recommendations on global stablecoin arrangements"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 685,
+   "number": 3,
+   "title": "Tokenised Deposits and Bank-Issued Digital Money",
+   "summary": "How banks can represent deposits on a ledger, how tokenised deposits differ from stablecoins, and the strategic, prudential and interoperability choices facing banks and their corporate clients.",
+   "objectives": [
+    "Explain how tokenised deposits work and how they differ from stablecoins",
+    "Evaluate use cases in treasury, trade finance and wholesale settlement",
+    "Assess the prudential, deposit protection and interoperability implications"
+   ],
+   "syllabus": [
+    "Tokenised deposits versus stablecoins: claim, regulation and protection",
+    "Programmable payments, corporate treasury and intraday liquidity",
+    "Interbank interoperability and settlement in central bank money",
+    "Basel Committee treatment of tokenised traditional assets"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 686,
+   "number": 4,
+   "title": "Central Bank Digital Currencies",
+   "summary": "The design choices behind retail and wholesale CBDCs, the role central banks expect intermediaries to play, and what CBDC adoption could mean for deposits, payments revenue and operations.",
+   "objectives": [
+    "Distinguish retail and wholesale CBDC models and their design choices",
+    "Identify the roles intermediaries may play in distribution and services",
+    "Assess the impact on the firm's deposits, liquidity and payments business"
+   ],
+   "syllabus": [
+    "Retail and wholesale CBDCs: purpose, architecture and privacy",
+    "Two-tier models, holding limits and intermediary obligations",
+    "Deposit disintermediation and liquidity implications",
+    "Cross-border CBDC projects and multi-currency platforms"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 687,
+   "number": 5,
+   "title": "Tokenised Securities and Funds",
+   "summary": "How bonds, equities, money market and other funds are tokenised, issued and distributed, and what tokenisation changes for asset managers, distributors, transfer agents and investors.",
+   "objectives": [
+    "Explain how securities and fund units are tokenised and issued",
+    "Evaluate the business case for asset managers and distributors",
+    "Identify investor protection and product governance issues"
+   ],
+   "syllabus": [
+    "Native digital issuance versus tokenised representations",
+    "Tokenised funds: registers, transfer agency and distribution",
+    "Tokenised money market funds as collateral and cash management",
+    "Disclosure, suitability and product governance for tokenised products"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 688,
+   "number": 6,
+   "title": "Market Infrastructure, Settlement and Interoperability",
+   "summary": "How tokenised trading, clearing and settlement work, how they interact with existing infrastructure, and the settlement finality and interoperability questions market infrastructures and their users must resolve.",
+   "objectives": [
+    "Explain on-chain trading, clearing and delivery versus payment",
+    "Assess settlement finality, cash leg and collateral mobility issues",
+    "Evaluate interoperability between tokenised and traditional infrastructure"
+   ],
+   "syllabus": [
+    "Delivery versus payment and atomic settlement on shared ledgers",
+    "The cash leg: central bank money, tokenised deposits or stablecoins",
+    "PFMI principles applied to tokenised arrangements",
+    "Bridges, messaging standards and fragmentation risk"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 689,
+   "number": 7,
+   "title": "Legal Certainty, Custody and Smart Contracts",
+   "summary": "The legal foundations that make digital money and tokenised assets work, including the nature of the holder's claim, custody and insolvency protection, and the enforceability of smart contracts.",
+   "objectives": [
+    "Assess the legal nature of tokens and the holder's rights",
+    "Evaluate custody models and insolvency protection for tokenised assets",
+    "Identify smart contract and governance risks requiring legal and technical control"
+   ],
+   "syllabus": [
+    "Legal characterisation of tokens and linkage to the underlying asset",
+    "Custody, segregation and protection in insolvency",
+    "Smart contract enforceability, upgrades and administrative keys",
+    "Permissioned versus public ledgers: control and accountability"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 690,
+   "number": 8,
+   "title": "Prudential, Accounting and Balance Sheet Treatment",
+   "summary": "How participation affects capital, liquidity, accounting and balance sheet risk, including the treatment of crypto-asset exposures and the treasury implications of holding or issuing digital money.",
+   "objectives": [
+    "Apply the Basel Committee prudential standard for crypto-asset exposures",
+    "Assess liquidity, concentration and counterparty risks of participation",
+    "Identify accounting and reporting questions before launch"
+   ],
+   "syllabus": [
+    "Basel Committee classification of tokenised assets and stablecoins",
+    "Liquidity risk, reserve investment and redemption pressure",
+    "Counterparty and concentration risk in issuers and platforms",
+    "Accounting recognition, disclosure and audit considerations"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 691,
+   "number": 9,
+   "title": "Financial Crime, Operational Resilience and Cyber Risk",
+   "summary": "The financial crime, sanctions, operational and cyber risks that digital money and tokenisation introduce, and the controls the firm needs when transactions move onto shared or public ledgers.",
+   "objectives": [
+    "Apply AML/CFT, sanctions and travel rule controls to digital money flows",
+    "Assess operational, cyber and third-party risks of ledger-based services",
+    "Design incident response and resilience arrangements for tokenised services"
+   ],
+   "syllabus": [
+    "FATF standards for stablecoins, unhosted wallets and the travel rule",
+    "Wallet screening, blockchain analytics and secondary market exposure",
+    "Key management, node operators and third-party dependency",
+    "Operational resilience and incident response for tokenised services"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 692,
+   "number": 10,
+   "title": "Building the Firm's Participation Strategy",
+   "summary": "Brings the programme together into a structured decision on whether, where and how the firm should participate, with the governance, controls and supervisory engagement needed to proceed.",
+   "objectives": [
+    "Evaluate strategic options from observer to issuer or infrastructure provider",
+    "Design governance, risk appetite and staged implementation for participation",
+    "Prepare to evidence readiness to supervisors before launch"
+   ],
+   "syllabus": [
+    "Strategic options: partner, distribute, hold, issue or operate",
+    "Business case, risk appetite and board approval",
+    "Pilots, sandboxes and engaging the authority early",
+    "Workshop: the firm's digital money and tokenisation roadmap"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 298,
+   "entryType": "programme",
+   "title": "Quantum and Cryptographic Resilience for Firms",
+   "summary": "An eight-module programme helping firms understand the quantum threat, build a cryptographic inventory, plan post-quantum migration and report readiness to the board and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 222,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals for Industry",
+   "summary": "A ten-module foundation programme giving industry professionals and their advisers a practical understanding of blockchain, crypto-asset markets and service providers, and the risks and controls that matter.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 237,
+   "entryType": "programme",
+   "title": "Embedded Finance, Open Finance and Big Tech Partnerships",
+   "summary": "A nine-module programme for firms building embedded finance, open finance and platform partnerships, covering partnership models, responsibility, partner oversight, data sharing, customer outcomes and exit.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs"
+   ]
+  },
+  {
+   "id": 328,
+   "entryType": "programme",
+   "title": "Tokenisation of Financial Markets for Firms",
+   "summary": "A ten-module programme for firms designing, launching and running tokenised securities, funds and platforms, from business case and legal structure to custody, settlement and supervisory engagement.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 192,
+   "entryType": "programme",
+   "title": "Agentic AI and Autonomous Finance for Firms",
+   "summary": "An eight-module programme helping firms deploy AI agents that act and transact with sound authority, controls, governance and customer protection.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

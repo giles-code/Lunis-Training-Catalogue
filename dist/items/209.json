@@ -1,0 +1,336 @@
+{
+ "id": 209,
+ "entryType": "programme",
+ "title": "Capital Markets and Investment Services Supervision",
+ "summary": "A ten-module programme equipping supervisors to oversee investment firms, trading venues and issuers, from client conduct and client assets to algorithmic trading and market abuse.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Services & Capital Markets",
+ "tags": [
+  "Investment services & markets"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Firms & Wealth Management",
+  "Market Infrastructure & Trading Venues"
+ ],
+ "slug": "capital-markets-and-investment-services-supervision",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisory staff to oversee investment firms and capital markets: assessing client conduct, execution and client asset protection, supervising trading venues and algorithmic trading, and detecting market abuse and misleading issuer disclosure.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Consumer Protection"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors a practical understanding of how investment firms serve clients and how securities markets trade, settle and disclose, together with the tools to assess whether conduct, controls and market integrity arrangements work in practice. Participants leave able to test firms' advice, execution and client asset arrangements, use surveillance and transaction data to identify abuse, and challenge venues and issuers with confidence.",
+  "What It Covers": "The investment services perimeter, investment firm authorisation and prudential oversight, suitability and product governance, best execution and order handling, client assets, trading venues and market infrastructure, algorithmic trading, market abuse surveillance and transaction reporting, issuer disclosure, and emerging risks in retail investing and tokenised markets.",
+  "Intended Audience": [
+   "Supervisors and inspectors responsible for brokers, investment advisers, portfolio managers and other investment firms",
+   "Market surveillance, market infrastructure and issuer disclosure staff",
+   "Policy specialists, team leaders and heads of department responsible for securities markets"
+  ],
+  "Learning Objectives": [
+   "Explain the investment services perimeter and how capital markets are structured and regulated",
+   "Assess investment firms' governance, prudential resources and conduct of business arrangements",
+   "Evaluate best execution, order handling and client asset protection using firm evidence",
+   "Challenge trading venues, infrastructures and algorithmic traders on their risk controls",
+   "Apply surveillance and transaction data to detect and respond to market abuse",
+   "Design a risk-based supervisory approach to investment firms and markets, including emerging risks"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day workshops. Each module combines a technical briefing with case studies, data and file review exercises and supervisory question sets, and modules can be selected or tailored to the authority's markets and firm population.",
+  "Useful Prior Knowledge and Experience": "Some experience of supervising investment firms or securities markets is helpful. No trading or quantitative background is required.",
+  "Core Reading": [
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "CPMI-IOSCO, Principles for Financial Market Infrastructures (2012)",
+   "IOSCO, Regulatory Issues Raised by Changes in Market Structure (2013)",
+   "IOSCO, Compliance Function at Market Intermediaries (2006)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 483,
+   "number": 1,
+   "title": "Investment Services, Capital Markets and the Perimeter",
+   "summary": "How capital markets raise and allocate capital, the investment services and activities that require authorisation, and how the IOSCO Objectives and Principles shape the supervisory framework.",
+   "objectives": [
+    "Explain primary and secondary markets and the participants in each",
+    "Identify regulated investment services, activities and financial instruments",
+    "Relate the IOSCO Objectives and Principles to the authority's supervisory approach"
+   ],
+   "syllabus": [
+    "Market participants: issuers, investors, intermediaries, venues and infrastructures",
+    "Investment services: reception and execution, dealing, advice and portfolio management",
+    "Financial instruments, derivatives and perimeter judgements",
+    "IOSCO Objectives: investor protection, fair and efficient markets, systemic risk"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 484,
+   "number": 2,
+   "title": "Authorising and Supervising Investment Firms",
+   "summary": "How the authority assesses investment firm applications and supervises firms on an ongoing basis, covering governance, fit and proper requirements, prudential resources and orderly wind-down.",
+   "objectives": [
+    "Assess an investment firm application against authorisation criteria",
+    "Evaluate governance, compliance and risk management arrangements",
+    "Judge whether capital, liquidity and wind-down planning are adequate"
+   ],
+   "syllabus": [
+    "Authorisation: business model, people, systems and controls",
+    "Governance, fit and proper assessment and the compliance function",
+    "Prudential requirements for investment firms and the risk of harm to clients and markets",
+    "Wind-down planning and orderly exit"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 485,
+   "number": 3,
+   "title": "Suitability, Appropriateness and Product Governance",
+   "summary": "How firms should understand their clients and products before advising, managing portfolios or selling complex instruments, and how supervisors test the quality of advice and distribution.",
+   "objectives": [
+    "Explain suitability, appropriateness and client categorisation requirements",
+    "Assess the quality of advice files and portfolio management suitability reviews",
+    "Evaluate product governance, target market and conflicts in distribution"
+   ],
+   "syllabus": [
+    "Client categorisation and know-your-client information",
+    "File reviews: testing suitability reports and advice quality",
+    "Product governance: manufacturer and distributor obligations and target market",
+    "Conflicts of interest and inducements in advice and distribution"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 486,
+   "number": 4,
+   "title": "Best Execution and Client Order Handling",
+   "summary": "What firms must do to obtain the best possible result for clients, how orders should be handled and allocated fairly, and how supervisors assess execution quality monitoring.",
+   "objectives": [
+    "Explain best execution and client order handling obligations",
+    "Assess execution policies, venue selection and execution quality monitoring",
+    "Identify red flags such as payment for order flow and unfair allocation"
+   ],
+   "syllabus": [
+    "Execution factors, execution policies and venue selection",
+    "Order handling, aggregation and fair allocation",
+    "Execution quality monitoring and transaction cost analysis",
+    "Payment for order flow and other conflicts in order routing"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 487,
+   "number": 5,
+   "title": "Client Assets and Client Money Protection",
+   "summary": "How investment firms must protect client money and custody assets, why failures usually surface only on insolvency, and how supervisors test segregation, reconciliation and recordkeeping.",
+   "objectives": [
+    "Explain client money and custody asset protection requirements",
+    "Assess segregation, reconciliation and third-party custody arrangements",
+    "Evaluate the firm's readiness to return client assets on failure"
+   ],
+   "syllabus": [
+    "Segregation, trust status and acknowledgement letters",
+    "Daily reconciliations, shortfalls and breaches reporting",
+    "Title transfer collateral, securities lending and sub-custody chains",
+    "Case study: client asset shortfalls in an investment firm failure"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 488,
+   "number": 6,
+   "title": "Trading Venues, Market Structure and Infrastructure",
+   "summary": "How regulated markets, multilateral and organised trading facilities and over-the-counter dealing differ, the transparency regime that supports price formation, and the supervision of central counterparties and securities depositories.",
+   "objectives": [
+    "Distinguish venue types and their authorisation and rulebook requirements",
+    "Assess pre-trade and post-trade transparency and the use of waivers",
+    "Explain the Principles for Financial Market Infrastructures and their supervisory application"
+   ],
+   "syllabus": [
+    "Regulated markets, multilateral platforms and dealing on own account",
+    "Transparency, dark trading and market fragmentation",
+    "Venue oversight: admission, rulebooks, surveillance and trading halts",
+    "Central counterparties, securities depositories and the PFMI"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 489,
+   "number": 7,
+   "title": "Algorithmic and High-Frequency Trading",
+   "summary": "How algorithmic and high-frequency trading work, the risks they pose to orderly markets, and the controls, testing and governance supervisors should expect from firms and venues.",
+   "objectives": [
+    "Explain algorithmic and high-frequency trading strategies and their market role",
+    "Assess pre-trade controls, kill-switches, testing and algorithm governance",
+    "Evaluate market-making obligations and venue-level safeguards"
+   ],
+   "syllabus": [
+    "Strategies: market making, arbitrage, execution algorithms and direct electronic access",
+    "Pre-trade risk limits, kill-switches and real-time monitoring",
+    "Algorithm inventories, testing, change management and annual self-assessment",
+    "Flash events, circuit breakers and volatility controls"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 490,
+   "number": 8,
+   "title": "Market Abuse Surveillance and Transaction Reporting",
+   "summary": "How insider dealing and market manipulation are committed and detected, how firms and venues report suspicious activity, and how transaction reporting data supports surveillance and investigation.",
+   "objectives": [
+    "Explain the main forms of insider dealing and market manipulation",
+    "Assess firms' surveillance systems and suspicious order and transaction reporting",
+    "Apply transaction reporting data to identify and escalate potential abuse"
+   ],
+   "syllabus": [
+    "Inside information, insider lists and disclosure delays",
+    "Manipulation typologies: spoofing, layering, ramping and cross-market abuse",
+    "Suspicious order and transaction reports: quality, volume and follow-up",
+    "Transaction reporting data quality and its use in surveillance"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 491,
+   "number": 9,
+   "title": "Issuer Disclosure, Prospectuses and Ongoing Transparency",
+   "summary": "What issuers must disclose when offering or listing securities and on an ongoing basis, and how the authority reviews prospectuses, periodic reports and major shareholding notifications.",
+   "objectives": [
+    "Explain prospectus and ongoing disclosure obligations for issuers",
+    "Assess the completeness and comprehensibility of a prospectus",
+    "Identify disclosure failures that signal misleading statements or abuse"
+   ],
+   "syllabus": [
+    "Public offers, admission to trading and prospectus exemptions",
+    "Prospectus review: risk factors, financial information and summaries",
+    "Periodic reporting, major holdings and ad hoc disclosure",
+    "Sustainability reporting and greenwashing in issuer disclosure"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 492,
+   "number": 10,
+   "title": "Emerging Risks and Integrated Supervisory Practice",
+   "summary": "Brings the programme together by examining digital retail investing, social media promotion and tokenised securities, and building a risk-based supervisory plan for investment firms and markets.",
+   "objectives": [
+    "Assess conduct risks from trading apps, gamification and online promotion",
+    "Explain how tokenisation and distributed ledgers affect trading and settlement",
+    "Produce a prioritised supervisory plan for investment firms and markets"
+   ],
+   "syllabus": [
+    "Trading apps, gamification and high-risk retail products",
+    "Finfluencers, unauthorised promotion and online scams",
+    "Tokenised securities and distributed ledger market infrastructure",
+    "Workshop: a risk-based supervisory plan for the sector"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 312,
+   "entryType": "programme",
+   "title": "Supervising Financial Market Infrastructures",
+   "summary": "An advanced ten-module programme equipping supervisors and overseers to apply the PFMI to trading venues, CCPs, CSDs, payment systems and trade repositories.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 221,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals",
+   "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

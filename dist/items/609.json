@@ -1,0 +1,192 @@
+{
+ "id": 609,
+ "entryType": "module",
+ "title": "Conflicts of Interest, Disclosure and White Papers",
+ "summary": "Identifying and managing the structural conflicts in multi-service crypto-asset firms, and producing white papers, marketing and client disclosures that are fair, clear and not misleading.",
+ "clientType": [
+  "firms",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes",
+  "crypto": "Sector Programmes"
+ },
+ "topic": "Sector Programmes",
+ "tags": [
+  "Crypto & digital assets"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders",
+  "Senior leaders & managers"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "conflicts-of-interest-disclosure-and-white-papers",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Identifying and managing the structural conflicts in multi-service crypto-asset firms, and producing white papers, marketing and client disclosures that are fair, clear and not misleading.",
+  "Learning Objectives": [
+   "Identify structural conflicts in combined service models and manage them",
+   "Prepare white papers and disclosures that meet content and liability standards",
+   "Review marketing communications and customer journeys for fair treatment"
+  ],
+  "Syllabus": [
+   "Conflicts in exchange, custody, market making and proprietary trading",
+   "White papers: content, accuracy, updates and responsibility",
+   "Marketing communications, risk warnings and complaints handling",
+   "Listing and admission policies and token due diligence"
+  ],
+  "Intended Audience": [
+   "Heads of compliance, compliance officers and compliance monitoring staff at crypto-asset service providers and issuers",
+   "Risk managers, MLROs, financial crime and internal audit professionals covering crypto-asset activities",
+   "Senior managers and legal staff responsible for authorisation, regulatory engagement and remediation"
+  ],
+  "Useful Prior Knowledge and Experience": "Working knowledge of crypto-assets and of compliance or risk in a regulated firm is helpful; the Crypto and Blockchain Fundamentals for Firms programme provides a suitable foundation.",
+  "Core Reading": [
+   "IOSCO, Policy Recommendations for Crypto and Digital Asset Markets (2023)",
+   "IOSCO, Policy Recommendations for Decentralized Finance (2023)",
+   "FATF, Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (2021)",
+   "FSB, High-level Recommendations for the Regulation, Supervision and Oversight of Global Stablecoin Arrangements (2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 223,
+   "module": 8,
+   "title": "Crypto-Asset Compliance Programme",
+   "moduleCount": 12,
+   "durationValue": 42,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 602,
+     "number": 1,
+     "title": "Crypto-Asset Markets and the Global Regulatory Framework"
+    },
+    {
+     "id": 603,
+     "number": 2,
+     "title": "Business Models, Perimeter and Cross-Border Operations"
+    },
+    {
+     "id": 604,
+     "number": 3,
+     "title": "Preparing a Credible Authorisation Application"
+    },
+    {
+     "id": 605,
+     "number": 4,
+     "title": "Governance, Risk Management and Internal Controls"
+    },
+    {
+     "id": 606,
+     "number": 5,
+     "title": "Prudential Resources, Recovery and Wind-Down Planning"
+    },
+    {
+     "id": 607,
+     "number": 6,
+     "title": "Custody and Safeguarding of Client Assets"
+    },
+    {
+     "id": 608,
+     "number": 7,
+     "title": "ICT Risk and Operational Resilience"
+    },
+    {
+     "id": 609,
+     "number": 8,
+     "title": "Conflicts of Interest, Disclosure and White Papers"
+    },
+    {
+     "id": 610,
+     "number": 9,
+     "title": "Market Integrity and Market Abuse Surveillance"
+    },
+    {
+     "id": 611,
+     "number": 10,
+     "title": "AML/CFT, Sanctions and the Travel Rule"
+    },
+    {
+     "id": 612,
+     "number": 11,
+     "title": "Stablecoin Issuance and Reserve Management"
+    },
+    {
+     "id": 613,
+     "number": 12,
+     "title": "Supervisory Engagement, Enforcement and Crisis Readiness"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 234,
+   "entryType": "programme",
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "summary": "An eight-module programme on DORA for supervisors and financial entities: ICT risk management, incident reporting, resilience testing and TLPT, ICT third-party risk and critical provider oversight.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 261,
+   "entryType": "programme",
+   "title": "Fund Governance and Compliance for Managers and Service Providers",
+   "summary": "A ten-module programme giving fund managers and service providers the practical tools to meet fund rules and supervisory expectations across the fund lifecycle.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 265,
+   "entryType": "programme",
+   "title": "Governance, Risk and Compliance for Market Infrastructures",
+   "summary": "A ten-module programme for boards, managers and control functions of trading venues, CCPs, CSDs and payment systems on meeting the PFMI in governance, risk, default management and recovery.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "id": 947,
+ "entryType": "module",
+ "title": "Cayman Islands and Offshore Centres",
+ "summary": "How the leading offshore fund domicile regulates hedge, private equity and other alternative funds, and how offshore funds are distributed into onshore markets.",
+ "clientType": [
+  "firms",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes",
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Funds",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Online"
+ ],
+ "durationValue": 1,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Policy & specialist teams",
+  "Boards & directors",
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "cayman-islands-and-offshore-centres",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "International & Cross-Border Affairs"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How the leading offshore fund domicile regulates hedge, private equity and other alternative funds, and how offshore funds are distributed into onshore markets.",
+  "Learning Objectives": [
+   "Describe the Cayman Islands fund vehicles and the role of the Cayman Islands Monetary Authority",
+   "Explain the registration regimes for open-ended and closed-ended funds",
+   "Assess governance, AML and substance expectations for offshore funds and their onshore distribution"
+  ],
+  "Syllabus": [
+   "Vehicles: exempted companies, segregated portfolio companies, unit trusts and exempted limited partnerships",
+   "Registration of mutual funds and private funds, audit, valuation and custody requirements",
+   "Distribution into onshore markets through private placement regimes",
+   "Recent developments: AML, beneficial ownership and economic substance, and other offshore centres"
+  ],
+  "Intended Audience": [
+   "Staff of fund managers, distributors and fund service providers planning or managing business in these jurisdictions",
+   "Compliance, legal, product and business development professionals responsible for fund ranges and market access",
+   "Staff of supervisory authorities and policy teams benchmarking their fund regime against other jurisdictions"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with investment funds and international fund regulation is helpful, for example from the global and regional briefings. No legal background is required.",
+  "Core Reading": [
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "IOSCO, Examination of Governance for Collective Investment Schemes (2006–2007)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 262,
+   "module": 5,
+   "title": "Fund Regulation Country Briefings",
+   "moduleCount": 11,
+   "durationValue": 11,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 943,
+     "number": 1,
+     "title": "Ireland and Luxembourg: The Leading EU Fund Domiciles"
+    },
+    {
+     "id": 944,
+     "number": 2,
+     "title": "United Kingdom"
+    },
+    {
+     "id": 945,
+     "number": 3,
+     "title": "Switzerland"
+    },
+    {
+     "id": 946,
+     "number": 4,
+     "title": "France and Germany"
+    },
+    {
+     "id": 947,
+     "number": 5,
+     "title": "Cayman Islands and Offshore Centres"
+    },
+    {
+     "id": 948,
+     "number": 6,
+     "title": "Hong Kong"
+    },
+    {
+     "id": 949,
+     "number": 7,
+     "title": "Mainland China"
+    },
+    {
+     "id": 950,
+     "number": 8,
+     "title": "Singapore"
+    },
+    {
+     "id": 951,
+     "number": 9,
+     "title": "Australia"
+    },
+    {
+     "id": 952,
+     "number": 10,
+     "title": "Japan"
+    },
+    {
+     "id": 953,
+     "number": 11,
+     "title": "Taiwan and South Korea"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 271,
+   "entryType": "programme",
+   "title": "International Fund Regulation: Global and Regional Briefings",
+   "summary": "A ten-module webinar series mapping international, EU and Asia Pacific fund regulation and how cross-border fund distribution, management and investment are regulated.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 10,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": 42,
+ "entryType": "module",
+ "title": "Crisis Communication for Supervisory Authorities",
+ "summary": "The aim of this workshop is to build participants' skills in communicating effectively with the public, industry, and government during a financial crisis or firm failure, building on general media communication skills with crisis-specific technique.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Crisis Management & Resolution",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Leadership & senior management",
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "crisis-communication-for-supervisory-authorities",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Crisis Management & Resolution"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in communicating effectively with the public, industry, and government during a financial crisis or firm failure, building on general media communication skills with crisis-specific technique.",
+  "Intended Audience": "Mid-to-senior staff involved in crisis preparedness, recovery, and resolution planning.",
+  "Learning Objectives": [
+   "Explain the distinct demands of crisis communication versus routine communication",
+   "Apply techniques for drafting clear public statements under time pressure",
+   "Assess the risks of premature or excessive disclosure during a crisis",
+   "Evaluate stakeholder communication needs during a crisis",
+   "Formulate a crisis communication plan for a sample scenario"
+  ],
+  "Syllabus": [
+   "Why crisis communication requires distinct skills and speed",
+   "Balancing transparency against financial stability risk",
+   "The role of the authority's spokesperson during a crisis",
+   "Learning from past crisis communication successes and failures",
+   "Facilitated discussion: crisis communication examples participants have observed",
+   "Structuring a clear, accurate public statement quickly",
+   "Avoiding common crisis communication mistakes",
+   "Managing media questions and follow-up",
+   "Coordinating messaging across multiple authorities",
+   "Exercise: draft a public statement for a simulated crisis scenario against the clock",
+   "Risks of premature or excessive disclosure during a crisis",
+   "Differentiated messaging for public, industry, and government audiences",
+   "Case study: a firm failure requiring coordinated crisis communication",
+   "Case study: formulate a full crisis communication plan for a sample scenario",
+   "Recap: crisis communication demands, drafting, disclosure risk",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: The demands of crisis communication (09:30–10:45)\n- Session 2: Drafting under pressure (11:00–12:30)\n- Session 3: Disclosure risk and stakeholder needs (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Crisis communication requires speed and clarity that routine communication practice does not train for\n- Getting the balance between transparency and financial stability right is a genuine judgement call, not a formula\n- Different stakeholder audiences need different messages delivered through coordinated channels",
+  "Useful Prior Knowledge and Experience": "Some familiarity with crisis management & resolution is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 219,
+   "entryType": "programme",
+   "title": "Crisis Management and Resolution",
+   "summary": "A ten-module programme preparing supervisors for firm and system-wide stress, from early intervention and recovery and resolution planning to crisis communication and a live simulation.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

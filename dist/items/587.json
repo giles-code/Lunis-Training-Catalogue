@@ -1,0 +1,245 @@
+{
+ "id": 587,
+ "entryType": "module",
+ "title": "Crypto-Assets and Market Structure",
+ "summary": "The typology of crypto-assets and the structure of crypto markets, following the money to understand how value is created, transferred and traded across centralised and decentralised platforms.",
+ "clientType": [
+  "firms",
+  "crypto",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Crypto and Web3",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes",
+  "firms": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Digital Assets & Blockchain",
+ "tags": [
+  "Crypto & digital assets"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 4,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "New joiners & developing staff"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "crypto-assets-and-market-structure",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The typology of crypto-assets and the structure of crypto markets, following the money to understand how value is created, transferred and traded across centralised and decentralised platforms.",
+  "Learning Objectives": [
+   "Classify the main types of crypto-asset",
+   "Analyse market structures, incentives and trading dynamics",
+   "Evaluate risks associated with different market participants"
+  ],
+  "Syllabus": [
+   "Cryptocurrencies, utility, governance and security tokens",
+   "Exchanges, brokers, market makers and institutional participants",
+   "Centralised exchanges versus decentralised trading platforms",
+   "Liquidity, price formation and market fragmentation risks"
+  ],
+  "Intended Audience": [
+   "Supervisors and authorisation staff responsible for, or moving into, oversight of virtual asset service providers",
+   "Risk, policy, legal and financial crime specialists working on digital finance",
+   "Senior managers shaping the authority's approach to crypto-assets and digital finance"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of financial supervision, authorisation or financial crime work is helpful. No technical background in blockchain or crypto-assets is required.",
+  "Core Reading": [
+   "FSB, High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-Asset Activities and Markets (2023)",
+   "IOSCO, Policy Recommendations for Crypto and Digital Asset Markets (2023)",
+   "FATF, Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (2021)",
+   "Basel Committee, Prudential Treatment of Cryptoasset Exposures (2022)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 221,
+   "module": 2,
+   "title": "Crypto and Blockchain Fundamentals",
+   "moduleCount": 10,
+   "durationValue": 40,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 586,
+     "number": 1,
+     "title": "Foundations of Blockchain Technology"
+    },
+    {
+     "id": 587,
+     "number": 2,
+     "title": "Crypto-Assets and Market Structure"
+    },
+    {
+     "id": 588,
+     "number": 3,
+     "title": "Wallets, Custody and Key Management"
+    },
+    {
+     "id": 589,
+     "number": 4,
+     "title": "Virtual Asset Service Providers"
+    },
+    {
+     "id": 590,
+     "number": 5,
+     "title": "Tokenisation"
+    },
+    {
+     "id": 591,
+     "number": 6,
+     "title": "Stablecoins and Unbacked Crypto-Assets"
+    },
+    {
+     "id": 592,
+     "number": 7,
+     "title": "DeFi and Emerging Financial Technologies"
+    },
+    {
+     "id": 593,
+     "number": 8,
+     "title": "Supervisory Risks in Crypto-Assets and Digital Finance"
+    },
+    {
+     "id": 594,
+     "number": 9,
+     "title": "Financial Crime and AML/CFT Risks"
+    },
+    {
+     "id": 595,
+     "number": 10,
+     "title": "Digital Finance Strategy and Policy"
+    }
+   ]
+  },
+  {
+   "programme": 222,
+   "module": 2,
+   "title": "Crypto and Blockchain Fundamentals for Industry",
+   "moduleCount": 10,
+   "durationValue": 40,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 586,
+     "number": 1,
+     "title": "Foundations of Blockchain Technology"
+    },
+    {
+     "id": 587,
+     "number": 2,
+     "title": "Crypto-Assets and Market Structure"
+    },
+    {
+     "id": 596,
+     "number": 3,
+     "title": "Wallets, Custody and Key Management"
+    },
+    {
+     "id": 597,
+     "number": 4,
+     "title": "Crypto-Asset Service Providers and Business Models"
+    },
+    {
+     "id": 598,
+     "number": 5,
+     "title": "Tokenisation"
+    },
+    {
+     "id": 591,
+     "number": 6,
+     "title": "Stablecoins and Unbacked Crypto-Assets"
+    },
+    {
+     "id": 599,
+     "number": 7,
+     "title": "DeFi and Emerging Financial Technologies"
+    },
+    {
+     "id": 600,
+     "number": 8,
+     "title": "Managing Risk in a Crypto-Asset Business"
+    },
+    {
+     "id": 594,
+     "number": 9,
+     "title": "Financial Crime and AML/CFT Risks"
+    },
+    {
+     "id": 601,
+     "number": 10,
+     "title": "Digital Finance Strategy and the Regulatory Outlook"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 226,
+   "entryType": "programme",
+   "title": "Crypto-Asset Regulation and Supervision",
+   "summary": "An advanced twelve-module programme equipping supervisors to authorise, supervise and take action against crypto-asset firms under comprehensive regimes and international standards.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 48,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 233,
+   "entryType": "programme",
+   "title": "Digital Money: Stablecoins, Tokenised Deposits and CBDCs",
+   "summary": "A ten-module programme equipping supervisors and central bankers to assess stablecoins, tokenised deposits and CBDCs, and their risks to payments and financial stability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

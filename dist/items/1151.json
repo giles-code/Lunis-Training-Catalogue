@@ -1,0 +1,182 @@
+{
+ "id": 1151,
+ "entryType": "module",
+ "title": "Supervision, Preventive Measures and International Cooperation",
+ "summary": "How financial and non-financial sectors are supervised for AML/CFT, the preventive measures they apply, and how the country cooperates with foreign counterparts.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters",
+  "FIU analysts",
+  "Financial investigators & police"
+ ],
+ "firmType": [],
+ "slug": "supervision-preventive-measures-and-international-cooperation",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "International & Cross-Border Affairs"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How financial and non-financial sectors are supervised for AML/CFT, the preventive measures they apply, and how the country cooperates with foreign counterparts.",
+  "Learning Objectives": [
+   "Assess risk-based supervision of financial institutions, DNFBPs and VASPs",
+   "Explain the preventive measures obliged entities must apply",
+   "Evaluate mutual legal assistance, extradition and informal cooperation"
+  ],
+  "Syllabus": [
+   "Supervisory coverage, risk-based supervision and sanctions",
+   "Customer due diligence, monitoring and reporting obligations",
+   "Lawyers, accountants, real estate, casinos and virtual asset providers",
+   "Mutual legal assistance, extradition and FIU-to-FIU exchange"
+  ],
+  "Intended Audience": [
+   "Officials in finance, justice and interior ministries who lead national AML/CFT policy and coordination",
+   "FIU directors and analysts, financial investigators, prosecutors and asset recovery officials",
+   "Members and secretariats of national AML/CFT coordination committees and mutual evaluation teams"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of AML/CFT policy, financial intelligence or law enforcement is helpful. No prior involvement in a mutual evaluation is required.",
+  "Core Reading": [
+   "FATF (2012, updated), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations",
+   "FATF (2013, updated), Methodology for Assessing Technical Compliance with the FATF Recommendations and the Effectiveness of AML/CFT Systems",
+   "FATF (2013), National Money Laundering and Terrorist Financing Risk Assessment",
+   "FATF (2023), Guidance on Beneficial Ownership of Legal Persons"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 284,
+   "module": 8,
+   "title": "National AML/CFT Strategy and FATF Mutual Evaluations",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1144,
+     "number": 1,
+     "title": "The FATF Standards and the Global Network"
+    },
+    {
+     "id": 1145,
+     "number": 2,
+     "title": "Technical Compliance and Effectiveness: The Methodology"
+    },
+    {
+     "id": 1146,
+     "number": 3,
+     "title": "National Risk Assessment"
+    },
+    {
+     "id": 1147,
+     "number": 4,
+     "title": "National Strategy, Coordination and Legal Framework"
+    },
+    {
+     "id": 1148,
+     "number": 5,
+     "title": "Beneficial Ownership Transparency and Registers"
+    },
+    {
+     "id": 1149,
+     "number": 6,
+     "title": "Financial Intelligence and the FIU"
+    },
+    {
+     "id": 1150,
+     "number": 7,
+     "title": "Investigation, Prosecution and Confiscation"
+    },
+    {
+     "id": 1151,
+     "number": 8,
+     "title": "Supervision, Preventive Measures and International Cooperation"
+    },
+    {
+     "id": 1152,
+     "number": 9,
+     "title": "Preparing for a Mutual Evaluation"
+    },
+    {
+     "id": 1153,
+     "number": 10,
+     "title": "Responding to Findings and Exiting Increased Monitoring"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 225,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

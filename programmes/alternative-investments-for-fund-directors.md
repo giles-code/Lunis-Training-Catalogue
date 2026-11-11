@@ -1,29 +1,22 @@
 ---
-id: "alternative-investments-for-fund-directors"
-slug: "alternative-investments-for-fund-directors"
+id: 199
+entryType: "programme"
 title: "Alternative Investments for Fund Directors"
 summary: "An eight-module programme explaining hedge fund, private markets, real asset, structured and digital asset strategies to fund directors, with board questions on valuation, liquidity and fees."
 intro: "This training programme equips fund directors to understand the alternative strategies and assets their funds invest in, and to ask the right questions on risk, valuation, liquidity and fees."
-format: "Programme"
-audience: ["Firms"]
-firmType: ["Investment Funds & Asset Management"]
-role: ["Boards & directors"]
-topics: ["Funds & asset management"]
-pillar: "Board & Senior Leadership"
-track: "F1. Board & Senior Leadership"
-edition: "International"
+clientType: ["firms"]
+pillar: {"firms": "Board & Senior Leadership"}
+topic: "Board & Senior Leadership"
+tags: ["Funds & asset management"]
 level: "Board level"
-moduleCount: 8
 hoursPerModule: 2.0
+deliveryFormat: ["Hybrid", "In-person", "Online"]
 durationValue: 16.0
 durationUnit: "hours"
-deliveryFormat: ["Hybrid", "In-person", "Online"]
-clientType: ["Regulated Firm"]
-businessFunction: ["Board & Senior Leadership", "Risk Management"]
-delivered: false
-bookingMode: "enquiry"
-brochure: "Alternative_Investments_for_Fund_Directors.docx"
 active: true
+role: ["Boards & directors"]
+firmType: ["Investment Funds & Asset Management"]
+businessFunction: ["Board & Senior Leadership", "Risk Management"]
 lastUpdated: "2026-10-23"
 ---
 
@@ -31,7 +24,9 @@ lastUpdated: "2026-10-23"
 
 To give directors a clear, practical understanding of how hedge fund, private markets, real asset, commodity, structured and digital asset strategies work, how they make money and how they can go wrong. Participants leave able to oversee alternative funds with confidence and challenge managers on due diligence, valuation, liquidity and fees.
 
-**Coverage:** The alternatives landscape, hedge fund strategies, private equity and venture capital, private credit, real estate and infrastructure, commodities and structured products, digital assets and tokenised funds, and the board's questions on due diligence, valuation, liquidity and fees.
+## What It Covers
+
+The alternatives landscape, hedge fund strategies, private equity and venture capital, private credit, real estate and infrastructure, commodities and structured products, digital assets and tokenised funds, and the board's questions on due diligence, valuation, liquidity and fees.
 
 ## Intended Audience
 
@@ -41,152 +36,12 @@ To give directors a clear, practical understanding of how hedge fund, private ma
 
 ## Learning Objectives
 
-By the end of the programme, participants will be able to:
-
 - Explain the main alternative asset classes and strategies, their return sources and their role in portfolios
 - Identify the distinctive investment, liquidity, leverage and operational risks of each strategy
 - Assess how alternative assets are valued and where valuation judgement is greatest
 - Evaluate fee structures, terms and alignment of interest between manager and investors
 - Challenge managers on due diligence, strategy drift and the fit between assets and dealing terms
 - Apply a board question set to the oversight of an alternative fund
-
-## Syllabus
-
-### Module 1: The Alternative Investments Landscape
-
-What makes an investment alternative, why investors allocate to alternatives, and how the growth of these strategies changes the role and risks of fund boards.
-
-**Objectives**
-
-- Define the main alternative asset classes and how they differ from traditional assets
-- Explain the return, diversification and illiquidity premium arguments for alternatives
-- Recognise the governance challenges common to alternative funds
-
-**Syllabus**
-
-- Hedge funds, private markets, real assets, commodities, structured products and digital assets
-- Return drivers, diversification claims and the illiquidity premium
-- Investor types, fund vehicles and the shift towards wider investor access
-- Why alternatives demand more of directors: opacity, leverage and judgement
-
-### Module 2: Hedge Fund Strategies
-
-How the main hedge fund strategies generate returns and where they are vulnerable, from equity long/short to macro, relative value and event-driven approaches.
-
-**Objectives**
-
-- Describe the main hedge fund strategies and their sources of return
-- Assess the leverage, liquidity and crowding risks of each strategy
-- Recognise warning signs of style drift and unsustainable performance
-
-**Syllabus**
-
-- Equity long/short, global macro, managed futures and multi-strategy funds
-- Relative value, arbitrage and event-driven strategies
-- Prime brokerage, short selling, derivatives and leverage
-- Crowded trades, deleveraging episodes and lessons for boards
-
-### Module 3: Private Equity and Venture Capital
-
-How private equity and venture funds invest, create value and return capital, and what fund directors should understand about the closed-ended model and its economics.
-
-**Objectives**
-
-- Explain the private equity fund life cycle and how value is created
-- Interpret internal rates of return, multiples and the J-curve
-- Identify the risks of leverage, concentration and long holding periods
-
-**Syllabus**
-
-- Buyout, growth and venture strategies and their risk profiles
-- Fund life cycle: commitments, capital calls, distributions and exits
-- Performance measures: IRR, multiples and their limitations
-- Secondaries, co-investment and continuation vehicles at a glance
-
-### Module 4: Private Credit
-
-How private lending strategies work, why they have grown so quickly, and the credit, valuation and liquidity questions directors should ask as default cycles turn.
-
-**Objectives**
-
-- Describe direct lending, mezzanine, distressed and asset-based finance strategies
-- Assess credit quality, covenants and the effect of payment-in-kind interest
-- Evaluate how stressed loans are identified, valued and reported
-
-**Syllabus**
-
-- Direct lending, mezzanine, distressed debt and asset-based finance
-- Underwriting, covenants, seniority and recovery rates
-- Amendments, extensions and payment-in-kind: hidden signs of stress
-- Private credit's links with banks, insurers and wider markets
-
-### Module 5: Real Assets: Real Estate and Infrastructure
-
-How real estate and infrastructure funds generate income and growth, how these assets are valued, and why liquidity and leverage need close board attention.
-
-**Objectives**
-
-- Explain core, value-add and opportunistic real estate and infrastructure strategies
-- Assess appraisal-based valuation, valuation lag and independent valuers
-- Challenge the fit between illiquid real assets and dealing terms
-
-**Syllabus**
-
-- Real estate strategies, sectors and income versus capital growth
-- Infrastructure: regulated, contracted and merchant revenue models
-- Appraisals, valuation lag and the role of independent valuers
-- Leverage, refinancing risk and open-ended property fund suspensions
-
-### Module 6: Commodities and Structured Products
-
-How investors gain exposure to commodities and how structured products package payoffs, with the counterparty, complexity and suitability risks each brings.
-
-**Objectives**
-
-- Explain commodity exposure through futures, roll yield and physical holdings
-- Describe how structured products and notes deliver their payoffs
-- Identify counterparty, complexity, pricing and suitability risks
-
-**Syllabus**
-
-- Commodity futures, contango, backwardation and roll yield
-- Structured notes, capital protection and embedded derivatives
-- Issuer and counterparty risk, pricing transparency and fair value
-- Complex products and investor understanding: the board's product governance role
-
-### Module 7: Digital Assets and Tokenised Funds
-
-How crypto-assets, stablecoins and tokenised securities enter fund portfolios and fund structures, and the custody, valuation and resilience questions they raise for directors.
-
-**Objectives**
-
-- Explain the main types of digital asset and how funds gain exposure to them
-- Assess custody, valuation, liquidity and counterparty risks specific to digital assets
-- Evaluate the opportunities and risks of tokenised fund units and distributed ledgers
-
-**Syllabus**
-
-- Crypto-assets, stablecoins and tokenised real-world assets
-- Custody models, private keys and segregation of client assets
-- Pricing sources, market fragmentation and trading venue risk
-- Tokenised fund units, on-chain registers and settlement
-
-### Module 8: Workshop: The Board's Questions on Alternatives
-
-Brings the programme together as participants apply a board question set on due diligence, valuation, liquidity and fees to an alternative fund case study.
-
-**Objectives**
-
-- Apply operational and investment due diligence questions to an alternative manager
-- Challenge valuation policy, liquidity terms and fee arrangements
-- Produce a board question set for overseeing an alternative fund
-
-**Syllabus**
-
-- Investment and operational due diligence: what good looks like
-- Valuation governance, pricing sources and level three assets
-- Liquidity terms, gates, side pockets and side letters
-- Workshop: fees, alignment and the board's question set for an alternative fund
 
 ## Structure and Format
 

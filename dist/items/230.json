@@ -1,0 +1,300 @@
+{
+ "id": 230,
+ "entryType": "programme",
+ "title": "Digital Assets and Blockchain: A Policy Programme for Government",
+ "summary": "An eight-module programme giving policymakers the understanding to set digital asset policy, design legislation and meet international standards on crypto-assets and stablecoins.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Crypto & digital assets"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters",
+  "Public agencies & investment promotion"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "digital-assets-policy-for-government",
+ "moduleCount": 8,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips ministries, legislators and public agencies to understand digital assets and blockchain, weigh their opportunities and risks, and design proportionate legislation, regulatory strategy and international positions.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Policy"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give policymakers a clear, hype-free understanding of the technology, markets and risks behind crypto-assets, stablecoins and tokenisation, and the regulatory approaches countries have taken. Participants leave able to set a national policy stance, frame legislation and perimeter decisions, ask the right questions of regulators and industry, and meet international commitments from the FSB, IOSCO and FATF.",
+  "What It Covers": "Blockchain and distributed ledger technology, the crypto-asset market and its participants, risks to consumers, markets and financial stability, regulatory approaches and international standards, stablecoins and monetary sovereignty, tokenisation of real-world assets, innovation hubs and sandboxes, financial crime and the travel rule, and legislative design.",
+  "Intended Audience": [
+   "Officials in finance ministries and treasuries developing digital asset, fintech and innovation policy",
+   "Legislative drafters, legal advisers and parliamentary committee staff working on digital asset legislation",
+   "Staff of investment promotion agencies, innovation offices and other public bodies engaging with the digital asset sector"
+  ],
+  "Learning Objectives": [
+   "Explain blockchain, crypto-assets, stablecoins and tokenisation in plain language",
+   "Assess the consumer, market integrity, financial crime and stability risks of digital assets",
+   "Compare regulatory approaches and the international standards that apply to them",
+   "Evaluate the policy implications of stablecoins and tokenised finance for the national system",
+   "Weigh the benefits and risks of innovation hubs, sandboxes and investment promotion",
+   "Design the core elements of a digital asset legislative and policy framework"
+  ],
+  "Structure and Format": "Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as an intensive programme over two to three days or as a series of half-day sessions. Each module combines a plain-language briefing with case studies and policy options analysis, ending in a legislative design workshop, and modules can be selected or tailored to the government's priorities.",
+  "Useful Prior Knowledge and Experience": "Some familiarity with financial services policy is helpful. No technical background in blockchain or computing is required.",
+  "Core Reading": [
+   "FSB (2023), Global Regulatory Framework for Crypto-Asset Activities",
+   "FSB (2023), High-level Recommendations for the Regulation, Supervision and Oversight of Global Stablecoin Arrangements",
+   "IOSCO (2023), Policy Recommendations for Crypto and Digital Asset Markets",
+   "FATF (2021), Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers",
+   "OECD (2022), Crypto-Asset Reporting Framework and Amendments to the Common Reporting Standard"
+  ]
+ },
+ "modules": [
+  {
+   "id": 665,
+   "number": 1,
+   "title": "Blockchain and Digital Assets Explained",
+   "summary": "Plain-language grounding in how distributed ledgers, cryptography, wallets and smart contracts work, and the main types of digital asset they support.",
+   "objectives": [
+    "Explain how distributed ledgers and consensus mechanisms work",
+    "Distinguish payment tokens, utility tokens, security tokens, stablecoins and NFTs",
+    "Separate genuine use cases from marketing claims"
+   ],
+   "syllabus": [
+    "Distributed ledgers, consensus, keys and wallets",
+    "Public and permissioned blockchains and smart contracts",
+    "A taxonomy of digital assets for policymakers",
+    "The vocabulary officials need: DeFi, staking, bridges, oracles and layer 2"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 666,
+   "number": 2,
+   "title": "The Crypto-Asset Market and Its Risks",
+   "summary": "How the crypto-asset market is structured, who the main participants are, and the consumer, market integrity and financial stability risks revealed by recent market failures.",
+   "objectives": [
+    "Describe exchanges, brokers, custodians, issuers and DeFi protocols",
+    "Explain the risks of conflicts of interest, commingling and market manipulation",
+    "Assess the links between crypto-asset markets and the wider financial system"
+   ],
+   "syllabus": [
+    "Market structure: centralised platforms, vertical integration and DeFi",
+    "Consumer harm: fraud, mis-selling, custody losses and platform failures",
+    "Case studies of exchange and lender collapses",
+    "Financial stability: interconnectedness and spillover channels"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 667,
+   "number": 3,
+   "title": "Regulatory Approaches and International Standards",
+   "summary": "The policy choices countries have made, from prohibition to bespoke regimes, and the international recommendations from the FSB, IOSCO, BCBS and FATF that shape national frameworks.",
+   "objectives": [
+    "Compare prohibition, existing-law, bespoke and hybrid regulatory approaches",
+    "Explain the international standards and the peer review of their implementation",
+    "Identify the gaps and arbitrage risks created by divergent national regimes"
+   ],
+   "syllabus": [
+    "Same activity, same risk, same regulation: principle and practice",
+    "FSB global framework and IOSCO policy recommendations for crypto-assets",
+    "Prudential treatment of bank crypto exposures",
+    "Regional crypto-asset regimes compared: licensing, conduct and market abuse"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 668,
+   "number": 4,
+   "title": "Stablecoins, Monetary Sovereignty and Payments",
+   "summary": "Why stablecoins matter to government, the risks they pose to monetary sovereignty, payments and financial stability, and the policy options for issuance, reserves and redemption.",
+   "objectives": [
+    "Explain how fiat-backed, asset-backed and algorithmic stablecoins work",
+    "Assess the implications for monetary policy, capital flows and payment systems",
+    "Evaluate policy options for reserve, redemption and issuer requirements"
+   ],
+   "syllabus": [
+    "Stablecoin designs and lessons from de-pegging events",
+    "Currency substitution and monetary sovereignty in smaller economies",
+    "Reserve quality, redemption rights and issuer authorisation",
+    "Stablecoins, tokenised deposits and central bank digital currencies"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 669,
+   "number": 5,
+   "title": "Tokenisation and the Future of Financial Markets",
+   "summary": "How tokenisation of securities, funds and real-world assets could change market infrastructure, and what legal and regulatory changes government may need to make to enable it safely.",
+   "objectives": [
+    "Explain tokenisation and its potential benefits for issuance, settlement and access",
+    "Identify the legal certainty issues for ownership, settlement finality and insolvency",
+    "Assess the policy case for pilot regimes and legislative change"
+   ],
+   "syllabus": [
+    "Tokenised bonds, funds and real-world assets",
+    "Distributed ledger market infrastructure and settlement assets",
+    "Legal foundations: property law, finality and custody",
+    "Pilot regimes, sandboxes and public sector issuance"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 670,
+   "number": 6,
+   "title": "Innovation Hubs, Sandboxes and Investment Promotion",
+   "summary": "How governments attract digital asset business without compromising standards, the design of innovation hubs and sandboxes, and the reputational risks of competing on light-touch regulation.",
+   "objectives": [
+    "Distinguish innovation hubs, regulatory sandboxes and accelerator programmes",
+    "Evaluate the economic case and the reputational risks of attracting digital asset firms",
+    "Define the respective roles of ministries, promotion agencies and regulators"
+   ],
+   "syllabus": [
+    "Innovation hub and sandbox design: eligibility, safeguards and exit",
+    "Attracting firms: licensing speed, standards and the race to the bottom",
+    "Case studies of financial centre strategies and their consequences",
+    "Protecting regulatory independence in investment promotion"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 671,
+   "number": 7,
+   "title": "Financial Crime, Sanctions and Tax",
+   "summary": "The money laundering, terrorist financing, sanctions and tax evasion risks of digital assets, and the government's responsibilities under FATF standards and international tax transparency frameworks.",
+   "objectives": [
+    "Explain how digital assets are used for money laundering, fraud and sanctions evasion",
+    "Describe FATF requirements for virtual assets and service providers, including the travel rule",
+    "Identify tax reporting and information exchange obligations"
+   ],
+   "syllabus": [
+    "Typologies: mixers, privacy coins, scams and ransomware",
+    "FATF Recommendation 15, VASP registration and the travel rule",
+    "Blockchain analytics and law enforcement capability",
+    "The OECD Crypto-Asset Reporting Framework and tax policy choices"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 672,
+   "number": 8,
+   "title": "Designing Digital Asset Legislation and Policy",
+   "summary": "Brings the programme together by examining how to define the perimeter, structure a licensing regime, allocate powers between authorities and plan implementation for a national digital asset framework.",
+   "objectives": [
+    "Define the regulatory perimeter and key legal definitions",
+    "Design licensing, conduct, custody and market abuse provisions and allocate supervisory powers",
+    "Produce a national digital asset policy and legislative action plan"
+   ],
+   "syllabus": [
+    "Perimeter, definitions and technology neutrality",
+    "Licensing, prudential, custody, conduct and market abuse provisions",
+    "Transitional arrangements, enforcement powers and supervisory capacity",
+    "Workshop: a national digital asset policy and legislative roadmap"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 291,
+   "entryType": "programme",
+   "title": "Payments, Digital Money and CBDCs: Policy for Government",
+   "summary": "An eight-module programme helping policymakers understand payments and digital money and make informed choices on legislation, stablecoins, CBDCs and cross-border payments.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 225,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 198,
+   "entryType": "programme",
+   "title": "AI in Financial Services: Policy Choices for Government",
+   "summary": "An eight-module programme helping policymakers understand AI in financial services and make informed choices on regulation, institutional roles and national strategy.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 229,
+   "entryType": "programme",
+   "title": "Developing Capital Markets and Investment Fund Industries",
+   "summary": "An eight-module programme helping policymakers develop deep, well-regulated capital markets and fund industries through credible, well-sequenced reform.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 235,
+   "entryType": "programme",
+   "title": "Drafting Financial Services Legislation",
+   "summary": "An eight-module programme helping legislative drafters and legal advisers design and draft effective, enforceable and technology-neutral financial services legislation.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

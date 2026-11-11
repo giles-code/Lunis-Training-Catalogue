@@ -1,0 +1,116 @@
+{
+ "id": 173,
+ "entryType": "module",
+ "title": "Supervising Investment Advice and Suitability",
+ "summary": "The aim of this workshop is to build participants' skills in supervising the quality of investment advice given to clients, including suitability assessment and product governance controls.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Services & Capital Markets",
+ "tags": [
+  "Investment services & markets"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Firms & Wealth Management",
+  "Market Infrastructure & Trading Venues"
+ ],
+ "slug": "supervising-investment-advice-and-suitability",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in supervising the quality of investment advice given to clients, including suitability assessment and product governance controls.",
+  "Intended Audience": "Junior to mid-level supervisors working in investment services/capital markets supervision.",
+  "Learning Objectives": [
+   "Explain the suitability and appropriateness assessment obligations",
+   "Describe how firms should gather and use client information",
+   "Assess the quality of a sample suitability assessment",
+   "Evaluate product governance controls supporting advice quality",
+   "Formulate a supervisory assessment of a firm's advice practice"
+  ],
+  "Syllabus": [
+   "The distinction between suitability (advice) and appropriateness (execution-only)",
+   "What information firms must gather from clients",
+   "Common failures in client information gathering",
+   "The link between suitability and product governance",
+   "Facilitated discussion: suitability failures participants have observed",
+   "Criteria for assessing whether a suitability assessment is genuine",
+   "Common red flags: template answers, mismatched risk profiles",
+   "Assessing ongoing suitability for advisory relationships",
+   "The role of file review in supervisory assessment",
+   "Group exercise: review a sample suitability assessment file for quality",
+   "Product governance controls linking target market to advice practice",
+   "Assessing whether products are being sold outside their intended target market",
+   "Case study: an advice practice under supervisory review",
+   "Case study: formulate a supervisory assessment of a firm's advice practice",
+   "Recap: suitability/appropriateness, quality assessment, product governance",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Suitability and appropriateness obligations (09:30–10:45)\n- Session 2: Assessing suitability quality (11:00–12:30)\n- Session 3: Product governance and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Genuine suitability assessment requires real client engagement, not template-driven box-ticking\n- Product governance and advice quality are two sides of the same investor protection coin\n- File review remains one of the most effective supervisory tools for assessing advice quality directly",
+  "Useful Prior Knowledge and Experience": "Some familiarity with investment services & capital markets is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 209,
+   "entryType": "programme",
+   "title": "Capital Markets and Investment Services Supervision",
+   "summary": "A ten-module programme equipping supervisors to oversee investment firms, trading venues and issuers, from client conduct and client assets to algorithmic trading and market abuse.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 312,
+   "entryType": "programme",
+   "title": "Supervising Financial Market Infrastructures",
+   "summary": "An advanced ten-module programme equipping supervisors and overseers to apply the PFMI to trading venues, CCPs, CSDs, payment systems and trade repositories.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

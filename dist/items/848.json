@@ -1,0 +1,182 @@
+{
+ "id": 848,
+ "entryType": "module",
+ "title": "Digital Payments and Crypto-Asset Evidence",
+ "summary": "Obtaining and interpreting evidence from payment firms, e-money issuers, online platforms and crypto-asset service providers, and integrating it with traditional financial records.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Intelligence & Law Enforcement",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Financial investigators & police",
+  "FIU analysts",
+  "Asset recovery, customs & tax"
+ ],
+ "firmType": [],
+ "slug": "digital-payments-and-crypto-asset-evidence",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Enforcement"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Obtaining and interpreting evidence from payment firms, e-money issuers, online platforms and crypto-asset service providers, and integrating it with traditional financial records.",
+  "Learning Objectives": [
+   "Identify the records held by payment, e-money and crypto-asset service providers",
+   "Integrate digital payment and blockchain data into the financial picture",
+   "Recognise the evidential limits of analytics outputs"
+  ],
+  "Syllabus": [
+   "Payment firms, e-money accounts and online marketplaces",
+   "Crypto-asset service provider records and blockchain tracing basics",
+   "Device, communications and other digital financial evidence",
+   "Attribution, reliability and continuity of digital evidence"
+  ],
+  "Intended Audience": [
+   "Police and agency investigators handling acquisitive, organised or economic crime",
+   "Financial investigators, intelligence analysts and FIU staff supporting investigations",
+   "Asset recovery, customs and tax investigators who trace and evidence criminal finances"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of criminal investigation, intelligence analysis or financial crime work is helpful. No accounting qualification is required.",
+  "Core Reading": [
+   "FATF (2012), Operational Issues: Financial Investigations Guidance",
+   "FATF (2012, as updated), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations",
+   "FATF and Egmont Group (2018), Concealment of Beneficial Ownership",
+   "FATF (2023), Guidance on Beneficial Ownership for Legal Persons",
+   "FATF (2018), Professional Money Laundering"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 250,
+   "module": 9,
+   "title": "Financial Investigation: Following the Money",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 840,
+     "number": 1,
+     "title": "Financial Investigation: Purpose and Principles"
+    },
+    {
+     "id": 841,
+     "number": 2,
+     "title": "Planning and Managing a Financial Investigation"
+    },
+    {
+     "id": 842,
+     "number": 3,
+     "title": "Sources of Financial Information"
+    },
+    {
+     "id": 843,
+     "number": 4,
+     "title": "Investigative Powers: Production Orders and Beyond"
+    },
+    {
+     "id": 844,
+     "number": 5,
+     "title": "Analysing Bank and Payment Records"
+    },
+    {
+     "id": 845,
+     "number": 6,
+     "title": "Cash, Value Transfer and Alternative Remittance"
+    },
+    {
+     "id": 846,
+     "number": 7,
+     "title": "Net-Worth and Source-and-Application-of-Funds Analysis"
+    },
+    {
+     "id": 847,
+     "number": 8,
+     "title": "Corporate Vehicles and Beneficial Ownership"
+    },
+    {
+     "id": 848,
+     "number": 9,
+     "title": "Digital Payments and Crypto-Asset Evidence"
+    },
+    {
+     "id": 849,
+     "number": 10,
+     "title": "Presenting Financial Findings: Investigation Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 256,
+   "entryType": "programme",
+   "title": "FIU Operational and Strategic Analysis",
+   "summary": "A ten-module programme equipping FIU analysts to prioritise and analyse reports, produce operational and strategic intelligence, and cooperate effectively at home and abroad.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 258,
+   "entryType": "programme",
+   "title": "Fraud and Cyber-Enabled Financial Crime Investigations",
+   "summary": "An eight-module programme equipping investigators and FIU analysts to tackle fraud, money mules and ransomware proceeds, working with banks and payment firms to recover funds.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

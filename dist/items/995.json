@@ -1,0 +1,185 @@
+{
+ "id": 995,
+ "entryType": "module",
+ "title": "Directors' Duties in a Regulated Firm",
+ "summary": "The legal duties every director owes, how regulation adds to them, and the distinct roles of the chair, executive and non-executive directors.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "directors-duties-in-a-regulated-firm",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The legal duties every director owes, how regulation adds to them, and the distinct roles of the chair, executive and non-executive directors.",
+  "Learning Objectives": [
+   "Explain the core fiduciary and statutory duties of directors",
+   "Distinguish the roles of chair, executive and non-executive directors",
+   "Recognise how regulatory obligations extend directors' responsibilities"
+  ],
+  "Syllabus": [
+   "Duties of care, skill, diligence, loyalty and independent judgement",
+   "Collective board responsibility and individual accountability",
+   "Conflicts of interest and related-party matters",
+   "Group structures: duties to the firm versus the parent"
+  ],
+  "Intended Audience": [
+   "Newly appointed non-executive, independent and executive directors of regulated firms",
+   "Directors moving into financial services from other sectors, or into a new type of regulated firm",
+   "Senior managers preparing for board appointment or approval by the authority"
+  ],
+  "Useful Prior Knowledge and Experience": "Senior management or board experience is helpful. No prior experience of financial services regulation is required.",
+  "Core Reading": [
+   "G20/OECD Principles of Corporate Governance (2023)",
+   "Basel Committee, Corporate Governance Principles for Banks (2015)",
+   "FSB, Principles for an Effective Risk Appetite Framework (2013)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 268,
+   "module": 1,
+   "title": "Induction for Directors of Regulated Firms",
+   "moduleCount": 10,
+   "durationValue": 20,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 995,
+     "number": 1,
+     "title": "Directors' Duties in a Regulated Firm"
+    },
+    {
+     "id": 996,
+     "number": 2,
+     "title": "The Regulatory System and Supervisory Expectations of Boards"
+    },
+    {
+     "id": 997,
+     "number": 3,
+     "title": "Fitness and Propriety"
+    },
+    {
+     "id": 998,
+     "number": 4,
+     "title": "Senior Manager Accountability"
+    },
+    {
+     "id": 999,
+     "number": 5,
+     "title": "The Firm's Business Model and Risk Profile"
+    },
+    {
+     "id": 1000,
+     "number": 6,
+     "title": "Prudential Basics: Capital and Liquidity"
+    },
+    {
+     "id": 1001,
+     "number": 7,
+     "title": "Conduct and Consumer Outcomes"
+    },
+    {
+     "id": 1002,
+     "number": 8,
+     "title": "Financial Crime"
+    },
+    {
+     "id": 1003,
+     "number": 9,
+     "title": "Governance, Committees and Board Information"
+    },
+    {
+     "id": 1004,
+     "number": 10,
+     "title": "Personal Liability, Protection and Induction Plan"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 236,
+   "entryType": "programme",
+   "title": "Effective Governance for Boards and Directors",
+   "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+   "level": "Board level",
+   "moduleCount": 12,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

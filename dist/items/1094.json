@@ -1,0 +1,175 @@
+{
+ "id": 1094,
+ "entryType": "module",
+ "title": "Authorisation Scope, Permissions and the Perimeter",
+ "summary": "How investment services and financial instruments are defined, how the firm's permissions shape what it may do, and how to manage perimeter and scope-creep risks.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes"
+ },
+ "topic": "Sector Programmes",
+ "tags": [
+  "Investment services & markets"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders"
+ ],
+ "firmType": [
+  "Investment Firms & Wealth Management"
+ ],
+ "slug": "authorisation-scope-permissions-and-the-perimeter",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Consumer Protection"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How investment services and financial instruments are defined, how the firm's permissions shape what it may do, and how to manage perimeter and scope-creep risks.",
+  "Learning Objectives": [
+   "Map the firm's services and instruments to its permissions",
+   "Identify perimeter risks from new products, channels and jurisdictions",
+   "Maintain an accurate regulatory business plan and notifications"
+  ],
+  "Syllabus": [
+   "Investment services: execution, dealing, advice, portfolio management and custody",
+   "Financial instruments, derivatives and perimeter judgements",
+   "Scope creep, variations of permission and cross-border services",
+   "Change in control, notifications and the regulatory business plan"
+  ],
+  "Intended Audience": [
+   "Compliance officers, compliance analysts and risk managers at investment firms, wealth managers and brokers",
+   "Heads of business, operations and client asset teams responsible for first-line controls",
+   "Internal auditors and senior managers who oversee investment services compliance"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of compliance, risk or operations in an investment firm is helpful. No prior knowledge of specific investment services rules is required.",
+  "Core Reading": [
+   "IOSCO, Compliance Function at Market Intermediaries (2006)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 278,
+   "module": 1,
+   "title": "Investment Services Compliance",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1094,
+     "number": 1,
+     "title": "Authorisation Scope, Permissions and the Perimeter"
+    },
+    {
+     "id": 1095,
+     "number": 2,
+     "title": "Client Categorisation and Onboarding"
+    },
+    {
+     "id": 1096,
+     "number": 3,
+     "title": "Suitability and Appropriateness"
+    },
+    {
+     "id": 1097,
+     "number": 4,
+     "title": "Best Execution and Order Handling"
+    },
+    {
+     "id": 1098,
+     "number": 5,
+     "title": "Conflicts of Interest and Inducements"
+    },
+    {
+     "id": 1099,
+     "number": 6,
+     "title": "Product Governance and Costs and Charges Disclosure"
+    },
+    {
+     "id": 1100,
+     "number": 7,
+     "title": "Client Assets and Client Money Safeguarding"
+    },
+    {
+     "id": 1101,
+     "number": 8,
+     "title": "Market Abuse and Surveillance"
+    },
+    {
+     "id": 1102,
+     "number": 9,
+     "title": "Transaction Reporting and Record-Keeping"
+    },
+    {
+     "id": 1103,
+     "number": 10,
+     "title": "Compliance Monitoring and Supervisory Engagement"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 223,
+   "entryType": "programme",
+   "title": "Crypto-Asset Compliance Programme",
+   "summary": "An advanced twelve-module programme for compliance, risk and MLRO staff at crypto-asset service providers, from authorisation and custody to market abuse, AML/CFT and wind-down.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 42,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 261,
+   "entryType": "programme",
+   "title": "Fund Governance and Compliance for Managers and Service Providers",
+   "summary": "A ten-module programme giving fund managers and service providers the practical tools to meet fund rules and supervisory expectations across the fund lifecycle.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 265,
+   "entryType": "programme",
+   "title": "Governance, Risk and Compliance for Market Infrastructures",
+   "summary": "A ten-module programme for boards, managers and control functions of trading venues, CCPs, CSDs and payment systems on meeting the PFMI in governance, risk, default management and recovery.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  }
+ ]
+}

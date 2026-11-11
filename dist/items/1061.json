@@ -1,0 +1,175 @@
+{
+ "id": 1061,
+ "entryType": "module",
+ "title": "Board Information, Decision-Making and Dynamics",
+ "summary": "How fund boards can get the right information from delegates, overcome information asymmetry and make well-reasoned decisions, given limited meeting time and a crowded agenda.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "board-information-decision-making-and-dynamics",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How fund boards can get the right information from delegates, overcome information asymmetry and make well-reasoned decisions, given limited meeting time and a crowded agenda.",
+  "Learning Objectives": [
+   "Specify the information the board needs from management and delegates",
+   "Evaluate board packs and decision papers for clarity and balance",
+   "Apply practical techniques to strengthen challenge and counter group think"
+  ],
+  "Syllabus": [
+   "Agenda overload and prioritising what the board must decide",
+   "Information asymmetry between independent directors and the manager",
+   "Good decision papers: options, assumptions, downside and recorded rationale",
+   "The chair, psychological safety and effective challenge"
+  ],
+  "Intended Audience": [
+   "Independent and non-executive directors of investment funds and fund management companies",
+   "Executive directors, designated persons and conducting officers of fund management companies",
+   "Company secretaries, governance leads and service provider relationship managers supporting fund boards"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of investment funds or asset management is helpful. No prior board experience is required.",
+  "Core Reading": [
+   "IOSCO, Examination of Governance for Collective Investment Schemes (2006–2007)",
+   "IOSCO, Principles for the Valuation of Collective Investment Schemes (2013)",
+   "IOSCO, Recommendations for Liquidity Risk Management for Collective Investment Schemes (2018)",
+   "G20/OECD Principles of Corporate Governance (2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 274,
+   "module": 8,
+   "title": "Investment Fund Governance for Directors",
+   "moduleCount": 10,
+   "durationValue": 20,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 1054,
+     "number": 1,
+     "title": "The Fund Governance Model"
+    },
+    {
+     "id": 1055,
+     "number": 2,
+     "title": "Delegation and Oversight of the Investment Manager"
+    },
+    {
+     "id": 1056,
+     "number": 3,
+     "title": "Overseeing the Administrator, Depositary and Distributors"
+    },
+    {
+     "id": 1057,
+     "number": 4,
+     "title": "Managerial Functions and Designated Persons"
+    },
+    {
+     "id": 1058,
+     "number": 5,
+     "title": "Conflicts of Interest"
+    },
+    {
+     "id": 1059,
+     "number": 6,
+     "title": "Valuation and Liquidity Risk Management"
+    },
+    {
+     "id": 1060,
+     "number": 7,
+     "title": "Fees, Costs and Value for Investors"
+    },
+    {
+     "id": 1061,
+     "number": 8,
+     "title": "Board Information, Decision-Making and Dynamics"
+    },
+    {
+     "id": 1062,
+     "number": 9,
+     "title": "Regulatory Engagement and Board Effectiveness Reviews"
+    },
+    {
+     "id": 1063,
+     "number": 10,
+     "title": "Emerging Issues: AI, ESG and Tokenised Funds"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 199,
+   "entryType": "programme",
+   "title": "Alternative Investments for Fund Directors",
+   "summary": "An eight-module programme explaining hedge fund, private markets, real asset, structured and digital asset strategies to fund directors, with board questions on valuation, liquidity and fees.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 207,
+   "entryType": "programme",
+   "title": "Board Oversight of Fund Operations and Service Providers",
+   "summary": "A ten-module programme giving fund directors the tools to oversee fund operations and service providers, from NAV production and custody to errors and resilience.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 260,
+   "entryType": "programme",
+   "title": "Fund Board Governance Toolkit: A Risk-Based Oversight Workshop",
+   "summary": "A six-module practical workshop giving fund directors a risk-based governance toolkit, from skills matrices to escalation triggers, and a draft oversight plan for their own board.",
+   "level": "Board level",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  }
+ ]
+}

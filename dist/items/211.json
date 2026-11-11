@@ -1,0 +1,348 @@
+{
+ "id": 211,
+ "entryType": "programme",
+ "title": "Compliance Officer Academy",
+ "summary": "A ten-module academy giving compliance officers the tools to run an independent, risk-based compliance function and handle supervisory engagement with confidence.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "compliance-officer-academy",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips compliance officers and their teams to build, run and evidence an independent, risk-based compliance function, taught by former supervisors who show how the function looks from the authority's side.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To equip compliance professionals with the frameworks, tools and judgement to run a compliance function that is independent, risk-based and respected by the business, the board and the supervisor. Participants leave able to assess compliance risk, design monitoring and advisory work that targets it, and handle supervisory engagement with confidence.",
+  "What It Covers": "The role and independence of compliance, regulatory horizon scanning, compliance risk assessment, monitoring programmes, advisory and training, conduct and consumer outcomes, the financial crime interface, regulatory reporting and breaches, dealing with the supervisor, and reporting to the board.",
+  "Intended Audience": [
+   "Heads of compliance, compliance officers and deputies in regulated firms",
+   "Compliance analysts and monitoring staff moving into more senior or advisory roles",
+   "Risk, legal and business managers who work closely with the compliance function"
+  ],
+  "Learning Objectives": [
+   "Explain the role, mandate and independence of the compliance function within the firm's governance",
+   "Design a compliance risk assessment and a risk-based monitoring programme that targets the firm's real exposures",
+   "Apply horizon scanning and regulatory change management to keep the firm's obligations current",
+   "Evaluate conduct, consumer outcome and financial crime risks alongside the business and other control functions",
+   "Manage regulatory reporting, breaches and supervisory engagement in a way that builds credibility with the authority",
+   "Produce board reporting that gives directors a clear, honest view of compliance risk and agree an action plan for the function"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines practical tools with case studies, group exercises and a supervisor's-eye view of the function, and modules can be selected or tailored to the firm's business model.",
+  "Useful Prior Knowledge and Experience": "Some experience of working in or alongside a compliance function in a regulated firm is helpful. No legal qualification is required.",
+  "Core Reading": [
+   "Basel Committee, Compliance and the Compliance Function in Banks (2005)",
+   "IOSCO, Compliance Function at Market Intermediaries (2006)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 501,
+   "number": 1,
+   "title": "The Role and Independence of Compliance",
+   "summary": "What the compliance function is for, where it sits in the firm's governance and what independence, authority and resources it needs to be credible to the business and the supervisor.",
+   "objectives": [
+    "Explain the mandate of compliance and its place in the three lines model",
+    "Assess the independence, standing and resourcing of the firm's compliance function",
+    "Identify the personal responsibilities and accountability of the compliance officer"
+   ],
+   "syllabus": [
+    "The compliance charter, mandate and reporting lines",
+    "Independence, access to the board and conflicts of interest",
+    "Resourcing, skills and the use of outsourced compliance support",
+    "How supervisors judge whether a compliance function is effective"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 502,
+   "number": 2,
+   "title": "Regulatory Horizon Scanning and Change Management",
+   "summary": "How the firm tracks new and changing rules, interprets what they mean for the business and turns them into owned, tracked implementation projects.",
+   "objectives": [
+    "Design a horizon scanning process proportionate to the firm's size and activities",
+    "Apply a structured method for interpreting and allocating new obligations",
+    "Implement regulatory change projects with clear ownership and evidence of completion"
+   ],
+   "syllabus": [
+    "Sources of regulatory change: rules, guidance, consultations and supervisory statements",
+    "Obligations registers and mapping rules to policies and controls",
+    "Gap analysis, ownership and regulatory change governance",
+    "Evidencing implementation to the board and the supervisor"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 503,
+   "number": 3,
+   "title": "Compliance Risk Assessment",
+   "summary": "Building a compliance risk assessment that identifies where the firm is most exposed to regulatory breach and customer harm and drives the function's priorities.",
+   "objectives": [
+    "Explain the components of a compliance risk assessment and how it links to the firm's risk framework",
+    "Apply inherent risk, control effectiveness and residual risk ratings consistently",
+    "Use the assessment to set the compliance plan and allocate resource"
+   ],
+   "syllabus": [
+    "Compliance risk universe and taxonomy",
+    "Inherent risk, controls and residual risk scoring",
+    "Data and management information that inform the assessment",
+    "From risk assessment to an annual compliance plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 504,
+   "number": 4,
+   "title": "Designing and Running Monitoring Programmes",
+   "summary": "Risk-based compliance monitoring that tests whether controls work in practice, produces findings the business acts on and stands up to supervisory scrutiny.",
+   "objectives": [
+    "Design a monitoring plan driven by the compliance risk assessment",
+    "Apply sampling, testing and file review techniques that produce reliable findings",
+    "Track findings and actions through to verified closure"
+   ],
+   "syllabus": [
+    "Monitoring versus assurance and internal audit",
+    "Thematic reviews, file reviews, sampling and data-led testing",
+    "Rating findings, agreeing actions and verifying closure",
+    "Common monitoring weaknesses that supervisors find"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 505,
+   "number": 5,
+   "title": "Advisory, Training and Influencing the Business",
+   "summary": "How compliance advises the business on new products, marketing and change, builds compliance awareness through training and earns influence without losing independence.",
+   "objectives": [
+    "Provide clear, practical compliance advice on business initiatives and change",
+    "Design a training programme that targets the firm's highest compliance risks",
+    "Influence senior managers while preserving the function's independence"
+   ],
+   "syllabus": [
+    "Advising on new products, marketing materials and business change",
+    "Recording advice and managing disagreements with the business",
+    "Risk-based training needs analysis and measuring effectiveness",
+    "Building a constructive relationship with front-line management"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 506,
+   "number": 6,
+   "title": "Conduct Risk and Consumer Outcomes",
+   "summary": "The compliance function's role in identifying conduct risk, overseeing fair treatment of customers and testing whether the firm delivers good outcomes in practice.",
+   "objectives": [
+    "Explain the drivers of conduct risk and how they link to customer harm",
+    "Assess product governance, communications and complaints data for signs of poor outcomes",
+    "Design outcome testing that compliance can run alongside the business"
+   ],
+   "syllabus": [
+    "Conduct risk drivers: business model, incentives and culture",
+    "Fair treatment, vulnerable customers and product governance",
+    "Complaints, root cause analysis and outcome indicators",
+    "Case study: spotting poor customer outcomes in management information"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 507,
+   "number": 7,
+   "title": "The Financial Crime Interface",
+   "summary": "How the compliance function works alongside the MLRO and financial crime teams, avoiding gaps and overlaps in anti-money laundering, sanctions, fraud, bribery and market abuse controls.",
+   "objectives": [
+    "Explain the allocation of financial crime responsibilities between compliance and the MLRO",
+    "Identify gaps and overlaps in the firm's financial crime control framework",
+    "Apply compliance monitoring to financial crime controls"
+   ],
+   "syllabus": [
+    "Roles of compliance, the MLRO and the second line for financial crime",
+    "Anti-money laundering, sanctions, anti-bribery and fraud risk",
+    "Market abuse surveillance and personal account dealing",
+    "Joint monitoring, management information and escalation"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 508,
+   "number": 8,
+   "title": "Regulatory Reporting, Breaches and Notifications",
+   "summary": "Getting regulatory returns right, identifying and recording breaches, deciding what must be notified to the authority and handling remediation with candour.",
+   "objectives": [
+    "Design controls over the accuracy and timeliness of regulatory returns",
+    "Apply a consistent approach to identifying, recording and assessing breaches",
+    "Judge when and how to notify the authority and manage remediation"
+   ],
+   "syllabus": [
+    "Regulatory returns: ownership, data lineage and sign-off",
+    "Breach registers, root cause analysis and materiality",
+    "Notification duties and the expectation of openness with the authority",
+    "Customer remediation and redress programmes"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 509,
+   "number": 9,
+   "title": "Dealing with the Supervisor",
+   "summary": "How supervisors plan visits, information requests and thematic reviews, what they are looking for, and how the firm prepares, responds to findings and builds a relationship of trust.",
+   "objectives": [
+    "Explain how supervisors assess firms and decide where to focus",
+    "Prepare the firm for supervisory visits, interviews and information requests",
+    "Respond to findings and risk mitigation programmes credibly and on time"
+   ],
+   "syllabus": [
+    "The supervisory cycle seen from the supervisor's side",
+    "Visits, interviews, information requests and thematic reviews",
+    "Responding to findings letters and agreeing remediation",
+    "Building trust: openness, consistency and no surprises"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 510,
+   "number": 10,
+   "title": "Reporting to the Board and Capstone Workshop",
+   "summary": "Brings the programme together into compliance reporting that gives the board a clear view of compliance risk, followed by a workshop in which participants build their function's plan.",
+   "objectives": [
+    "Design compliance reports and management information that support board challenge",
+    "Explain how the board and senior managers should use compliance reporting",
+    "Produce a prioritised development plan for the firm's compliance function"
+   ],
+   "syllabus": [
+    "The annual compliance report and periodic board reporting",
+    "Management information that informs rather than reassures",
+    "Seeing the firm the way a supervisor does: a self-assessment",
+    "Workshop: the compliance function's twelve-month action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 269,
+   "entryType": "programme",
+   "title": "Internal Audit in Regulated Firms",
+   "summary": "An eight-module programme giving internal auditors the tools to deliver risk-based assurance over the regulatory risks that matter most to boards and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 270,
+   "entryType": "programme",
+   "title": "Internal Investigations and Interviewing Skills",
+   "summary": "A nine-module programme giving control functions a structured method to investigate misconduct, whistleblowing reports and breaches, interview witnesses and subjects, and report findings.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 279,
+   "entryType": "programme",
+   "title": "Management and Leadership for Compliance and Risk Teams",
+   "summary": "A ten-module programme giving managers of compliance, risk and financial crime teams the skills to lead the second line, influence the business and earn the board's confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 294,
+   "entryType": "programme",
+   "title": "Professional Judgement and Core Skills for Compliance Staff",
+   "summary": "A ten-module programme building the judgement, questioning, advisory and writing skills that compliance, risk and financial crime staff need to be trusted by the business, the board and the regulator.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 305,
+   "entryType": "programme",
+   "title": "Risk Management for Regulated Firms",
+   "summary": "A ten-module programme giving risk professionals the tools to design, run and evidence a risk management framework that informs decisions and withstands supervisory scrutiny.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 323,
+   "entryType": "programme",
+   "title": "Terrorist and Proliferation Financing Controls for Firms",
+   "summary": "A nine-module programme equipping firms to assess, detect and report terrorist and proliferation financing, including screening, targeted financial sanctions and dual-use goods red flags.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

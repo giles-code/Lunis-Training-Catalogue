@@ -1,0 +1,174 @@
+{
+ "id": 1277,
+ "entryType": "module",
+ "title": "Why Regulation Matters and the Firm's Obligations",
+ "summary": "Why financial services are regulated, what the authority expects of the firm, and how every member of staff contributes to meeting those obligations.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Essentials for all staff"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1.5,
+ "durationUnit": "hours",
+ "role": [
+  "All staff"
+ ],
+ "firmType": [],
+ "slug": "why-regulation-matters-and-the-firm-s-obligations",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Conduct & Culture / HR"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Why financial services are regulated, what the authority expects of the firm, and how every member of staff contributes to meeting those obligations.",
+  "Learning Objectives": [
+   "Explain why financial services are regulated and what regulation aims to achieve",
+   "Describe the firm's key regulatory obligations and the role of the authority",
+   "Recognise how individual actions affect the firm's regulatory standing"
+  ],
+  "Syllabus": [
+   "Objectives of regulation: consumer protection, market integrity and stability",
+   "The firm's licence, permissions and the authority's supervisory approach",
+   "The three lines of defence and where each role fits",
+   "Consequences of failure for customers, the firm and individuals"
+  ],
+  "Intended Audience": [
+   "All staff in regulated firms, including new joiners as part of induction",
+   "Front-office, operations, technology and support staff who need a regulatory grounding",
+   "Line managers responsible for embedding good conduct in their teams"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior knowledge of regulation is required. The programme is suitable for new joiners and as annual refresher training.",
+  "Core Reading": [
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)",
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 300,
+   "module": 1,
+   "title": "Regulatory Essentials for All Staff",
+   "moduleCount": 8,
+   "durationValue": 12,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 1277,
+     "number": 1,
+     "title": "Why Regulation Matters and the Firm's Obligations"
+    },
+    {
+     "id": 1278,
+     "number": 2,
+     "title": "Treating Customers Fairly"
+    },
+    {
+     "id": 1279,
+     "number": 3,
+     "title": "Financial Crime Awareness"
+    },
+    {
+     "id": 1280,
+     "number": 4,
+     "title": "Sanctions and Market Abuse Awareness"
+    },
+    {
+     "id": 1281,
+     "number": 5,
+     "title": "Conflicts of Interest, Gifts and Hospitality"
+    },
+    {
+     "id": 1282,
+     "number": 6,
+     "title": "Data Protection and Information Security"
+    },
+    {
+     "id": 1283,
+     "number": 7,
+     "title": "Speaking Up"
+    },
+    {
+     "id": 1284,
+     "number": 8,
+     "title": "Conduct and Personal Accountability"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 213,
+   "entryType": "programme",
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 281,
+   "entryType": "programme",
+   "title": "Market Conduct Essentials: Inside Information, Conflicts and Personal Dealing",
+   "summary": "A six-module foundation programme helping all staff handle inside information, personal dealing, gifts and communications correctly and avoid market abuse.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

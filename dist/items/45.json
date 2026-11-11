@@ -1,0 +1,113 @@
+{
+ "id": 45,
+ "entryType": "module",
+ "title": "Cross-Border Crypto Supervision & Cooperation",
+ "summary": "The aim of this workshop is to build participants' understanding of how crypto-asset firms operate across borders, the risks of regulatory arbitrage, and the cooperation mechanisms supervisors use — including regional passporting regimes — to maintain effective oversight.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Digital Assets & Blockchain",
+ "tags": [
+  "Crypto & digital assets"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "cross-border-crypto-supervision-and-cooperation",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how crypto-asset firms operate across borders, the risks of regulatory arbitrage, and the cooperation mechanisms supervisors use — including regional passporting regimes — to maintain effective oversight.",
+  "Intended Audience": "Mid-level supervisory staff building capability in digital assets/crypto-asset regulation.",
+  "Learning Objectives": [
+   "Explain how crypto-asset firms structure cross-border operations",
+   "Describe the risk of regulatory arbitrage in the crypto sector",
+   "Assess regional passporting mechanisms for CASPs",
+   "Evaluate cooperation mechanisms between crypto supervisors",
+   "Formulate a supervisory approach to a cross-border crypto supervision scenario"
+  ],
+  "Syllabus": [
+   "Why crypto-asset firms often operate across multiple jurisdictions",
+   "Common cross-border structuring patterns",
+   "Regulatory arbitrage risk: seeking the most permissive jurisdiction",
+   "Global inconsistency in crypto regulatory maturity",
+   "Facilitated discussion: cross-border crypto structures participants have encountered",
+   "How regional passporting regimes operate for CASPs",
+   "Cooperation mechanisms between crypto supervisors inside and outside a regional regime",
+   "International bodies working on crypto standard-setting (FATF, FSB)",
+   "Information-sharing challenges specific to the crypto sector",
+   "Group exercise: assess a sample CASP's passporting arrangements",
+   "Case study: a cross-border crypto firm raising supervisory concerns",
+   "Case study: formulate a supervisory approach and cooperation plan",
+   "Recap: cross-border structures, regulatory arbitrage, passporting, cooperation",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Cross-border crypto operations (09:30–10:45)\n- Session 2: regional passporting and cooperation (11:00–12:30)\n- Session 3: Application to a scenario (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Regulatory arbitrage risk is particularly acute in crypto given global inconsistency in regulatory maturity\n- Regional passporting regimes extend familiar cross-border supervisory concepts into the crypto-asset sector\n- International cooperation on crypto supervision is still maturing and requires active relationship-building",
+  "Useful Prior Knowledge and Experience": "Some familiarity with digital assets & blockchain is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 221,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals",
+   "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 226,
+   "entryType": "programme",
+   "title": "Crypto-Asset Regulation and Supervision",
+   "summary": "An advanced twelve-module programme equipping supervisors to authorise, supervise and take action against crypto-asset firms under comprehensive regimes and international standards.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 48,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 233,
+   "entryType": "programme",
+   "title": "Digital Money: Stablecoins, Tokenised Deposits and CBDCs",
+   "summary": "A ten-module programme equipping supervisors and central bankers to assess stablecoins, tokenised deposits and CBDCs, and their risks to payments and financial stability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

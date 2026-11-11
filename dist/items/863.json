@@ -1,0 +1,153 @@
+{
+ "id": 863,
+ "entryType": "module",
+ "title": "Consumer Protection and Lessons from Scandals",
+ "summary": "How consumer protection in finance is meant to work, what recent mis-selling and fraud scandals reveal about regulatory failure, and the remedies available to consumers.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Parliamentarians & committee staff"
+ ],
+ "firmType": [],
+ "slug": "consumer-protection-and-lessons-from-scandals",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Policy",
+  "Consumer Protection"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How consumer protection in finance is meant to work, what recent mis-selling and fraud scandals reveal about regulatory failure, and the remedies available to consumers.",
+  "Learning Objectives": [
+   "Describe the main consumer protection tools and redress mechanisms",
+   "Draw lessons from mis-selling and fraud scandals",
+   "Assess whether consumers can obtain effective redress"
+  ],
+  "Syllabus": [
+   "Disclosure, suitability, fair treatment and product rules",
+   "Case studies of mis-selling, investment fraud and firm failures",
+   "Ombudsman schemes, compensation and deposit protection",
+   "Constituency casework: helping consumers who have lost money"
+  ],
+  "Intended Audience": [
+   "Members of parliament, particularly those on finance, economic affairs, budget and public accounts committees",
+   "Committee clerks, researchers and parliamentary library staff supporting financial scrutiny",
+   "Advisers to parliamentarians and party policy staff working on financial issues"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior knowledge of financial services or regulation is required. Experience of committee work is helpful.",
+  "Core Reading": [
+   "OECD (2014), The Governance of Regulators, OECD Best Practice Principles for Regulatory Policy",
+   "G20/OECD (2022), High-Level Principles on Financial Consumer Protection",
+   "FATF (2012, updated), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations",
+   "IOSCO (2017), Objectives and Principles of Securities Regulation"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 252,
+   "module": 4,
+   "title": "Financial Services Regulation: A Briefing Programme for Parliamentarians",
+   "moduleCount": 6,
+   "durationValue": 12,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 860,
+     "number": 1,
+     "title": "How Financial Regulation Works"
+    },
+    {
+     "id": 861,
+     "number": 2,
+     "title": "Holding Regulators to Account"
+    },
+    {
+     "id": 862,
+     "number": 3,
+     "title": "Scrutinising Financial Legislation"
+    },
+    {
+     "id": 863,
+     "number": 4,
+     "title": "Consumer Protection and Lessons from Scandals"
+    },
+    {
+     "id": 864,
+     "number": 5,
+     "title": "Financial Crime and International Obligations"
+    },
+    {
+     "id": 865,
+     "number": 6,
+     "title": "Emerging Issues: Crypto-Assets, AI and the Future of Finance"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 235,
+   "entryType": "programme",
+   "title": "Drafting Financial Services Legislation",
+   "summary": "An eight-module programme helping legislative drafters and legal advisers design and draft effective, enforceable and technology-neutral financial services legislation.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 248,
+   "entryType": "programme",
+   "title": "Financial Crises and Public Finances: Crisis Preparedness for Government",
+   "summary": "An eight-module advanced programme preparing finance ministries and senior officials to manage financial crises, protect public finances and coordinate resolution.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

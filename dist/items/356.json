@@ -1,0 +1,164 @@
+{
+ "id": 356,
+ "entryType": "module",
+ "title": "Hands-On Workshop: Using AI Safely at Work",
+ "summary": "A practical workshop in which participants apply what they have learned to realistic tasks from their own roles, using the firm's approved tools.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "All staff"
+ ],
+ "firmType": [],
+ "slug": "hands-on-workshop-using-ai-safely-at-work",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "A practical workshop in which participants apply what they have learned to realistic tasks from their own roles, using the firm's approved tools.",
+  "Learning Objectives": [
+   "Use AI effectively on realistic tasks from participants' own roles",
+   "Verify and improve AI outputs before use",
+   "Agree personal good-practice commitments for AI use"
+  ],
+  "Syllabus": [
+   "Exercise: summarising a policy or regulatory document",
+   "Exercise: drafting and checking a client or internal communication",
+   "Spot the error: reviewing flawed AI outputs",
+   "Workshop: my safe AI use checklist"
+  ],
+  "Intended Audience": [
+   "Staff at all levels who use or plan to use generative AI tools in their work",
+   "Front-office, operations, compliance, risk and support teams adopting approved AI tools",
+   "Managers responsible for supervising AI use within their teams"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior experience of AI is required. Familiarity with the firm's approved tools and AI policy is helpful.",
+  "Core Reading": [
+   "OECD, Recommendation of the Council on Artificial Intelligence (2019, revised 2024)",
+   "NIST, Artificial Intelligence Risk Management Framework (AI RMF 1.0) (2023)",
+   "IOSCO, The Use of Artificial Intelligence and Machine Learning by Market Intermediaries and Asset Managers (2021)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 194,
+   "module": 6,
+   "title": "AI for Financial Services Professionals",
+   "moduleCount": 6,
+   "durationValue": 12,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 351,
+     "number": 1,
+     "title": "How Generative AI Works"
+    },
+    {
+     "id": 352,
+     "number": 2,
+     "title": "Prompting for Better Results"
+    },
+    {
+     "id": 353,
+     "number": 3,
+     "title": "Verification, Hallucination and Professional Judgement"
+    },
+    {
+     "id": 354,
+     "number": 4,
+     "title": "Confidentiality, Data Protection and the Firm's AI Policy"
+    },
+    {
+     "id": 355,
+     "number": 5,
+     "title": "AI in Client Communications, Bias and Records"
+    },
+    {
+     "id": 356,
+     "number": 6,
+     "title": "Hands-On Workshop: Using AI Safely at Work"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 213,
+   "entryType": "programme",
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 228,
+   "entryType": "programme",
+   "title": "Cyber, Data and Resilience Essentials",
+   "summary": "A six-module foundation programme giving all staff the practical habits to resist cyber attacks, protect data, use AI tools safely and report incidents.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 244,
+   "entryType": "programme",
+   "title": "Financial Crime Essentials for All Staff",
+   "summary": "An eight-module foundation programme helping all staff recognise financial crime red flags, follow the firm's controls and report suspicions without tipping off.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "id": 75,
+ "entryType": "module",
+ "title": "Financial Inclusion and Access to Services",
+ "summary": "The aim of this workshop is to introduce participants to financial inclusion as a policy and supervisory concern, exploring the barriers that prevent access to financial services and the regulatory tools available to promote inclusive access without compromising other…",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Cross-Cutting Themes"
+ },
+ "topic": "Consumer Protection & Financial Inclusion",
+ "tags": [
+  "Consumer protection & conduct"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "financial-inclusion-and-access-to-services",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Consumer Protection"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to introduce participants to financial inclusion as a policy and supervisory concern, exploring the barriers that prevent access to financial services and the regulatory tools available to promote inclusive access without compromising other regulatory objectives such as financial crime prevention.",
+  "Intended Audience": "Junior to mid-level supervisors assessing consumer protection outcomes.",
+  "Learning Objectives": [
+   "Explain the concept and measurement of financial inclusion",
+   "Identify common barriers to accessing financial services",
+   "Discuss the tension between financial inclusion and financial crime controls",
+   "Evaluate inclusive product design practices",
+   "Assess the role of regulation in promoting or hindering inclusion",
+   "Identify policy options to improve financial inclusion outcomes"
+  ],
+  "Syllabus": [
+   "Defining and measuring financial inclusion",
+   "Barriers: cost, access, documentation, trust, digital literacy",
+   "Financial inclusion as a supervisory and policy concern",
+   "Global perspectives on inclusion initiatives",
+   "Facilitated discussion: barriers to access in participants' own markets",
+   "The 'de-risking' problem: how AML/CFT controls can restrict access",
+   "Balancing proportionate financial crime controls with inclusion",
+   "Inclusive product design: simplified accounts, tiered KYC",
+   "International examples of proportionate approaches",
+   "Group discussion: designing a proportionate KYC regime for a basic account product",
+   "The supervisor's role in promoting inclusion",
+   "Policy levers: proportionality, guidance, innovation hubs",
+   "Measuring progress on financial inclusion",
+   "Case study: an inclusion initiative and its outcomes",
+   "Case study exercise: assess an inclusion initiative and propose improvements",
+   "Recap: barriers, tensions, policy options",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Understanding financial inclusion (09:30–10:45)\n- Session 2: Inclusion versus other regulatory objectives (11:00–12:30)\n- Session 3: Policy options and supervisory role (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Financial inclusion and financial crime prevention can pull in different directions and need active balancing\n- Proportionality is the key regulatory tool for enabling inclusive access without excessive risk\n- Supervisors have a genuine role to play in promoting, not just permitting, inclusion",
+  "Useful Prior Knowledge and Experience": "Some familiarity with consumer protection & financial inclusion is helpful but not essential.",
+  "Core Reading": [
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "World Bank, Good Practices for Financial Consumer Protection (2017)",
+   "CPMI and World Bank, Payment Aspects of Financial Inclusion (2016)"
+  ]
+ },
+ "inherited": [
+  "Core Reading",
+  "level"
+ ],
+ "partOf": [
+  {
+   "programme": 216,
+   "module": 8,
+   "title": "Consumer Protection and Financial Inclusion",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 545,
+     "number": 1,
+     "title": "Foundations of Consumer Protection Supervision"
+    },
+    {
+     "id": 546,
+     "number": 2,
+     "title": "Product Governance and Target Markets"
+    },
+    {
+     "id": 547,
+     "number": 3,
+     "title": "Fair Value Assessment"
+    },
+    {
+     "id": 548,
+     "number": 4,
+     "title": "Disclosure, Communications and Consumer Understanding"
+    },
+    {
+     "id": 99,
+     "number": 5,
+     "title": "Identifying and Protecting Vulnerable Customers"
+    },
+    {
+     "id": 549,
+     "number": 6,
+     "title": "Supervising Complaints Handling and Redress"
+    },
+    {
+     "id": 109,
+     "number": 7,
+     "title": "Issuer Disclosure as Investor Protection"
+    },
+    {
+     "id": 75,
+     "number": 8,
+     "title": "Financial Inclusion and Access to Services"
+    },
+    {
+     "id": 550,
+     "number": 9,
+     "title": "Consumer Outcomes Monitoring and Supervisory Judgement"
+    },
+    {
+     "id": 551,
+     "number": 10,
+     "title": "Emerging Consumer Harms and the Authority's Response"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 212,
+   "entryType": "programme",
+   "title": "Conduct, Culture and Behavioural Supervision",
+   "summary": "An eight-module programme on assessing conduct risk and culture in firms, using behavioural insights, data and targeted supervisory interventions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 220,
+   "entryType": "programme",
+   "title": "Cross-Border and Group Supervision",
+   "summary": "An eight-module programme on home-host supervision, consolidated group oversight, MoUs, supervisory colleges, third-country firms and cross-border crisis cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

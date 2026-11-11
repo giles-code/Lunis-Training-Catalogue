@@ -1,0 +1,118 @@
+{
+ "id": 90,
+ "entryType": "module",
+ "title": "Fund Valuation: Practical Supervisory Techniques",
+ "summary": "The aim of this workshop is to build practical techniques for assessing fund valuation governance and methodology, with particular focus on hard-to-value and illiquid assets and the conflicts of interest that can arise in valuation processes.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Funds",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "fund-valuation-practical-supervisory-techniques",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build practical techniques for assessing fund valuation governance and methodology, with particular focus on hard-to-value and illiquid assets and the conflicts of interest that can arise in valuation processes.",
+  "Intended Audience": "Junior to mid-level supervisors working in investment funds supervision.",
+  "Learning Objectives": [
+   "Explain the regulatory framework for fund valuation",
+   "Describe common valuation methodologies for hard-to-value assets",
+   "Assess the governance arrangements surrounding a fund's valuation process",
+   "Identify conflicts of interest that can arise in valuation",
+   "Formulate a supervisory assessment of a fund's valuation practice"
+  ],
+  "Syllabus": [
+   "Regulatory expectations for fair and independent valuation",
+   "The role of the valuer: internal versus external, and independence requirements",
+   "Valuation frequency and its relationship to fund liquidity terms",
+   "Consequences of valuation errors for investors",
+   "Facilitated discussion: valuation challenges participants have encountered",
+   "Common methodologies: comparable transactions, discounted cash flow, net asset value adjustments",
+   "Particular challenges of valuing illiquid or unique assets",
+   "Assessing the reasonableness of key valuation assumptions",
+   "Red flags in valuation methodology",
+   "Group exercise: assess a sample valuation methodology for a hard-to-value asset",
+   "Governance arrangements: valuation committees, independent oversight",
+   "Conflicts of interest: manager influence over valuation outcomes",
+   "Case study: a fund with a valuation governance weakness",
+   "Case study: formulate a supervisory assessment of a fund's valuation practice",
+   "Recap: framework, methodologies, governance, conflicts",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: The valuation framework (09:30–10:45)\n- Session 2: Valuation methodologies for hard-to-value assets (11:00–12:30)\n- Session 3: Governance, conflicts and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Valuation of hard-to-value assets is inherently judgement-based, making governance and independence critical\n- Conflicts of interest in valuation are a persistent risk wherever the manager benefits from higher valuations\n- Valuation frequency should be assessed against a fund's actual liquidity terms, not treated as a fixed standard",
+  "Useful Prior Knowledge and Experience": "Some familiarity with investment funds is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 262,
+   "entryType": "programme",
+   "title": "Fund Regulation Country Briefings",
+   "summary": "Eleven country webinar briefings on fund vehicles, regulators, authorisation, distribution and recent developments in leading European, offshore and Asia Pacific fund markets.",
+   "level": "Intermediate",
+   "moduleCount": 11,
+   "hours": 11,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

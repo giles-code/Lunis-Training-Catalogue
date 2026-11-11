@@ -1,0 +1,172 @@
+{
+ "id": 1122,
+ "entryType": "module",
+ "title": "Decision-Making Under Pressure",
+ "summary": "How managers make and communicate sound decisions when time is short and information incomplete, recognise bias in themselves and the team, and own the outcome.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "Management & Leadership Fundamentals",
+ "tags": [
+  "Leadership & strategy"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "decision-making-under-pressure",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Capability & Capacity Building",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How managers make and communicate sound decisions when time is short and information incomplete, recognise bias in themselves and the team, and own the outcome.",
+  "Learning Objectives": [
+   "Apply structured decision-making techniques under time pressure",
+   "Recognise individual and group biases in management decisions",
+   "Communicate decisions and their rationale clearly to the team"
+  ],
+  "Syllabus": [
+   "Process-based thinking and structured decision-making",
+   "Bias, groupthink and stress effects on judgement",
+   "Deciding with incomplete information: options, trade-offs and reversibility",
+   "Simulation: a time-pressured supervisory management decision"
+  ],
+  "Intended Audience": [
+   "Supervisors newly promoted, or preparing for promotion, into team leader and manager roles",
+   "Managers and heads of department in supervisory authorities seeking to strengthen their leadership",
+   "Technical specialists who lead projects, thematic reviews or cross-functional teams"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience in a supervisory or technical role is helpful. No prior management training is required.",
+  "Core Reading": [
+   "Amy C. Edmondson, The Fearless Organization: Creating Psychological Safety in the Workplace (2018)",
+   "Patrick Lencioni, The Five Dysfunctions of a Team (2002)",
+   "IMF, The Making of Good Supervision: Learning to Say \"No\" (Staff Position Note SPN/10/08, 2010)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 280,
+   "module": 9,
+   "title": "Management and Leadership for Supervisors",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1114,
+     "number": 1,
+     "title": "From Supervisor to Manager"
+    },
+    {
+     "id": 1115,
+     "number": 2,
+     "title": "Delegation, Prioritisation and Managing Performance"
+    },
+    {
+     "id": 1116,
+     "number": 3,
+     "title": "Building High-Performing Teams"
+    },
+    {
+     "id": 1117,
+     "number": 4,
+     "title": "Coaching, Feedback and Developing Others"
+    },
+    {
+     "id": 1118,
+     "number": 5,
+     "title": "Influencing and Stakeholder Communication"
+    },
+    {
+     "id": 1119,
+     "number": 6,
+     "title": "Presenting to Senior Management"
+    },
+    {
+     "id": 1120,
+     "number": 7,
+     "title": "Managing Change"
+    },
+    {
+     "id": 1121,
+     "number": 8,
+     "title": "Wellbeing, Resilience and Sustainable Performance"
+    },
+    {
+     "id": 1122,
+     "number": 9,
+     "title": "Decision-Making Under Pressure"
+    },
+    {
+     "id": 1123,
+     "number": 10,
+     "title": "Leading the Supervisory Team: Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 302,
+   "entryType": "programme",
+   "title": "Regulatory Leadership and Strategy",
+   "summary": "An eight-module programme for the authority's leaders on mandate, governance, independence, risk appetite, growth objectives, effectiveness and leading change.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 200,
+   "entryType": "programme",
+   "title": "Applied AI for Supervisory Staff",
+   "summary": "An eight-module hands-on programme helping supervisory staff use generative AI and analytics tools safely and productively in everyday supervisory work.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 217,
+   "entryType": "programme",
+   "title": "Core Professional Skills for Regulatory Staff",
+   "summary": "An eight-module practical programme building the core writing, analysis, meeting, challenge, presentation and data skills that regulatory staff need every day.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

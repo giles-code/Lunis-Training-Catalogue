@@ -1,0 +1,187 @@
+{
+ "id": 373,
+ "entryType": "module",
+ "title": "AI Vulnerabilities, Resilience and Third-Party Risk",
+ "summary": "Identifying and managing vulnerabilities in the firm's AI estate, from silent degradation to adversarial attack, with vendor due diligence, resilience testing and incident response for when things go wrong.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "ai-vulnerabilities-resilience-and-third-party-risk",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Identifying and managing vulnerabilities in the firm's AI estate, from silent degradation to adversarial attack, with vendor due diligence, resilience testing and incident response for when things go wrong.",
+  "Learning Objectives": [
+   "Identify drift, data quality degradation and silent failure modes",
+   "Assess exposure to adversarial attacks, data poisoning and prompt injection",
+   "Design vendor due diligence, resilience testing and incident response for AI"
+  ],
+  "Syllabus": [
+   "Drift, data degradation and silent failures",
+   "Adversarial attacks, data poisoning and prompt injection",
+   "Vendor and foundation-model dependency, concentration and exit planning",
+   "Resilience testing, scenario analysis and AI incident response"
+  ],
+  "Intended Audience": [
+   "Compliance, risk and legal professionals responsible for AI policy, oversight and regulatory compliance",
+   "Model risk, model validation, data science and technology staff who build, buy or run AI systems",
+   "Senior managers and business-line owners accountable for AI use cases and their outcomes"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of compliance, risk, model development or technology in a regulated firm is helpful. No data science background is required.",
+  "Core Reading": [
+   "NIST, Artificial Intelligence Risk Management Framework (AI RMF 1.0) (2023)",
+   "ISO/IEC 42001:2023, Artificial Intelligence – Management System",
+   "IOSCO, The Use of Artificial Intelligence and Machine Learning by Market Intermediaries and Asset Managers (2021)",
+   "FSB, The Financial Stability Implications of Artificial Intelligence (2024)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 196,
+   "module": 7,
+   "title": "AI Governance for Firms",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 367,
+     "number": 1,
+     "title": "Foundations of AI and Machine Learning"
+    },
+    {
+     "id": 368,
+     "number": 2,
+     "title": "Building the Firm's AI Governance Framework"
+    },
+    {
+     "id": 369,
+     "number": 3,
+     "title": "Model Risk Management and Explainability"
+    },
+    {
+     "id": 370,
+     "number": 4,
+     "title": "Bias, Fairness and Customer Outcomes"
+    },
+    {
+     "id": 371,
+     "number": 5,
+     "title": "AI in Trading, Investment and Operations"
+    },
+    {
+     "id": 372,
+     "number": 6,
+     "title": "AI in Advice and Client-Facing Services"
+    },
+    {
+     "id": 373,
+     "number": 7,
+     "title": "AI Vulnerabilities, Resilience and Third-Party Risk"
+    },
+    {
+     "id": 374,
+     "number": 8,
+     "title": "AI Regulation and Supervisory Expectations"
+    },
+    {
+     "id": 375,
+     "number": 9,
+     "title": "AI for the Firm's Own Compliance and Risk Functions"
+    },
+    {
+     "id": 376,
+     "number": 10,
+     "title": "Embedding AI Governance Across the Firm"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 192,
+   "entryType": "programme",
+   "title": "Agentic AI and Autonomous Finance for Firms",
+   "summary": "An eight-module programme helping firms deploy AI agents that act and transact with sound authority, controls, governance and customer protection.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "id": 667,
+ "entryType": "module",
+ "title": "Regulatory Approaches and International Standards",
+ "summary": "The policy choices countries have made, from prohibition to bespoke regimes, and the international recommendations from the FSB, IOSCO, BCBS and FATF that shape national frameworks.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Crypto & digital assets"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters",
+  "Public agencies & investment promotion"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "regulatory-approaches-and-international-standards",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Policy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The policy choices countries have made, from prohibition to bespoke regimes, and the international recommendations from the FSB, IOSCO, BCBS and FATF that shape national frameworks.",
+  "Learning Objectives": [
+   "Compare prohibition, existing-law, bespoke and hybrid regulatory approaches",
+   "Explain the international standards and the peer review of their implementation",
+   "Identify the gaps and arbitrage risks created by divergent national regimes"
+  ],
+  "Syllabus": [
+   "Same activity, same risk, same regulation: principle and practice",
+   "FSB global framework and IOSCO policy recommendations for crypto-assets",
+   "Prudential treatment of bank crypto exposures",
+   "Regional crypto-asset regimes compared: licensing, conduct and market abuse"
+  ],
+  "Intended Audience": [
+   "Officials in finance ministries and treasuries developing digital asset, fintech and innovation policy",
+   "Legislative drafters, legal advisers and parliamentary committee staff working on digital asset legislation",
+   "Staff of investment promotion agencies, innovation offices and other public bodies engaging with the digital asset sector"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with financial services policy is helpful. No technical background in blockchain or computing is required.",
+  "Core Reading": [
+   "FSB (2023), Global Regulatory Framework for Crypto-Asset Activities",
+   "FSB (2023), High-level Recommendations for the Regulation, Supervision and Oversight of Global Stablecoin Arrangements",
+   "IOSCO (2023), Policy Recommendations for Crypto and Digital Asset Markets",
+   "FATF (2021), Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers",
+   "OECD (2022), Crypto-Asset Reporting Framework and Amendments to the Common Reporting Standard"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 230,
+   "module": 3,
+   "title": "Digital Assets and Blockchain: A Policy Programme for Government",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 665,
+     "number": 1,
+     "title": "Blockchain and Digital Assets Explained"
+    },
+    {
+     "id": 666,
+     "number": 2,
+     "title": "The Crypto-Asset Market and Its Risks"
+    },
+    {
+     "id": 667,
+     "number": 3,
+     "title": "Regulatory Approaches and International Standards"
+    },
+    {
+     "id": 668,
+     "number": 4,
+     "title": "Stablecoins, Monetary Sovereignty and Payments"
+    },
+    {
+     "id": 669,
+     "number": 5,
+     "title": "Tokenisation and the Future of Financial Markets"
+    },
+    {
+     "id": 670,
+     "number": 6,
+     "title": "Innovation Hubs, Sandboxes and Investment Promotion"
+    },
+    {
+     "id": 671,
+     "number": 7,
+     "title": "Financial Crime, Sanctions and Tax"
+    },
+    {
+     "id": 672,
+     "number": 8,
+     "title": "Designing Digital Asset Legislation and Policy"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 291,
+   "entryType": "programme",
+   "title": "Payments, Digital Money and CBDCs: Policy for Government",
+   "summary": "An eight-module programme helping policymakers understand payments and digital money and make informed choices on legislation, stablecoins, CBDCs and cross-border payments.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 225,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 198,
+   "entryType": "programme",
+   "title": "AI in Financial Services: Policy Choices for Government",
+   "summary": "An eight-module programme helping policymakers understand AI in financial services and make informed choices on regulation, institutional roles and national strategy.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

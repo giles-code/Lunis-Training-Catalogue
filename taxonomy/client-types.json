@@ -1,0 +1,30 @@
+{
+  "$comment": "Client types: the five 'Training for' groups. key = value used in clientType; label = shown on the site.",
+  "clientTypes": [
+    {
+      "key": "firms",
+      "label": "Financial services firms",
+      "description": "Regulated firms and firms seeking authorisation: boards, senior managers, control functions and staff."
+    },
+    {
+      "key": "payments",
+      "label": "Payments and EMIs",
+      "description": "Payment institutions, e-money institutions and other payment service providers."
+    },
+    {
+      "key": "crypto",
+      "label": "Crypto and Web3",
+      "description": "Crypto-asset service providers, stablecoin issuers, DeFi and Web3 businesses."
+    },
+    {
+      "key": "regulators",
+      "label": "Regulators and supervisors",
+      "description": "Supervision, authorisation, enforcement, policy and leadership teams at financial authorities."
+    },
+    {
+      "key": "government",
+      "label": "Governments and policymakers",
+      "description": "Finance ministries, legislators, public agencies and policymakers."
+    }
+  ]
+}

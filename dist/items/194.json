@@ -1,0 +1,273 @@
+{
+ "id": 194,
+ "entryType": "programme",
+ "title": "AI for Financial Services Professionals",
+ "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 12,
+ "durationUnit": "hours",
+ "role": [
+  "All staff"
+ ],
+ "firmType": [],
+ "slug": "ai-for-financial-services-professionals",
+ "moduleCount": 6,
+ "hoursPerModule": 2,
+ "intro": "This training programme equips staff across the firm to use generative AI productively and safely at work, protecting clients and confidential information and keeping professional judgement and accountability where they belong.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Compliance"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give staff a practical, jargon-free understanding of how generative AI works, how to get good results from it and where it can go wrong. Participants leave able to use approved AI tools effectively, verify outputs, protect data and follow the firm's AI policy with confidence.",
+  "What It Covers": "How generative AI works, prompting techniques, verification and hallucination, confidentiality and data protection, the firm's AI policy, AI in client communications, bias, records and accountability, and a hands-on workshop.",
+  "Intended Audience": [
+   "Staff at all levels who use or plan to use generative AI tools in their work",
+   "Front-office, operations, compliance, risk and support teams adopting approved AI tools",
+   "Managers responsible for supervising AI use within their teams"
+  ],
+  "Learning Objectives": [
+   "Explain how generative AI works and where it is and is not suitable",
+   "Apply prompting techniques to produce useful, well-structured outputs",
+   "Verify AI outputs and identify hallucination and over-reliance",
+   "Protect client, personal and confidential information when using AI",
+   "Apply the firm's AI policy, conduct standards and record-keeping requirements",
+   "Use AI safely on realistic tasks and agree personal good-practice commitments"
+  ],
+  "Structure and Format": "Six modules of about two hours each, delivered in person, virtually or in a hybrid format, either as a two-day programme or as a series of short sessions. Modules combine live demonstrations with hands-on exercises using the firm's approved tools, and can be selected or tailored to the firm's AI policy and use cases.",
+  "Useful Prior Knowledge and Experience": "No prior experience of AI is required. Familiarity with the firm's approved tools and AI policy is helpful.",
+  "Core Reading": [
+   "OECD, Recommendation of the Council on Artificial Intelligence (2019, revised 2024)",
+   "NIST, Artificial Intelligence Risk Management Framework (AI RMF 1.0) (2023)",
+   "IOSCO, The Use of Artificial Intelligence and Machine Learning by Market Intermediaries and Asset Managers (2021)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 351,
+   "number": 1,
+   "title": "How Generative AI Works",
+   "summary": "A plain-language introduction to generative AI and large language models: what they do well, where they fail and why that matters in a regulated firm.",
+   "objectives": [
+    "Explain in plain terms how large language models generate answers",
+    "Distinguish suitable from unsuitable tasks for generative AI",
+    "Recognise the main risks of using generative AI at work"
+   ],
+   "syllabus": [
+    "Training data, prediction and why outputs sound confident",
+    "Strengths: drafting, summarising, analysis and coding support",
+    "Limits: hallucination, out-of-date knowledge and inconsistency",
+    "Approved tools, consumer tools and why the difference matters"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 352,
+   "number": 2,
+   "title": "Prompting for Better Results",
+   "summary": "Practical techniques for writing prompts that produce useful, accurate and well-structured outputs for everyday financial services tasks.",
+   "objectives": [
+    "Write clear prompts with context, role, task and format",
+    "Refine outputs through iteration and follow-up instructions",
+    "Build reusable prompts for common work tasks"
+   ],
+   "syllabus": [
+    "Anatomy of a good prompt: context, task, constraints and output",
+    "Iterating, critiquing and asking the model to check its work",
+    "Prompt patterns for summaries, drafting, comparison and analysis",
+    "Building a personal prompt library"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 353,
+   "number": 3,
+   "title": "Verification, Hallucination and Professional Judgement",
+   "summary": "Why AI outputs must be checked, how to verify them efficiently and how to keep human judgement at the centre of decisions.",
+   "objectives": [
+    "Identify the warning signs of hallucinated or unreliable output",
+    "Apply proportionate verification to AI-assisted work",
+    "Retain personal responsibility for work produced with AI"
+   ],
+   "syllabus": [
+    "Fabricated facts, citations, figures and regulatory references",
+    "Verification techniques: source checks, cross-checks and reasonableness",
+    "Over-reliance and automation bias",
+    "When AI should not be used at all"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 354,
+   "number": 4,
+   "title": "Confidentiality, Data Protection and the Firm's AI Policy",
+   "summary": "How to use AI without leaking client, personal or confidential information, and what the firm's AI policy requires of every member of staff.",
+   "objectives": [
+    "Identify information that must never be entered into AI tools",
+    "Apply data protection principles to AI use",
+    "Follow the firm's AI policy, approval and reporting requirements"
+   ],
+   "syllabus": [
+    "Client data, personal data, inside information and trade secrets",
+    "Data protection principles: lawful basis, minimisation and retention",
+    "The firm's AI policy: approved tools, prohibited uses and approvals",
+    "Reporting AI incidents and suspected data leakage"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 355,
+   "number": 5,
+   "title": "AI in Client Communications, Bias and Records",
+   "summary": "The conduct risks of using AI in client-facing work, how bias can affect outputs, and the record-keeping and accountability that apply to AI-assisted work.",
+   "objectives": [
+    "Apply fair, clear and not misleading standards to AI-drafted communications",
+    "Recognise bias in AI outputs and its effect on customers",
+    "Keep appropriate records of AI-assisted work and decisions"
+   ],
+   "syllabus": [
+    "Client communications, marketing and the advice boundary",
+    "Bias, stereotyping and vulnerable customers",
+    "Record-keeping, audit trails and disclosure of AI use",
+    "Accountability: who signs off and who is responsible"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 356,
+   "number": 6,
+   "title": "Hands-On Workshop: Using AI Safely at Work",
+   "summary": "A practical workshop in which participants apply what they have learned to realistic tasks from their own roles, using the firm's approved tools.",
+   "objectives": [
+    "Use AI effectively on realistic tasks from participants' own roles",
+    "Verify and improve AI outputs before use",
+    "Agree personal good-practice commitments for AI use"
+   ],
+   "syllabus": [
+    "Exercise: summarising a policy or regulatory document",
+    "Exercise: drafting and checking a client or internal communication",
+    "Spot the error: reviewing flawed AI outputs",
+    "Workshop: my safe AI use checklist"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 213,
+   "entryType": "programme",
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 228,
+   "entryType": "programme",
+   "title": "Cyber, Data and Resilience Essentials",
+   "summary": "A six-module foundation programme giving all staff the practical habits to resist cyber attacks, protect data, use AI tools safely and report incidents.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 244,
+   "entryType": "programme",
+   "title": "Financial Crime Essentials for All Staff",
+   "summary": "An eight-module foundation programme helping all staff recognise financial crime red flags, follow the firm's controls and report suspicions without tipping off.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 281,
+   "entryType": "programme",
+   "title": "Market Conduct Essentials: Inside Information, Conflicts and Personal Dealing",
+   "summary": "A six-module foundation programme helping all staff handle inside information, personal dealing, gifts and communications correctly and avoid market abuse.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 300,
+   "entryType": "programme",
+   "title": "Regulatory Essentials for All Staff",
+   "summary": "An eight-module foundation programme giving all staff a practical understanding of regulation, conduct, financial crime awareness and their own responsibilities.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 319,
+   "entryType": "programme",
+   "title": "Sustainable Finance Essentials",
+   "summary": "A six-module foundation programme giving all staff a practical grounding in ESG, climate risk, sustainable products and avoiding greenwashing.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

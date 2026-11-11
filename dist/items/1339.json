@@ -1,0 +1,175 @@
+{
+ "id": 1339,
+ "entryType": "module",
+ "title": "Ownership, Control and Indirect Exposure",
+ "summary": "How sanctions extend beyond listed names to entities owned or controlled by designated persons, and how firms identify and evidence indirect exposure through complex structures.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "ownership-control-and-indirect-exposure",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How sanctions extend beyond listed names to entities owned or controlled by designated persons, and how firms identify and evidence indirect exposure through complex structures.",
+  "Learning Objectives": [
+   "Apply aggregate ownership and control tests to corporate structures",
+   "Identify control through nominees, trusts, family members and contractual rights",
+   "Document ownership and control decisions defensibly"
+  ],
+  "Syllabus": [
+   "Ownership thresholds, aggregation and the meaning of control",
+   "Making funds available indirectly: the prohibition and its practical scope",
+   "Opaque structures, nominees, divestments and restructurings designed to evade",
+   "Exercise: mapping a complex ownership chain"
+  ],
+  "Intended Audience": [
+   "Compliance officers, MLROs, sanctions specialists and financial crime analysts",
+   "Payments, operations, trade finance and client onboarding staff who handle screening alerts or transactions",
+   "Front-office, relationship and product staff in firms with cross-border clients, payments or trade exposure"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of financial crime compliance, payments or client onboarding is helpful. No prior specialist sanctions knowledge is required.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "FATF, Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (2021)",
+   "FSB, Enhancing Cross-border Payments: Stage 3 Roadmap (2020)",
+   "Basel Committee, Compliance and the Compliance Function in Banks (2005)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 307,
+   "module": 2,
+   "title": "Sanctions Compliance",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1338,
+     "number": 1,
+     "title": "How Sanctions Regimes Work"
+    },
+    {
+     "id": 1339,
+     "number": 2,
+     "title": "Ownership, Control and Indirect Exposure"
+    },
+    {
+     "id": 1340,
+     "number": 3,
+     "title": "Screening Clients, Payments and Vessels"
+    },
+    {
+     "id": 1341,
+     "number": 4,
+     "title": "Evasion Typologies: Trade, Maritime and Crypto-Assets"
+    },
+    {
+     "id": 1342,
+     "number": 5,
+     "title": "Export Controls, Dual-Use Goods and Trade Finance"
+    },
+    {
+     "id": 1343,
+     "number": 6,
+     "title": "Correspondent Banking, Payments and Intermediaries"
+    },
+    {
+     "id": 1344,
+     "number": 7,
+     "title": "Licensing, Frozen Assets, Investigations and Breach Reporting"
+    },
+    {
+     "id": 1345,
+     "number": 8,
+     "title": "Governance, Risk Assessment, Testing and Assurance"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 224,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Tracing and Controls for Compliance Teams",
+   "summary": "A nine-module programme equipping compliance teams to detect crypto-asset financial crime, use blockchain analytics, meet travel rule and sanctions obligations, and investigate and report suspicion.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 243,
+   "entryType": "programme",
+   "title": "Financial Crime Compliance in the Age of AI",
+   "summary": "A ten-module programme for MLROs and financial crime teams on the risk-based approach, AI-driven detection, AI-enabled threats and evidencing effectiveness to supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 259,
+   "entryType": "programme",
+   "title": "Fraud and Scams: Prevention, Detection and Response",
+   "summary": "An eight-module practitioner programme on preventing, detecting and responding to fraud and scams, from authorised push payment scams and deepfakes to reimbursement and board reporting.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

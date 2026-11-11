@@ -1,0 +1,185 @@
+{
+ "id": 459,
+ "entryType": "module",
+ "title": "Information Asymmetry and Independent Assurance",
+ "summary": "How directors can oversee a business when management always knows more, by understanding how information is produced and drawing on independent sources of assurance.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "information-asymmetry-and-independent-assurance",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How directors can oversee a business when management always knows more, by understanding how information is produced and drawing on independent sources of assurance.",
+  "Learning Objectives": [
+   "Explain the causes and consequences of information asymmetry in the boardroom",
+   "Assess the reliance placed on management's own account",
+   "Use the control functions, auditors and outside experts to verify what the board is told"
+  ],
+  "Syllabus": [
+   "Why the board always knows less, and what independent directors add",
+   "Trusting and verifying: healthy scepticism without hostility",
+   "Sources of assurance: risk, compliance, internal and external audit, outside advisers",
+   "Side conversations, pre-meetings and the risk of ratification"
+  ],
+  "Intended Audience": [
+   "Chairs, non-executive and independent directors and board committee members",
+   "Executive directors and senior managers who present to or sit on the board",
+   "Company secretaries and heads of governance responsible for board processes and evaluation"
+  ],
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No prior governance training is required.",
+  "Core Reading": [
+   "G20/OECD Principles of Corporate Governance (2023)",
+   "Basel Committee, Corporate Governance Principles for Banks (2015)",
+   "Amy C. Edmondson, The Fearless Organization: Creating Psychological Safety in the Workplace (2018)",
+   "Olivier Sibony, You're About to Make a Terrible Mistake! How Biases Distort Decision-Making (2020)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 206,
+   "module": 5,
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "moduleCount": 10,
+   "durationValue": 20,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 455,
+     "number": 1,
+     "title": "How Boards Really Work"
+    },
+    {
+     "id": 456,
+     "number": 2,
+     "title": "The Chair: Setting the Tone"
+    },
+    {
+     "id": 457,
+     "number": 3,
+     "title": "Agenda, Time and Priorities"
+    },
+    {
+     "id": 458,
+     "number": 4,
+     "title": "Board Papers and Information Quality"
+    },
+    {
+     "id": 459,
+     "number": 5,
+     "title": "Information Asymmetry and Independent Assurance"
+    },
+    {
+     "id": 460,
+     "number": 6,
+     "title": "Quality of Decisions and Looking Back"
+    },
+    {
+     "id": 461,
+     "number": 7,
+     "title": "Culture, Challenge and Psychological Safety"
+    },
+    {
+     "id": 462,
+     "number": 8,
+     "title": "Group Think, Bias and Board Personalities"
+    },
+    {
+     "id": 463,
+     "number": 9,
+     "title": "Technical Topics and AI in the Boardroom"
+    },
+    {
+     "id": 464,
+     "number": 10,
+     "title": "Keeping the Board Effective"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 236,
+   "entryType": "programme",
+   "title": "Effective Governance for Boards and Directors",
+   "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+   "level": "Board level",
+   "moduleCount": 12,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 242,
+   "entryType": "programme",
+   "title": "Finance and Prudential Essentials for Directors of Regulated Firms",
+   "summary": "An eight-module programme giving non-financial directors the confidence to read a regulated firm's accounts, capital and liquidity position, and to challenge the CFO.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

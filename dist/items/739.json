@@ -1,0 +1,184 @@
+{
+ "id": 739,
+ "entryType": "module",
+ "title": "Governing and Evidencing the Partnership Programme",
+ "summary": "Brings the programme together into a governance model for the firm's partnerships, from board risk appetite and management information to the evidence a supervisor will expect, ending with a partnership review workshop.",
+ "clientType": [
+  "firms",
+  "payments"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "Supervisory practice & skills",
+  "Payments"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [
+  "FinTech & Big Tech",
+  "Payments & E-Money",
+  "Investment Firms & Wealth Management"
+ ],
+ "slug": "governing-and-evidencing-the-partnership-programme",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together into a governance model for the firm's partnerships, from board risk appetite and management information to the evidence a supervisor will expect, ending with a partnership review workshop.",
+  "Learning Objectives": [
+   "Set risk appetite and governance for growth through partnerships",
+   "Specify management information and assurance across the partner portfolio",
+   "Evidence to supervisors that the firm remains in control of its customers"
+  ],
+  "Syllabus": [
+   "Board risk appetite, partner limits and approval of new partnerships",
+   "Portfolio management information and early warning indicators",
+   "What supervisors look for in thematic reviews of partnerships",
+   "Workshop: reviewing an embedded finance partnership through a supervisor's eyes"
+  ],
+  "Intended Audience": [
+   "Founders, chief executives, product and partnerships leads at payment, e-money, investment and fintech firms",
+   "Compliance, MLRO, risk, outsourcing and third-party risk staff overseeing partners and distributors",
+   "Technology, data and API leads responsible for open finance connections and platform integrations"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of payments, e-money, investment distribution or fintech partnerships is helpful. No technical background in APIs is required.",
+  "Core Reading": [
+   "FSB, Enhancing Third-Party Risk Management and Oversight: A Toolkit for Financial Institutions and Financial Authorities (2023)",
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "FATF, Guidance on Digital Identity (2020)",
+   "FSB, Enhancing Cross-border Payments: Stage 3 Roadmap (2020)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 237,
+   "module": 9,
+   "title": "Embedded Finance, Open Finance and Big Tech Partnerships",
+   "moduleCount": 9,
+   "durationValue": 27,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 731,
+     "number": 1,
+     "title": "Platform Economics and Embedded Finance Models"
+    },
+    {
+     "id": 732,
+     "number": 2,
+     "title": "Choosing and Designing a Partnership Model"
+    },
+    {
+     "id": 733,
+     "number": 3,
+     "title": "The Regulatory Perimeter and Allocation of Responsibilities"
+    },
+    {
+     "id": 734,
+     "number": 4,
+     "title": "Partner Due Diligence, Onboarding and Ongoing Oversight"
+    },
+    {
+     "id": 735,
+     "number": 5,
+     "title": "APIs, Open Finance and Data Sharing"
+    },
+    {
+     "id": 736,
+     "number": 6,
+     "title": "Financial Crime and Client Funds Across the Chain"
+    },
+    {
+     "id": 737,
+     "number": 7,
+     "title": "Consumer Outcomes in Embedded Journeys"
+    },
+    {
+     "id": 738,
+     "number": 8,
+     "title": "Operational Dependency, Concentration and Exit"
+    },
+    {
+     "id": 739,
+     "number": 9,
+     "title": "Governing and Evidencing the Partnership Programme"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 192,
+   "entryType": "programme",
+   "title": "Agentic AI and Autonomous Finance for Firms",
+   "summary": "An eight-module programme helping firms deploy AI agents that act and transact with sound authority, controls, governance and customer protection.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

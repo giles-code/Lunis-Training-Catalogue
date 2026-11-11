@@ -1,0 +1,185 @@
+{
+ "id": 1308,
+ "entryType": "module",
+ "title": "Conditions, Restrictions and the First Year",
+ "summary": "What happens after authorisation: meeting conditions and restrictions, delivering commitments made in the application and establishing the firm's supervisory relationship.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Regulatory Readiness",
+  "payments": "Regulatory Readiness",
+  "crypto": "Regulatory Readiness"
+ },
+ "topic": "Regulatory Readiness",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "conditions-restrictions-and-the-first-year",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Authorisations",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What happens after authorisation: meeting conditions and restrictions, delivering commitments made in the application and establishing the firm's supervisory relationship.",
+  "Learning Objectives": [
+   "Explain the types of conditions and restrictions attached to a licence",
+   "Design a post-authorisation plan that delivers commitments made in the application",
+   "Establish regular, constructive engagement with the firm's supervisor"
+  ],
+  "Syllabus": [
+   "Licence conditions, restrictions and requirements",
+   "Tracking commitments from the application",
+   "Early supervisory engagement and regulatory reporting",
+   "Scaling governance and controls as the firm grows"
+  ],
+  "Intended Audience": [
+   "Founders, executives and directors of firms applying for a licence or new permissions",
+   "Compliance, risk, legal and finance staff preparing applications or variations",
+   "Advisers and project managers supporting authorisation, expansion or acquisition projects"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with financial services regulation or the firm's proposed business is helpful. No prior experience of an application is required.",
+  "Core Reading": [
+   "Basel Committee, Core Principles for Effective Banking Supervision (2024)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "IMF, Good Supervision: Lessons from the Field (Working Paper WP/23/181, 2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 303,
+   "module": 7,
+   "title": "Regulatory Readiness: Authorisation and Supervisory Engagement",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1302,
+     "number": 1,
+     "title": "The Business Plan and Regulatory Business Model"
+    },
+    {
+     "id": 1303,
+     "number": 2,
+     "title": "Governance and Fit and Proper People"
+    },
+    {
+     "id": 1304,
+     "number": 3,
+     "title": "Policies, Procedures and Control Frameworks"
+    },
+    {
+     "id": 1305,
+     "number": 4,
+     "title": "Financial Resources and Wind-Down Planning"
+    },
+    {
+     "id": 1306,
+     "number": 5,
+     "title": "Outsourcing, Group Reliance and Substance"
+    },
+    {
+     "id": 1307,
+     "number": 6,
+     "title": "The Application Process and Regulator Questions"
+    },
+    {
+     "id": 1308,
+     "number": 7,
+     "title": "Conditions, Restrictions and the First Year"
+    },
+    {
+     "id": 1309,
+     "number": 8,
+     "title": "Supervisory Visits and Risk Assessments"
+    },
+    {
+     "id": 1310,
+     "number": 9,
+     "title": "Findings and Remediation Programmes"
+    },
+    {
+     "id": 1311,
+     "number": 10,
+     "title": "Change in Control, Expansion and Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 239,
+   "entryType": "programme",
+   "title": "Engaging Effectively with Your Supervisor: How Firms Are Assessed",
+   "summary": "A ten-module programme showing firms how supervisors assess business models, governance and risk, so they can see themselves as the supervisor does and engage with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 255,
+   "entryType": "programme",
+   "title": "Fit and Proper for Firms: Appointing and Assessing Key Function Holders",
+   "summary": "A nine-module programme showing firms how to appoint and assess key function holders, prepare applications and interviews, and manage fitness and certification on an ongoing basis.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 264,
+   "entryType": "programme",
+   "title": "Governance Reviews and Supervisory Interviews: Preparing Your Board and Management",
+   "summary": "A one-day workshop on how supervisors assess governance and interview directors and staff, and how licensees can evidence effective governance and prepare openly.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 6,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

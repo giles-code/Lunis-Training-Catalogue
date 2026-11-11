@@ -1,0 +1,155 @@
+{
+ "id": 930,
+ "entryType": "module",
+ "title": "Oversight Calendars, MI and Escalation",
+ "summary": "How to turn the oversight framework into an annual calendar, a focused management information set and pre-agreed escalation triggers that remove guesswork when something goes wrong.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "oversight-calendars-mi-and-escalation",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to turn the oversight framework into an annual calendar, a focused management information set and pre-agreed escalation triggers that remove guesswork when something goes wrong.",
+  "Learning Objectives": [
+   "Build an annual oversight calendar aligned to reporting and review cycles",
+   "Specify the management information the board needs and in what form",
+   "Set escalation triggers and internal limits that operate before a breach"
+  ],
+  "Syllabus": [
+   "The annual cycle: reviews, approvals, audits and provider assessments",
+   "Management information: dashboards, exception reporting and key risk indicators",
+   "Escalation triggers, internal limits and out-of-cycle meetings",
+   "Tool: an oversight calendar and escalation matrix"
+  ],
+  "Intended Audience": [
+   "Chairs, independent and non-executive directors of investment funds and fund management companies",
+   "Executive directors, conducting officers and designated persons who prepare board business",
+   "Company secretaries and governance professionals who design and maintain board frameworks"
+  ],
+  "Useful Prior Knowledge and Experience": "Current or prospective experience as a fund or management company director is helpful. No prior governance qualification is required.",
+  "Core Reading": [
+   "IOSCO, Examination of Governance for Collective Investment Schemes (2006–2007)",
+   "G20/OECD Principles of Corporate Governance (2023)",
+   "FSB, Enhancing Third-Party Risk Management and Oversight: A Toolkit for Financial Institutions and Financial Authorities (2023)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 260,
+   "module": 4,
+   "title": "Fund Board Governance Toolkit: A Risk-Based Oversight Workshop",
+   "moduleCount": 6,
+   "durationValue": 18,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 927,
+     "number": 1,
+     "title": "Board Composition, Independence and Skills Matrix"
+    },
+    {
+     "id": 928,
+     "number": 2,
+     "title": "Board Organisation: Meetings, Agendas, Committees and Delegation"
+    },
+    {
+     "id": 929,
+     "number": 3,
+     "title": "A Risk-Based Oversight Framework for Service Providers"
+    },
+    {
+     "id": 930,
+     "number": 4,
+     "title": "Oversight Calendars, MI and Escalation"
+    },
+    {
+     "id": 931,
+     "number": 5,
+     "title": "Ethics, Culture and Professional Standards for Directors"
+    },
+    {
+     "id": 932,
+     "number": 6,
+     "title": "Board Evaluation, Director Development and the Oversight Plan"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 199,
+   "entryType": "programme",
+   "title": "Alternative Investments for Fund Directors",
+   "summary": "An eight-module programme explaining hedge fund, private markets, real asset, structured and digital asset strategies to fund directors, with board questions on valuation, liquidity and fees.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 207,
+   "entryType": "programme",
+   "title": "Board Oversight of Fund Operations and Service Providers",
+   "summary": "A ten-module programme giving fund directors the tools to oversee fund operations and service providers, from NAV production and custody to errors and resilience.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 274,
+   "entryType": "programme",
+   "title": "Investment Fund Governance for Directors",
+   "summary": "A ten-module programme giving fund directors the tools to oversee delegates, manage conflicts, protect investors and evidence effective governance to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  }
+ ]
+}

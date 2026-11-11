@@ -1,0 +1,302 @@
+{
+ "id": 245,
+ "entryType": "programme",
+ "title": "Financial Crime Foundations for Regulatory Staff",
+ "summary": "An eight-module foundation programme giving regulatory staff a grounding in AML/CFT, sanctions and fraud, firms' controls and financial crime red flags.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Reducing Financial Crime & Delivering Market Integrity",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "New joiners & developing staff",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "financial-crime-foundations-for-regulatory-staff",
+ "moduleCount": 8,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips regulatory staff with a sound grounding in money laundering, terrorist financing, sanctions and fraud, how firms' controls work and how to spot financial crime red flags in everyday supervisory work.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Capability & Capacity Building"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give regulatory staff a practical understanding of the main financial crime risks, the international framework set by the FATF and the controls firms are expected to operate. Participants leave able to recognise red flags in their own work, ask the right questions of firms and know when and how to escalate concerns, including to the national FIU.",
+  "What It Covers": "Money laundering and terrorist financing basics, the FATF framework and mutual evaluations, sanctions, fraud, how firms' controls work, red flags in supervisory work, working with the national FIU and law enforcement, and a red flags case workshop.",
+  "Intended Audience": [
+   "New joiners and developing staff across supervisory, authorisation, policy and enforcement functions",
+   "Supervisors and inspectors without a specialist financial crime background",
+   "Staff joining a financial crime or AML/CFT supervision team"
+  ],
+  "Learning Objectives": [
+   "Explain the stages and methods of money laundering and terrorist financing",
+   "Describe the FATF standards and how they shape national frameworks and the authority's role",
+   "Explain how sanctions and fraud risks arise in financial firms",
+   "Describe the controls firms are expected to operate and how supervisors test them",
+   "Identify financial crime red flags in authorisation, supervisory and enforcement work",
+   "Apply appropriate escalation, including cooperation with the national FIU and law enforcement"
+  ],
+  "Structure and Format": "Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a four-day programme or as a series of half-day sessions. Each module combines a short briefing with typologies, case studies and exercises, and modules can be selected or tailored to the authority's mandate and sectors.",
+  "Useful Prior Knowledge and Experience": "No prior financial crime experience is required. Some familiarity with financial services or the authority's work is helpful.",
+  "Core Reading": [
+   "FATF (2012, as updated), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations",
+   "FATF (2021), Guidance on Risk-Based Supervision",
+   "Basel Committee on Banking Supervision (2017, revised 2020), Sound Management of Risks Related to Money Laundering and Financing of Terrorism",
+   "FATF (2023), Guidance on Beneficial Ownership of Legal Persons"
+  ]
+ },
+ "modules": [
+  {
+   "id": 802,
+   "number": 1,
+   "title": "Understanding Money Laundering and Terrorist Financing",
+   "summary": "What money laundering and terrorist financing are, how they work in practice and why financial firms are both vulnerable to them and central to preventing them.",
+   "objectives": [
+    "Explain the stages of money laundering and the sources of criminal proceeds",
+    "Distinguish terrorist and proliferation financing from money laundering",
+    "Recognise why the financial system is attractive to criminals"
+   ],
+   "syllabus": [
+    "Placement, layering and integration",
+    "Predicate offences and the scale of illicit finance",
+    "Terrorist financing and proliferation financing compared",
+    "The harm caused and the authority's role in preventing it"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 803,
+   "number": 2,
+   "title": "The FATF Framework and the Authority's Role",
+   "summary": "The international AML/CFT standards set by the FATF, how they are implemented nationally and what they require of supervisors.",
+   "objectives": [
+    "Describe the FATF Recommendations and the risk-based approach",
+    "Explain the authority's responsibilities as an AML/CFT supervisor",
+    "Recognise the importance of mutual evaluations and national risk assessments"
+   ],
+   "syllabus": [
+    "The FATF Recommendations, Immediate Outcomes and methodology",
+    "National risk assessments and the risk-based approach",
+    "Supervisory obligations: licensing, monitoring and sanctions",
+    "Mutual evaluations, follow-up and the consequences of grey-listing"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 804,
+   "number": 3,
+   "title": "Financial Sanctions",
+   "summary": "How targeted financial sanctions work, the obligations they place on firms and the risks of breach and evasion.",
+   "objectives": [
+    "Explain the purpose and types of financial sanctions",
+    "Describe firms' screening, freezing and reporting obligations",
+    "Recognise common sanctions evasion techniques"
+   ],
+   "syllabus": [
+    "International, regional and national sanctions regimes in outline",
+    "Asset freezes, prohibitions and ownership and control tests",
+    "Screening, alert handling and reporting obligations",
+    "Evasion: front companies, trade routes and crypto-assets"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 805,
+   "number": 4,
+   "title": "Fraud and Scams",
+   "summary": "The main types of fraud affecting financial firms and their customers, how fraud links to money laundering and what firms should do to prevent and detect it.",
+   "objectives": [
+    "Identify the main internal and external fraud types",
+    "Explain how authorised push payment fraud and investment scams operate",
+    "Assess firms' fraud prevention and detection arrangements"
+   ],
+   "syllabus": [
+    "Internal fraud, insider threat and misconduct",
+    "Investment scams, impersonation and authorised push payment fraud",
+    "Money mules and the link between fraud and laundering",
+    "Prevention, detection and customer protection measures"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 806,
+   "number": 5,
+   "title": "How Firms' Financial Crime Controls Work",
+   "summary": "The building blocks of a firm's financial crime framework and what good and poor controls look like in practice.",
+   "objectives": [
+    "Describe the main components of a firm's AML/CFT framework",
+    "Distinguish effective controls from paper compliance",
+    "Frame supervisory questions to test controls"
+   ],
+   "syllabus": [
+    "Business-wide risk assessment, policies and governance",
+    "Customer due diligence, beneficial ownership and enhanced due diligence",
+    "Transaction monitoring, suspicious activity reporting and record-keeping",
+    "The MLRO, compliance function, training and independent testing"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 807,
+   "number": 6,
+   "title": "Red Flags in Supervisory Work",
+   "summary": "How financial crime risks surface in authorisation applications, supervisory reviews and firm data, and how staff outside specialist teams can spot them.",
+   "objectives": [
+    "Recognise financial crime red flags in applications and firm information",
+    "Use data and returns to identify unusual patterns",
+    "Decide when concerns should be referred to specialist colleagues"
+   ],
+   "syllabus": [
+    "Red flags at the gateway: ownership, source of funds and business plans",
+    "Red flags in supervision: growth, customer base and geography",
+    "Unusual transactions, products and delivery channels",
+    "Escalation routes within the authority"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 808,
+   "number": 7,
+   "title": "Working with the FIU and Law Enforcement",
+   "summary": "How the authority cooperates with the national FIU, law enforcement and foreign counterparts, and the legal and practical considerations involved.",
+   "objectives": [
+    "Explain the role of the national FIU and how suspicious activity reports are used",
+    "Describe the gateways for domestic and international information exchange",
+    "Recognise the authority's own reporting and confidentiality obligations"
+   ],
+   "syllabus": [
+    "The FIU's functions: receipt, analysis and dissemination",
+    "Domestic cooperation and national coordination arrangements",
+    "International cooperation and memoranda of understanding",
+    "Tipping off, confidentiality and data protection"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 809,
+   "number": 8,
+   "title": "Financial Crime Red Flags: Case Workshop",
+   "summary": "Brings the programme together in a case study in which participants review a firm's profile and information, identify financial crime risks and agree the supervisory response.",
+   "objectives": [
+    "Identify financial crime risks and red flags in a case scenario",
+    "Assess the adequacy of the firm's controls",
+    "Agree and justify an appropriate supervisory response and escalation"
+   ],
+   "syllabus": [
+    "Case briefing: firm profile, customer base and transaction data",
+    "Identifying red flags and control weaknesses in small groups",
+    "Deciding on escalation and referral",
+    "Workshop: presenting findings and the proposed supervisory response"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 225,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 247,
+   "entryType": "programme",
+   "title": "Financial Crime Supervision in the Age of AI",
+   "summary": "A ten-module programme equipping supervisors to assess financial crime controls and firms' use of AI in monitoring, screening, fraud and surveillance.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 326,
+   "entryType": "programme",
+   "title": "The EU AML Package: AMLR, AMLD6 and AMLA (EU Edition)",
+   "summary": "An eight-module programme on the EU AML package for supervisors and firms: the AML Regulation single rulebook, AMLD6, AMLA's supervisory model, crypto-asset transfers and transition planning.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 238,
+   "entryType": "programme",
+   "title": "Enforcement and Sanctions",
+   "summary": "A ten-module programme taking enforcement and supervisory staff through the full life of an enforcement case, from triage and evidence to sanctions, settlement and cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

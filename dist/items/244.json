@@ -1,0 +1,311 @@
+{
+ "id": 244,
+ "entryType": "programme",
+ "title": "Financial Crime Essentials for All Staff",
+ "summary": "An eight-module foundation programme helping all staff recognise financial crime red flags, follow the firm's controls and report suspicions without tipping off.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 12,
+ "durationUnit": "hours",
+ "role": [
+  "All staff"
+ ],
+ "firmType": [],
+ "slug": "financial-crime-essentials-for-all-staff",
+ "moduleCount": 8,
+ "hoursPerModule": 1.5,
+ "intro": "This training programme equips all staff in a regulated firm to recognise money laundering, terrorist financing, sanctions, bribery and fraud risks in their daily work, and to report concerns promptly without tipping off.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Compliance"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give staff at every level a practical, plain-language understanding of how criminals exploit financial firms and the part each role plays in stopping them. Participants leave able to spot red flags in their own work, follow the firm's controls and report suspicions confidently and lawfully.",
+  "What It Covers": "How financial crime works, money laundering, terrorist and proliferation financing, customer due diligence, sanctions, bribery and corruption, fraud and scams, and internal reporting, tipping off and red flags across every role.",
+  "Intended Audience": [
+   "All staff in regulated firms, including new joiners as part of induction and existing staff as annual refresher training",
+   "Customer-facing, operations, payments, technology, HR, finance and procurement staff who may encounter financial crime risk",
+   "Line managers who receive concerns from their teams and need to know how to escalate them"
+  ],
+  "Learning Objectives": [
+   "Explain in plain language how money laundering, terrorist financing, sanctions evasion, bribery and fraud work",
+   "Recognise the red flags most relevant to their own role and team",
+   "Apply the firm's customer due diligence, screening and anti-bribery controls correctly",
+   "Identify fraud and scam tactics targeting customers, staff and the firm",
+   "Report suspicions internally, promptly and without tipping off",
+   "Explain the personal and corporate consequences of financial crime failures and when to speak up"
+  ],
+  "Structure and Format": "Eight modules of about ninety minutes each, delivered in person, virtually or in a hybrid format, either as a two-day programme or as a series of short live sessions, and well suited to conversion into e-learning. Modules combine short briefings with real-world examples and scenario questions, work well as annual refresher training, and can be selected or tailored to the firm's policies and business.",
+  "Useful Prior Knowledge and Experience": "No prior knowledge of financial crime or regulation is required. Familiarity with the firm's own policies is helpful but not essential.",
+  "Core Reading": [
+   "FATF (2012, as updated), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations",
+   "OECD (1997), Convention on Combating Bribery of Foreign Public Officials in International Business Transactions",
+   "FATF, Egmont Group and INTERPOL (2023), Illicit Financial Flows from Cyber-Enabled Fraud"
+  ]
+ },
+ "modules": [
+  {
+   "id": 794,
+   "number": 1,
+   "title": "Financial Crime: Why It Matters to Your Job",
+   "summary": "What financial crime is, why criminals target financial firms, and why every role, not just compliance, forms part of the firm's defences.",
+   "objectives": [
+    "Explain the main types of financial crime and the harm they cause",
+    "Describe why firms and staff carry legal obligations to prevent it",
+    "Identify where their own role touches financial crime risk"
+   ],
+   "syllabus": [
+    "The main threats: laundering, terrorist financing, sanctions evasion, bribery and fraud",
+    "Real-world harm: victims, communities and the integrity of the financial system",
+    "The firm's defences and the role of the money laundering reporting officer",
+    "Personal liability, criminal offences and consequences for staff"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 795,
+   "number": 2,
+   "title": "Money Laundering: How Criminal Money Moves",
+   "summary": "How criminals disguise the proceeds of crime through financial firms, the typologies most often seen in practice, and the warning signs staff should notice.",
+   "objectives": [
+    "Explain placement, layering and integration with practical examples",
+    "Recognise common laundering typologies across products and channels",
+    "Identify red flags in customer behaviour and transactions"
+   ],
+   "syllabus": [
+    "The three stages of money laundering in practice",
+    "Typologies: cash, money mules, shell companies, trade and digital assets",
+    "Professional enablers and the misuse of legitimate businesses",
+    "Red flags: unusual activity, unclear source of funds and evasive customers"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 796,
+   "number": 3,
+   "title": "Terrorist Financing and Proliferation Financing",
+   "summary": "How terrorist and proliferation financing differ from money laundering, why small and legitimate-looking sums matter, and the indicators staff should be aware of.",
+   "objectives": [
+    "Explain how terrorist financing differs from money laundering",
+    "Recognise indicators of terrorist and proliferation financing",
+    "Describe why small and apparently legitimate transactions can be significant"
+   ],
+   "syllabus": [
+    "Sources of terrorist finance: legitimate income, crime and abuse of charities",
+    "Small sums, crowdfunding and informal value transfer systems",
+    "Proliferation financing and dual-use goods in plain terms",
+    "Indicators, and why staff should not dismiss low-value concerns"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 797,
+   "number": 4,
+   "title": "Know Your Customer and Customer Due Diligence",
+   "summary": "Why the firm needs to know who its customers are, what due diligence involves throughout the relationship, and how every team helps keep customer information accurate.",
+   "objectives": [
+    "Explain the purpose of customer due diligence and ongoing monitoring",
+    "Recognise higher-risk customers, including politically exposed persons",
+    "Apply the firm's procedures when information is missing, inconsistent or suspicious"
+   ],
+   "syllabus": [
+    "Identification, verification and beneficial ownership",
+    "The risk-based approach: simplified, standard and enhanced due diligence",
+    "Politically exposed persons, higher-risk countries and complex structures",
+    "Ongoing monitoring and keeping customer records up to date"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 798,
+   "number": 5,
+   "title": "Sanctions: What Every Member of Staff Must Know",
+   "summary": "What financial sanctions prohibit, how the firm screens customers and payments, how evasion happens and why sanctions breaches are treated so seriously.",
+   "objectives": [
+    "Explain asset freezes, trade restrictions and other sanctions measures",
+    "Recognise sanctions evasion tactics and screening alerts that need attention",
+    "Escalate potential sanctions matches without delay"
+   ],
+   "syllabus": [
+    "Types of sanctions: asset freezes, sectoral and trade measures",
+    "Screening customers, payments and third parties",
+    "Evasion red flags: front companies, ownership changes and unusual routing",
+    "Why breaches can occur without intent, and what to do on a possible match"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 799,
+   "number": 6,
+   "title": "Bribery and Corruption",
+   "summary": "How bribery arises in financial services, including through gifts, hospitality, intermediaries and facilitation payments, and the controls that protect staff and the firm.",
+   "objectives": [
+    "Explain what bribery and corruption are and why the firm can be liable",
+    "Recognise bribery risks in gifts, hospitality, third parties and procurement",
+    "Apply the firm's anti-bribery policy and approval processes"
+   ],
+   "syllabus": [
+    "Offering, giving, requesting and receiving bribes",
+    "Gifts, hospitality, donations and sponsorships: where the line is",
+    "Agents, introducers and suppliers: third-party bribery risk",
+    "Facilitation payments, public officials and accurate expense records"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 800,
+   "number": 7,
+   "title": "Fraud and Scams: Protecting Customers and the Firm",
+   "summary": "The fraud and scam tactics aimed at customers, staff and the firm, from impersonation and investment scams to insider fraud, and how staff can intervene before money is lost.",
+   "objectives": [
+    "Recognise common authorised payment, investment and impersonation scams",
+    "Identify signs of insider fraud and payment diversion",
+    "Intervene appropriately when a customer may be the victim of a scam"
+   ],
+   "syllabus": [
+    "External fraud: impersonation, investment, romance and invoice scams",
+    "Internal fraud, collusion and abuse of system access",
+    "Spotting a customer under pressure: conversations that protect them",
+    "Deepfakes, synthetic identities and AI-enabled fraud"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 801,
+   "number": 8,
+   "title": "Reporting Suspicion, Tipping Off and Red-Flag Scenarios",
+   "summary": "How to report a suspicion internally, what happens next, how to avoid tipping off, and a closing set of role-based red-flag scenarios.",
+   "objectives": [
+    "Report suspicions internally through the correct channel and at the right time",
+    "Explain tipping off and how to handle customer contact after a report",
+    "Apply the programme to realistic scenarios across front office, operations and support roles"
+   ],
+   "syllabus": [
+    "Internal suspicious activity reports: what to include and when",
+    "The money laundering reporting officer, the national FIU and what happens next",
+    "Tipping off, prejudicing an investigation and managing customer contact",
+    "Workshop: red-flag scenarios by role, what would you do?"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 213,
+   "entryType": "programme",
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 228,
+   "entryType": "programme",
+   "title": "Cyber, Data and Resilience Essentials",
+   "summary": "A six-module foundation programme giving all staff the practical habits to resist cyber attacks, protect data, use AI tools safely and report incidents.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 281,
+   "entryType": "programme",
+   "title": "Market Conduct Essentials: Inside Information, Conflicts and Personal Dealing",
+   "summary": "A six-module foundation programme helping all staff handle inside information, personal dealing, gifts and communications correctly and avoid market abuse.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 300,
+   "entryType": "programme",
+   "title": "Regulatory Essentials for All Staff",
+   "summary": "An eight-module foundation programme giving all staff a practical understanding of regulation, conduct, financial crime awareness and their own responsibilities.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 319,
+   "entryType": "programme",
+   "title": "Sustainable Finance Essentials",
+   "summary": "A six-module foundation programme giving all staff a practical grounding in ESG, climate risk, sustainable products and avoiding greenwashing.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

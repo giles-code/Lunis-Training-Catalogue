@@ -1,0 +1,189 @@
+{
+ "id": 683,
+ "entryType": "module",
+ "title": "The Changing Nature of Money and Settlement",
+ "summary": "How central bank money, commercial bank money and new private digital money relate to each other, and why programmable ledgers are prompting firms to rethink payments and settlement.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "Crypto & digital assets",
+  "Payments"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money",
+  "Payments & E-Money"
+ ],
+ "slug": "the-changing-nature-of-money-and-settlement",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Strategy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How central bank money, commercial bank money and new private digital money relate to each other, and why programmable ledgers are prompting firms to rethink payments and settlement.",
+  "Learning Objectives": [
+   "Distinguish the forms of money by issuer, claim and protection",
+   "Explain the singleness of money and why it matters to firms",
+   "Identify where tokenisation changes payments and settlement economics"
+  ],
+  "Syllabus": [
+   "Central bank, commercial bank and private digital money",
+   "Singleness of money, convertibility at par and confidence",
+   "Shared ledgers, programmability and atomic settlement",
+   "The BIS and CPMI vision of a tokenised unified ledger"
+  ],
+  "Intended Audience": [
+   "Strategy, product, treasury and payments staff at banks, payment and e-money firms evaluating digital money",
+   "Asset managers, custodians, fund administrators and market infrastructure staff working on tokenisation",
+   "Compliance, risk, legal and finance professionals who must assess and control new digital money and tokenisation initiatives"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of payments, banking, asset management or market infrastructure is helpful. No technical background in blockchain is required.",
+  "Core Reading": [
+   "BIS, Annual Economic Report 2023, Chapter III: Blueprint for the Future Monetary System",
+   "FSB, High-level Recommendations for the Regulation, Supervision and Oversight of Global Stablecoin Arrangements (2023)",
+   "FSB, The Financial Stability Implications of Tokenisation (2024)",
+   "Basel Committee, Prudential Treatment of Cryptoasset Exposures (2022)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 232,
+   "module": 1,
+   "title": "Digital Money and Tokenisation for Firms",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 683,
+     "number": 1,
+     "title": "The Changing Nature of Money and Settlement"
+    },
+    {
+     "id": 684,
+     "number": 2,
+     "title": "Stablecoins: Design, Reserves and Use Cases"
+    },
+    {
+     "id": 685,
+     "number": 3,
+     "title": "Tokenised Deposits and Bank-Issued Digital Money"
+    },
+    {
+     "id": 686,
+     "number": 4,
+     "title": "Central Bank Digital Currencies"
+    },
+    {
+     "id": 687,
+     "number": 5,
+     "title": "Tokenised Securities and Funds"
+    },
+    {
+     "id": 688,
+     "number": 6,
+     "title": "Market Infrastructure, Settlement and Interoperability"
+    },
+    {
+     "id": 689,
+     "number": 7,
+     "title": "Legal Certainty, Custody and Smart Contracts"
+    },
+    {
+     "id": 690,
+     "number": 8,
+     "title": "Prudential, Accounting and Balance Sheet Treatment"
+    },
+    {
+     "id": 691,
+     "number": 9,
+     "title": "Financial Crime, Operational Resilience and Cyber Risk"
+    },
+    {
+     "id": 692,
+     "number": 10,
+     "title": "Building the Firm's Participation Strategy"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 298,
+   "entryType": "programme",
+   "title": "Quantum and Cryptographic Resilience for Firms",
+   "summary": "An eight-module programme helping firms understand the quantum threat, build a cryptographic inventory, plan post-quantum migration and report readiness to the board and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 222,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals for Industry",
+   "summary": "A ten-module foundation programme giving industry professionals and their advisers a practical understanding of blockchain, crypto-asset markets and service providers, and the risks and controls that matter.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

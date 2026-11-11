@@ -1,0 +1,313 @@
+{
+ "id": 299,
+ "entryType": "programme",
+ "title": "Recovery and Wind-Down Planning for Firms",
+ "summary": "An eight-module programme helping firms build credible recovery and wind-down plans, from scenarios and triggers to client asset return, testing and supervisory review.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Regulatory Readiness",
+  "payments": "Regulatory Readiness",
+  "crypto": "Regulatory Readiness"
+ },
+ "topic": "Regulatory Readiness",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "recovery-and-wind-down-planning-for-firms",
+ "moduleCount": 8,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips finance, risk, compliance and board members to build recovery and wind-down plans that work under stress: designing scenarios and triggers, testing recovery options, protecting client assets and evidencing credibility to supervisors.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Crisis Management & Resolution",
+  "Risk Management"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To equip firms to produce recovery and wind-down plans that are credible, usable in a crisis and proportionate to the business, rather than documents written once for a supervisor. Participants leave able to design scenarios and triggers, judge which recovery options would really work, plan an orderly solvent wind-down that returns client money and assets, and see their plan the way a supervisor does.",
+  "What It Covers": "Why plans matter, scenario and trigger design, recovery options and their credibility, liquidity and capital in stress, solvent wind-down mechanics, return of client money and assets, operational continuity and critical services, and governance, testing and supervisory review.",
+  "Intended Audience": [
+   "Chief financial officers, chief risk officers and finance and treasury teams at investment firms, payment and e-money institutions, crypto-asset service providers and fund managers",
+   "Compliance officers, heads of operations and plan owners responsible for drafting and maintaining recovery and wind-down plans",
+   "Executive and non-executive directors who approve the plan and would lead the firm through a crisis"
+  ],
+  "Learning Objectives": [
+   "Explain why supervisors require recovery and wind-down plans and what makes them credible",
+   "Design severe but plausible scenarios, early warning indicators and recovery triggers",
+   "Evaluate recovery options for feasibility, timing and value under stress",
+   "Plan an orderly solvent wind-down, including the return of client money and assets",
+   "Identify the people, systems, suppliers and critical services needed to keep operating through a wind-down",
+   "Embed the plan in governance, test it through fire drills and simulations, and evidence it to supervisors"
+  ],
+  "Structure and Format": "Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day workshops. Each module combines a briefing with worked examples and templates, the final module runs a crisis simulation, and modules can be selected or tailored to the firm's sector and plan.",
+  "Useful Prior Knowledge and Experience": "Some experience of finance, risk or compliance in a regulated firm is helpful. No prior experience of recovery or wind-down planning is required.",
+  "Core Reading": [
+   "FSB, Key Attributes of Effective Resolution Regimes for Financial Institutions (2014)",
+   "Basel Committee, Stress Testing Principles (2018)",
+   "Basel Committee, Principles for Sound Liquidity Risk Management and Supervision (2008)",
+   "ISO 22301:2019, Security and Resilience – Business Continuity Management Systems"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1269,
+   "number": 1,
+   "title": "Why Recovery and Wind-Down Plans Matter",
+   "summary": "The purpose of recovery and wind-down planning, what supervisors expect of firms across sectors, and the common reasons plans fail when they are needed most.",
+   "objectives": [
+    "Explain the difference between recovery, solvent wind-down and insolvency",
+    "Describe supervisory expectations across investment, payments, crypto and fund sectors",
+    "Recognise the hallmarks of a plan written for compliance rather than use"
+   ],
+   "syllabus": [
+    "Recovery, wind-down and resolution: purpose, scope and proportionality",
+    "Harm to clients, counterparties and markets from disorderly failure",
+    "Lessons from firm failures where plans did not work",
+    "What a credible, usable plan looks like"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1270,
+   "number": 2,
+   "title": "Scenario Design, Indicators and Triggers",
+   "summary": "How to build severe but plausible stress scenarios from the firm's own business model, and set early warning indicators and triggers that prompt action in time.",
+   "objectives": [
+    "Design idiosyncratic, market-wide and combined stress scenarios",
+    "Use reverse stress testing to identify what would make the business unviable",
+    "Set indicators, thresholds and escalation triggers linked to risk appetite"
+   ],
+   "syllabus": [
+    "Business model analysis as the starting point for scenarios",
+    "Reverse stress testing and points of non-viability",
+    "Early warning indicators: capital, liquidity, revenue, client and operational",
+    "Calibrating triggers to avoid both false alarms and late action"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1271,
+   "number": 3,
+   "title": "Recovery Options and Their Credibility",
+   "summary": "Identifying the actions management could take to restore viability, and testing honestly whether each would work in the time available and in the market conditions of the scenario.",
+   "objectives": [
+    "Identify a realistic menu of recovery options",
+    "Assess the feasibility, timing, value and dependencies of each option",
+    "Challenge optimistic assumptions about parent support and asset sales"
+   ],
+   "syllabus": [
+    "Capital raising, cost reduction, business and asset disposals",
+    "Group and parent support: commitments versus assumptions",
+    "Impediments: legal, operational, market and reputational",
+    "Mapping options against scenarios to test overall recovery capacity"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1272,
+   "number": 4,
+   "title": "Liquidity and Capital in Stress",
+   "summary": "How capital and liquidity behave as stress develops, how to project resources through recovery and wind-down, and how the plan links to the firm's internal capital and liquidity adequacy assessment.",
+   "objectives": [
+    "Project capital and liquidity through a stress scenario and wind-down period",
+    "Identify sources of liquidity strain, including margin calls, client outflows and trapped cash",
+    "Link wind-down resource needs to the firm's internal adequacy assessment"
+   ],
+   "syllabus": [
+    "Liquidity forecasting, buffers and contingency funding",
+    "Capital depletion, losses and the timing of breaches",
+    "Estimating wind-down costs and the resources to hold against them",
+    "Integrating recovery and wind-down with internal capital and liquidity assessments"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1273,
+   "number": 5,
+   "title": "Solvent Wind-Down: Mechanics, Timeline and Costs",
+   "summary": "The practical steps to close a business in an orderly way: deciding when to switch from recovery to wind-down, sequencing activities, managing counterparties and staff, and communicating with stakeholders.",
+   "objectives": [
+    "Define the point at which the firm moves from recovery to wind-down",
+    "Build a realistic wind-down timeline and sequence of actions",
+    "Plan communication with clients, counterparties, staff and supervisors"
+   ],
+   "syllabus": [
+    "Wind-down triggers and the decision-making process",
+    "Closing positions, transferring clients and terminating contracts",
+    "Staff retention, key person risk and incentives during wind-down",
+    "Stakeholder and supervisor communication plans"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1274,
+   "number": 6,
+   "title": "Returning Client Money and Assets",
+   "summary": "How to ensure client money, safeguarded funds and client assets, including crypto-assets, can be identified, reconciled and returned promptly in a wind-down or failure.",
+   "objectives": [
+    "Assess the quality of segregation, safeguarding and records for client money and assets",
+    "Plan the identification, reconciliation and return of client holdings",
+    "Identify shortfall risks and how to prevent them"
+   ],
+   "syllabus": [
+    "Client money, safeguarding and custody arrangements across sectors",
+    "Reconciliation, books and records and resolution packs",
+    "Return mechanics: transfer, distribution and unclaimed balances",
+    "Crypto-asset custody: keys, wallets and returning digital assets"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1275,
+   "number": 7,
+   "title": "Operational Continuity and Critical Services",
+   "summary": "Keeping the firm operating long enough to recover or wind down: identifying critical services, people, systems and suppliers, and making contracts and data resilient to a crisis.",
+   "objectives": [
+    "Identify critical services and the resources needed to deliver them in stress",
+    "Assess contracts with outsourcers and group entities for continuity in wind-down",
+    "Align recovery and wind-down planning with operational resilience and business continuity"
+   ],
+   "syllabus": [
+    "Mapping critical services, people, systems and data",
+    "Third-party and intragroup contracts: termination rights and continuity clauses",
+    "Access to systems and records after staff and supplier departures",
+    "Links to business continuity and operational resilience frameworks"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1276,
+   "number": 8,
+   "title": "Governance, Testing and Supervisory Review",
+   "summary": "Brings the programme together: who owns and approves the plan, how it is tested through fire drills and crisis simulation, and how supervisors review plans and what they challenge.",
+   "objectives": [
+    "Define plan ownership, board approval and review cycles",
+    "Design fire drills and crisis simulations that test the plan in practice",
+    "Anticipate supervisory challenge and evidence the plan's credibility"
+   ],
+   "syllabus": [
+    "Roles of the board, senior management and control functions",
+    "Fire drills, desk-top exercises and lessons-learned logs",
+    "How supervisors review plans: common findings and red flags",
+    "Workshop: crisis simulation and plan improvement actions"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 239,
+   "entryType": "programme",
+   "title": "Engaging Effectively with Your Supervisor: How Firms Are Assessed",
+   "summary": "A ten-module programme showing firms how supervisors assess business models, governance and risk, so they can see themselves as the supervisor does and engage with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 255,
+   "entryType": "programme",
+   "title": "Fit and Proper for Firms: Appointing and Assessing Key Function Holders",
+   "summary": "A nine-module programme showing firms how to appoint and assess key function holders, prepare applications and interviews, and manage fitness and certification on an ongoing basis.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 264,
+   "entryType": "programme",
+   "title": "Governance Reviews and Supervisory Interviews: Preparing Your Board and Management",
+   "summary": "A one-day workshop on how supervisors assess governance and interview directors and staff, and how licensees can evidence effective governance and prepare openly.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 6,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 301,
+   "entryType": "programme",
+   "title": "Regulatory Investigations and Enforcement: Responding as a Firm",
+   "summary": "A ten-module programme showing firms how to prepare for, manage and respond to supervisory investigations and enforcement, from first information request to settlement.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 303,
+   "entryType": "programme",
+   "title": "Regulatory Readiness: Authorisation and Supervisory Engagement",
+   "summary": "A ten-module programme taking firms from licence application through to established supervision, showing how authorities assess applications and supervise new firms.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 313,
+   "entryType": "programme",
+   "title": "Supervisory Findings and Remediation: From Risk Assessment to Closure",
+   "summary": "A one-day workshop on how supervisors reach findings and how licensees can respond with remediation that fixes root causes and closes issues on evidence.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 6,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

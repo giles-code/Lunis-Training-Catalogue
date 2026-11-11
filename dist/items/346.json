@@ -1,0 +1,177 @@
+{
+ "id": 346,
+ "entryType": "module",
+ "title": "Payments and Settlement by Agents",
+ "summary": "How agents initiate and settle payments across card, account-to-account, tokenised and stablecoin rails, and what this means for authentication, consent, fraud and liability allocation.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Artificial Intelligence",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "payments-and-settlement-by-agents",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How agents initiate and settle payments across card, account-to-account, tokenised and stablecoin rails, and what this means for authentication, consent, fraud and liability allocation.",
+  "Learning Objectives": [
+   "Explain how agent-initiated payments work across traditional and tokenised rails",
+   "Assess consent, authentication and authorisation where no human acts at the point of payment",
+   "Evaluate how liability for unauthorised or erroneous agent payments is allocated"
+  ],
+  "Syllabus": [
+   "Agent-initiated payments: tokenised credentials, mandates and payment APIs",
+   "Strong authentication and consent in delegated transactions",
+   "Stablecoins, tokenised deposits and programmable settlement for agents",
+   "Disputes, refunds and liability between consumer, agent provider and firm"
+  ],
+  "Intended Audience": [
+   "Supervisors of banks, payment and e-money firms, investment firms and crypto-asset service providers adopting AI agents",
+   "Policy, innovation, payments and financial crime specialists assessing agent-driven business models",
+   "Senior managers shaping the authority's response to AI and autonomous finance"
+  ],
+  "Useful Prior Knowledge and Experience": "Some understanding of AI in financial services, for example from AI Governance for Supervisors, is helpful. No technical background is required.",
+  "Core Reading": [
+   "FSB, The Financial Stability Implications of Artificial Intelligence (2024)",
+   "OECD, Recommendation of the Council on Artificial Intelligence (2019, revised 2024)",
+   "NIST, Artificial Intelligence Risk Management Framework (AI RMF 1.0) (2023)",
+   "FATF, Guidance on Digital Identity (2020)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 193,
+   "module": 6,
+   "title": "Agentic Finance for Supervisors",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 341,
+     "number": 1,
+     "title": "From Automation to Agency: AI Agents in Finance"
+    },
+    {
+     "id": 342,
+     "number": 2,
+     "title": "The Architecture of the Agentic Era"
+    },
+    {
+     "id": 343,
+     "number": 3,
+     "title": "Use Cases and Changing Market Structure"
+    },
+    {
+     "id": 344,
+     "number": 4,
+     "title": "Know Your Agent: Identity, Authority and Trust"
+    },
+    {
+     "id": 345,
+     "number": 5,
+     "title": "Governing Autonomous Decision-Making in Firms"
+    },
+    {
+     "id": 346,
+     "number": 6,
+     "title": "Payments and Settlement by Agents"
+    },
+    {
+     "id": 347,
+     "number": 7,
+     "title": "Agents in Markets: Trading, Advice and Market Integrity"
+    },
+    {
+     "id": 348,
+     "number": 8,
+     "title": "Resilience, Security and Third-Party Risk in Agentic Systems"
+    },
+    {
+     "id": 349,
+     "number": 9,
+     "title": "Financial Crime, Conduct and Liability"
+    },
+    {
+     "id": 350,
+     "number": 10,
+     "title": "Supervising the Agentic Era: Strategy and Policy"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 325,
+   "entryType": "programme",
+   "title": "The EU AI Act and Financial Services (EU Edition)",
+   "summary": "An eight-module programme on the EU AI Act for supervisors and financial firms: risk classification, high-risk credit and insurance uses, provider and deployer duties, supervision and compliance programmes.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 316,
+   "entryType": "programme",
+   "title": "SupTech, Data and Supervisory Analytics",
+   "summary": "A ten-module programme equipping supervisors and leaders to govern supervisory data, interrogate returns, use analytics to surface risk and build the authority's SupTech capability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

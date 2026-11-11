@@ -1,0 +1,167 @@
+{
+ "id": 1229,
+ "entryType": "module",
+ "title": "Fees, Expenses, Disclosure and Investor Reporting",
+ "summary": "How fees and expenses are charged and allocated across funds and portfolio companies, and how to report performance, costs and risks transparently to investors.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes"
+ },
+ "topic": "Sector Programmes",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "fees-expenses-disclosure-and-investor-reporting",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Risk Management",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How fees and expenses are charged and allocated across funds and portfolio companies, and how to report performance, costs and risks transparently to investors.",
+  "Learning Objectives": [
+   "Explain management fees, carried interest, offsets and portfolio-level fees",
+   "Allocate expenses fairly across funds, co-investors and the manager",
+   "Produce clear and comparable investor reporting on performance and costs"
+  ],
+  "Syllabus": [
+   "Fee structures, offsets, monitoring fees and fund expenses",
+   "Expense allocation and broken-deal costs",
+   "Performance measures: IRR, multiples and the effect of fund finance",
+   "Quarterly reporting, capital account statements and side letter transparency"
+  ],
+  "Intended Audience": [
+   "Senior managers, investment professionals and partners at private equity, private credit and real assets managers",
+   "Compliance, risk, valuation, finance and investor relations teams at private markets managers",
+   "Fund administrators, depositaries, auditors, lenders and distributors servicing private markets funds"
+  ],
+  "Useful Prior Knowledge and Experience": "Experience of private markets, fund management or fund servicing is helpful. No prior knowledge of specific fund rules is required.",
+  "Core Reading": [
+   "IOSCO, Thematic Analysis: Emerging Risks in Private Finance (2023)",
+   "IOSCO, Principles for the Valuation of Collective Investment Schemes (2013)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)",
+   "FSB, Global Monitoring Report on Non-Bank Financial Intermediation (annual)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 293,
+   "module": 6,
+   "title": "Private Markets and Private Credit for Managers",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 1224,
+     "number": 1,
+     "title": "Private Markets Structures and Strategies"
+    },
+    {
+     "id": 1225,
+     "number": 2,
+     "title": "Fund Finance and Leverage"
+    },
+    {
+     "id": 1226,
+     "number": 3,
+     "title": "Valuation of Private Assets"
+    },
+    {
+     "id": 1227,
+     "number": 4,
+     "title": "Liquidity in Semi-Liquid and Evergreen Vehicles"
+    },
+    {
+     "id": 1228,
+     "number": 5,
+     "title": "Conflicts: Continuation Vehicles and Co-Investment"
+    },
+    {
+     "id": 1229,
+     "number": 6,
+     "title": "Fees, Expenses, Disclosure and Investor Reporting"
+    },
+    {
+     "id": 1230,
+     "number": 7,
+     "title": "Retail Access and Distribution"
+    },
+    {
+     "id": 1231,
+     "number": 8,
+     "title": "Risk Management and Supervisory Focus"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 261,
+   "entryType": "programme",
+   "title": "Fund Governance and Compliance for Managers and Service Providers",
+   "summary": "A ten-module programme giving fund managers and service providers the practical tools to meet fund rules and supervisory expectations across the fund lifecycle.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

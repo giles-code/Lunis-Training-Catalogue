@@ -1,0 +1,204 @@
+{
+ "id": 1040,
+ "entryType": "module",
+ "title": "Marketing and Distribution of Funds",
+ "summary": "How funds reach investors, how marketing is regulated, and how funds are sold across borders within and outside regional passport regimes.",
+ "clientType": [
+  "firms",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes",
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Funds",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "All staff",
+  "Control function holders",
+  "New joiners & developing staff",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "marketing-and-distribution-of-funds",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How funds reach investors, how marketing is regulated, and how funds are sold across borders within and outside regional passport regimes.",
+  "Learning Objectives": [
+   "Describe the channels used to market and distribute funds",
+   "Explain how fund marketing is regulated",
+   "Distinguish passported, private placement and third-country marketing routes"
+  ],
+  "Syllabus": [
+   "Distribution channels, platforms and intermediaries",
+   "Regulation of fund marketing and communications",
+   "Cross-border marketing within a passport regime",
+   "Marketing outside the home region and private placement regimes"
+  ],
+  "Intended Audience": [
+   "New joiners and graduates at fund managers, administrators, depositaries, transfer agents, law firms and distributors",
+   "Staff of supervisory authorities joining fund supervision or authorisation teams",
+   "Professionals moving into the funds industry from banking, audit or other sectors who need a complete foundation"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior knowledge of investment funds is required. A general awareness of financial markets is helpful.",
+  "Core Reading": [
+   "IOSCO (2017), Objectives and Principles of Securities Regulation",
+   "IOSCO (2013), Principles for the Valuation of Collective Investment Schemes",
+   "IOSCO (2018), Recommendations for Liquidity Risk Management for Collective Investment Schemes",
+   "FSB (2017), Policy Recommendations to Address Structural Vulnerabilities from Asset Management Activities"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 272,
+   "module": 9,
+   "title": "Introduction to Investment Funds: From Launch to Wind-Down",
+   "moduleCount": 14,
+   "durationValue": 42,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 1032,
+     "number": 1,
+     "title": "What Investment Funds Are and How They Work"
+    },
+    {
+     "id": 1033,
+     "number": 2,
+     "title": "The Parties to an Investment Fund"
+    },
+    {
+     "id": 1034,
+     "number": 3,
+     "title": "Legal Forms of Investment Funds"
+    },
+    {
+     "id": 1035,
+     "number": 4,
+     "title": "Fund Structures: Stand-Alone, Umbrella and Beyond"
+    },
+    {
+     "id": 1036,
+     "number": 5,
+     "title": "How Funds and Their Managers Are Regulated"
+    },
+    {
+     "id": 1037,
+     "number": 6,
+     "title": "Governance and Oversight of Funds"
+    },
+    {
+     "id": 1038,
+     "number": 7,
+     "title": "Types of Investment Fund"
+    },
+    {
+     "id": 1039,
+     "number": 8,
+     "title": "Alternative Investment Funds"
+    },
+    {
+     "id": 1040,
+     "number": 9,
+     "title": "Marketing and Distribution of Funds"
+    },
+    {
+     "id": 1041,
+     "number": 10,
+     "title": "Fund Documentation and Key Agreements"
+    },
+    {
+     "id": 1042,
+     "number": 11,
+     "title": "Fund Operations: Dealing, Pricing and Liquidity"
+    },
+    {
+     "id": 1043,
+     "number": 12,
+     "title": "Investing the Fund's Portfolio"
+    },
+    {
+     "id": 1044,
+     "number": 13,
+     "title": "Legal Considerations for Funds"
+    },
+    {
+     "id": 1045,
+     "number": 14,
+     "title": "The Fund Lifecycle: Launch, Risk and Wind-Down"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 262,
+   "entryType": "programme",
+   "title": "Fund Regulation Country Briefings",
+   "summary": "Eleven country webinar briefings on fund vehicles, regulators, authorisation, distribution and recent developments in leading European, offshore and Asia Pacific fund markets.",
+   "level": "Intermediate",
+   "moduleCount": 11,
+   "hours": 11,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

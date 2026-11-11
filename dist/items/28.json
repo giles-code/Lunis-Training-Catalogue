@@ -1,0 +1,114 @@
+{
+ "id": 28,
+ "entryType": "module",
+ "title": "Building Resilience in High-Pressure Supervisory Roles",
+ "summary": "The aim of this workshop is to build participants' practical techniques for managing the unique pressures of supervisory work, including high-profile casework, public scrutiny, and sustained workload, to support long-term resilience and wellbeing.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "Supervisory Judgement & Professional Practice",
+ "tags": [
+  "Supervisory practice & skills",
+  "Operational resilience & cyber"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "building-resilience-in-high-pressure-supervisory-roles",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' practical techniques for managing the unique pressures of supervisory work, including high-profile casework, public scrutiny, and sustained workload, to support long-term resilience and wellbeing.",
+  "Intended Audience": "Junior to mid-level supervisory staff developing core professional judgement skills.",
+  "Learning Objectives": [
+   "Explain the specific pressures faced in high-profile supervisory roles",
+   "Identify personal early warning signs of stress and burnout",
+   "Apply practical resilience-building techniques",
+   "Evaluate workload and support structures for sustainability",
+   "Formulate a personal resilience plan"
+  ],
+  "Syllabus": [
+   "High-profile casework and public scrutiny as distinct stressors",
+   "Sustained workload and its cumulative effect",
+   "Why supervisory roles carry unique psychological demands",
+   "Organisational versus individual responsibility for resilience",
+   "Facilitated discussion: pressures participants have experienced in their roles",
+   "Early warning signs of stress and burnout",
+   "Distinguishing normal pressure from unsustainable strain",
+   "The role of peer and management support in early recognition",
+   "When and how to seek support",
+   "Individual reflection exercise: personal warning signs and triggers",
+   "Practical resilience-building techniques for high-pressure roles",
+   "Evaluating workload and support structures",
+   "Building a sustainable personal resilience plan",
+   "Exercise: draft a personal resilience plan",
+   "Recap: pressures, warning signs, resilience techniques",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: The pressures of supervisory work (09:30–10:45)\n- Session 2: Recognising warning signs (11:00–12:30)\n- Session 3: Resilience techniques and planning (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Supervisory work carries distinct pressures that generic resilience training does not always address\n- Recognising personal early warning signs allows action before strain becomes unsustainable\n- Resilience is supported by organisational structures as well as individual technique",
+  "Useful Prior Knowledge and Experience": "Some familiarity with supervisory judgement & professional practice is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 273,
+   "entryType": "programme",
+   "title": "Investigative and Interviewing Skills for Supervisors",
+   "summary": "An eight-module practical programme on planning and conducting supervisory interviews and turning interview evidence into sound findings.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 314,
+   "entryType": "programme",
+   "title": "Supervisory Judgement and Professional Practice",
+   "summary": "A ten-module programme on forming, documenting and defending supervisory judgements, and turning them into clear findings, letters and interventions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 217,
+   "entryType": "programme",
+   "title": "Core Professional Skills for Regulatory Staff",
+   "summary": "An eight-module practical programme building the core writing, analysis, meeting, challenge, presentation and data skills that regulatory staff need every day.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

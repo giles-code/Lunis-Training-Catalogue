@@ -1,0 +1,185 @@
+{
+ "id": 761,
+ "entryType": "module",
+ "title": "Specialist Fund Regimes: ELTIFs, MMFs and EuVECA",
+ "summary": "A short tour of the EU product regulations that sit on top of the UCITS and AIF classification, what each is designed to achieve and the supervisory issues each raises.",
+ "clientType": [
+  "firms",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes",
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Funds",
+ "tags": [
+  "Funds & asset management",
+  "EU"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Policy & specialist teams",
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "specialist-fund-regimes-eltifs-mmfs-and-euveca",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "A short tour of the EU product regulations that sit on top of the UCITS and AIF classification, what each is designed to achieve and the supervisory issues each raises.",
+  "Learning Objectives": [
+   "Explain the purpose and core rules of the ELTIF, MMF, EuVECA and EuSEF regimes",
+   "Distinguish CNAV, LVNAV and VNAV money market funds and their stability risks",
+   "Identify the retail access and liquidity questions raised by the revised ELTIF regime"
+  ],
+  "Syllabus": [
+   "ELTIF and ELTIF 2.0: long-term investment and retail access",
+   "Money market funds: types, liquidity buffers and the reform debate",
+   "EuVECA and EuSEF: venture and social entrepreneurship funds",
+   "When a specialist label adds value and when it adds complexity"
+  ],
+  "Intended Audience": [
+   "Supervisors, authorisation and policy staff at national competent authorities covering funds and asset managers",
+   "Compliance, legal, risk and product staff at UCITS management companies, AIFMs, investment managers and distributors",
+   "Directors, depositary and fund administration staff who need a working map of the EU fund rulebook"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of asset management, funds or their supervision is helpful. No legal background or prior knowledge of EU law is required.",
+  "Core Reading": [
+   "Directive 2009/65/EC on undertakings for collective investment in transferable securities (UCITS Directive)",
+   "Directive 2011/61/EU on Alternative Investment Fund Managers (AIFMD)",
+   "Directive (EU) 2024/927 amending the AIFMD and UCITS Directive on delegation, liquidity risk management, supervisory reporting, depositary services and loan origination (AIFMD II)",
+   "Regulation (EU) 2019/2088 on sustainability-related disclosures in the financial services sector (SFDR)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 240,
+   "module": 4,
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 758,
+     "number": 1,
+     "title": "EU Regulatory Architecture and the Fund Value Chain"
+    },
+    {
+     "id": 759,
+     "number": 2,
+     "title": "The UCITS Directive: Product, Manager and Investor Protection"
+    },
+    {
+     "id": 760,
+     "number": 3,
+     "title": "The AIFM Directive and AIFMD II"
+    },
+    {
+     "id": 761,
+     "number": 4,
+     "title": "Specialist Fund Regimes: ELTIFs, MMFs and EuVECA"
+    },
+    {
+     "id": 762,
+     "number": 5,
+     "title": "MiFID II and MiFIR for Managers and Distributors"
+    },
+    {
+     "id": 763,
+     "number": 6,
+     "title": "Delegation, Substance and Depositaries"
+    },
+    {
+     "id": 764,
+     "number": 7,
+     "title": "Liquidity Management Tools, Leverage and Valuation"
+    },
+    {
+     "id": 765,
+     "number": 8,
+     "title": "Cross-Border Marketing, Passporting and Disclosure"
+    },
+    {
+     "id": 766,
+     "number": 9,
+     "title": "Sustainable Finance: SFDR and Greenwashing"
+    },
+    {
+     "id": 767,
+     "number": 10,
+     "title": "DORA, Supervisory Convergence and the Regulatory Horizon"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 262,
+   "entryType": "programme",
+   "title": "Fund Regulation Country Briefings",
+   "summary": "Eleven country webinar briefings on fund vehicles, regulators, authorisation, distribution and recent developments in leading European, offshore and Asia Pacific fund markets.",
+   "level": "Intermediate",
+   "moduleCount": 11,
+   "hours": 11,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 271,
+   "entryType": "programme",
+   "title": "International Fund Regulation: Global and Regional Briefings",
+   "summary": "A ten-module webinar series mapping international, EU and Asia Pacific fund regulation and how cross-border fund distribution, management and investment are regulated.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 10,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

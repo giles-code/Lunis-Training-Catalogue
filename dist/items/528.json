@@ -1,0 +1,161 @@
+{
+ "id": 528,
+ "entryType": "module",
+ "title": "Scoping and Planning the Investigation",
+ "summary": "How to define the scope of an investigation, frame hypotheses and build a plan that keeps the case focused, proportionate and on time.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Enforcement & Sanctions",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Enforcement & investigations"
+ ],
+ "firmType": [],
+ "slug": "scoping-and-planning-the-investigation",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Enforcement"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to define the scope of an investigation, frame hypotheses and build a plan that keeps the case focused, proportionate and on time.",
+  "Learning Objectives": [
+   "Define scope, subjects and potential breaches",
+   "Build an investigation plan with hypotheses, milestones and resources",
+   "Manage scope creep, risks and stakeholder expectations"
+  ],
+  "Syllabus": [
+   "Scoping documents and appointment of investigators",
+   "Hypotheses, elements of the breach and evidence matrices",
+   "Resourcing, timetables and case governance",
+   "Notifying subjects and managing parallel proceedings"
+  ],
+  "Intended Audience": [
+   "Enforcement investigators, case managers and lawyers",
+   "Supervisory staff seconded to or working alongside enforcement teams",
+   "Staff moving into enforcement from supervision, authorisation or other agencies"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of enforcement, supervision or legal casework is helpful. No prior investigative training is required.",
+  "Core Reading": [
+   "IOSCO (2015), Credible Deterrence in the Enforcement of Securities Regulation",
+   "IOSCO (2017), Objectives and Principles of Securities Regulation",
+   "IOSCO (2016), Enhanced Multilateral Memorandum of Understanding Concerning Consultation and Cooperation and the Exchange of Information"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 214,
+   "module": 2,
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 527,
+     "number": 1,
+     "title": "Case Selection and Referral"
+    },
+    {
+     "id": 528,
+     "number": 2,
+     "title": "Scoping and Planning the Investigation"
+    },
+    {
+     "id": 529,
+     "number": 3,
+     "title": "Information-Gathering Powers"
+    },
+    {
+     "id": 530,
+     "number": 4,
+     "title": "Evidence Handling and Document Review"
+    },
+    {
+     "id": 531,
+     "number": 5,
+     "title": "Interviews under Compulsion"
+    },
+    {
+     "id": 532,
+     "number": 6,
+     "title": "Findings, Reports and Warning Notices"
+    },
+    {
+     "id": 533,
+     "number": 7,
+     "title": "Settlement and Decision-Making"
+    },
+    {
+     "id": 534,
+     "number": 8,
+     "title": "Lessons for Supervision and Case Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 238,
+   "entryType": "programme",
+   "title": "Enforcement and Sanctions",
+   "summary": "A ten-module programme taking enforcement and supervisory staff through the full life of an enforcement case, from triage and evidence to sanctions, settlement and cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 219,
+   "entryType": "programme",
+   "title": "Crisis Management and Resolution",
+   "summary": "A ten-module programme preparing supervisors for firm and system-wide stress, from early intervention and recovery and resolution planning to crisis communication and a live simulation.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

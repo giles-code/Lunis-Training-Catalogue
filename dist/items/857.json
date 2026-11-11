@@ -1,0 +1,175 @@
+{
+ "id": 857,
+ "entryType": "module",
+ "title": "Financial Stability, Crisis Management and Financial Crime",
+ "summary": "The macroprudential framework, how failing institutions are resolved, and the national arrangements for combating money laundering, terrorist financing and sanctions evasion.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters",
+  "Parliamentarians & committee staff"
+ ],
+ "firmType": [],
+ "slug": "financial-stability-crisis-management-and-financial-crime",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Policy",
+  "International & Cross-Border Affairs"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The macroprudential framework, how failing institutions are resolved, and the national arrangements for combating money laundering, terrorist financing and sanctions evasion.",
+  "Learning Objectives": [
+   "Explain systemic risk and the macroprudential tools available to authorities",
+   "Describe resolution regimes, deposit insurance and the role of the finance ministry in a crisis",
+   "Identify government's responsibilities for AML/CFT and sanctions"
+  ],
+  "Syllabus": [
+   "Systemic risk, macroprudential tools and financial stability committees",
+   "Resolution, bail-in, deposit insurance and the limits of public support",
+   "National AML/CFT strategy, FATF standards and the national FIU",
+   "Financial sanctions: implementation and enforcement"
+  ],
+  "Intended Audience": [
+   "Officials in finance ministries and treasuries responsible for financial services, banking and capital markets policy",
+   "Senior officials and advisers to ministers who oversee or appoint financial regulators",
+   "Staff of public agencies, cabinet offices and parliamentary committees who work on financial sector issues"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of public policy or economic affairs is helpful. No technical background in finance or regulation is required.",
+  "Core Reading": [
+   "BCBS (2024), Core Principles for Effective Banking Supervision",
+   "IOSCO (2017), Objectives and Principles of Securities Regulation",
+   "IAIS (2019), Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups",
+   "IMF (2021), Financial Sector Assessment Program Review: Towards a More Stable and Sustainable Financial System"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 251,
+   "module": 8,
+   "title": "Financial Services Policy Essentials for Government",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 850,
+     "number": 1,
+     "title": "How the Financial System Works"
+    },
+    {
+     "id": 851,
+     "number": 2,
+     "title": "Why Regulate: Market Failures and Policy Objectives"
+    },
+    {
+     "id": 852,
+     "number": 3,
+     "title": "Regulatory Architecture: Models and Choices"
+    },
+    {
+     "id": 853,
+     "number": 4,
+     "title": "Independence and Accountability of Regulators"
+    },
+    {
+     "id": 854,
+     "number": 5,
+     "title": "International Standards, Standard-Setters and Peer Reviews"
+    },
+    {
+     "id": 855,
+     "number": 6,
+     "title": "Banking, Insurance and Prudential Regulation"
+    },
+    {
+     "id": 856,
+     "number": 7,
+     "title": "Capital Markets, Conduct and Consumer Protection"
+    },
+    {
+     "id": 857,
+     "number": 8,
+     "title": "Financial Stability, Crisis Management and Financial Crime"
+    },
+    {
+     "id": 858,
+     "number": 9,
+     "title": "Policy Levers and Policy Design"
+    },
+    {
+     "id": 859,
+     "number": 10,
+     "title": "Designing a National Financial Services Policy"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 235,
+   "entryType": "programme",
+   "title": "Drafting Financial Services Legislation",
+   "summary": "An eight-module programme helping legislative drafters and legal advisers design and draft effective, enforceable and technology-neutral financial services legislation.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 248,
+   "entryType": "programme",
+   "title": "Financial Crises and Public Finances: Crisis Preparedness for Government",
+   "summary": "An eight-module advanced programme preparing finance ministries and senior officials to manage financial crises, protect public finances and coordinate resolution.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

@@ -1,226 +1,158 @@
-#!/usr/bin/env node
-// Builds the website feed from courses/, programmes/ and taxonomy/.
-//
-// dist/site.json           everything (Markdown text, no HTML) for syncing into Wix CMS: taxonomy, programmes (with modules), a flat
-//                          module catalogue, standalone courses and counts per audience / firm type / topic.
-// dist/index.json          the same without long text (cards, filters and search on hub pages).
-// dist/programmes/<slug>.json and dist/courses/<slug>.json   one record per detail page.
-// dist/catalogue.json      legacy v1 feed (standalone courses only) so the current Wix pages keep working.
-const fs = require("fs");
-const path = require("path");
-const matter = require("gray-matter");
+// Builds the website feed from programmes/ and modules/.
+//   dist/index.json        everything the catalogue, filters and counts need (no long text)
+//   dist/items/<id>.json   one file per programme or module, with every field and section, links resolved
+// Run: npm run build:catalogue   (CI runs it on every push and commits the result)
+const fs = require('fs');
+const path = require('path');
+const { root, readJson, loadEntries } = require('./lib');
 
-const root = path.resolve(__dirname, "..");
-const dist = path.join(root, "dist");
-// All website URLs live under the /training section of the Lunis Partners site.
-const BASE = "/training";
-const tax = (name, key) => JSON.parse(fs.readFileSync(path.join(root, "taxonomy", name), "utf8"))[key];
+const clientTypes = readJson('taxonomy/client-types.json').clientTypes;
+const label = Object.fromEntries(clientTypes.map((c) => [c.key, c.label]));
+const pillars = readJson('taxonomy/pillars.json').pillars;
+const roles = readJson('taxonomy/roles.json').roles;
+const levels = readJson('taxonomy/levels.json');
+const topics = readJson('taxonomy/topics.json');
+const firmTypes = readJson('taxonomy/firm-types.json');
+const listOf = (obj) => Object.values(obj).find(Array.isArray) || [];
 
-function splitSections(markdown) {
-  const sections = {};
-  const parts = markdown.split(/^##\s+(.+)$/gm);
-  for (let i = 1; i < parts.length; i += 2) sections[parts[i].trim()] = (parts[i + 1] || "").trim();
-  return sections;
-}
+const all = loadEntries();
+const entries = all.filter((e) => e.data.active !== false);
+const byId = new Map(entries.map((e) => [e.data.id, e]));
 
-function inline(v) {
-  return v
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
-    .replace(/`(.+?)`/g, "<code>$1</code>");
-}
+const exists = (rel) => fs.existsSync(path.join(root, rel));
+const hours = (d) => (d.durationUnit === 'hours' ? d.durationValue : d.durationUnit === 'days' ? d.durationValue * 7 : d.durationValue * 35);
 
-function toHtml(md = "") {
-  const html = [];
-  let list = false;
-  const close = () => {
-    if (list) html.push("</ul>");
-    list = false;
-  };
-  for (const raw of md.split(/\r?\n/)) {
-    const line = raw.trim();
-    if (!line) {
-      close();
-      continue;
-    }
-    if (/^[-*]\s+/.test(line)) {
-      if (!list) html.push("<ul>");
-      list = true;
-      html.push(`<li>${inline(line.replace(/^[-*]\s+/, ""))}</li>`);
-      continue;
-    }
-    close();
-    if (line.startsWith("### ")) html.push(`<h3>${inline(line.slice(4))}</h3>`);
-    else if (line.startsWith("> ")) html.push(`<blockquote>${inline(line.slice(2))}</blockquote>`);
-    else html.push(`<p>${inline(line)}</p>`);
+// programme -> ordered active modules
+const modulesOf = new Map();
+for (const e of entries) {
+  for (const link of e.data.partOf || []) {
+    if (!byId.has(link.programme)) continue;
+    if (!modulesOf.has(link.programme)) modulesOf.set(link.programme, []);
+    modulesOf.get(link.programme).push({ number: link.module, e });
   }
-  close();
-  return html.join("");
+}
+for (const list of modulesOf.values()) list.sort((a, b) => a.number - b.number);
+
+function base(e) {
+  const d = e.data;
+  const out = {
+    id: d.id, entryType: d.entryType, title: d.title, summary: d.summary,
+    clientType: d.clientType, clientTypeLabels: d.clientType.map((c) => label[c]),
+    pillar: d.pillar, topic: d.topic || '', tags: d.tags || [], level: d.level || '',
+    deliveryFormat: d.deliveryFormat, durationValue: d.durationValue, durationUnit: d.durationUnit,
+    role: d.role || [], firmType: d.firmType || [],
+    slug: d.legacySlug || e.name
+  };
+  const img = `images/${d.id}.webp`;
+  if (exists(img)) out.image = img;
+  const pdf = `brochures/${d.id}.pdf`;
+  if (exists(pdf)) out.brochure = pdf;
+  if (d.entryType === 'programme') {
+    const mods = modulesOf.get(d.id) || [];
+    out.moduleCount = mods.length;
+    out.hoursPerModule = d.hoursPerModule || (mods.length ? Math.round((hours(d) / mods.length) * 10) / 10 : undefined);
+  }
+  return out;
 }
 
-const bullets = (text) => (text.match(/^[-*]\s+.+$/gm) || []).map((l) => l.replace(/^[-*]\s+/, "").trim());
+// Modules inherit missing values from their first programme.
+function inherit(e) {
+  const d = e.data;
+  const first = (d.partOf || []).map((l) => byId.get(l.programme)).find(Boolean);
+  const inherited = [];
+  const sections = { ...e.sections };
+  const extra = {};
+  if (first) {
+    for (const name of ['Intended Audience', 'Useful Prior Knowledge and Experience', 'Core Reading']) {
+      if (!sections[name] && first.sections[name]) { sections[name] = first.sections[name]; inherited.push(name); }
+    }
+    if (!d.level && first.data.level) { extra.level = first.data.level; inherited.push('level'); }
+  }
+  return { sections, extra, inherited };
+}
 
-function parseModules(syllabus, programme) {
-  return syllabus
-    .split(/^###\s+/m)
-    .slice(1)
-    .map((block, i) => {
-      const [heading, ...rest] = block.split(/\r?\n/);
-      const body = rest.join("\n");
-      const [pre, afterObj = ""] = body.split(/\*\*Objectives\*\*/);
-      const [objText, sylText = ""] = afterObj.split(/\*\*Syllabus\*\*/);
-      const number = i + 1;
-      return {
-        id: `${programme.slug}--m${String(number).padStart(2, "0")}`,
-        number,
-        title: heading.replace(/^Module\s+\d+:\s*/, "").trim(),
-        overview: pre.trim(),
-        objectives: bullets(objText),
-        syllabus: bullets(sylText),
-      };
+function cardOf(id) {
+  const e = byId.get(id);
+  if (!e) return null;
+  const b = base(e);
+  return { id: b.id, entryType: b.entryType, title: b.title, summary: b.summary, level: b.level,
+    moduleCount: b.moduleCount, hours: hours(e.data), clientTypeLabels: b.clientTypeLabels };
+}
+
+// Related: the entry's own list, otherwise the closest programmes sharing a client type (tags, then pillar, then topic).
+function related(e) {
+  const d = e.data;
+  if ((d.related || []).length) return d.related.map(cardOf).filter(Boolean);
+  const siblings = new Set((d.partOf || []).map((l) => l.programme));
+  const want = d.entryType === 'programme' ? 6 : 3;
+  const scored = [];
+  for (const o of entries) {
+    if (o === e || o.data.entryType !== 'programme' || siblings.has(o.data.id)) continue;
+    if (!o.data.clientType.some((c) => d.clientType.includes(c))) continue;
+    let s = 0;
+    for (const t of d.tags || []) if ((o.data.tags || []).includes(t)) s += 3;
+    for (const c of d.clientType) if (d.pillar[c] && o.data.pillar[c] === d.pillar[c]) s += 2;
+    if (d.topic && o.data.topic === d.topic) s += 2;
+    if (s) scored.push([s, o]);
+  }
+  scored.sort((a, b) => b[0] - a[0] || a[1].data.title.localeCompare(b[1].data.title));
+  return scored.slice(0, want).map(([, o]) => cardOf(o.data.id));
+}
+
+const items = [];
+fs.rmSync(path.join(root, 'dist'), { recursive: true, force: true });
+fs.mkdirSync(path.join(root, 'dist', 'items'), { recursive: true });
+
+for (const e of entries) {
+  const d = e.data;
+  const card = base(e);
+  const full = { ...card, intro: d.intro || '', lastUpdated: d.lastUpdated || '', businessFunction: d.businessFunction || [],
+    contentGaps: d.contentGaps || [] };
+
+  if (d.entryType === 'programme') {
+    full.sections = e.sections;
+    full.modules = (modulesOf.get(d.id) || []).map(({ number, e: m }) => ({
+      id: m.data.id, number, title: m.data.title, summary: m.data.summary,
+      objectives: Array.isArray(m.sections['Learning Objectives']) ? m.sections['Learning Objectives'] : [],
+      syllabus: Array.isArray(m.sections['Syllabus']) ? m.sections['Syllabus'] : [],
+      durationValue: m.data.durationValue, durationUnit: m.data.durationUnit
+    }));
+  } else {
+    const { sections, extra, inherited } = inherit(e);
+    Object.assign(card, extra);
+    Object.assign(full, extra);
+    full.sections = sections;
+    full.inherited = inherited;
+    full.partOf = (d.partOf || []).filter((l) => byId.has(l.programme)).sort((a, b) => a.programme - b.programme).map((l) => {
+      const p = byId.get(l.programme).data;
+      const mods = modulesOf.get(p.id) || [];
+      return { programme: p.id, module: l.module, title: p.title, moduleCount: mods.length,
+        durationValue: p.durationValue, durationUnit: p.durationUnit, level: p.level || '',
+        modules: mods.map(({ number, e: m }) => ({ id: m.data.id, number, title: m.data.title })) };
     });
+    card.partOf = full.partOf.map((p) => ({ programme: p.programme, module: p.module, title: p.title, moduleCount: p.moduleCount }));
+  }
+  full.related = related(e);
+  items.push(card);
+  fs.writeFileSync(path.join(root, 'dist', 'items', `${d.id}.json`), JSON.stringify(full, null, 1) + '\n');
 }
 
-function load(dir) {
-  const full = path.join(root, dir);
-  if (!fs.existsSync(full)) return [];
-  return fs
-    .readdirSync(full)
-    .filter((f) => f.endsWith(".md"))
-    .sort()
-    .map((f) => {
-      const parsed = matter(fs.readFileSync(path.join(full, f), "utf8"));
-      const sections = splitSections(parsed.content);
-      return {
-        ...parsed.data,
-        _id: parsed.data.id,
-        sections,
-        sectionHtml: Object.fromEntries(Object.entries(sections).map(([h, b]) => [h, toHtml(b)])),
-      };
-    });
-}
+items.sort((a, b) => (a.entryType === b.entryType ? 0 : a.entryType === 'programme' ? -1 : 1) || a.title.localeCompare(b.title));
 
-const taxonomy = {
-  audiences: tax("audiences.json", "audiences"),
-  firmTypes: tax("firm-types.json", "firmTypes"),
-  roles: tax("roles.json", "audiences"),
-  topics: tax("topics.json", "topics"),
-  editions: tax("editions.json", "editions"),
-  levels: tax("levels.json", "levels"),
-  pillars: tax("pillars.json", "pillars"),
-  tracks: tax("tracks.json", "tracks"),
+const index = {
+  version: 'v3',
+  generatedAt: new Date().toISOString(),
+  taxonomy: {
+    clientTypes,
+    audiences: clientTypes.map((c) => ({ key: c.key, label: c.label, description: c.description })),
+    pillars, roles, levels: listOf(levels), topics: listOf(topics), firmTypes: listOf(firmTypes)
+  },
+  counts: {
+    programmes: items.filter((i) => i.entryType === 'programme').length,
+    modules: items.filter((i) => i.entryType === 'module').length,
+    inactive: all.length - entries.length
+  },
+  items
 };
-
-const allCourses = load("courses");
-const courses = allCourses.filter((c) => c.active === true).map((c) => ({ ...c, format: c.format || "Course", url: `${BASE}/course/${c.slug}` }));
-const programmes = load("programmes")
-  .filter((p) => p.active === true)
-  .map((p) => ({ ...p, url: `${BASE}/programme/${p.slug}`, modules: parseModules(p.sections.Syllabus || "", p) }));
-
-const modules = programmes.flatMap((p) =>
-  p.modules.map((m) => ({
-    ...m,
-    format: "Module",
-    programmeSlug: p.slug,
-    programmeTitle: p.title,
-    audience: p.audience,
-    firmType: p.firmType,
-    role: p.role,
-    topics: p.topics,
-    edition: p.edition,
-    level: p.level,
-    hours: p.hoursPerModule,
-    url: `${BASE}/programme/${p.slug}#module-${m.number}`,
-  }))
-);
-
-const count = (list, key, value) => list.filter((x) => (Array.isArray(x[key]) ? x[key].includes(value) : x[key] === value)).length;
-const counts = {
-  programmes: programmes.length,
-  modules: modules.length,
-  courses: courses.length,
-  byAudience: Object.fromEntries(taxonomy.audiences.map((a) => [a.key, { programmes: count(programmes, "audience", a.key), courses: count(courses, "audience", a.key) }])),
-  byFirmType: Object.fromEntries(
-    taxonomy.firmTypes.map((f) => [
-      f.name,
-      {
-        firmProgrammes: programmes.filter((p) => p.audience.includes("Firms") && (p.firmType || []).includes(f.name)).length,
-        supervisorProgrammes: programmes.filter((p) => p.audience.includes("Financial Supervisors") && (p.firmType || []).includes(f.name)).length,
-      },
-    ])
-  ),
-  byRole: Object.fromEntries(taxonomy.roles.flatMap((g) => g.roles.map((r) => [r.name, { programmes: count(programmes, "role", r.name), courses: count(courses, "role", r.name) }]))),
-  byTopic: Object.fromEntries(taxonomy.topics.map((t) => [t.name, count(programmes, "topics", t.name) + count(courses, "topics", t.name)])),
-};
-
-// Light records for listings and search (no long text).
-const card = (x) => ({
-  id: x.id,
-  slug: x.slug,
-  format: x.format,
-  title: x.title,
-  summary: x.summary,
-  url: x.url,
-  audience: x.audience,
-  firmType: x.firmType,
-  role: x.role,
-  topics: x.topics,
-  edition: x.edition,
-  level: x.level,
-  deliveryFormat: x.deliveryFormat,
-  durationValue: x.durationValue,
-  durationUnit: x.durationUnit,
-  moduleCount: x.moduleCount,
-  delivered: x.delivered,
-  bookingMode: x.bookingMode,
-});
-const moduleCard = (m) => ({
-  id: m.id,
-  format: "Module",
-  title: m.title,
-  summary: m.overview,
-  syllabus: m.syllabus,
-  url: m.url,
-  number: m.number,
-  programmeSlug: m.programmeSlug,
-  programmeTitle: m.programmeTitle,
-  audience: m.audience,
-  firmType: m.firmType,
-  role: m.role,
-  topics: m.topics,
-  edition: m.edition,
-  level: m.level,
-  hours: m.hours,
-});
-
-const generatedAt = new Date().toISOString();
-const write = (rel, obj) => {
-  const file = path.join(dist, rel);
-  fs.mkdirSync(path.dirname(file), { recursive: true });
-  fs.writeFileSync(file, `${JSON.stringify(obj)}\n`);
-};
-
-fs.rmSync(path.join(dist, "programmes"), { recursive: true, force: true });
-fs.rmSync(path.join(dist, "courses"), { recursive: true, force: true });
-const noHtml = ({ sectionHtml, ...rest }) => rest;
-write("site.json", { version: 2, generatedAt, taxonomy, counts, programmes: programmes.map(noHtml), modules, courses: courses.map(noHtml) });
-write("index.json", {
-  version: 2,
-  generatedAt,
-  taxonomy,
-  counts,
-  programmes: programmes.map(card),
-  modules: modules.map(moduleCard),
-  courses: courses.map(card),
-});
-for (const p of programmes) write(`programmes/${p.slug}.json`, { generatedAt, ...p });
-for (const c of courses) write(`courses/${c.slug}.json`, { generatedAt, ...c });
-// Legacy v1 feed: same shape as before (courses only, pretty-printed).
-fs.writeFileSync(
-  path.join(dist, "catalogue.json"),
-  `${JSON.stringify({ generatedAt, count: allCourses.length, courses: allCourses }, null, 2)}\n`
-);
-
-console.log(`Built ${programmes.length} programmes, ${modules.length} modules and ${courses.length} active courses into dist/`);
+fs.writeFileSync(path.join(root, 'dist', 'index.json'), JSON.stringify(index) + '\n');
+console.log(`Built dist/index.json (${index.counts.programmes} programmes, ${index.counts.modules} modules) and ${items.length} item files; ${index.counts.inactive} inactive left out.`);

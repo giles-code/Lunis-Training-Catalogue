@@ -1,0 +1,174 @@
+{
+ "id": 1352,
+ "entryType": "module",
+ "title": "Enforcement Cases and Lessons Learned",
+ "summary": "What enforcement and supervisory interventions against senior managers reveal about where individuals go wrong, how investigations unfold and how to respond if under scrutiny.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "enforcement-cases-and-lessons-learned",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What enforcement and supervisory interventions against senior managers reveal about where individuals go wrong, how investigations unfold and how to respond if under scrutiny.",
+  "Learning Objectives": [
+   "Analyse generic enforcement cases against senior managers",
+   "Explain the stages of an investigation into an individual",
+   "Identify the behaviours that most often lead to individual action"
+  ],
+  "Syllabus": [
+   "Typical failings: ignored warnings, inadequate oversight and poor escalation",
+   "Investigation process: interviews, representations and outcomes",
+   "Sanctions: prohibition, fines, suspension and remuneration consequences",
+   "Personal protection: legal advice, insurance and indemnities"
+  ],
+  "Intended Audience": [
+   "Executive directors, senior managers and heads of business lines holding senior manager functions",
+   "Heads of compliance, risk, internal audit and other control functions with personal accountability",
+   "Company secretaries, HR and compliance staff who administer the accountability regime"
+  ],
+  "Useful Prior Knowledge and Experience": "Some management experience in a regulated firm is helpful. No legal background is required.",
+  "Core Reading": [
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)",
+   "Group of Thirty, Banking Conduct and Culture: A Call for Sustained and Comprehensive Reform (2015)",
+   "Basel Committee, Corporate Governance Principles for Banks (2015)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 308,
+   "module": 7,
+   "title": "Senior Management Accountability",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1346,
+     "number": 1,
+     "title": "Why Senior Manager Accountability Regimes Exist"
+    },
+    {
+     "id": 1347,
+     "number": 2,
+     "title": "Statements of Responsibility and Responsibilities Maps"
+    },
+    {
+     "id": 1348,
+     "number": 3,
+     "title": "The Duty of Responsibility and Reasonable Steps"
+    },
+    {
+     "id": 1349,
+     "number": 4,
+     "title": "Delegation, Oversight and Handovers"
+    },
+    {
+     "id": 1350,
+     "number": 5,
+     "title": "Conduct Rules, Fitness and Propriety"
+    },
+    {
+     "id": 1351,
+     "number": 6,
+     "title": "Evidencing Reasonable Steps"
+    },
+    {
+     "id": 1352,
+     "number": 7,
+     "title": "Enforcement Cases and Lessons Learned"
+    },
+    {
+     "id": 1353,
+     "number": 8,
+     "title": "Personal Accountability for AI and Technology Decisions"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 236,
+   "entryType": "programme",
+   "title": "Effective Governance for Boards and Directors",
+   "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+   "level": "Board level",
+   "moduleCount": 12,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

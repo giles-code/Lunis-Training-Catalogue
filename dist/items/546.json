@@ -1,0 +1,175 @@
+{
+ "id": 546,
+ "entryType": "module",
+ "title": "Product Governance and Target Markets",
+ "summary": "How firms should design, distribute and review products for a defined target market, and how supervisors test whether product governance works in practice.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Cross-Cutting Themes"
+ },
+ "topic": "Consumer Protection & Financial Inclusion",
+ "tags": [
+  "Consumer protection & conduct"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "product-governance-and-target-markets",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Consumer Protection",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How firms should design, distribute and review products for a defined target market, and how supervisors test whether product governance works in practice.",
+  "Learning Objectives": [
+   "Explain the product governance lifecycle from design to review",
+   "Assess target market definition and distribution strategy",
+   "Identify common product governance failures"
+  ],
+  "Syllabus": [
+   "Product approval, target market and negative target market",
+   "Distribution chains and manufacturer versus distributor responsibilities",
+   "Ongoing product review and management information",
+   "Red flags in product governance files"
+  ],
+  "Intended Audience": [
+   "Conduct and consumer protection supervisors and inspectors across all sectors",
+   "Policy staff working on consumer protection, disclosure or financial inclusion",
+   "Senior managers setting the authority's consumer protection priorities"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of conduct or consumer-facing supervision is helpful. No specialist background is required.",
+  "Core Reading": [
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "World Bank, Good Practices for Financial Consumer Protection (2017)",
+   "CPMI and World Bank, Payment Aspects of Financial Inclusion (2016)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 216,
+   "module": 2,
+   "title": "Consumer Protection and Financial Inclusion",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 545,
+     "number": 1,
+     "title": "Foundations of Consumer Protection Supervision"
+    },
+    {
+     "id": 546,
+     "number": 2,
+     "title": "Product Governance and Target Markets"
+    },
+    {
+     "id": 547,
+     "number": 3,
+     "title": "Fair Value Assessment"
+    },
+    {
+     "id": 548,
+     "number": 4,
+     "title": "Disclosure, Communications and Consumer Understanding"
+    },
+    {
+     "id": 99,
+     "number": 5,
+     "title": "Identifying and Protecting Vulnerable Customers"
+    },
+    {
+     "id": 549,
+     "number": 6,
+     "title": "Supervising Complaints Handling and Redress"
+    },
+    {
+     "id": 109,
+     "number": 7,
+     "title": "Issuer Disclosure as Investor Protection"
+    },
+    {
+     "id": 75,
+     "number": 8,
+     "title": "Financial Inclusion and Access to Services"
+    },
+    {
+     "id": 550,
+     "number": 9,
+     "title": "Consumer Outcomes Monitoring and Supervisory Judgement"
+    },
+    {
+     "id": 551,
+     "number": 10,
+     "title": "Emerging Consumer Harms and the Authority's Response"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 212,
+   "entryType": "programme",
+   "title": "Conduct, Culture and Behavioural Supervision",
+   "summary": "An eight-module programme on assessing conduct risk and culture in firms, using behavioural insights, data and targeted supervisory interventions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 220,
+   "entryType": "programme",
+   "title": "Cross-Border and Group Supervision",
+   "summary": "An eight-module programme on home-host supervision, consolidated group oversight, MoUs, supervisory colleges, third-country firms and cross-border crisis cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

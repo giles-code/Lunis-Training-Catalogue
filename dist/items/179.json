@@ -1,0 +1,116 @@
+{
+ "id": 179,
+ "entryType": "module",
+ "title": "The EU AI Act and Financial Regulation: Interplay and Overlaps (EU Edition)",
+ "summary": "The aim of this workshop is to build participants' understanding of how the EU AI Act's requirements interact with existing sectoral financial regulation, including where AI Act high-risk classifications apply to financial services AI systems.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Artificial Intelligence",
+ "tags": [
+  "AI & technology",
+  "EU"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "the-eu-ai-act-and-financial-regulation-interplay-and-overlaps",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how the EU AI Act's requirements interact with existing sectoral financial regulation, including where AI Act high-risk classifications apply to financial services AI systems.",
+  "Intended Audience": "Mid-level supervisory staff building capability in AI-related supervision and internal AI use.",
+  "Learning Objectives": [
+   "Explain the risk-based structure of the EU AI Act",
+   "Describe which financial services AI use cases fall into the high-risk category",
+   "Assess the interplay between AI Act obligations and existing financial sector regulation",
+   "Evaluate potential overlaps or gaps between the two regulatory frameworks",
+   "Formulate a supervisory approach to AI Act compliance in a financial services context"
+  ],
+  "Syllabus": [
+   "The EU AI Act's risk tiers: prohibited, high-risk, limited-risk, minimal-risk",
+   "Obligations attached to high-risk AI systems",
+   "Governance and conformity assessment requirements",
+   "Timeline for AI Act implementation",
+   "Facilitated discussion: AI Act awareness and preparation in participants' own sector",
+   "Which financial services AI use cases are classified as high-risk (e.g. creditworthiness assessment)",
+   "How AI Act obligations interact with existing sectoral regulation (e.g. consumer credit rules)",
+   "Avoiding duplicative or conflicting compliance obligations",
+   "Coordination between AI Act competent authorities and financial supervisors",
+   "Group exercise: map a sample financial AI use case against AI Act and sectoral obligations",
+   "Identifying overlaps and gaps between AI Act and financial regulation",
+   "Case study: a financial AI system navigating both regulatory frameworks",
+   "Case study: formulate a supervisory approach to AI Act compliance for a sample AI system",
+   "Recap: AI Act structure, high-risk classification, interplay with sectoral rules",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: The AI Act's risk-based structure (09:30–10:45)\n- Session 2: High-risk classification in financial services (11:00–12:30)\n- Session 3: Overlaps, gaps and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- The AI Act and existing financial sector regulation apply concurrently, requiring active coordination to avoid gaps or duplication\n- Several common financial AI use cases, notably creditworthiness assessment, fall squarely within the AI Act's high-risk category\n- Supervisors will need to work with AI Act competent authorities as this framework beds in",
+  "Useful Prior Knowledge and Experience": "Some familiarity with artificial intelligence is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 325,
+   "entryType": "programme",
+   "title": "The EU AI Act and Financial Services (EU Edition)",
+   "summary": "An eight-module programme on the EU AI Act for supervisors and financial firms: risk classification, high-risk credit and insurance uses, provider and deployer duties, supervision and compliance programmes.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

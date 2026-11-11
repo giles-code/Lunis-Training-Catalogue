@@ -1,0 +1,176 @@
+{
+ "id": 333,
+ "entryType": "module",
+ "title": "From Generative AI to Agentic Finance",
+ "summary": "What AI agents are, how they differ from chatbots and traditional automation, and where they are beginning to act and transact in financial services.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "from-generative-ai-to-agentic-finance",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What AI agents are, how they differ from chatbots and traditional automation, and where they are beginning to act and transact in financial services.",
+  "Learning Objectives": [
+   "Explain how AI agents plan, use tools and act on behalf of users",
+   "Distinguish assistive, delegated and autonomous agent models",
+   "Identify current and near-term agentic use cases in the firm's sector"
+  ],
+  "Syllabus": [
+   "Agents, tools, memory and multi-agent systems",
+   "From advice to action: agents that execute, trade and pay",
+   "The layers of agentic finance: governance, decision, assets and settlement",
+   "Use cases across banking, payments, investment and insurance"
+  ],
+  "Intended Audience": [
+   "Product, digital, technology and innovation leads designing or deploying AI agents",
+   "Compliance, risk, financial crime and legal professionals overseeing agentic AI",
+   "Senior managers and directors accountable for AI strategy and its outcomes"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with AI, payments or digital products in a regulated firm is helpful. No technical background in AI is required.",
+  "Core Reading": [
+   "OECD, Recommendation of the Council on Artificial Intelligence (2019, revised 2024)",
+   "NIST, Artificial Intelligence Risk Management Framework (AI RMF 1.0) (2023)",
+   "FSB, The Financial Stability Implications of Artificial Intelligence (2024)",
+   "FATF, Guidance on Digital Identity (2020)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 192,
+   "module": 1,
+   "title": "Agentic AI and Autonomous Finance for Firms",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 333,
+     "number": 1,
+     "title": "From Generative AI to Agentic Finance"
+    },
+    {
+     "id": 334,
+     "number": 2,
+     "title": "Delegated Authority and Mandates"
+    },
+    {
+     "id": 335,
+     "number": 3,
+     "title": "Identity and Know Your Agent"
+    },
+    {
+     "id": 336,
+     "number": 4,
+     "title": "Payments and Transactions by Agents"
+    },
+    {
+     "id": 337,
+     "number": 5,
+     "title": "Controls, Monitoring and Kill-Switches"
+    },
+    {
+     "id": 338,
+     "number": 6,
+     "title": "Liability, Conduct and Customer Outcomes"
+    },
+    {
+     "id": 339,
+     "number": 7,
+     "title": "Financial Crime and Third-Party Model Risk"
+    },
+    {
+     "id": 340,
+     "number": 8,
+     "title": "Governance, Board Oversight and Readiness"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 196,
+   "entryType": "programme",
+   "title": "AI Governance for Firms",
+   "summary": "A ten-module programme giving compliance, risk, model risk and technology staff the tools to design, run and evidence robust AI governance across the firm.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

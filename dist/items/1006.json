@@ -1,0 +1,174 @@
+{
+ "id": 1006,
+ "entryType": "module",
+ "title": "Risk-Based Audit Planning",
+ "summary": "How to build an audit universe and a risk-based plan that reflects the firm's business model, regulatory exposure and emerging risks, and how to defend it to the audit committee.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "risk-based-audit-planning",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Internal Audit",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to build an audit universe and a risk-based plan that reflects the firm's business model, regulatory exposure and emerging risks, and how to defend it to the audit committee.",
+  "Learning Objectives": [
+   "Build an audit universe linked to the firm's risk profile and regulatory obligations",
+   "Prioritise audit coverage using risk assessment and supervisory priorities",
+   "Design a flexible plan that responds to change and emerging risks"
+  ],
+  "Syllabus": [
+   "Audit universe, risk assessment and coverage cycles",
+   "Using risk registers, incidents, supervisory findings and horizon scanning",
+   "Balancing assurance, advisory and regulator-requested reviews",
+   "Agreeing and refreshing the plan with the audit committee"
+  ],
+  "Intended Audience": [
+   "Heads of internal audit, audit managers and auditors in banks, insurers, investment firms, fund managers and payment firms",
+   "Co-sourced and outsourced audit providers delivering assurance to regulated firms",
+   "Audit committee members and compliance and risk staff who rely on internal audit work"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of internal audit, risk or compliance in a regulated firm is helpful. No specialist technical background is required.",
+  "Core Reading": [
+   "Basel Committee, The Internal Audit Function in Banks (2012)",
+   "Institute of Internal Auditors, Global Internal Audit Standards (2024)",
+   "Basel Committee, Corporate Governance Principles for Banks (2015)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 269,
+   "module": 2,
+   "title": "Internal Audit in Regulated Firms",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1005,
+     "number": 1,
+     "title": "The Role and Independence of Internal Audit"
+    },
+    {
+     "id": 1006,
+     "number": 2,
+     "title": "Risk-Based Audit Planning"
+    },
+    {
+     "id": 1007,
+     "number": 3,
+     "title": "Auditing Regulatory Compliance"
+    },
+    {
+     "id": 1008,
+     "number": 4,
+     "title": "Auditing Conduct, Culture and Customer Outcomes"
+    },
+    {
+     "id": 1009,
+     "number": 5,
+     "title": "Auditing Financial Crime Controls"
+    },
+    {
+     "id": 1010,
+     "number": 6,
+     "title": "Auditing Models, Data and AI"
+    },
+    {
+     "id": 1011,
+     "number": 7,
+     "title": "Auditing Operational Resilience and Third Parties"
+    },
+    {
+     "id": 1012,
+     "number": 8,
+     "title": "Reporting, Follow-Up and Working with Supervisors"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 211,
+   "entryType": "programme",
+   "title": "Compliance Officer Academy",
+   "summary": "A ten-module academy giving compliance officers the tools to run an independent, risk-based compliance function and handle supervisory engagement with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 270,
+   "entryType": "programme",
+   "title": "Internal Investigations and Interviewing Skills",
+   "summary": "A nine-module programme giving control functions a structured method to investigate misconduct, whistleblowing reports and breaches, interview witnesses and subjects, and report findings.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 279,
+   "entryType": "programme",
+   "title": "Management and Leadership for Compliance and Risk Teams",
+   "summary": "A ten-module programme giving managers of compliance, risk and financial crime teams the skills to lead the second line, influence the business and earn the board's confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

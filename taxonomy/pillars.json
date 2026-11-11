@@ -1,53 +1,122 @@
 {
-  "$comment": "Definitive list of values usable in a course's pillar frontmatter field. Drives the site's nav submenu under each audience. scripts/validate.js checks every course's pillar exists here.",
+  "$comment": "Pillars by client type. Each entry's pillar field gives one pillar for each of its client types, chosen from that client type's list.",
   "pillars": [
     {
-      "name": "Regulatory Functions",
-      "description": "The substantive regulatory functions a supervisory authority performs, regardless of sector — governance, policy-making, authorisation, supervision, enforcement, financial crime, crisis management, capability building. Financial Supervisors audience only."
+      "clientType": "firms",
+      "pillars": [
+        {
+          "name": "Board & Senior Leadership",
+          "description": "Programmes for boards, non-executive directors and senior leaders: governance, accountability, strategy and oversight."
+        },
+        {
+          "name": "Control Functions Academy",
+          "description": "Programmes for compliance, risk, internal audit, MLRO and other control function holders."
+        },
+        {
+          "name": "Regulatory Readiness",
+          "description": "Programmes on getting and staying authorised: regimes, applications, engaging effectively with the regulator and implementing new rules."
+        },
+        {
+          "name": "Emerging Risks & Technology",
+          "description": "Programmes on AI, crypto-assets, cyber, operational resilience and other fast-moving risks."
+        },
+        {
+          "name": "All-Staff Essentials",
+          "description": "Core regulatory, conduct and financial crime training for everyone in the firm."
+        },
+        {
+          "name": "Sector Programmes",
+          "description": "Deep technical knowledge of the sectors you oversee, from funds and payments to crypto-assets and AI."
+        }
+      ]
     },
     {
-      "name": "Business Functions",
-      "description": "The core internal departments of a regulated firm — compliance, risk management, legal, treasury, governance, client money, product governance, trading, third-party oversight, actuarial. Firms audience only."
+      "clientType": "payments",
+      "pillars": [
+        {
+          "name": "Board & Senior Leadership",
+          "description": "Programmes for boards, non-executive directors and senior leaders: governance, accountability, strategy and oversight."
+        },
+        {
+          "name": "Control Functions Academy",
+          "description": "Programmes for compliance, risk, internal audit, MLRO and other control function holders."
+        },
+        {
+          "name": "Regulatory Readiness",
+          "description": "Programmes on getting and staying authorised: regimes, applications, engaging effectively with the regulator and implementing new rules."
+        },
+        {
+          "name": "Emerging Risks & Technology",
+          "description": "Programmes on AI, crypto-assets, cyber, operational resilience and other fast-moving risks."
+        },
+        {
+          "name": "All-Staff Essentials",
+          "description": "Core regulatory, conduct and financial crime training for everyone in the firm."
+        },
+        {
+          "name": "Sector Programmes",
+          "description": "Deep technical knowledge of the sectors you oversee, from funds and payments to crypto-assets and AI."
+        }
+      ]
     },
     {
-      "name": "Cross-Cutting Themes",
-      "description": "Risks and disciplines that run through every pillar and every sector rather than belonging to one — e.g. operational resilience, sustainable finance, consumer protection, cross-border supervision, data & technology infrastructure."
+      "clientType": "crypto",
+      "pillars": [
+        {
+          "name": "Board & Senior Leadership",
+          "description": "Programmes for boards, non-executive directors and senior leaders: governance, accountability, strategy and oversight."
+        },
+        {
+          "name": "Control Functions Academy",
+          "description": "Programmes for compliance, risk, internal audit, MLRO and other control function holders."
+        },
+        {
+          "name": "Regulatory Readiness",
+          "description": "Programmes on getting and staying authorised: regimes, applications, engaging effectively with the regulator and implementing new rules."
+        },
+        {
+          "name": "Emerging Risks & Technology",
+          "description": "Programmes on AI, crypto-assets, cyber, operational resilience and other fast-moving risks."
+        },
+        {
+          "name": "All-Staff Essentials",
+          "description": "Core regulatory, conduct and financial crime training for everyone in the firm."
+        },
+        {
+          "name": "Sector Programmes",
+          "description": "Deep technical knowledge of the sectors you oversee, from funds and payments to crypto-assets and AI."
+        }
+      ]
     },
     {
-      "name": "Generic Supervisory Skills",
-      "description": "Skills that let regulatory staff function effectively across every pillar and sector — management, communication, judgement, and technology skills not tied to a particular financial sector."
+      "clientType": "regulators",
+      "pillars": [
+        {
+          "name": "Regulatory Functions",
+          "description": "The core functions a supervisory authority performs: governance, policy-making, authorisation, supervision, enforcement, financial crime and crisis management."
+        },
+        {
+          "name": "Generic Supervisory Skills",
+          "description": "The professional skills every supervisor needs: analysis, judgement, communication, interviewing and leadership."
+        },
+        {
+          "name": "Sector Programmes",
+          "description": "Deep technical knowledge of the sectors you oversee, from funds and payments to crypto-assets and AI."
+        },
+        {
+          "name": "Cross-Cutting Themes",
+          "description": "Themes that cut across every sector: operational resilience, sustainable finance, consumer protection and cross-border supervision."
+        }
+      ]
     },
     {
-      "name": "Sector Programmes",
-      "description": "Technical, subject-matter training for supervising particular parts of the financial sector (banking, insurance, investment funds, payments, pensions, etc.) and specialist cross-sector technical themes (digital assets, AI, sustainable finance, cybersecurity, SupTech)."
-    },
-    {
-      "name": "All-Staff Essentials",
-      "description": "Firm and public-policy programme track (added for programmes v2)."
-    },
-    {
-      "name": "Board & Senior Leadership",
-      "description": "Firm and public-policy programme track (added for programmes v2)."
-    },
-    {
-      "name": "Control Functions Academy",
-      "description": "Firm and public-policy programme track (added for programmes v2)."
-    },
-    {
-      "name": "Emerging Risks & Technology",
-      "description": "Firm and public-policy programme track (added for programmes v2)."
-    },
-    {
-      "name": "Public Policy Programmes",
-      "description": "Firm and public-policy programme track (added for programmes v2)."
-    },
-    {
-      "name": "Regulatory Readiness",
-      "description": "Firm and public-policy programme track (added for programmes v2)."
-    },
-    {
-      "name": "Law Enforcement Programmes",
-      "description": "Firm and public-policy programme track (added for programmes v2)."
+      "clientType": "government",
+      "pillars": [
+        {
+          "name": "Public Policy Programmes",
+          "description": "Programmes for ministers, officials, legislators and public agencies on financial regulation, financial crime and market development."
+        }
+      ]
     }
   ]
 }

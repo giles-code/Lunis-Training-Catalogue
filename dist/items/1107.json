@@ -1,0 +1,186 @@
+{
+ "id": 1107,
+ "entryType": "module",
+ "title": "Prioritisation, Resourcing and the Risk-Based Workload",
+ "summary": "How to set the team's priorities when demand always exceeds capacity, make the case for resources, and say no to low-value work without leaving the firm exposed.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "prioritisation-resourcing-and-the-risk-based-workload",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to set the team's priorities when demand always exceeds capacity, make the case for resources, and say no to low-value work without leaving the firm exposed.",
+  "Learning Objectives": [
+   "Apply risk-based prioritisation to competing advisory, monitoring and regulatory demands",
+   "Build a credible case for headcount, skills and tools",
+   "Agree with senior management what the function will not do and record the risk"
+  ],
+  "Syllabus": [
+   "Prioritisation tools linked to the compliance and risk assessment",
+   "Regulatory change, incidents and business requests: managing the peaks",
+   "Making the resourcing case: workload data, risk and supervisory expectations",
+   "Saying no and accepting residual risk transparently"
+  ],
+  "Intended Audience": [
+   "Compliance, risk and financial crime specialists newly promoted, or preparing for promotion, into team leader and manager roles",
+   "Heads of compliance, chief risk officers, MLROs and their deputies seeking to strengthen how they lead and position the function",
+   "Senior managers who lead other control or assurance teams, or who sponsor the second line within the business"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience in a compliance, risk or financial crime role is helpful. No prior management training is required.",
+  "Core Reading": [
+   "Amy C. Edmondson, The Fearless Organization: Creating Psychological Safety in the Workplace (2018)",
+   "Patrick Lencioni, The Five Dysfunctions of a Team (2002)",
+   "IOSCO, Compliance Function at Market Intermediaries (2006)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 279,
+   "module": 4,
+   "title": "Management and Leadership for Compliance and Risk Teams",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1104,
+     "number": 1,
+     "title": "From Specialist to Second-Line Manager"
+    },
+    {
+     "id": 1105,
+     "number": 2,
+     "title": "Influence Without Authority"
+    },
+    {
+     "id": 1106,
+     "number": 3,
+     "title": "Challenging the Business"
+    },
+    {
+     "id": 1107,
+     "number": 4,
+     "title": "Prioritisation, Resourcing and the Risk-Based Workload"
+    },
+    {
+     "id": 1108,
+     "number": 5,
+     "title": "Delegation and Managing Performance"
+    },
+    {
+     "id": 1109,
+     "number": 6,
+     "title": "Coaching and Developing Control Function Staff"
+    },
+    {
+     "id": 1110,
+     "number": 7,
+     "title": "Reporting Upward to Executives and the Board"
+    },
+    {
+     "id": 1111,
+     "number": 8,
+     "title": "Building Credibility with the Board and the Supervisor"
+    },
+    {
+     "id": 1112,
+     "number": 9,
+     "title": "Wellbeing, Resilience and Sustainable Performance"
+    },
+    {
+     "id": 1113,
+     "number": 10,
+     "title": "Leading Through Incidents and Change: Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 211,
+   "entryType": "programme",
+   "title": "Compliance Officer Academy",
+   "summary": "A ten-module academy giving compliance officers the tools to run an independent, risk-based compliance function and handle supervisory engagement with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 269,
+   "entryType": "programme",
+   "title": "Internal Audit in Regulated Firms",
+   "summary": "An eight-module programme giving internal auditors the tools to deliver risk-based assurance over the regulatory risks that matter most to boards and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 270,
+   "entryType": "programme",
+   "title": "Internal Investigations and Interviewing Skills",
+   "summary": "A nine-module programme giving control functions a structured method to investigate misconduct, whistleblowing reports and breaches, interview witnesses and subjects, and report findings.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

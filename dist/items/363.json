@@ -1,0 +1,185 @@
+{
+ "id": 363,
+ "entryType": "module",
+ "title": "Operational Resilience, Cyber and Third-Party AI Risk",
+ "summary": "How AI systems fail and can be attacked, how reliance on a few AI vendors concentrates risk, and whether the firm can withstand and recover from an AI failure.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "operational-resilience-cyber-and-third-party-ai-risk",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How AI systems fail and can be attacked, how reliance on a few AI vendors concentrates risk, and whether the firm can withstand and recover from an AI failure.",
+  "Learning Objectives": [
+   "Recognise how AI fails, including drift, data poisoning and prompt injection",
+   "Assess concentration and dependency on third-party AI providers",
+   "Evaluate resilience testing and incident escalation to the board"
+  ],
+  "Syllabus": [
+   "Drift, silent degradation and late detection of AI problems",
+   "Adversarial attacks and the board's cyber oversight role",
+   "Vendor and foundation-model dependency: due diligence and exit planning",
+   "Operational resilience and outsourcing expectations applied to AI"
+  ],
+  "Intended Audience": [
+   "Chairs, non-executive and independent directors and board committee members, especially on risk, audit and technology committees",
+   "Executive directors and senior managers accountable for AI, risk and compliance",
+   "Company secretaries and heads of governance supporting board oversight"
+  ],
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No technical background in AI or data science is required.",
+  "Core Reading": [
+   "OECD, Recommendation of the Council on Artificial Intelligence (2019, revised 2024)",
+   "NIST, Artificial Intelligence Risk Management Framework (AI RMF 1.0) (2023)",
+   "ISO/IEC 42001:2023, Artificial Intelligence – Management System",
+   "FSB, The Financial Stability Implications of Artificial Intelligence (2024)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 195,
+   "module": 7,
+   "title": "AI Governance for Boards",
+   "moduleCount": 10,
+   "durationValue": 20,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 357,
+     "number": 1,
+     "title": "Artificial Intelligence for Directors"
+    },
+    {
+     "id": 358,
+     "number": 2,
+     "title": "Board Accountability and AI Governance Structures"
+    },
+    {
+     "id": 359,
+     "number": 3,
+     "title": "AI Strategy, Risk Appetite and Value"
+    },
+    {
+     "id": 360,
+     "number": 4,
+     "title": "Model Risk, Explainability and Board Challenge"
+    },
+    {
+     "id": 361,
+     "number": 5,
+     "title": "Fairness, Conduct and Consumer Outcomes"
+    },
+    {
+     "id": 362,
+     "number": 6,
+     "title": "AI in Trading, Advice and Client Services"
+    },
+    {
+     "id": 363,
+     "number": 7,
+     "title": "Operational Resilience, Cyber and Third-Party AI Risk"
+    },
+    {
+     "id": 364,
+     "number": 8,
+     "title": "AI Regulation and Regulatory Expectations of Boards"
+    },
+    {
+     "id": 365,
+     "number": 9,
+     "title": "Board Reporting, Management Information and Assurance"
+    },
+    {
+     "id": 366,
+     "number": 10,
+     "title": "Leading AI Oversight: Capability, Culture and Emerging Risks"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 210,
+   "entryType": "programme",
+   "title": "Climate and Sustainability for Boards",
+   "summary": "An eight-module programme giving boards and directors the understanding and tools to oversee climate and nature-related risk, transition plans and sustainability disclosures.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

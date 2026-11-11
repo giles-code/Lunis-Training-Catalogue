@@ -1,0 +1,256 @@
+{
+ "id": 252,
+ "entryType": "programme",
+ "title": "Financial Services Regulation: A Briefing Programme for Parliamentarians",
+ "summary": "A six-module, non-technical briefing programme helping parliamentarians and committee staff scrutinise financial legislation and hold regulators to account.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 12,
+ "durationUnit": "hours",
+ "role": [
+  "Parliamentarians & committee staff"
+ ],
+ "firmType": [],
+ "slug": "financial-services-briefing-for-parliamentarians",
+ "moduleCount": 6,
+ "hoursPerModule": 2,
+ "intro": "This training programme equips parliamentarians and committee staff with a clear, non-technical understanding of how financial regulation works, so they can scrutinise legislation, hold regulators to account and respond to emerging issues with confidence.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Policy",
+  "Consumer Protection"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give legislators and their staff a concise, jargon-free briefing on financial services regulation, the role of independent regulators and the issues that come before parliament. Participants leave able to ask incisive questions of regulators and ministers, scrutinise financial legislation effectively and judge emerging issues such as crypto-assets and AI.",
+  "What It Covers": "How financial regulation works and who does what, holding independent regulators to account, scrutinising financial legislation, consumer protection and lessons from financial scandals, financial crime and the country's international obligations, and emerging issues including crypto-assets and AI.",
+  "Intended Audience": [
+   "Members of parliament, particularly those on finance, economic affairs, budget and public accounts committees",
+   "Committee clerks, researchers and parliamentary library staff supporting financial scrutiny",
+   "Advisers to parliamentarians and party policy staff working on financial issues"
+  ],
+  "Learning Objectives": [
+   "Explain in plain language why financial services are regulated and who does what",
+   "Hold regulators to account while respecting their operational independence",
+   "Scrutinise financial legislation and the powers it confers",
+   "Draw lessons from financial scandals for consumer protection policy",
+   "Explain the country's financial crime obligations and how they are assessed internationally",
+   "Ask informed questions about emerging issues such as crypto-assets and AI"
+  ],
+  "Structure and Format": "Six modules of about two hours each, delivered in person, virtually or in a hybrid format, either as a two-day programme or as a series of short briefing sessions around the parliamentary timetable. Each module combines a plain-language briefing with a case study and a scrutiny question set, and modules can be selected or tailored to committee priorities.",
+  "Useful Prior Knowledge and Experience": "No prior knowledge of financial services or regulation is required. Experience of committee work is helpful.",
+  "Core Reading": [
+   "OECD (2014), The Governance of Regulators, OECD Best Practice Principles for Regulatory Policy",
+   "G20/OECD (2022), High-Level Principles on Financial Consumer Protection",
+   "FATF (2012, updated), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations",
+   "IOSCO (2017), Objectives and Principles of Securities Regulation"
+  ]
+ },
+ "modules": [
+  {
+   "id": 860,
+   "number": 1,
+   "title": "How Financial Regulation Works",
+   "summary": "Why financial services are regulated, the institutions responsible, and how international standards shape national rules, explained without jargon.",
+   "objectives": [
+    "Explain the purposes of financial regulation",
+    "Identify the roles of the ministry, central bank, regulators and other bodies",
+    "Describe how international standards influence national law"
+   ],
+   "syllabus": [
+    "What can go wrong in finance and why it matters to constituents",
+    "Who regulates what: the national regulatory map",
+    "International standard-setters and peer reviews",
+    "Key terms every legislator should know"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 861,
+   "number": 2,
+   "title": "Holding Regulators to Account",
+   "summary": "Why regulators are given independence, the accountability mechanisms parliament controls, and how to conduct effective scrutiny hearings and inquiries.",
+   "objectives": [
+    "Explain the rationale for regulatory independence and its limits",
+    "Use annual reports, hearings and inquiries to scrutinise regulators",
+    "Distinguish legitimate scrutiny from interference in individual cases"
+   ],
+   "syllabus": [
+    "Independence, mandates and appointments",
+    "Annual reports, budgets and performance information",
+    "Preparing for and conducting a scrutiny hearing",
+    "A question set for regulators and ministers"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 862,
+   "number": 3,
+   "title": "Scrutinising Financial Legislation",
+   "summary": "How financial bills are structured, what to look for in the powers and safeguards they contain, and how to test impact assessments and industry claims.",
+   "objectives": [
+    "Identify the main components of a financial services bill",
+    "Assess delegated powers, safeguards and review clauses",
+    "Test impact assessments, consultation responses and lobbying claims"
+   ],
+   "syllabus": [
+    "Perimeter, licensing, enforcement and transitional provisions explained",
+    "Delegated powers and parliamentary oversight of rules",
+    "Reading an impact assessment critically",
+    "Engaging with industry and consumer representations"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 863,
+   "number": 4,
+   "title": "Consumer Protection and Lessons from Scandals",
+   "summary": "How consumer protection in finance is meant to work, what recent mis-selling and fraud scandals reveal about regulatory failure, and the remedies available to consumers.",
+   "objectives": [
+    "Describe the main consumer protection tools and redress mechanisms",
+    "Draw lessons from mis-selling and fraud scandals",
+    "Assess whether consumers can obtain effective redress"
+   ],
+   "syllabus": [
+    "Disclosure, suitability, fair treatment and product rules",
+    "Case studies of mis-selling, investment fraud and firm failures",
+    "Ombudsman schemes, compensation and deposit protection",
+    "Constituency casework: helping consumers who have lost money"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 864,
+   "number": 5,
+   "title": "Financial Crime and International Obligations",
+   "summary": "The country's obligations to combat money laundering, terrorist financing and sanctions evasion, how they are assessed by the FATF, and what is at stake for the economy.",
+   "objectives": [
+    "Explain the FATF standards and the mutual evaluation process",
+    "Describe the consequences of grey-listing for the economy",
+    "Identify the legislative role in beneficial ownership and asset recovery"
+   ],
+   "syllabus": [
+    "Money laundering, terrorist financing and sanctions explained",
+    "FATF evaluations, grey-listing and its economic impact",
+    "Beneficial ownership transparency and asset recovery laws",
+    "Scams and fraud as a growing financial crime threat"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 865,
+   "number": 6,
+   "title": "Emerging Issues: Crypto-Assets, AI and the Future of Finance",
+   "summary": "Brings the programme together by examining emerging issues likely to come before parliament, including crypto-assets, stablecoins, AI, climate risk and cyber threats.",
+   "objectives": [
+    "Explain crypto-assets, stablecoins and AI in plain language",
+    "Assess the main risks and regulatory options for emerging issues",
+    "Prepare a scrutiny agenda for the parliamentary term"
+   ],
+   "syllabus": [
+    "Crypto-assets and stablecoins: risks and regulatory approaches",
+    "AI in finance: benefits, risks and accountability",
+    "Climate risk, cyber threats and operational resilience",
+    "Workshop: a committee scrutiny agenda on financial services"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 235,
+   "entryType": "programme",
+   "title": "Drafting Financial Services Legislation",
+   "summary": "An eight-module programme helping legislative drafters and legal advisers design and draft effective, enforceable and technology-neutral financial services legislation.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 248,
+   "entryType": "programme",
+   "title": "Financial Crises and Public Finances: Crisis Preparedness for Government",
+   "summary": "An eight-module advanced programme preparing finance ministries and senior officials to manage financial crises, protect public finances and coordinate resolution.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 251,
+   "entryType": "programme",
+   "title": "Financial Services Policy Essentials for Government",
+   "summary": "A ten-module programme giving government officials a clear grounding in the financial system, regulatory architecture, international standards and the policy levers government holds.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 198,
+   "entryType": "programme",
+   "title": "AI in Financial Services: Policy Choices for Government",
+   "summary": "An eight-module programme helping policymakers understand AI in financial services and make informed choices on regulation, institutional roles and national strategy.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 229,
+   "entryType": "programme",
+   "title": "Developing Capital Markets and Investment Fund Industries",
+   "summary": "An eight-module programme helping policymakers develop deep, well-regulated capital markets and fund industries through credible, well-sequenced reform.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

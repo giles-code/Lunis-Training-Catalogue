@@ -1,0 +1,114 @@
+{
+ "id": 137,
+ "entryType": "module",
+ "title": "Passporting and Cross-Border Authorisation",
+ "summary": "The aim of this workshop is to build participants' understanding of how passporting and cross-border authorisation regimes operate in practice, and the cooperation expected between home and host supervisors.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Authorisation & Licensing",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Authorisation & licensing"
+ ],
+ "firmType": [],
+ "slug": "passporting-and-cross-border-authorisation",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Authorisations",
+  "Registration & Licensing"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how passporting and cross-border authorisation regimes operate in practice, and the cooperation expected between home and host supervisors.",
+  "Intended Audience": "Junior to mid-level authorisations/licensing caseworkers assessing new-entrant applications.",
+  "Learning Objectives": [
+   "Explain the concept and legal basis of passporting",
+   "Describe the notification and authorisation process for passporting firms",
+   "Assess the respective roles of home and host supervisors under passporting",
+   "Evaluate the risks of passporting for host-country consumer protection",
+   "Identify practical cooperation steps between home and host authorities"
+  ],
+  "Syllabus": [
+   "What passporting is and why it exists",
+   "Legal basis for passporting regimes",
+   "Freedom of establishment versus freedom to provide services",
+   "Which activities are typically passportable",
+   "Facilitated discussion: passporting experiences from participants' own jurisdictions",
+   "Notification and authorisation process for passporting firms",
+   "Respective responsibilities of home and host supervisors",
+   "Practical challenges: language, timelines, information gaps",
+   "When host intervention powers apply",
+   "Group exercise: map the passporting process for a sample cross-border firm",
+   "Consumer protection risks in host markets under passporting",
+   "Practical cooperation steps between home and host authorities",
+   "Case study: a passporting firm causing host-market concern",
+   "Case study: propose a cooperation response to a passporting concern",
+   "Recap: passporting basis, process, roles, risks",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Passporting fundamentals (09:30–10:45)\n- Session 2: Process and home/host roles (11:00–12:30)\n- Session 3: Risks and cooperation (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Passporting relies on trust between home and host supervisors that must be actively maintained\n- Host supervisors retain some intervention powers even for passported firms, and should know when to use them\n- Consumer protection risk in host markets deserves specific attention under passporting regimes",
+  "Useful Prior Knowledge and Experience": "Some familiarity with authorisation & licensing is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 254,
+   "entryType": "programme",
+   "title": "Fit and Proper Assessments: Approving Owners, Directors and Key Function Holders",
+   "summary": "An eight-module practitioner programme on assessing owners, controllers, directors and key function holders, from evidence gathering and interviews to defensible decisions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

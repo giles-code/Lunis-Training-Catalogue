@@ -1,0 +1,161 @@
+{
+ "id": 1533,
+ "entryType": "module",
+ "title": "Red Flags, Data Analysis and Free Trade Zones",
+ "summary": "How customs and FIUs use risk indicators and data analytics to identify suspicious trade, and the particular vulnerabilities of free trade zones and transhipment hubs.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Intelligence & Law Enforcement",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Asset recovery, customs & tax",
+  "FIU analysts",
+  "Financial investigators & police"
+ ],
+ "firmType": [],
+ "slug": "red-flags-data-analysis-and-free-trade-zones",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "International & Cross-Border Affairs"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How customs and FIUs use risk indicators and data analytics to identify suspicious trade, and the particular vulnerabilities of free trade zones and transhipment hubs.",
+  "Learning Objectives": [
+   "Apply trade-based laundering red-flag indicators to cases",
+   "Use price, volume and route analysis to identify anomalies",
+   "Assess the risks posed by free trade zones and transhipment"
+  ],
+  "Syllabus": [
+   "Risk indicators for traders, goods, routes and payments",
+   "Unit-price analysis, mirror trade data and data matching",
+   "Free trade zones: oversight gaps and risk indicators",
+   "Risk targeting and selection for examination"
+  ],
+  "Intended Audience": [
+   "Customs officers, trade intelligence analysts and post-clearance audit teams",
+   "FIU analysts and financial investigators handling trade-related intelligence",
+   "Tax investigators and prosecutors working on trade-linked fraud and laundering cases"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of customs, financial intelligence or financial crime investigation is helpful. No specialist knowledge of trade finance is required.",
+  "Core Reading": [
+   "FATF (2006), Trade Based Money Laundering",
+   "FATF (2010), Money Laundering Vulnerabilities of Free Trade Zones",
+   "FATF and Egmont Group (2020), Trade-Based Money Laundering: Trends and Developments",
+   "FATF and Egmont Group (2021), Trade-Based Money Laundering: Risk Indicators"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 329,
+   "module": 4,
+   "title": "Trade-Based Money Laundering: Detection and Investigation",
+   "moduleCount": 6,
+   "durationValue": 18,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1530,
+     "number": 1,
+     "title": "Trade-Based Money Laundering: How It Works"
+    },
+    {
+     "id": 1531,
+     "number": 2,
+     "title": "Trade Documentation, Trade Finance and Customs Data"
+    },
+    {
+     "id": 1532,
+     "number": 3,
+     "title": "Mis-Invoicing and Other Techniques"
+    },
+    {
+     "id": 1533,
+     "number": 4,
+     "title": "Red Flags, Data Analysis and Free Trade Zones"
+    },
+    {
+     "id": 1534,
+     "number": 5,
+     "title": "Joint Investigation with FIUs, Tax and Foreign Partners"
+    },
+    {
+     "id": 1535,
+     "number": 6,
+     "title": "Case Workshop: Investigating a Trade-Based Scheme"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 256,
+   "entryType": "programme",
+   "title": "FIU Operational and Strategic Analysis",
+   "summary": "A ten-module programme equipping FIU analysts to prioritise and analyse reports, produce operational and strategic intelligence, and cooperate effectively at home and abroad.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

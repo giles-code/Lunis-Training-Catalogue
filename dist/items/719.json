@@ -1,0 +1,195 @@
+{
+ "id": 719,
+ "entryType": "module",
+ "title": "What Good Governance Looks Like",
+ "summary": "What governance is for in a regulated firm or fund, what good, bad and failed governance look like in practice, and why governing a fund or licensee differs from governing an ordinary company.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "what-good-governance-looks-like",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What governance is for in a regulated firm or fund, what good, bad and failed governance look like in practice, and why governing a fund or licensee differs from governing an ordinary company.",
+  "Learning Objectives": [
+   "Define governance in terms of the interests the board must serve",
+   "Distinguish good, poor and failed governance using real enforcement outcomes",
+   "Map the parties around the board: owners, regulators, managers and delegates"
+  ],
+  "Syllabus": [
+   "Purpose of governance: acting efficiently and exclusively in investors' and customers' interests",
+   "Good governance: clear responsibilities, documented policies and structures that foster challenge",
+   "When governance fails: lessons from regulatory fines and misconduct cases",
+   "The distinctive features of fund and regulated-firm governance"
+  ],
+  "Intended Audience": [
+   "Chairs, executive, non-executive and independent directors of regulated firms, fund boards and management companies",
+   "Senior managers preparing for a first board appointment or moving from an executive to a non-executive role",
+   "Company secretaries, heads of governance and compliance staff who support the board and its committees"
+  ],
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No prior governance training is required.",
+  "Core Reading": [
+   "G20/OECD Principles of Corporate Governance (2023)",
+   "IOSCO, Examination of Governance for Collective Investment Schemes (2006–2007)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)",
+   "Olivier Sibony, You're About to Make a Terrible Mistake! How Biases Distort Decision-Making (2020)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 236,
+   "module": 1,
+   "title": "Effective Governance for Boards and Directors",
+   "moduleCount": 12,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 719,
+     "number": 1,
+     "title": "What Good Governance Looks Like"
+    },
+    {
+     "id": 720,
+     "number": 2,
+     "title": "The Role of the Director: Duties and Collective Responsibility"
+    },
+    {
+     "id": 721,
+     "number": 3,
+     "title": "Fitness and Probity"
+    },
+    {
+     "id": 722,
+     "number": 4,
+     "title": "Independence of Mind and Time Commitment"
+    },
+    {
+     "id": 723,
+     "number": 5,
+     "title": "Board Composition: Appointment, Tenure, Succession and Diversity"
+    },
+    {
+     "id": 724,
+     "number": 6,
+     "title": "Delegation and Oversight: Retaining Responsibility"
+    },
+    {
+     "id": 725,
+     "number": 7,
+     "title": "Conflicts of Interest"
+    },
+    {
+     "id": 726,
+     "number": 8,
+     "title": "Individual Accountability and Reasonable Steps"
+    },
+    {
+     "id": 727,
+     "number": 9,
+     "title": "The Chair, the Agenda and the Company Secretary"
+    },
+    {
+     "id": 728,
+     "number": 10,
+     "title": "Board Information: Papers, Presentations and Asymmetry"
+    },
+    {
+     "id": 729,
+     "number": 11,
+     "title": "Boardroom Dynamics: Challenge, Culture and Decision-Making"
+    },
+    {
+     "id": 730,
+     "number": 12,
+     "title": "Keeping the Board Effective: Evaluation, Development and Action Plan"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 242,
+   "entryType": "programme",
+   "title": "Finance and Prudential Essentials for Directors of Regulated Firms",
+   "summary": "An eight-module programme giving non-financial directors the confidence to read a regulated firm's accounts, capital and liquidity position, and to challenge the CFO.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

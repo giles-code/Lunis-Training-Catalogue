@@ -1,0 +1,110 @@
+{
+ "id": 124,
+ "entryType": "module",
+ "title": "Mastering Investment Services Regulations (EU Edition)",
+ "summary": "Understanding regulations impacting investment services.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Services & Capital Markets",
+ "tags": [
+  "Investment services & markets",
+  "EU"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 1,
+ "durationUnit": "days",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Firms & Wealth Management",
+  "Market Infrastructure & Trading Venues"
+ ],
+ "slug": "mastering-investment-services-regulations",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "aimAndPurpose: expanded from a one-line catalogue summary only",
+  "learningObjectives: derived from focus-area keywords, not explicit source content",
+  "syllabus: derived from focus-area keywords, needs expansion",
+  "structureAndFormat: not specified in source catalogue",
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "duration: not stated in source catalogue; defaulted to a single full day pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "Understanding regulations impacting investment services.",
+  "Intended Audience": "Junior to mid-level supervisors working in investment services/capital markets supervision.",
+  "Learning Objectives": [
+   "Understand and apply: MiFID",
+   "Understand and apply: MiFIR",
+   "Understand and apply: IRD",
+   "Understand and apply: IRR"
+  ],
+  "Syllabus": [
+   "MiFID",
+   "MiFIR",
+   "IRD",
+   "IRR"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with investment services & capital markets is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 209,
+   "entryType": "programme",
+   "title": "Capital Markets and Investment Services Supervision",
+   "summary": "A ten-module programme equipping supervisors to oversee investment firms, trading venues and issuers, from client conduct and client assets to algorithmic trading and market abuse.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 312,
+   "entryType": "programme",
+   "title": "Supervising Financial Market Infrastructures",
+   "summary": "An advanced ten-module programme equipping supervisors and overseers to apply the PFMI to trading venues, CCPs, CSDs, payment systems and trade repositories.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 234,
+   "entryType": "programme",
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "summary": "An eight-module programme on DORA for supervisors and financial entities: ICT risk management, incident reporting, resilience testing and TLPT, ICT third-party risk and critical provider oversight.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

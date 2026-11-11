@@ -1,0 +1,162 @@
+{
+ "id": 554,
+ "entryType": "module",
+ "title": "Planning and Running Firm Meetings",
+ "summary": "How to prepare for, conduct and follow up meetings with firms so that each meeting has a clear purpose and produces usable evidence.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "People & Communication Fundamentals",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "New joiners & developing staff"
+ ],
+ "firmType": [],
+ "slug": "planning-and-running-firm-meetings",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Capability & Capacity Building",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to prepare for, conduct and follow up meetings with firms so that each meeting has a clear purpose and produces usable evidence.",
+  "Learning Objectives": [
+   "Set objectives and an agenda for a firm meeting",
+   "Use questioning and listening techniques to obtain useful information",
+   "Record outcomes accurately and agree follow-up actions"
+  ],
+  "Syllabus": [
+   "Preparation: objectives, information request and roles",
+   "Opening, questioning, listening and controlling the meeting",
+   "Taking notes and producing an accurate meeting record",
+   "Follow-up letters, actions and deadlines"
+  ],
+  "Intended Audience": [
+   "New joiners and developing staff in supervisory, authorisation, policy and enforcement roles",
+   "Staff recently promoted into case-handling roles who want to strengthen core skills",
+   "Line managers seeking a common standard of professional practice for their teams"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior experience is required. The programme is suitable for staff in their first years at the authority as well as those wishing to refresh core skills.",
+  "Core Reading": [
+   "IMF (2010), The Making of Good Supervision: Learning to Say \"No\" (Staff Position Note SPN/10/08)",
+   "IMF (2023), Good Supervision: Lessons from the Field (Working Paper WP/23/181)",
+   "FSB (2014), Guidance on Supervisory Interaction with Financial Institutions on Risk Culture: A Framework for Assessing Risk Culture"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 217,
+   "module": 3,
+   "title": "Core Professional Skills for Regulatory Staff",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 552,
+     "number": 1,
+     "title": "Writing for Regulatory Purposes"
+    },
+    {
+     "id": 553,
+     "number": 2,
+     "title": "Analysis, Evidence and Critical Thinking"
+    },
+    {
+     "id": 554,
+     "number": 3,
+     "title": "Planning and Running Firm Meetings"
+    },
+    {
+     "id": 555,
+     "number": 4,
+     "title": "Challenging Management with Confidence"
+    },
+    {
+     "id": 556,
+     "number": 5,
+     "title": "Presenting to Committees and Panels"
+    },
+    {
+     "id": 557,
+     "number": 6,
+     "title": "Time, Workload and Case Management"
+    },
+    {
+     "id": 558,
+     "number": 7,
+     "title": "Working with Data"
+    },
+    {
+     "id": 559,
+     "number": 8,
+     "title": "Putting Skills into Practice: Integrated Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 273,
+   "entryType": "programme",
+   "title": "Investigative and Interviewing Skills for Supervisors",
+   "summary": "An eight-module practical programme on planning and conducting supervisory interviews and turning interview evidence into sound findings.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 314,
+   "entryType": "programme",
+   "title": "Supervisory Judgement and Professional Practice",
+   "summary": "A ten-module programme on forming, documenting and defending supervisory judgements, and turning them into clear findings, letters and interventions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

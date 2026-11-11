@@ -1,0 +1,155 @@
+{
+ "id": 1185,
+ "entryType": "module",
+ "title": "Managing Regulatory Change and Regulatory Risk",
+ "summary": "How a well-run firm scans the horizon, assesses impact and implements change, and how the board oversees regulatory risk without becoming the project team.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1.5,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "managing-regulatory-change-and-regulatory-risk",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How a well-run firm scans the horizon, assesses impact and implements change, and how the board oversees regulatory risk without becoming the project team.",
+  "Learning Objectives": [
+   "Explain the regulatory change life cycle from horizon scanning to embedding",
+   "Assess the quality of impact assessments, plans and resourcing",
+   "Challenge management on slippage, dependencies on providers and residual risk"
+  ],
+  "Syllabus": [
+   "Horizon scanning, impact assessment and prioritisation",
+   "Ownership, accountability and avoiding gaps between compliance, technology and operations",
+   "Dependencies on delegates, distributors and other service providers",
+   "Board reporting on change programmes: milestones, risks and assurance"
+  ],
+  "Intended Audience": [
+   "Independent and non-executive directors of investment funds and fund management companies",
+   "Executive directors, conducting officers and designated persons responsible for regulatory compliance",
+   "Heads of compliance, legal and risk, and company secretaries supporting fund boards"
+  ],
+  "Useful Prior Knowledge and Experience": "Experience as a fund director or in fund management, compliance or legal roles is helpful. No legal qualification is required.",
+  "Core Reading": [
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)",
+   "FSB, The Financial Stability Implications of Tokenisation (2024)",
+   "IOSCO, Recommendations on Sustainability-Related Practices, Policies, Procedures and Disclosure in Asset Management (2021)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 288,
+   "module": 2,
+   "title": "Overseeing Regulatory Change: Annual Update for Fund Directors",
+   "moduleCount": 6,
+   "durationValue": 9,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 1184,
+     "number": 1,
+     "title": "Legal and Regulatory Touch Points for Funds"
+    },
+    {
+     "id": 1185,
+     "number": 2,
+     "title": "Managing Regulatory Change and Regulatory Risk"
+    },
+    {
+     "id": 1186,
+     "number": 3,
+     "title": "This Year's International Regulatory Agenda"
+    },
+    {
+     "id": 1187,
+     "number": 4,
+     "title": "Technology Themes: Resilience, Tokenisation and AI"
+    },
+    {
+     "id": 1188,
+     "number": 5,
+     "title": "Sustainability and Disclosure Developments"
+    },
+    {
+     "id": 1189,
+     "number": 6,
+     "title": "Workshop: The Board's Regulatory Change Plan"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 199,
+   "entryType": "programme",
+   "title": "Alternative Investments for Fund Directors",
+   "summary": "An eight-module programme explaining hedge fund, private markets, real asset, structured and digital asset strategies to fund directors, with board questions on valuation, liquidity and fees.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 207,
+   "entryType": "programme",
+   "title": "Board Oversight of Fund Operations and Service Providers",
+   "summary": "A ten-module programme giving fund directors the tools to oversee fund operations and service providers, from NAV production and custody to errors and resilience.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 260,
+   "entryType": "programme",
+   "title": "Fund Board Governance Toolkit: A Risk-Based Oversight Workshop",
+   "summary": "A six-module practical workshop giving fund directors a risk-based governance toolkit, from skills matrices to escalation triggers, and a draft oversight plan for their own board.",
+   "level": "Board level",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "id": 764,
+ "entryType": "module",
+ "title": "Liquidity Management Tools, Leverage and Valuation",
+ "summary": "How EU rules address liquidity mismatch, leverage and valuation in funds, the liquidity management tools now required of open-ended funds, and the red flags that precede fund suspensions and losses.",
+ "clientType": [
+  "firms",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes",
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Funds",
+ "tags": [
+  "Funds & asset management",
+  "EU"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Policy & specialist teams",
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "liquidity-management-tools-leverage-and-valuation",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How EU rules address liquidity mismatch, leverage and valuation in funds, the liquidity management tools now required of open-ended funds, and the red flags that precede fund suspensions and losses.",
+  "Learning Objectives": [
+   "Explain liquidity stress testing and the selection and activation of liquidity management tools",
+   "Assess leverage measures, limits and reporting for UCITS and AIFs",
+   "Identify valuation governance weaknesses, especially for hard-to-value assets"
+  ],
+  "Syllabus": [
+   "Liquidity mismatch, stress testing and ESMA guidelines",
+   "Liquidity management tools: swing pricing, anti-dilution levies, gates and suspensions",
+   "Leverage: gross and commitment methods, global exposure and supervisory limits",
+   "Valuation policies, independence and red flags"
+  ],
+  "Intended Audience": [
+   "Supervisors, authorisation and policy staff at national competent authorities covering funds and asset managers",
+   "Compliance, legal, risk and product staff at UCITS management companies, AIFMs, investment managers and distributors",
+   "Directors, depositary and fund administration staff who need a working map of the EU fund rulebook"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of asset management, funds or their supervision is helpful. No legal background or prior knowledge of EU law is required.",
+  "Core Reading": [
+   "Directive 2009/65/EC on undertakings for collective investment in transferable securities (UCITS Directive)",
+   "Directive 2011/61/EU on Alternative Investment Fund Managers (AIFMD)",
+   "Directive (EU) 2024/927 amending the AIFMD and UCITS Directive on delegation, liquidity risk management, supervisory reporting, depositary services and loan origination (AIFMD II)",
+   "Regulation (EU) 2019/2088 on sustainability-related disclosures in the financial services sector (SFDR)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 240,
+   "module": 7,
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 758,
+     "number": 1,
+     "title": "EU Regulatory Architecture and the Fund Value Chain"
+    },
+    {
+     "id": 759,
+     "number": 2,
+     "title": "The UCITS Directive: Product, Manager and Investor Protection"
+    },
+    {
+     "id": 760,
+     "number": 3,
+     "title": "The AIFM Directive and AIFMD II"
+    },
+    {
+     "id": 761,
+     "number": 4,
+     "title": "Specialist Fund Regimes: ELTIFs, MMFs and EuVECA"
+    },
+    {
+     "id": 762,
+     "number": 5,
+     "title": "MiFID II and MiFIR for Managers and Distributors"
+    },
+    {
+     "id": 763,
+     "number": 6,
+     "title": "Delegation, Substance and Depositaries"
+    },
+    {
+     "id": 764,
+     "number": 7,
+     "title": "Liquidity Management Tools, Leverage and Valuation"
+    },
+    {
+     "id": 765,
+     "number": 8,
+     "title": "Cross-Border Marketing, Passporting and Disclosure"
+    },
+    {
+     "id": 766,
+     "number": 9,
+     "title": "Sustainable Finance: SFDR and Greenwashing"
+    },
+    {
+     "id": 767,
+     "number": 10,
+     "title": "DORA, Supervisory Convergence and the Regulatory Horizon"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 262,
+   "entryType": "programme",
+   "title": "Fund Regulation Country Briefings",
+   "summary": "Eleven country webinar briefings on fund vehicles, regulators, authorisation, distribution and recent developments in leading European, offshore and Asia Pacific fund markets.",
+   "level": "Intermediate",
+   "moduleCount": 11,
+   "hours": 11,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 271,
+   "entryType": "programme",
+   "title": "International Fund Regulation: Global and Regional Briefings",
+   "summary": "A ten-module webinar series mapping international, EU and Asia Pacific fund regulation and how cross-border fund distribution, management and investment are regulated.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 10,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

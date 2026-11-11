@@ -1,0 +1,161 @@
+{
+ "id": 1219,
+ "entryType": "module",
+ "title": "Consultation and Stakeholder Engagement",
+ "summary": "How to design and run a consultation that improves rule quality and legitimacy, hears from less-resourced stakeholders, and responds to feedback transparently.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Policy-Making & Rule-Making",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "consultation-and-stakeholder-engagement",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Policy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to design and run a consultation that improves rule quality and legitimacy, hears from less-resourced stakeholders, and responds to feedback transparently.",
+  "Learning Objectives": [
+   "Design a consultation document, questions and timeline",
+   "Plan stakeholder engagement beyond the largest industry voices",
+   "Analyse responses and draft a transparent feedback statement"
+  ],
+  "Syllabus": [
+   "Statutory and voluntary consultation requirements",
+   "Consultation questions: open, closed and avoiding leading questions",
+   "Engagement channels: written responses, roundtables, targeted outreach",
+   "Analysing responses and handling contentious or high-volume feedback"
+  ],
+  "Intended Audience": [
+   "Policy and rule-making staff developing rules, guidance and policy positions",
+   "Legal advisers and drafters working on secondary rules and supervisory guidance",
+   "Supervisors and economists who contribute evidence, impact analysis or consultation input"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of policy, legal or supervisory work is helpful. No formal legal or economics training is required.",
+  "Core Reading": [
+   "OECD, Recommendation of the Council on Regulatory Policy and Governance (2012)",
+   "OECD, Best Practice Principles for Regulatory Policy: Regulatory Impact Assessment (2020)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 292,
+   "module": 4,
+   "title": "Policy-Making and Rule-Making",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1216,
+     "number": 1,
+     "title": "The Policy Cycle and Rule-Making Powers"
+    },
+    {
+     "id": 1217,
+     "number": 2,
+     "title": "Problem Definition and Options Analysis"
+    },
+    {
+     "id": 1218,
+     "number": 3,
+     "title": "Cost-Benefit Analysis and Proportionality"
+    },
+    {
+     "id": 1219,
+     "number": 4,
+     "title": "Consultation and Stakeholder Engagement"
+    },
+    {
+     "id": 1220,
+     "number": 5,
+     "title": "Drafting Clear and Enforceable Rules"
+    },
+    {
+     "id": 1221,
+     "number": 6,
+     "title": "From International Standard to Domestic Rule"
+    },
+    {
+     "id": 1222,
+     "number": 7,
+     "title": "Policy for Innovation: Sandboxes and Innovation Hubs"
+    },
+    {
+     "id": 1223,
+     "number": 8,
+     "title": "Post-Implementation Review and Policy Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 219,
+   "entryType": "programme",
+   "title": "Crisis Management and Resolution",
+   "summary": "A ten-module programme preparing supervisors for firm and system-wide stress, from early intervention and recovery and resolution planning to crisis communication and a live simulation.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

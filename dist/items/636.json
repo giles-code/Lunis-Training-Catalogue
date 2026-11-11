@@ -1,0 +1,186 @@
+{
+ "id": 636,
+ "entryType": "module",
+ "title": "Authorising Crypto-Asset Service Providers",
+ "summary": "A proportionate, risk-based framework for assessing applications from crypto-asset service providers, testing substance, governance, group dependencies and operations before authorisation is granted.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Digital Assets & Blockchain",
+ "tags": [
+  "Crypto & digital assets"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 4,
+ "durationUnit": "hours",
+ "role": [
+  "Authorisation & licensing",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "authorising-crypto-asset-service-providers",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "A proportionate, risk-based framework for assessing applications from crypto-asset service providers, testing substance, governance, group dependencies and operations before authorisation is granted.",
+  "Learning Objectives": [
+   "Operate an authorisation gateway with clear quality thresholds and early challenge",
+   "Assess application dossiers systematically, from programme of operations to ICT security",
+   "Evaluate substance, group dependencies and conflicts to prevent letter-box authorisations"
+  ],
+  "Syllabus": [
+   "Completeness, quality thresholds and risk-based prioritisation of applications",
+   "Programme of operations, business plans, management and shareholder suitability",
+   "Group structures, intragroup outsourcing and local substance",
+   "Regulatory history, customer journeys and exposure to unregulated or DeFi services"
+  ],
+  "Intended Audience": [
+   "Supervisors and authorisation staff responsible for crypto-asset service providers and stablecoin issuers",
+   "Risk, prudential, enforcement and financial crime specialists covering digital finance",
+   "Senior managers responsible for the authority's crypto-asset supervisory strategy"
+  ],
+  "Useful Prior Knowledge and Experience": "Completion of Crypto and Blockchain Fundamentals, or equivalent experience of crypto-asset markets, is helpful. Some experience of authorisation, supervision or enforcement work is recommended but not mandatory.",
+  "Core Reading": [
+   "FSB, High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-Asset Activities and Markets (2023)",
+   "FSB, High-level Recommendations for the Regulation, Supervision and Oversight of Global Stablecoin Arrangements (2023)",
+   "IOSCO, Policy Recommendations for Crypto and Digital Asset Markets (2023)",
+   "FATF, Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (2021)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 226,
+   "module": 6,
+   "title": "Crypto-Asset Regulation and Supervision",
+   "moduleCount": 12,
+   "durationValue": 48,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 631,
+     "number": 1,
+     "title": "The Crypto-Asset Ecosystem for Supervisors"
+    },
+    {
+     "id": 632,
+     "number": 2,
+     "title": "International Standards and Comprehensive Crypto-Asset Regimes"
+    },
+    {
+     "id": 633,
+     "number": 3,
+     "title": "Business Models of Crypto-Asset Service Providers"
+    },
+    {
+     "id": 634,
+     "number": 4,
+     "title": "Governance, Risk Management and Internal Controls"
+    },
+    {
+     "id": 635,
+     "number": 5,
+     "title": "Prudential Risk, Financial Resources and Sustainability"
+    },
+    {
+     "id": 636,
+     "number": 6,
+     "title": "Authorising Crypto-Asset Service Providers"
+    },
+    {
+     "id": 637,
+     "number": 7,
+     "title": "Risk-Based Supervision in Practice"
+    },
+    {
+     "id": 638,
+     "number": 8,
+     "title": "Custody, Safeguarding and Operational Resilience"
+    },
+    {
+     "id": 639,
+     "number": 9,
+     "title": "Preventing Crypto Market Abuse"
+    },
+    {
+     "id": 640,
+     "number": 10,
+     "title": "AML/CFT, the Travel Rule and Sanctions"
+    },
+    {
+     "id": 641,
+     "number": 11,
+     "title": "Stablecoins and Systemic Risk"
+    },
+    {
+     "id": 642,
+     "number": 12,
+     "title": "Cross-Border Cooperation, Enforcement and Crisis Management"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 221,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals",
+   "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 233,
+   "entryType": "programme",
+   "title": "Digital Money: Stablecoins, Tokenised Deposits and CBDCs",
+   "summary": "A ten-module programme equipping supervisors and central bankers to assess stablecoins, tokenised deposits and CBDCs, and their risks to payments and financial stability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 282,
+   "entryType": "programme",
+   "title": "MiCA Essentials for Supervisors (EU Edition)",
+   "summary": "A six-module essentials programme giving EU national competent authority staff a practical command of MiCA, from token regimes and CASP authorisation to supervision and enforcement.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "id": 113,
+ "entryType": "module",
+ "title": "Legal Drafting for Regulators",
+ "summary": "The aim of this workshop is to build core legal drafting skills for producing rules and guidance that are clear, internally consistent, and enforceable in practice.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Policy-Making & Rule-Making",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "legal-drafting-for-regulators",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Policy"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build core legal drafting skills for producing rules and guidance that are clear, internally consistent, and enforceable in practice.",
+  "Intended Audience": "Junior to mid-level policy officers drafting or contributing to rules, guidance, and consultation papers.",
+  "Learning Objectives": [
+   "Explain the core principles of legislative and regulatory drafting",
+   "Apply techniques for consistent use of defined terms",
+   "Identify and resolve internal inconsistencies within a draft",
+   "Draft provisions that are enforceable and testable in practice",
+   "Evaluate a draft rule for statutory interpretation risk"
+  ],
+  "Syllabus": [
+   "Precision, clarity and consistency as drafting objectives",
+   "Structuring rules logically: definitions, obligations, exceptions",
+   "Common statutory interpretation principles courts apply",
+   "Drafting for different legal traditions",
+   "Facilitated discussion: drafting challenges participants have faced",
+   "Creating and using a defined terms schedule",
+   "Common consistency failures across long documents",
+   "Cross-referencing and version control in drafting",
+   "Techniques for reviewing a draft for internal consistency",
+   "Exercise: identify and correct inconsistent term usage in a sample draft rule",
+   "Drafting obligations that are testable and enforceable",
+   "Avoiding vague standards that invite litigation",
+   "Case study: a provision successfully challenged due to drafting ambiguity",
+   "Case study: redraft a vulnerable provision to reduce interpretation risk",
+   "Recap: principles, consistency, enforceability",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Principles of legal drafting (09:30–10:45)\n- Session 2: Defined terms and consistency (11:00–12:30)\n- Session 3: Enforceability and interpretation risk (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Precise, consistent defined terms are the foundation of enforceable regulatory drafting\n- Ambiguous standards create litigation risk that undermines a rule's practical effect\n- Reviewing a draft specifically for interpretation risk catches problems before they reach a court",
+  "Useful Prior Knowledge and Experience": "Some familiarity with policy-making & rule-making is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 292,
+   "entryType": "programme",
+   "title": "Policy-Making and Rule-Making",
+   "summary": "An eight-module programme covering the full policy cycle, from problem definition and cost-benefit analysis to drafting, standards implementation and post-implementation review.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

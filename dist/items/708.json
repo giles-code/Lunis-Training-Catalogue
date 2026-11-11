@@ -1,0 +1,181 @@
+{
+ "id": 708,
+ "entryType": "module",
+ "title": "ICT Third-Party Risk and the Register of Information",
+ "summary": "Managing ICT third-party risk across the contract lifecycle, the mandatory contractual provisions, concentration and exit, and the register of information as both a compliance tool and a supervisory dataset.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes",
+  "payments": "Sector Programmes",
+  "crypto": "Sector Programmes",
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Cybersecurity & Operational Resilience",
+ "tags": [
+  "Operational resilience & cyber",
+  "EU"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Policy & specialist teams",
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "ict-third-party-risk-and-the-register-of-information",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Managing ICT third-party risk across the contract lifecycle, the mandatory contractual provisions, concentration and exit, and the register of information as both a compliance tool and a supervisory dataset.",
+  "Learning Objectives": [
+   "Apply DORA's principles for ICT third-party risk and the third-party risk strategy",
+   "Assess contracts against the key provisions, especially for critical or important functions",
+   "Maintain and use the register of information, including subcontracting chains"
+  ],
+  "Syllabus": [
+   "Pre-contract due diligence, concentration risk and intragroup providers",
+   "Key contractual provisions, audit rights, termination and exit strategies",
+   "Register of information: structure, data quality and submission to authorities",
+   "Subcontracting of ICT services supporting critical or important functions"
+  ],
+  "Intended Audience": [
+   "Supervisors, inspectors and ICT risk specialists at national competent authorities",
+   "Information security, ICT risk, operational resilience, outsourcing and compliance staff at financial entities",
+   "Senior managers and management body members accountable for digital operational resilience"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of operational risk, ICT risk or its supervision is helpful. No technical cybersecurity background is required.",
+  "Core Reading": [
+   "Regulation (EU) 2022/2554 on digital operational resilience for the financial sector (DORA)",
+   "Directive (EU) 2022/2555 on measures for a high common level of cybersecurity across the Union (NIS2 Directive)",
+   "Basel Committee, Principles for Operational Resilience (2021)",
+   "FSB, Enhancing Third-Party Risk Management and Oversight: A Toolkit for Financial Institutions and Financial Authorities (2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 234,
+   "module": 6,
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 703,
+     "number": 1,
+     "title": "DORA Foundations: Scope, Proportionality and Architecture"
+    },
+    {
+     "id": 704,
+     "number": 2,
+     "title": "Management Body Accountability and ICT Governance"
+    },
+    {
+     "id": 705,
+     "number": 3,
+     "title": "The ICT Risk Management Framework"
+    },
+    {
+     "id": 706,
+     "number": 4,
+     "title": "ICT Incident Classification and Reporting"
+    },
+    {
+     "id": 707,
+     "number": 5,
+     "title": "Digital Operational Resilience Testing and TLPT"
+    },
+    {
+     "id": 708,
+     "number": 6,
+     "title": "ICT Third-Party Risk and the Register of Information"
+    },
+    {
+     "id": 709,
+     "number": 7,
+     "title": "Oversight of Critical ICT Third-Party Providers"
+    },
+    {
+     "id": 710,
+     "number": 8,
+     "title": "Supervision, Information Sharing and Enforcement"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 325,
+   "entryType": "programme",
+   "title": "The EU AI Act and Financial Services (EU Edition)",
+   "summary": "An eight-module programme on the EU AI Act for supervisors and financial firms: risk classification, high-risk credit and insurance uses, provider and deployer duties, supervision and compliance programmes.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 241,
+   "entryType": "programme",
+   "title": "EU Payments Regulation: PSD2, PSD3 and the Payment Services Regulation (EU Edition)",
+   "summary": "An eight-module programme on EU payments regulation for supervisors and firms, covering PSD2 and EMD2 today and the PSD3 and Payment Services Regulation reform package.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

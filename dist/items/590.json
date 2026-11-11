@@ -1,0 +1,176 @@
+{
+ "id": 590,
+ "entryType": "module",
+ "title": "Tokenisation",
+ "summary": "How traditional financial assets are represented on distributed ledgers, the legal, operational and technological considerations involved, and the supervisory challenges as market structure evolves.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Digital Assets & Blockchain",
+ "tags": [
+  "Crypto & digital assets"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 4,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "New joiners & developing staff"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "tokenisation",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How traditional financial assets are represented on distributed ledgers, the legal, operational and technological considerations involved, and the supervisory challenges as market structure evolves.",
+  "Learning Objectives": [
+   "Explain the main tokenisation models",
+   "Analyse tokenised asset and fund structures",
+   "Evaluate the legal and operational risks of tokenisation"
+  ],
+  "Syllabus": [
+   "Tokenising real-world assets: equities, bonds and funds",
+   "Smart contracts governing asset behaviour and transfer restrictions",
+   "Claimed benefits: efficiency, transparency and liquidity",
+   "Legal enforceability, settlement finality and custody risks"
+  ],
+  "Intended Audience": [
+   "Supervisors and authorisation staff responsible for, or moving into, oversight of virtual asset service providers",
+   "Risk, policy, legal and financial crime specialists working on digital finance",
+   "Senior managers shaping the authority's approach to crypto-assets and digital finance"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of financial supervision, authorisation or financial crime work is helpful. No technical background in blockchain or crypto-assets is required.",
+  "Core Reading": [
+   "FSB, High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-Asset Activities and Markets (2023)",
+   "IOSCO, Policy Recommendations for Crypto and Digital Asset Markets (2023)",
+   "FATF, Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (2021)",
+   "Basel Committee, Prudential Treatment of Cryptoasset Exposures (2022)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 221,
+   "module": 5,
+   "title": "Crypto and Blockchain Fundamentals",
+   "moduleCount": 10,
+   "durationValue": 40,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 586,
+     "number": 1,
+     "title": "Foundations of Blockchain Technology"
+    },
+    {
+     "id": 587,
+     "number": 2,
+     "title": "Crypto-Assets and Market Structure"
+    },
+    {
+     "id": 588,
+     "number": 3,
+     "title": "Wallets, Custody and Key Management"
+    },
+    {
+     "id": 589,
+     "number": 4,
+     "title": "Virtual Asset Service Providers"
+    },
+    {
+     "id": 590,
+     "number": 5,
+     "title": "Tokenisation"
+    },
+    {
+     "id": 591,
+     "number": 6,
+     "title": "Stablecoins and Unbacked Crypto-Assets"
+    },
+    {
+     "id": 592,
+     "number": 7,
+     "title": "DeFi and Emerging Financial Technologies"
+    },
+    {
+     "id": 593,
+     "number": 8,
+     "title": "Supervisory Risks in Crypto-Assets and Digital Finance"
+    },
+    {
+     "id": 594,
+     "number": 9,
+     "title": "Financial Crime and AML/CFT Risks"
+    },
+    {
+     "id": 595,
+     "number": 10,
+     "title": "Digital Finance Strategy and Policy"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 226,
+   "entryType": "programme",
+   "title": "Crypto-Asset Regulation and Supervision",
+   "summary": "An advanced twelve-module programme equipping supervisors to authorise, supervise and take action against crypto-asset firms under comprehensive regimes and international standards.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 48,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 233,
+   "entryType": "programme",
+   "title": "Digital Money: Stablecoins, Tokenised Deposits and CBDCs",
+   "summary": "A ten-module programme equipping supervisors and central bankers to assess stablecoins, tokenised deposits and CBDCs, and their risks to payments and financial stability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 282,
+   "entryType": "programme",
+   "title": "MiCA Essentials for Supervisors (EU Edition)",
+   "summary": "A six-module essentials programme giving EU national competent authority staff a practical command of MiCA, from token regimes and CASP authorisation to supervision and enforcement.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

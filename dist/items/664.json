@@ -1,0 +1,169 @@
+{
+ "id": 664,
+ "entryType": "module",
+ "title": "Legal Prerequisites, Foreign Access and Sequencing Reform",
+ "summary": "Brings the programme together by examining the legal and regulatory prerequisites for market development, the opening of markets to foreign investors and the realistic sequencing of reforms.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Public agencies & investment promotion",
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters"
+ ],
+ "firmType": [
+  "Market Infrastructure & Trading Venues",
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "legal-prerequisites-foreign-access-and-sequencing-reform",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Strategy",
+  "Policy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together by examining the legal and regulatory prerequisites for market development, the opening of markets to foreign investors and the realistic sequencing of reforms.",
+  "Learning Objectives": [
+   "Assess the legal and regulatory prerequisites against international standards",
+   "Evaluate the benefits and risks of foreign investor access and index inclusion",
+   "Produce a sequenced capital market reform plan"
+  ],
+  "Syllabus": [
+   "Securities law, insolvency, collateral and IOSCO principles",
+   "Capital account opening, foreign investor access and index inclusion",
+   "Sequencing reforms and avoiding common pitfalls",
+   "Workshop: a sequenced capital market development plan"
+  ],
+  "Intended Audience": [
+   "Officials in finance ministries, treasuries and debt management offices responsible for capital market development",
+   "Central bank and public agency staff working on market development, pensions and savings policy",
+   "Staff of investment promotion agencies and financial centre bodies seeking to attract issuers, investors and fund managers"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with financial markets or economic policy is helpful. No technical background in securities or fund regulation is required.",
+  "Core Reading": [
+   "IOSCO (2017), Objectives and Principles of Securities Regulation",
+   "CPMI and IOSCO (2012), Principles for Financial Market Infrastructures",
+   "World Bank and IMF (2001), Developing Government Bond Markets: A Handbook",
+   "OECD (2023), G20/OECD Principles of Corporate Governance",
+   "OECD (2016), OECD Core Principles of Private Pension Regulation"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 229,
+   "module": 8,
+   "title": "Developing Capital Markets and Investment Fund Industries",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 657,
+     "number": 1,
+     "title": "Capital Markets and Economic Development"
+    },
+    {
+     "id": 658,
+     "number": 2,
+     "title": "Diagnosing Market Gaps and Setting Strategy"
+    },
+    {
+     "id": 659,
+     "number": 3,
+     "title": "Government Bond Markets and the Yield Curve"
+    },
+    {
+     "id": 660,
+     "number": 4,
+     "title": "Market Infrastructure: Trading, Clearing and Settlement"
+    },
+    {
+     "id": 661,
+     "number": 5,
+     "title": "Broadening the Issuer Base: Equity and Corporate Bonds"
+    },
+    {
+     "id": 662,
+     "number": 6,
+     "title": "Building the Investor Base: Pensions and Institutional Investors"
+    },
+    {
+     "id": 663,
+     "number": 7,
+     "title": "Developing an Investment Fund Industry"
+    },
+    {
+     "id": 664,
+     "number": 8,
+     "title": "Legal Prerequisites, Foreign Access and Sequencing Reform"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 331,
+   "entryType": "programme",
+   "title": "Understanding Investment Funds for Policymakers",
+   "summary": "An eight-module programme giving policymakers a clear grounding in how investment funds work, how they are regulated and the policy choices they raise.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 198,
+   "entryType": "programme",
+   "title": "AI in Financial Services: Policy Choices for Government",
+   "summary": "An eight-module programme helping policymakers understand AI in financial services and make informed choices on regulation, institutional roles and national strategy.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

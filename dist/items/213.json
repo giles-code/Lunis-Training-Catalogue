@@ -1,0 +1,313 @@
+{
+ "id": 213,
+ "entryType": "programme",
+ "title": "Conduct, Ethics and Customer Outcomes",
+ "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Essentials for all staff"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 12,
+ "durationUnit": "hours",
+ "role": [
+  "All staff",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "conduct-ethics-and-customer-outcomes-for-all-staff",
+ "moduleCount": 8,
+ "hoursPerModule": 1.5,
+ "intro": "This training programme equips all staff in a regulated firm to make sound ethical judgements, deliver good outcomes for customers, manage conflicts of interest and speak up when something does not look right.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Conduct & Culture / HR",
+  "Consumer Protection"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give staff at every level a practical understanding of what good conduct looks like in their own role and why it matters to customers, colleagues and the firm. Participants leave able to recognise ethical dilemmas, put customers' interests first and raise concerns with confidence.",
+  "What It Covers": "Culture and ethics, ethical decision-making, conflicts of interest, treating customers fairly and good outcomes, clear communication, customers in vulnerable circumstances, complaints, and speaking up, whistleblowing and personal accountability.",
+  "Intended Audience": [
+   "All staff in regulated firms, from new joiners to experienced colleagues, as induction or annual refresher training",
+   "Customer-facing, product, marketing, operations, technology and support staff whose work affects customer outcomes",
+   "Team leaders and managers who set the tone for conduct and respond when concerns are raised"
+  ],
+  "Learning Objectives": [
+   "Explain what good conduct and a healthy culture look like in a regulated firm",
+   "Apply ethical judgement to everyday dilemmas and grey areas",
+   "Identify and manage conflicts of interest in their own work",
+   "Deliver fair treatment and good outcomes for customers, including those in vulnerable circumstances",
+   "Recognise, handle and learn from complaints",
+   "Speak up, escalate concerns and take personal accountability for their own conduct"
+  ],
+  "Structure and Format": "Eight modules of about ninety minutes each, delivered in person, virtually or in a hybrid format, either as a two-day programme or as a series of short live sessions, and well suited to conversion into e-learning. Modules combine short briefings with real-world examples and scenario questions, work well as annual refresher training, and can be selected or tailored to the firm's policies and business.",
+  "Useful Prior Knowledge and Experience": "No prior knowledge of regulation is required. Some experience of working with customers is helpful but not essential.",
+  "Core Reading": [
+   "FSB (2018), Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors",
+   "G20/OECD (2022), High-Level Principles on Financial Consumer Protection",
+   "FSB (2014), Guidance on Supervisory Interaction with Financial Institutions on Risk Culture: A Framework for Assessing Risk Culture",
+   "ISO (2021), ISO 37002:2021 Whistleblowing Management Systems – Guidelines"
+  ]
+ },
+ "modules": [
+  {
+   "id": 519,
+   "number": 1,
+   "title": "Culture, Ethics and Why Conduct Matters",
+   "summary": "What culture and conduct mean in a regulated firm, why supervisors care about them, and how everyday behaviour shapes outcomes for customers and markets.",
+   "objectives": [
+    "Explain the link between culture, conduct and customer and market outcomes",
+    "Recognise the signs of healthy and unhealthy cultures",
+    "Describe what supervisors and customers expect of firms and their staff"
+   ],
+   "syllabus": [
+    "Conduct risk in plain terms: how harm happens",
+    "Culture: tone from the top, the middle and within teams",
+    "Lessons from major conduct failures across the industry",
+    "Seeing your firm the way a supervisor does"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 520,
+   "number": 2,
+   "title": "Ethical Decision-Making in Practice",
+   "summary": "Practical tools for working through ethical dilemmas and grey areas, including the pressures, incentives and biases that lead good people to make poor decisions.",
+   "objectives": [
+    "Apply a simple ethical decision-making framework to workplace dilemmas",
+    "Recognise how targets, incentives and pressure can distort judgement",
+    "Distinguish what is permitted from what is right"
+   ],
+   "syllabus": [
+    "Ethical tests: fairness, transparency and the headline test",
+    "Pressure, incentives and rationalisation",
+    "Behavioural biases: groupthink, deference and normalisation of deviance",
+    "Dilemma exercise: when the rules do not give a clear answer"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 521,
+   "number": 3,
+   "title": "Conflicts of Interest in Everyday Work",
+   "summary": "How conflicts of interest arise between the firm, its staff and its customers, and the practical steps staff take to identify, record and manage them.",
+   "objectives": [
+    "Identify actual, potential and perceived conflicts of interest",
+    "Apply the firm's conflicts policy, including disclosure and recording",
+    "Escalate conflicts that cannot be managed at team level"
+   ],
+   "syllabus": [
+    "Types of conflict: firm and customer, customer and customer, staff and firm",
+    "Remuneration, sales incentives and targets",
+    "Personal relationships, outside interests and misuse of position",
+    "Managing conflicts: avoidance, controls, disclosure and the conflicts register"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 522,
+   "number": 4,
+   "title": "Treating Customers Fairly and Delivering Good Outcomes",
+   "summary": "What fair treatment and good customer outcomes mean in practice across products, pricing, service and support, and how each role contributes to them.",
+   "objectives": [
+    "Explain the principles of fair treatment and good customer outcomes",
+    "Recognise products, practices and sales behaviours that cause foreseeable harm",
+    "Describe how the firm monitors and evidences customer outcomes"
+   ],
+   "syllabus": [
+    "Acting in good faith and avoiding foreseeable harm",
+    "Products that meet customers' needs and offer fair value",
+    "Customer support, unreasonable friction and sludge practices",
+    "Outcome testing, management information and what good looks like"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 523,
+   "number": 5,
+   "title": "Clear Communication and Customer Understanding",
+   "summary": "How to communicate with customers fairly, clearly and without misleading them, so that they understand what they are buying and can make informed decisions.",
+   "objectives": [
+    "Apply the fair, clear and not misleading standard to written, verbal and digital communications",
+    "Recognise misleading framing, omissions and pressure selling",
+    "Check customer understanding at key points in the customer journey"
+   ],
+   "syllabus": [
+    "Fair, clear and not misleading in practice",
+    "Risk warnings, fees and charges: balance and prominence",
+    "Digital journeys, choice architecture and dark patterns",
+    "Testing and evidencing customer understanding"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 524,
+   "number": 6,
+   "title": "Customers in Vulnerable Circumstances",
+   "summary": "How to recognise customers who may be in vulnerable circumstances, respond with care and flexibility, and record and share information appropriately.",
+   "objectives": [
+    "Recognise the drivers and signs of vulnerability",
+    "Respond to vulnerable customers with appropriate support and adjustments",
+    "Record and share information sensitively and in line with data protection rules"
+   ],
+   "syllabus": [
+    "Drivers of vulnerability: health, life events, resilience and capability",
+    "Spotting signs in conversations, behaviour and account activity",
+    "Practical adjustments, third-party support and powers of attorney",
+    "Financial abuse, scams and when to escalate"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 525,
+   "number": 7,
+   "title": "Complaints: Listening, Resolving and Learning",
+   "summary": "How to recognise a complaint, handle it fairly and promptly, and use complaints as insight into customer harm and its root causes.",
+   "objectives": [
+    "Recognise expressions of dissatisfaction that amount to a complaint",
+    "Handle complaints fairly, promptly and with empathy",
+    "Explain how root cause analysis turns complaints into improvements"
+   ],
+   "syllabus": [
+    "What counts as a complaint, however and wherever it is expressed",
+    "Handling and resolving complaints: timeliness, fairness and redress",
+    "Referral to the external dispute resolution body",
+    "Root cause analysis and learning from complaints"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 526,
+   "number": 8,
+   "title": "Speaking Up, Whistleblowing and Personal Accountability",
+   "summary": "Why speaking up protects customers, colleagues and the firm, the channels and protections available, and the conduct standards each individual is accountable for, closing with practical scenarios.",
+   "objectives": [
+    "Explain the conduct standards and personal accountability that apply to all staff",
+    "Use internal and external channels for raising concerns, including whistleblowing",
+    "Apply the programme to realistic workplace dilemmas"
+   ],
+   "syllabus": [
+    "Individual conduct standards, fitness and propriety and the consequences of misconduct",
+    "Psychological safety and the cost of silence",
+    "Whistleblowing channels, confidentiality and protection from detriment",
+    "Workshop: what would you do? Conduct and customer dilemmas"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 281,
+   "entryType": "programme",
+   "title": "Market Conduct Essentials: Inside Information, Conflicts and Personal Dealing",
+   "summary": "A six-module foundation programme helping all staff handle inside information, personal dealing, gifts and communications correctly and avoid market abuse.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 300,
+   "entryType": "programme",
+   "title": "Regulatory Essentials for All Staff",
+   "summary": "An eight-module foundation programme giving all staff a practical understanding of regulation, conduct, financial crime awareness and their own responsibilities.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 228,
+   "entryType": "programme",
+   "title": "Cyber, Data and Resilience Essentials",
+   "summary": "A six-module foundation programme giving all staff the practical habits to resist cyber attacks, protect data, use AI tools safely and report incidents.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 244,
+   "entryType": "programme",
+   "title": "Financial Crime Essentials for All Staff",
+   "summary": "An eight-module foundation programme helping all staff recognise financial crime red flags, follow the firm's controls and report suspicions without tipping off.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 319,
+   "entryType": "programme",
+   "title": "Sustainable Finance Essentials",
+   "summary": "A six-module foundation programme giving all staff a practical grounding in ESG, climate risk, sustainable products and avoiding greenwashing.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

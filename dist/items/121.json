@@ -1,0 +1,189 @@
+{
+ "id": 121,
+ "entryType": "module",
+ "title": "Market Abuse Detection & Surveillance",
+ "summary": "The aim of this workshop is to build participants' understanding of how market abuse is detected through surveillance systems, and how supervisors assess the adequacy of firms' own surveillance and monitoring capability.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Reducing Financial Crime & Delivering Market Integrity",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "market-abuse-detection-and-surveillance",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how market abuse is detected through surveillance systems, and how supervisors assess the adequacy of firms' own surveillance and monitoring capability.",
+  "Intended Audience": "Mid-level supervisory and financial crime specialist staff assessing firms' financial crime controls.",
+  "Learning Objectives": [
+   "Explain the main categories of market abuse",
+   "Describe how trade surveillance systems detect suspicious trading patterns",
+   "Assess cross-market and cross-asset surveillance challenges",
+   "Evaluate the adequacy of a firm's surveillance framework",
+   "Formulate a supervisory assessment of a market abuse case"
+  ],
+  "Syllabus": [
+   "Insider dealing, market manipulation, and unlawful disclosure",
+   "Evolving typologies: spoofing, layering, cross-market manipulation",
+   "Why market abuse undermines market integrity and confidence",
+   "The supervisor's role in market surveillance",
+   "Facilitated discussion: market abuse cases participants are aware of",
+   "How trade surveillance systems detect suspicious patterns",
+   "Alert generation, tuning, and false-positive management",
+   "Cross-market and cross-asset surveillance challenges",
+   "Data and technology requirements for effective surveillance",
+   "Group exercise: review sample surveillance alerts and assess plausibility of abuse",
+   "Criteria for assessing a firm's surveillance framework adequacy",
+   "Case study: a suspected market abuse case",
+   "Case study: formulate a supervisory assessment of a market abuse case",
+   "Recap: abuse categories, surveillance systems, framework assessment",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Categories of market abuse (09:30–10:45)\n- Session 2: Trade surveillance systems (11:00–12:30)\n- Session 3: Evaluating frameworks and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Market abuse typologies continue to evolve, particularly around cross-market and algorithmic manipulation\n- Effective surveillance requires both good technology and skilled analysts to interpret alerts\n- Supervisors should assess a firm's surveillance framework as rigorously as its other control functions",
+  "Useful Prior Knowledge and Experience": "Some familiarity with reducing financial crime & delivering market integrity is helpful but not essential.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "FATF, Guidance on Risk-Based Supervision (2021)",
+   "FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)",
+   "FATF, Guidance on Digital Identity (2020)"
+  ]
+ },
+ "inherited": [
+  "Core Reading",
+  "level"
+ ],
+ "partOf": [
+  {
+   "programme": 247,
+   "module": 9,
+   "title": "Financial Crime Supervision in the Age of AI",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 818,
+     "number": 1,
+     "title": "The AML/CFT Framework and Risk-Based Supervision"
+    },
+    {
+     "id": 819,
+     "number": 2,
+     "title": "ML/TF Typologies and Red Flags"
+    },
+    {
+     "id": 820,
+     "number": 3,
+     "title": "Supervising AML/CFT Controls in Practice"
+    },
+    {
+     "id": 821,
+     "number": 4,
+     "title": "AI and Machine Learning in Transaction Monitoring"
+    },
+    {
+     "id": 170,
+     "number": 5,
+     "title": "Supervising AI-Driven Financial Crime Systems"
+    },
+    {
+     "id": 10,
+     "number": 6,
+     "title": "AI, Sanctions Screening & Adverse Media Monitoring"
+    },
+    {
+     "id": 86,
+     "number": 7,
+     "title": "Fraud Detection & Behavioural Analytics"
+    },
+    {
+     "id": 822,
+     "number": 8,
+     "title": "Generative AI and Emerging Financial Crime Typologies"
+    },
+    {
+     "id": 121,
+     "number": 9,
+     "title": "Market Abuse Detection & Surveillance"
+    },
+    {
+     "id": 823,
+     "number": 10,
+     "title": "Bias, Accountability and the Authority's Own SupTech"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 225,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 245,
+   "entryType": "programme",
+   "title": "Financial Crime Foundations for Regulatory Staff",
+   "summary": "An eight-module foundation programme giving regulatory staff a grounding in AML/CFT, sanctions and fraud, firms' controls and financial crime red flags.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 326,
+   "entryType": "programme",
+   "title": "The EU AML Package: AMLR, AMLD6 and AMLA (EU Edition)",
+   "summary": "An eight-module programme on the EU AML package for supervisors and firms: the AML Regulation single rulebook, AMLD6, AMLA's supervisory model, crypto-asset transfers and transition planning.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "id": 567,
+ "entryType": "module",
+ "title": "Risk Governance Panel Role Play and Delivering the Outcome",
+ "summary": "Groups take turns presenting their full risk assessment and sitting as the panel, then practise explaining the outcome to the firm's board, drawing together all three days.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Ongoing Supervision",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "risk-governance-panel-role-play-and-delivering-the-outcome",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Groups take turns presenting their full risk assessment and sitting as the panel, then practise explaining the outcome to the firm's board, drawing together all three days.",
+  "Learning Objectives": [
+   "Present a supervisory assessment concisely and seek the panel's advice",
+   "Give and respond to constructive, evidence-based challenge",
+   "Communicate ratings and required actions clearly to a firm's board"
+  ],
+  "Syllabus": [
+   "Mock panels: chair, members, secretary and presenting team roles",
+   "Good challenge, fair concession and pushing back on the panel",
+   "Minutes, agreed actions and comparison with a model letter",
+   "Workshop: delivering the risk assessment letter to the board"
+  ],
+  "Intended Audience": [
+   "Line supervisors and supervisory analysts who carry out firm risk assessments and on-site visits",
+   "Senior supervisors and team leaders who present to, chair or sit on risk governance and thematic review panels",
+   "Specialists from risk, financial crime and policy teams who contribute to firm assessments and panels"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of supervising regulated firms is helpful. No specialist financial or interviewing background is required.",
+  "Core Reading": [
+   "IMF, Good Supervision: Lessons from the Field (Working Paper WP/23/181, 2023)",
+   "IMF, The Making of Good Supervision: Learning to Say \"No\" (Staff Position Note SPN/10/08, 2010)",
+   "Basel Committee, Corporate Governance Principles for Banks (2015)",
+   "Rebecca Milne and Ray Bull, Investigative Interviewing: Psychology and Practice (1999)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 218,
+   "module": 9,
+   "title": "Core Supervisory Skills: Business Models, Governance and Risk Governance Panels",
+   "moduleCount": 9,
+   "durationValue": 18,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 560,
+     "number": 1,
+     "title": "Strategy, Business Models and Why Supervisors Analyse Them"
+    },
+    {
+     "id": 561,
+     "number": 2,
+     "title": "Analysing the Business: Environment, Financials and Dependencies"
+    },
+    {
+     "id": 562,
+     "number": 3,
+     "title": "Case Study: Scoring the Business Model and Meeting the Management"
+    },
+    {
+     "id": 563,
+     "number": 4,
+     "title": "Assessing Governance Risk"
+    },
+    {
+     "id": 564,
+     "number": 5,
+     "title": "Supervisory Interviews: Planning, Questioning and Evidence"
+    },
+    {
+     "id": 565,
+     "number": 6,
+     "title": "Mock Interviews: The On-Site Visit"
+    },
+    {
+     "id": 155,
+     "number": 7,
+     "title": "Risk Governance & Thematic Review Panels"
+    },
+    {
+     "id": 566,
+     "number": 8,
+     "title": "Preparing the Panel Paper and Risk Mitigation Programme"
+    },
+    {
+     "id": 567,
+     "number": 9,
+     "title": "Risk Governance Panel Role Play and Delivering the Outcome"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 267,
+   "entryType": "programme",
+   "title": "How Financial Firms Work: Business Models and Financial Statements for Supervisors",
+   "summary": "An eight-module programme helping supervisors understand how financial firms make money, read their accounts and identify capital, liquidity and business model risks.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 310,
+   "entryType": "programme",
+   "title": "Supervising Compliance in Practice: Masterclass Series",
+   "summary": "Ten half-day masterclasses showing supervisors how to test whether firms' compliance arrangements work in practice across core compliance areas.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 35,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

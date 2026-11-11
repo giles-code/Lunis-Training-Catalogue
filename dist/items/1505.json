@@ -1,0 +1,185 @@
+{
+ "id": 1505,
+ "entryType": "module",
+ "title": "Crypto-Asset Service Providers and the Transfer of Funds Rules",
+ "summary": "How the package brings crypto-asset service providers fully into the AML/CFT framework, and how the Transfer of Funds Regulation applies the travel rule to crypto-asset transfers, including those involving self-hosted wallets.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto",
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3",
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy",
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Reducing Financial Crime & Delivering Market Integrity",
+ "tags": [
+  "Financial crime",
+  "EU"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams",
+  "Supervisors & inspectors",
+  "Control function holders",
+  "FIU analysts",
+  "Financial investigators & police"
+ ],
+ "firmType": [],
+ "slug": "crypto-asset-service-providers-and-the-transfer-of-funds-rules",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How the package brings crypto-asset service providers fully into the AML/CFT framework, and how the Transfer of Funds Regulation applies the travel rule to crypto-asset transfers, including those involving self-hosted wallets.",
+  "Learning Objectives": [
+   "Explain the AML/CFT obligations on crypto-asset service providers and the link to MiCA authorisation",
+   "Apply the travel rule to crypto-asset transfers, including missing or incomplete information",
+   "Assess controls for self-hosted wallets, third-country counterparties and high-risk exposures"
+  ],
+  "Syllabus": [
+   "Crypto-asset service providers as obliged entities under the AML Regulation and MiCA",
+   "Originator and beneficiary information for transfers of funds and crypto-assets",
+   "Self-hosted wallet transfers and verification of ownership or control",
+   "Correspondent relationships with third-country providers and blockchain analytics"
+  ],
+  "Intended Audience": [
+   "AML/CFT supervisors, inspectors and policy staff at national competent authorities and self-regulatory bodies",
+   "MLROs, compliance officers, financial crime risk and legal staff at credit institutions, financial institutions and crypto-asset service providers",
+   "Senior managers and management body members accountable for the AML/CFT framework and transition planning"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of AML/CFT compliance or supervision is helpful. No legal background or prior knowledge of EU law is required.",
+  "Core Reading": [
+   "Regulation (EU) 2024/1624 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing (AML Regulation)",
+   "Directive (EU) 2024/1640 on the mechanisms to be put in place by Member States for the prevention of the use of the financial system for the purposes of money laundering or terrorist financing (AMLD6)",
+   "Regulation (EU) 2024/1620 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism (AMLA Regulation)",
+   "Regulation (EU) 2023/1113 on information accompanying transfers of funds and certain crypto-assets (Transfer of Funds Regulation)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 326,
+   "module": 4,
+   "title": "The EU AML Package: AMLR, AMLD6 and AMLA (EU Edition)",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1502,
+     "number": 1,
+     "title": "The EU AML Package: Architecture and Objectives"
+    },
+    {
+     "id": 1503,
+     "number": 2,
+     "title": "The Single Rulebook: Scope, Policies and Internal Controls"
+    },
+    {
+     "id": 1504,
+     "number": 3,
+     "title": "Customer Due Diligence and Beneficial Ownership"
+    },
+    {
+     "id": 1505,
+     "number": 4,
+     "title": "Crypto-Asset Service Providers and the Transfer of Funds Rules"
+    },
+    {
+     "id": 1506,
+     "number": 5,
+     "title": "AMLD6: National Supervisors, FIUs and Central Registers"
+    },
+    {
+     "id": 1507,
+     "number": 6,
+     "title": "AMLA: Direct Supervision, Indirect Oversight and Methodology"
+    },
+    {
+     "id": 1508,
+     "number": 7,
+     "title": "Supervisory Colleges, Cooperation and Sanctions Interplay"
+    },
+    {
+     "id": 1509,
+     "number": 8,
+     "title": "Preparing Firms and Supervisors for the New Regime"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 224,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Tracing and Controls for Compliance Teams",
+   "summary": "A nine-module programme equipping compliance teams to detect crypto-asset financial crime, use blockchain analytics, meet travel rule and sanctions obligations, and investigate and report suspicion.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 225,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 243,
+   "entryType": "programme",
+   "title": "Financial Crime Compliance in the Age of AI",
+   "summary": "A ten-module programme for MLROs and financial crime teams on the risk-based approach, AI-driven detection, AI-enabled threats and evidencing effectiveness to supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

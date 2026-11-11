@@ -1,0 +1,180 @@
+{
+ "id": 902,
+ "entryType": "module",
+ "title": "Data, Analytics and FIU Effectiveness: Workshop",
+ "summary": "Brings the programme together by examining data and analytics tools and performance measurement, ending with a case workshop that runs the full intelligence cycle.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Intelligence & Law Enforcement",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "FIU analysts",
+  "Financial investigators & police"
+ ],
+ "firmType": [],
+ "slug": "data-analytics-and-fiu-effectiveness-workshop",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Data & Supervisory Analytics"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together by examining data and analytics tools and performance measurement, ending with a case workshop that runs the full intelligence cycle.",
+  "Learning Objectives": [
+   "Assess how data platforms and analytics can strengthen FIU work",
+   "Define meaningful measures of FIU performance and impact",
+   "Apply the full intelligence cycle to a realistic case"
+  ],
+  "Syllabus": [
+   "Data platforms, data matching, network analytics and machine learning",
+   "Responsible and explainable use of advanced analytics",
+   "Performance measures: outputs, outcomes and effectiveness",
+   "Workshop: from report intake to dissemination"
+  ],
+  "Intended Audience": [
+   "Operational and strategic analysts in financial intelligence units",
+   "FIU heads of analysis, team leaders and staff managing intake, dissemination and international cooperation",
+   "Investigators and liaison officers who request, receive or rely on FIU intelligence"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of financial intelligence, investigation or AML/CFT work is helpful. No specialist analytical or data science background is required.",
+  "Core Reading": [
+   "FATF (2012, as updated), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations",
+   "Egmont Group (2013), Principles for Information Exchange Between Financial Intelligence Units",
+   "Egmont Group (2013, as updated), Operational Guidance for FIU Activities and the Exchange of Information",
+   "FATF (2013, as updated), Methodology for Assessing Technical Compliance with the FATF Recommendations and the Effectiveness of AML/CFT Systems"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 256,
+   "module": 10,
+   "title": "FIU Operational and Strategic Analysis",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 893,
+     "number": 1,
+     "title": "The FIU: Mandate, Models and International Standards"
+    },
+    {
+     "id": 894,
+     "number": 2,
+     "title": "Receiving and Prioritising Suspicious Transaction Reports"
+    },
+    {
+     "id": 895,
+     "number": 3,
+     "title": "Information Sources and Access"
+    },
+    {
+     "id": 896,
+     "number": 4,
+     "title": "Operational Analysis: Techniques and Tradecraft"
+    },
+    {
+     "id": 897,
+     "number": 5,
+     "title": "Operational Analysis in Practice: Common Case Types"
+    },
+    {
+     "id": 898,
+     "number": 6,
+     "title": "Strategic Analysis, Typologies and Risk Assessment"
+    },
+    {
+     "id": 899,
+     "number": 7,
+     "title": "Dissemination and Use of Financial Intelligence"
+    },
+    {
+     "id": 900,
+     "number": 8,
+     "title": "Feedback, Outreach and Reporting Entities"
+    },
+    {
+     "id": 901,
+     "number": 9,
+     "title": "International Cooperation and the Egmont Group"
+    },
+    {
+     "id": 902,
+     "number": 10,
+     "title": "Data, Analytics and FIU Effectiveness: Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 258,
+   "entryType": "programme",
+   "title": "Fraud and Cyber-Enabled Financial Crime Investigations",
+   "summary": "An eight-module programme equipping investigators and FIU analysts to tackle fraud, money mules and ransomware proceeds, working with banks and payment firms to recover funds.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

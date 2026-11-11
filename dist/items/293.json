@@ -1,0 +1,301 @@
+{
+ "id": 293,
+ "entryType": "programme",
+ "title": "Private Markets and Private Credit for Managers",
+ "summary": "An eight-module advanced programme giving private markets managers and service providers the tools to manage valuation, leverage, liquidity and conflicts risks and meet supervisory expectations.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes"
+ },
+ "topic": "Sector Programmes",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "private-markets-and-private-credit-for-managers",
+ "moduleCount": 8,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips private markets managers and their service providers to manage the structural, valuation, leverage, liquidity and conflicts risks of private equity, private credit and semi-liquid funds, and to meet rising supervisory expectations.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Risk Management",
+  "Compliance"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give managers and service providers in private markets an advanced, practical understanding of where risk and conflicts concentrate as the asset class grows and opens to wider investors. Participants leave able to strengthen valuation, liquidity, leverage and conflicts controls, and see their business the way a supervisor does.",
+  "What It Covers": "Private markets structures and strategies, fund finance and leverage including subscription lines and NAV facilities, valuation, liquidity in semi-liquid and evergreen vehicles, conflicts in continuation vehicles and co-investment, fees, disclosure and investor reporting, retail access and distribution, and risk management and supervisory focus.",
+  "Intended Audience": [
+   "Senior managers, investment professionals and partners at private equity, private credit and real assets managers",
+   "Compliance, risk, valuation, finance and investor relations teams at private markets managers",
+   "Fund administrators, depositaries, auditors, lenders and distributors servicing private markets funds"
+  ],
+  "Learning Objectives": [
+   "Explain how private markets structures and strategies create distinct risks for managers and investors",
+   "Evaluate the use of fund finance and leverage at fund and portfolio level",
+   "Design robust valuation governance for illiquid and stressed assets",
+   "Apply liquidity management to semi-liquid and evergreen vehicles",
+   "Manage conflicts, fees and disclosure in line with investor and supervisory expectations",
+   "Strengthen risk management, retail distribution controls and readiness for supervisory scrutiny"
+  ],
+  "Structure and Format": "Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Modules combine short briefings with case studies, valuation and liquidity exercises and practical templates, and can be selected or tailored to the firm's strategies and investor base.",
+  "Useful Prior Knowledge and Experience": "Experience of private markets, fund management or fund servicing is helpful. No prior knowledge of specific fund rules is required.",
+  "Core Reading": [
+   "IOSCO, Thematic Analysis: Emerging Risks in Private Finance (2023)",
+   "IOSCO, Principles for the Valuation of Collective Investment Schemes (2013)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)",
+   "FSB, Global Monitoring Report on Non-Bank Financial Intermediation (annual)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1224,
+   "number": 1,
+   "title": "Private Markets Structures and Strategies",
+   "summary": "The main private markets strategies and fund structures, how their economics work, and why growth and wider investor access are drawing supervisory attention.",
+   "objectives": [
+    "Distinguish private equity, private credit, real assets and secondaries strategies",
+    "Explain closed-ended, evergreen and semi-liquid fund structures",
+    "Identify the risks that arise from the private markets business model"
+   ],
+   "syllabus": [
+    "Buyout, growth, direct lending, asset-based finance, infrastructure and real estate",
+    "Limited partnerships, feeders, parallel funds and evergreen vehicles",
+    "Capital calls, distributions, waterfalls and carried interest",
+    "Links between private markets, banks, insurers and pension funds"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1225,
+   "number": 2,
+   "title": "Fund Finance and Leverage",
+   "summary": "How subscription lines, NAV facilities and portfolio-level leverage are used, their effect on returns and risk, and the controls and disclosures they require.",
+   "objectives": [
+    "Explain how subscription lines and NAV facilities work",
+    "Assess the effect of fund finance on performance metrics and investor risk",
+    "Design leverage limits, monitoring and disclosure"
+   ],
+   "syllabus": [
+    "Subscription lines: uses, terms and effect on internal rates of return",
+    "NAV facilities, hybrid facilities and distributions funded by borrowing",
+    "Portfolio company leverage, payment-in-kind interest and covenant erosion",
+    "Leverage measurement, limits and investor disclosure"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1226,
+   "number": 3,
+   "title": "Valuation of Private Assets",
+   "summary": "How private equity, private credit and real assets are valued, how valuation governance provides independence and challenge, and how uncertainty is handled under stress.",
+   "objectives": [
+    "Apply market, income and cost approaches to private assets",
+    "Design valuation governance with functional independence and challenge",
+    "Address valuation uncertainty for stressed and amended positions"
+   ],
+   "syllabus": [
+    "Valuation approaches, inputs and the use of comparables",
+    "Valuation policies, committees, independent valuers and audit",
+    "Stressed loans, amendments, extensions and valuation lag",
+    "Case study: challenging a private credit portfolio valuation"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1227,
+   "number": 4,
+   "title": "Liquidity in Semi-Liquid and Evergreen Vehicles",
+   "summary": "How semi-liquid and evergreen funds offer periodic liquidity on illiquid assets, the mismatch risks this creates, and the tools and stress testing needed to manage them.",
+   "objectives": [
+    "Assess liquidity mismatch between assets, redemption terms and investor base",
+    "Design liquidity buffers, redemption limits and liquidity management tools",
+    "Stress test liquidity under adverse market and redemption scenarios"
+   ],
+   "syllabus": [
+    "Redemption frequency, notice periods, gates and lock-ups",
+    "Liquidity sleeves, credit facilities and secondary sales",
+    "Liquidity stress testing and early warning indicators",
+    "Fair treatment of redeeming and remaining investors"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1228,
+   "number": 5,
+   "title": "Conflicts: Continuation Vehicles and Co-Investment",
+   "summary": "Where conflicts concentrate in private markets, including continuation vehicles, co-investment and cross-fund transactions, and how to identify, manage and evidence fair treatment.",
+   "objectives": [
+    "Identify conflicts in manager-led secondaries and cross-fund transactions",
+    "Design fair co-investment and deal allocation policies",
+    "Use fairness opinions, advisory committees and disclosure effectively"
+   ],
+   "syllabus": [
+    "Continuation vehicles: pricing, process and investor elections",
+    "Co-investment rights, allocation policies and preferential terms",
+    "Cross-fund transactions, related-party services and affiliated lenders",
+    "Advisory committees, consents and conflicts registers"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1229,
+   "number": 6,
+   "title": "Fees, Expenses, Disclosure and Investor Reporting",
+   "summary": "How fees and expenses are charged and allocated across funds and portfolio companies, and how to report performance, costs and risks transparently to investors.",
+   "objectives": [
+    "Explain management fees, carried interest, offsets and portfolio-level fees",
+    "Allocate expenses fairly across funds, co-investors and the manager",
+    "Produce clear and comparable investor reporting on performance and costs"
+   ],
+   "syllabus": [
+    "Fee structures, offsets, monitoring fees and fund expenses",
+    "Expense allocation and broken-deal costs",
+    "Performance measures: IRR, multiples and the effect of fund finance",
+    "Quarterly reporting, capital account statements and side letter transparency"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1230,
+   "number": 7,
+   "title": "Retail Access and Distribution",
+   "summary": "How private markets are being opened to wealth and retail investors through new vehicles and channels, and the product governance and disclosure controls this demands.",
+   "objectives": [
+    "Assess the risks of offering private markets to wealth and retail investors",
+    "Design target market, suitability and distribution controls",
+    "Disclose fees, liquidity limits and valuation uncertainty clearly"
+   ],
+   "syllabus": [
+    "Wealth platforms, feeder funds, retirement savings and tokenised access",
+    "Product governance, target market and investor eligibility",
+    "Distributor oversight, marketing communications and investor understanding",
+    "Lessons from redemption pressure in semi-liquid funds"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1231,
+   "number": 8,
+   "title": "Risk Management and Supervisory Focus",
+   "summary": "Brings the programme together around an integrated risk management framework, the issues supervisors are prioritising in private markets, and a practical readiness plan.",
+   "objectives": [
+    "Build an integrated risk framework for credit, leverage, liquidity and operational risk",
+    "Anticipate supervisory priorities and international standard-setter work on private finance",
+    "Produce a supervisory readiness action plan"
+   ],
+   "syllabus": [
+    "Independent risk function, risk appetite and portfolio monitoring",
+    "Operational and third-party risk in fund administration and servicing",
+    "IOSCO and FSB work on private finance and non-bank leverage",
+    "Workshop: seeing the private markets business the way a supervisor does"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 261,
+   "entryType": "programme",
+   "title": "Fund Governance and Compliance for Managers and Service Providers",
+   "summary": "A ten-module programme giving fund managers and service providers the practical tools to meet fund rules and supervisory expectations across the fund lifecycle.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 262,
+   "entryType": "programme",
+   "title": "Fund Regulation Country Briefings",
+   "summary": "Eleven country webinar briefings on fund vehicles, regulators, authorisation, distribution and recent developments in leading European, offshore and Asia Pacific fund markets.",
+   "level": "Intermediate",
+   "moduleCount": 11,
+   "hours": 11,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 271,
+   "entryType": "programme",
+   "title": "International Fund Regulation: Global and Regional Briefings",
+   "summary": "A ten-module webinar series mapping international, EU and Asia Pacific fund regulation and how cross-border fund distribution, management and investment are regulated.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 10,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 272,
+   "entryType": "programme",
+   "title": "Introduction to Investment Funds: From Launch to Wind-Down",
+   "summary": "A fourteen-module foundation programme taking new funds professionals and supervisors through every stage of an investment fund, from structure and regulation to operations and wind-down.",
+   "level": "Foundation",
+   "moduleCount": 14,
+   "hours": 42,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

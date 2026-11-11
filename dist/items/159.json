@@ -1,0 +1,115 @@
+{
+ "id": 159,
+ "entryType": "module",
+ "title": "Sanctions Compliance Supervision",
+ "summary": "The aim of this workshop is to build participants' skills in supervising firms' sanctions compliance frameworks, including screening obligations and assessment of control effectiveness.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Reducing Financial Crime & Delivering Market Integrity",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "sanctions-compliance-supervision",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in supervising firms' sanctions compliance frameworks, including screening obligations and assessment of control effectiveness.",
+  "Intended Audience": "Mid-level supervisory and financial crime specialist staff assessing firms' financial crime controls.",
+  "Learning Objectives": [
+   "Explain the sanctions regimes relevant to supervised firms",
+   "Describe screening obligations under applicable sanctions regimes",
+   "Assess the effectiveness of a firm's sanctions control framework",
+   "Evaluate a firm's response to a potential sanctions breach",
+   "Formulate a supervisory assessment of sanctions compliance"
+  ],
+  "Syllabus": [
+   "Overview of relevant sanctions regimes (UN, regional, domestic and extraterritorial)",
+   "Screening obligations: customers, transactions, counterparties",
+   "Extraterritorial reach of certain sanctions regimes",
+   "Interaction between sanctions and AML/CFT frameworks",
+   "Facilitated discussion: sanctions compliance challenges from participants' jurisdictions",
+   "Elements of an effective sanctions control framework",
+   "Screening calibration and list maintenance",
+   "Common control weaknesses in sanctions compliance",
+   "Assessing governance and escalation for sanctions hits",
+   "Group exercise: assess a sample sanctions control framework",
+   "Assessing a firm's response to a potential sanctions breach",
+   "Reporting obligations following a breach",
+   "Case study: a potential sanctions breach scenario",
+   "Case study: evaluate a firm's breach response and formulate a supervisory assessment",
+   "Recap: regimes, screening, control effectiveness, breach response",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Sanctions regimes and screening obligations (09:30–10:45)\n- Session 2: Assessing control effectiveness (11:00–12:30)\n- Session 3: Breach response and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Sanctions compliance requires attention to multiple overlapping regimes, some with extraterritorial reach\n- Screening calibration and list maintenance are common sources of control failure\n- How a firm responds to a potential breach is often as revealing as the breach itself",
+  "Useful Prior Knowledge and Experience": "Some familiarity with reducing financial crime & delivering market integrity is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 225,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 245,
+   "entryType": "programme",
+   "title": "Financial Crime Foundations for Regulatory Staff",
+   "summary": "An eight-module foundation programme giving regulatory staff a grounding in AML/CFT, sanctions and fraud, firms' controls and financial crime red flags.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 247,
+   "entryType": "programme",
+   "title": "Financial Crime Supervision in the Age of AI",
+   "summary": "A ten-module programme equipping supervisors to assess financial crime controls and firms' use of AI in monitoring, screening, fraud and surveillance.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

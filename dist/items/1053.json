@@ -1,0 +1,163 @@
+{
+ "id": 1053,
+ "entryType": "module",
+ "title": "From Interview to Finding: Role-Play Workshop",
+ "summary": "Brings the programme together in a full simulated interview based on a case study, followed by evaluation of the evidence and drafting of supervisory conclusions and next steps.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "Supervisory Judgement & Professional Practice",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Enforcement & investigations",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "from-interview-to-finding-role-play-workshop",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Authorisations"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together in a full simulated interview based on a case study, followed by evaluation of the evidence and drafting of supervisory conclusions and next steps.",
+  "Learning Objectives": [
+   "Conduct a complete interview using the techniques covered in the programme",
+   "Evaluate interview evidence alongside documents and data",
+   "Draw supervisory conclusions and link them to proportionate action"
+  ],
+  "Syllabus": [
+   "Evaluating the interview: what was established and what remains open",
+   "Weighing interview evidence with documentary and data evidence",
+   "From evidence to finding, follow-up request or escalation",
+   "Workshop: role-play interview, debrief and draft findings"
+  ],
+  "Intended Audience": [
+   "Supervisors and inspectors who conduct on-site visits, thematic reviews and governance assessments",
+   "Staff assessing fitness and propriety of directors and senior managers, including authorisation teams",
+   "Team leaders who plan inspections and review interview evidence before findings are issued"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of on-site inspections or firm engagement is helpful. No prior interview training is required.",
+  "Core Reading": [
+   "Rebecca Milne and Ray Bull, Investigative Interviewing: Psychology and Practice (1999)",
+   "IMF, The Making of Good Supervision: Learning to Say \"No\" (Staff Position Note SPN/10/08, 2010)",
+   "Daniel Kahneman, Thinking, Fast and Slow (2011)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 273,
+   "module": 8,
+   "title": "Investigative and Interviewing Skills for Supervisors",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1046,
+     "number": 1,
+     "title": "The Supervisory Interview: Purpose and Mindset"
+    },
+    {
+     "id": 1047,
+     "number": 2,
+     "title": "Planning and Preparing the Interview"
+    },
+    {
+     "id": 1048,
+     "number": 3,
+     "title": "Questioning Techniques: Open, Probing and Funnel"
+    },
+    {
+     "id": 1049,
+     "number": 4,
+     "title": "Active Listening, Credibility and Reading Evasion"
+    },
+    {
+     "id": 1050,
+     "number": 5,
+     "title": "Document-Based Questioning and Recording Evidence"
+    },
+    {
+     "id": 1051,
+     "number": 6,
+     "title": "Interviewing Boards, Senior Managers and Control Functions"
+    },
+    {
+     "id": 1052,
+     "number": 7,
+     "title": "Managing Difficult Interviews"
+    },
+    {
+     "id": 1053,
+     "number": 8,
+     "title": "From Interview to Finding: Role-Play Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 314,
+   "entryType": "programme",
+   "title": "Supervisory Judgement and Professional Practice",
+   "summary": "A ten-module programme on forming, documenting and defending supervisory judgements, and turning them into clear findings, letters and interventions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 217,
+   "entryType": "programme",
+   "title": "Core Professional Skills for Regulatory Staff",
+   "summary": "An eight-module practical programme building the core writing, analysis, meeting, challenge, presentation and data skills that regulatory staff need every day.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

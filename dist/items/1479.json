@@ -1,0 +1,181 @@
+{
+ "id": 1479,
+ "entryType": "module",
+ "title": "Terrorist Financing Typologies and Red Flags",
+ "summary": "How terrorist organisations, small cells and lone actors raise, move and store funds, and the indicators that may appear in customer behaviour, payments and investment activity.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "terrorist-financing-typologies-and-red-flags",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How terrorist organisations, small cells and lone actors raise, move and store funds, and the indicators that may appear in customer behaviour, payments and investment activity.",
+  "Learning Objectives": [
+   "Identify the principal sources and channels of terrorist funding",
+   "Recognise terrorist financing indicators in the firm's own data",
+   "Distinguish genuine indicators from profiling and unwarranted de-risking"
+  ],
+  "Syllabus": [
+   "Self-funding, personal credit, crime and abuse of donations",
+   "Crowdfunding, online payments, prepaid products and crypto-assets",
+   "Indicators in payments, investment accounts and onboarding",
+   "Avoiding profiling: indicators, context and proportionate response"
+  ],
+  "Intended Audience": [
+   "MLROs, compliance officers and financial crime analysts in investment, fund, payment, crypto-asset and fintech firms",
+   "Sanctions and screening teams responsible for customer, investor and payment screening",
+   "Senior managers and risk owners for products, corridors or customer segments with terrorist or proliferation financing exposure"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of AML/CFT compliance or sanctions screening is helpful. No prior specialist knowledge of terrorist or proliferation financing is required.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "FATF, Terrorist Financing Risk Assessment Guidance (2019)",
+   "FATF, Guidance on Proliferation Financing Risk Assessment and Mitigation (2021)",
+   "FATF, Best Practices on Combating the Abuse of Non-Profit Organisations (2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 323,
+   "module": 3,
+   "title": "Terrorist and Proliferation Financing Controls for Firms",
+   "moduleCount": 9,
+   "durationValue": 27,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1477,
+     "number": 1,
+     "title": "Terrorist and Proliferation Financing: Why They Differ"
+    },
+    {
+     "id": 1478,
+     "number": 2,
+     "title": "Assessing the Firm's Terrorist and Proliferation Financing Risk"
+    },
+    {
+     "id": 1479,
+     "number": 3,
+     "title": "Terrorist Financing Typologies and Red Flags"
+    },
+    {
+     "id": 1480,
+     "number": 4,
+     "title": "Non-Profit Organisations and Humanitarian Payments"
+    },
+    {
+     "id": 1481,
+     "number": 5,
+     "title": "Proliferation Financing Networks and Dual-Use Goods Red Flags"
+    },
+    {
+     "id": 1482,
+     "number": 6,
+     "title": "Screening and Targeted Financial Sanctions"
+    },
+    {
+     "id": 1483,
+     "number": 7,
+     "title": "Monitoring, Investigation and Urgent Reporting"
+    },
+    {
+     "id": 1484,
+     "number": 8,
+     "title": "Governance, Training and Assurance"
+    },
+    {
+     "id": 1485,
+     "number": 9,
+     "title": "Case Workshop: Detecting and Responding"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 211,
+   "entryType": "programme",
+   "title": "Compliance Officer Academy",
+   "summary": "A ten-module academy giving compliance officers the tools to run an independent, risk-based compliance function and handle supervisory engagement with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 269,
+   "entryType": "programme",
+   "title": "Internal Audit in Regulated Firms",
+   "summary": "An eight-module programme giving internal auditors the tools to deliver risk-based assurance over the regulatory risks that matter most to boards and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 270,
+   "entryType": "programme",
+   "title": "Internal Investigations and Interviewing Skills",
+   "summary": "A nine-module programme giving control functions a structured method to investigate misconduct, whistleblowing reports and breaches, interview witnesses and subjects, and report findings.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

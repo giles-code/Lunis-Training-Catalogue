@@ -1,0 +1,183 @@
+{
+ "id": 145,
+ "entryType": "module",
+ "title": "Procedural Fairness in Enforcement Decisions",
+ "summary": "The aim of this workshop is to build participants' understanding of the principles of procedural fairness that must be applied in enforcement decision-making, including the right to make representations and managing conflicts of interest.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Enforcement & Sanctions",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Enforcement & investigations"
+ ],
+ "firmType": [],
+ "slug": "procedural-fairness-in-enforcement-decisions",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Enforcement"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of the principles of procedural fairness that must be applied in enforcement decision-making, including the right to make representations and managing conflicts of interest.",
+  "Intended Audience": "Junior to mid-level enforcement investigators and case officers.",
+  "Learning Objectives": [
+   "Explain the principles of natural justice as applied to enforcement",
+   "Describe the right to make representations and how it is given effect",
+   "Identify and manage conflicts of interest in enforcement decision-making",
+   "Assess whether a decision-making process meets procedural fairness standards",
+   "Formulate a fair process design for a sample enforcement case"
+  ],
+  "Syllabus": [
+   "The two pillars of natural justice: right to be heard, freedom from bias",
+   "How natural justice applies specifically to enforcement decisions",
+   "Consequences of procedural unfairness for enforcement outcomes",
+   "International and domestic case law touchpoints",
+   "Facilitated discussion: procedural fairness challenges participants have encountered",
+   "Giving effect to the right to make representations",
+   "Timelines and format for representations",
+   "Identifying conflicts of interest in the decision-making chain",
+   "Structural separation between investigation and decision functions",
+   "Group exercise: identify conflicts of interest in a sample decision-making structure",
+   "Criteria for assessing procedural fairness of a process",
+   "Designing a fair process from the outset rather than retrofitting",
+   "Case study: a decision challenged on procedural fairness grounds",
+   "Case study: design a procedurally fair decision-making process for a sample case",
+   "Recap: natural justice, representations, conflicts of interest",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Principles of natural justice (09:30–10:45)\n- Session 2: Representations and conflicts of interest (11:00–12:30)\n- Session 3: Assessing and designing fair process (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Procedural fairness is not a technicality — unfair process can invalidate an otherwise justified enforcement outcome\n- Structural separation between investigation and decision-making is one of the strongest safeguards against bias\n- Building fairness into a process design from the outset is far more effective than correcting it after challenge",
+  "Useful Prior Knowledge and Experience": "Some familiarity with enforcement & sanctions is helpful but not essential.",
+  "Core Reading": [
+   "IOSCO, Credible Deterrence in the Enforcement of Securities Regulation (2015)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "IOSCO, Multilateral Memorandum of Understanding (MMoU) and Enhanced MMoU (2016)"
+  ]
+ },
+ "inherited": [
+  "Core Reading",
+  "level"
+ ],
+ "partOf": [
+  {
+   "programme": 238,
+   "module": 7,
+   "title": "Enforcement and Sanctions",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 740,
+     "number": 1,
+     "title": "The Enforcement Function and Its Powers"
+    },
+    {
+     "id": 741,
+     "number": 2,
+     "title": "Deciding to Investigate: Referral and Case Triage"
+    },
+    {
+     "id": 742,
+     "number": 3,
+     "title": "Planning and Managing an Investigation"
+    },
+    {
+     "id": 743,
+     "number": 4,
+     "title": "Evidential Standards and Disclosure"
+    },
+    {
+     "id": 744,
+     "number": 5,
+     "title": "Gathering and Preserving Evidence"
+    },
+    {
+     "id": 745,
+     "number": 6,
+     "title": "Investigative Interviews and Witness Statements"
+    },
+    {
+     "id": 145,
+     "number": 7,
+     "title": "Procedural Fairness in Enforcement Decisions"
+    },
+    {
+     "id": 57,
+     "number": 8,
+     "title": "Determining Proportionate Sanctions"
+    },
+    {
+     "id": 746,
+     "number": 9,
+     "title": "Settlement and Negotiated Outcomes"
+    },
+    {
+     "id": 747,
+     "number": 10,
+     "title": "Cooperation, Litigation and Seeing a Case Through"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 219,
+   "entryType": "programme",
+   "title": "Crisis Management and Resolution",
+   "summary": "A ten-module programme preparing supervisors for firm and system-wide stress, from early intervention and recovery and resolution planning to crisis communication and a live simulation.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

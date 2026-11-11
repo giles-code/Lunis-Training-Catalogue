@@ -1,0 +1,186 @@
+{
+ "id": 1173,
+ "entryType": "module",
+ "title": "Evidencing Resilience and Capstone Workshop",
+ "summary": "Brings the programme together into a self-assessment and evidence pack that shows the board and supervisors the firm can remain within tolerance, with a final action-planning workshop.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "Operational resilience & cyber"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "evidencing-resilience-and-capstone-workshop",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together into a self-assessment and evidence pack that shows the board and supervisors the firm can remain within tolerance, with a final action-planning workshop.",
+  "Learning Objectives": [
+   "Produce a resilience self-assessment the board can approve and challenge",
+   "Evidence resilience to supervisors through documents, testing and management information",
+   "Produce a prioritised action plan for the firm's resilience"
+  ],
+  "Syllabus": [
+   "The self-assessment document and board sign-off",
+   "Resilience management information and board reporting",
+   "Seeing the firm's resilience the way a supervisor does",
+   "Workshop: the firm's twelve-month resilience action plan"
+  ],
+  "Intended Audience": [
+   "Operational resilience, business continuity and operational risk professionals",
+   "Chief information officers, information security and ICT risk staff",
+   "Business service owners, outsourcing managers and senior managers accountable for resilience"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of operational risk, business continuity or technology in a regulated firm is helpful. No technical cyber security background is required.",
+  "Core Reading": [
+   "Basel Committee, Principles for Operational Resilience (2021)",
+   "Basel Committee, Revisions to the Principles for the Sound Management of Operational Risk (2021)",
+   "FSB, Enhancing Third-Party Risk Management and Oversight: A Toolkit for Financial Institutions and Financial Authorities (2023)",
+   "ISO 22301:2019, Security and Resilience – Business Continuity Management Systems"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 286,
+   "module": 10,
+   "title": "Operational Resilience and Cyber Risk for Firms",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1164,
+     "number": 1,
+     "title": "Foundations of Operational Resilience"
+    },
+    {
+     "id": 1165,
+     "number": 2,
+     "title": "Identifying Important Business Services"
+    },
+    {
+     "id": 1166,
+     "number": 3,
+     "title": "Mapping Dependencies"
+    },
+    {
+     "id": 1167,
+     "number": 4,
+     "title": "Impact Tolerances and Scenario Testing"
+    },
+    {
+     "id": 1168,
+     "number": 5,
+     "title": "ICT Risk Management Frameworks"
+    },
+    {
+     "id": 1169,
+     "number": 6,
+     "title": "Cyber Risk and Threat-Led Testing"
+    },
+    {
+     "id": 1170,
+     "number": 7,
+     "title": "Incident Management and Reporting"
+    },
+    {
+     "id": 1171,
+     "number": 8,
+     "title": "Third-Party and Critical Provider Risk"
+    },
+    {
+     "id": 1172,
+     "number": 9,
+     "title": "Response and Recovery"
+    },
+    {
+     "id": 1173,
+     "number": 10,
+     "title": "Evidencing Resilience and Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 298,
+   "entryType": "programme",
+   "title": "Quantum and Cryptographic Resilience for Firms",
+   "summary": "An eight-module programme helping firms understand the quantum threat, build a cryptographic inventory, plan post-quantum migration and report readiness to the board and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 192,
+   "entryType": "programme",
+   "title": "Agentic AI and Autonomous Finance for Firms",
+   "summary": "An eight-module programme helping firms deploy AI agents that act and transact with sound authority, controls, governance and customer protection.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 196,
+   "entryType": "programme",
+   "title": "AI Governance for Firms",
+   "summary": "A ten-module programme giving compliance, risk, model risk and technology staff the tools to design, run and evidence robust AI governance across the firm.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

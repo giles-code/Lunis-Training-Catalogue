@@ -1,0 +1,319 @@
+{
+ "id": 280,
+ "entryType": "programme",
+ "title": "Management and Leadership for Supervisors",
+ "summary": "A ten-module programme giving new and developing managers in supervisory authorities the practical skills to lead teams and make sound decisions.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "Management & Leadership Fundamentals",
+ "tags": [
+  "Leadership & strategy"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "management-and-leadership-for-supervisors",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisors moving into management, and managers in supervisory authorities, with the practical skills to lead teams, manage performance, communicate with influence and make sound decisions under pressure.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Capability & Capacity Building",
+  "Supervision"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give new and developing managers in supervisory authorities the practical management and leadership skills that technical expertise alone does not provide. Participants leave able to delegate and manage performance, build and coach high-performing teams, influence senior stakeholders, lead change and sustain their own and their team's resilience.",
+  "What It Covers": "The move from supervisor to manager, delegation and performance management, building high-performing teams, coaching and feedback, influencing and stakeholder communication, presenting to senior management, managing change, wellbeing and resilience, decision-making under pressure, and leading the supervisory team.",
+  "Intended Audience": [
+   "Supervisors newly promoted, or preparing for promotion, into team leader and manager roles",
+   "Managers and heads of department in supervisory authorities seeking to strengthen their leadership",
+   "Technical specialists who lead projects, thematic reviews or cross-functional teams"
+  ],
+  "Learning Objectives": [
+   "Explain how the role changes from expert supervisor to manager and leader",
+   "Apply delegation, prioritisation and performance management techniques",
+   "Build team trust and capability through coaching and constructive feedback",
+   "Influence and communicate with senior management and external stakeholders",
+   "Lead teams through change while protecting wellbeing and resilience",
+   "Make and communicate sound decisions under pressure and agree a personal leadership plan"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions spread over several months. Modules combine short briefings with case studies, self-assessment and skills practice, and can be selected or tailored to the authority's leadership framework.",
+  "Useful Prior Knowledge and Experience": "Some experience in a supervisory or technical role is helpful. No prior management training is required.",
+  "Core Reading": [
+   "Amy C. Edmondson, The Fearless Organization: Creating Psychological Safety in the Workplace (2018)",
+   "Patrick Lencioni, The Five Dysfunctions of a Team (2002)",
+   "IMF, The Making of Good Supervision: Learning to Say \"No\" (Staff Position Note SPN/10/08, 2010)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1114,
+   "number": 1,
+   "title": "From Supervisor to Manager",
+   "summary": "The shift from being the technical expert to achieving results through others, the new expectations of a manager, and how to establish credibility with former peers.",
+   "objectives": [
+    "Explain how the manager role differs from the expert supervisor role",
+    "Assess personal strengths and development needs as a manager",
+    "Establish credibility and clear expectations with a new team"
+   ],
+   "syllabus": [
+    "From doing to enabling: what changes on promotion",
+    "Management versus leadership in a supervisory authority",
+    "Managing former peers and setting expectations",
+    "Self-assessment: management style and development priorities"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1115,
+   "number": 2,
+   "title": "Delegation, Prioritisation and Managing Performance",
+   "summary": "How to prioritise competing supervisory demands, delegate with clarity and accountability, set objectives and manage performance, including underperformance.",
+   "objectives": [
+    "Apply prioritisation techniques to competing team demands",
+    "Delegate work with clear outcomes, authority and checkpoints",
+    "Manage performance and address underperformance fairly and early"
+   ],
+   "syllabus": [
+    "Prioritisation tools for a risk-based supervisory workload",
+    "Effective delegation: what, to whom and how much",
+    "Setting objectives and holding performance conversations",
+    "Handling underperformance and difficult people issues"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1116,
+   "number": 3,
+   "title": "Building High-Performing Teams",
+   "summary": "The behavioural foundations of high-performing teams: trust, psychological safety, constructive conflict and shared ownership, and the routines that sustain them.",
+   "objectives": [
+    "Explain the conditions that enable teams to perform well",
+    "Use cognitive diversity and constructive conflict to improve decisions",
+    "Design team routines that build cohesion and shared ownership"
+   ],
+   "syllabus": [
+    "Trust and psychological safety in supervisory teams",
+    "Constructive conflict and collaborative decision-making",
+    "Team structures, roles and routines",
+    "Building a team charter"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1117,
+   "number": 4,
+   "title": "Coaching, Feedback and Developing Others",
+   "summary": "How to use coaching conversations and timely, specific feedback to develop supervisors' judgement and capability, and to build a strong feedback culture in the team.",
+   "objectives": [
+    "Apply a structured coaching model in everyday management",
+    "Give feedback that is specific, balanced and actionable",
+    "Plan the development of team members' supervisory skills"
+   ],
+   "syllabus": [
+    "Coaching models and powerful questions",
+    "Giving and receiving feedback, including upward feedback",
+    "Developing judgement: reviewing work without rewriting it",
+    "Skills practice: a coaching conversation"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1118,
+   "number": 5,
+   "title": "Influencing and Stakeholder Communication",
+   "summary": "How to map stakeholders inside and outside the authority, adapt communication style, negotiate and persuade with structured reasoning, and build productive working relationships.",
+   "objectives": [
+    "Map and prioritise internal and external stakeholders",
+    "Adapt communication and influencing style to the audience",
+    "Apply structured reasoning to negotiate and persuade"
+   ],
+   "syllabus": [
+    "Stakeholder mapping: colleagues, senior management, firms and peer authorities",
+    "Influencing without authority",
+    "Negotiation and persuasion using structured reasoning",
+    "Communicating with emotional intelligence"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1119,
+   "number": 6,
+   "title": "Presenting to Senior Management",
+   "summary": "How to prepare papers and presentations for senior management and decision-making committees that lead with the message, frame the decision and handle questions with confidence.",
+   "objectives": [
+    "Structure a paper or presentation around the decision required",
+    "Deliver key messages with clarity, brevity and confidence",
+    "Handle challenging questions from senior decision-makers"
+   ],
+   "syllabus": [
+    "Writing for decision: the one-page summary and recommendation",
+    "Structuring a presentation: message first, evidence second",
+    "Presence, delivery and managing nerves",
+    "Skills practice: a short briefing to a senior panel"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1120,
+   "number": 7,
+   "title": "Managing Change",
+   "summary": "How to lead a team through organisational change, new supervisory approaches or technology, understand reactions to change and keep the team focused and engaged.",
+   "objectives": [
+    "Explain how people respond to change and why change initiatives fail",
+    "Communicate the case for change and involve the team",
+    "Plan and sustain the implementation of change in the team"
+   ],
+   "syllabus": [
+    "Why change happens in supervisory authorities",
+    "Reactions to change and managing resistance",
+    "Communicating and involving the team in change",
+    "Embedding change: quick wins, feedback and follow-through"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1121,
+   "number": 8,
+   "title": "Wellbeing, Resilience and Sustainable Performance",
+   "summary": "The particular pressures of supervisory work, including high-profile casework and public scrutiny, and how managers protect their own and their team's wellbeing and resilience.",
+   "objectives": [
+    "Explain the specific pressures of supervisory roles",
+    "Recognise early warning signs of stress and burnout in self and others",
+    "Apply practical techniques to build personal and team resilience"
+   ],
+   "syllabus": [
+    "Sources of pressure: workload, scrutiny and high-profile cases",
+    "Warning signs and when to intervene or seek support",
+    "Workload design and the manager's role in wellbeing",
+    "A personal and team resilience plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1122,
+   "number": 9,
+   "title": "Decision-Making Under Pressure",
+   "summary": "How managers make and communicate sound decisions when time is short and information incomplete, recognise bias in themselves and the team, and own the outcome.",
+   "objectives": [
+    "Apply structured decision-making techniques under time pressure",
+    "Recognise individual and group biases in management decisions",
+    "Communicate decisions and their rationale clearly to the team"
+   ],
+   "syllabus": [
+    "Process-based thinking and structured decision-making",
+    "Bias, groupthink and stress effects on judgement",
+    "Deciding with incomplete information: options, trade-offs and reversibility",
+    "Simulation: a time-pressured supervisory management decision"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1123,
+   "number": 10,
+   "title": "Leading the Supervisory Team: Capstone Workshop",
+   "summary": "Brings the programme together into a personal leadership plan, covering leadership style, accountability, setting direction for the team and continuing development.",
+   "objectives": [
+    "Articulate a clear direction and purpose for the team",
+    "Reflect on leadership style, accountability and emotional intelligence",
+    "Produce a personal leadership development plan"
+   ],
+   "syllabus": [
+    "Setting direction: linking team goals to the authority's objectives",
+    "Leading with accountability and integrity",
+    "Continuing development: mentoring, coaching and peer learning",
+    "Workshop: the twelve-month personal leadership plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 302,
+   "entryType": "programme",
+   "title": "Regulatory Leadership and Strategy",
+   "summary": "An eight-module programme for the authority's leaders on mandate, governance, independence, risk appetite, growth objectives, effectiveness and leading change.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 200,
+   "entryType": "programme",
+   "title": "Applied AI for Supervisory Staff",
+   "summary": "An eight-module hands-on programme helping supervisory staff use generative AI and analytics tools safely and productively in everyday supervisory work.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 217,
+   "entryType": "programme",
+   "title": "Core Professional Skills for Regulatory Staff",
+   "summary": "An eight-module practical programme building the core writing, analysis, meeting, challenge, presentation and data skills that regulatory staff need every day.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 273,
+   "entryType": "programme",
+   "title": "Investigative and Interviewing Skills for Supervisors",
+   "summary": "An eight-module practical programme on planning and conducting supervisory interviews and turning interview evidence into sound findings.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 314,
+   "entryType": "programme",
+   "title": "Supervisory Judgement and Professional Practice",
+   "summary": "A ten-module programme on forming, documenting and defending supervisory judgements, and turning them into clear findings, letters and interventions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

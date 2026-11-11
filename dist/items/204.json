@@ -1,0 +1,332 @@
+{
+ "id": 204,
+ "entryType": "programme",
+ "title": "Authorisation and Licensing: The Regulatory Gateway",
+ "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Authorisation & Licensing",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Authorisation & licensing"
+ ],
+ "firmType": [],
+ "slug": "authorisation-and-licensing-the-regulatory-gateway",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips authorisation staff to run the regulatory gateway well: assessing applications, business plans, owners and key individuals rigorously and consistently, so that only firms able to meet standards enter the market.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Authorisations",
+  "Registration & Licensing"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To equip authorisation and licensing staff with a structured, defensible methodology for assessing new applications and changes to existing firms. Participants leave able to scrutinise business plans and readiness, assess fitness and propriety, controllers and ownership, integrate financial crime checks and reach well-reasoned recommendations.",
+  "What It Covers": "The purpose and standards of the regulatory gateway, the application process, business plans and financial projections, organisational readiness, fit and proper assessment, controllers and change of control, beneficial ownership, financial crime checks, cross-border authorisation and passporting, and licence variations, conditions and decisions.",
+  "Intended Audience": [
+   "Authorisation, licensing and registration staff assessing new applications and changes to existing firms",
+   "Fitness and propriety and governance specialists assessing controllers, directors and senior managers",
+   "Supervisors and financial crime specialists who contribute to authorisation decisions or take over newly authorised firms"
+  ],
+  "Learning Objectives": [
+   "Explain the role of the gateway in shaping the risk profile of the regulated population",
+   "Assess business plans, financial projections and organisational readiness",
+   "Apply consistent, defensible criteria to fitness and propriety and to proposed controllers",
+   "Trace beneficial ownership and integrate financial crime checks into the assessment",
+   "Evaluate cross-border applications and cooperate effectively with other authorities",
+   "Formulate and document authorisation recommendations, conditions and refusals"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Modules combine short input with sample applications, case studies and assessment exercises, ending in an end-to-end application workshop, and can be selected or tailored to the authority's own licensing regime.",
+  "Useful Prior Knowledge and Experience": "Some experience of authorisation, supervision or financial crime work is helpful. No legal or accounting qualification is required.",
+  "Core Reading": [
+   "Basel Committee, Core Principles for Effective Banking Supervision (2024)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "IAIS, Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups (ComFrame)",
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 437,
+   "number": 1,
+   "title": "The Regulatory Gateway: Purpose and Standards",
+   "summary": "Why authorisation is a critical gatekeeping function, the threshold conditions applicants must meet, and how authorities balance market access and innovation against risk.",
+   "objectives": [
+    "Explain the purpose and standard of assessment at the gateway",
+    "Describe the threshold conditions and how they apply proportionately",
+    "Balance market access and competition against risk to customers and markets"
+   ],
+   "syllabus": [
+    "The gateway as the first and cheapest line of supervisory defence",
+    "Threshold conditions: legal status, resources, suitability and effective supervision",
+    "Proportionality across firm types, sizes and activities",
+    "International standards on licensing and authorisation"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 438,
+   "number": 2,
+   "title": "The Application Process: From First Contact to Decision",
+   "summary": "How an authorisation process runs in practice, from pre-application engagement and completeness checks through information requests to the governance of the final decision.",
+   "objectives": [
+    "Describe the stages of the application process and service standards",
+    "Manage pre-application engagement and information requests effectively",
+    "Identify common application weaknesses early"
+   ],
+   "syllabus": [
+    "Pre-application meetings and setting expectations",
+    "Completeness checks, statutory timelines and stopping the clock",
+    "Sources of evidence in an application and verifying them",
+    "Decision governance, escalation and recording reasons"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 439,
+   "number": 3,
+   "title": "Assessing Business Plans and Financial Projections",
+   "summary": "A structured method for scrutinising an applicant's business plan, testing the credibility of financial projections and stress-testing growth assumptions.",
+   "objectives": [
+    "Apply a structured framework to review a business plan",
+    "Assess the credibility of financial projections and capital adequacy",
+    "Stress-test growth and revenue assumptions"
+   ],
+   "syllabus": [
+    "Business plan review: market, model, customers and viability",
+    "Projections: revenue, costs, capital and liquidity",
+    "Red flags in projections and unsupported assumptions",
+    "Exercise: reviewing a sample business plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 440,
+   "number": 4,
+   "title": "Organisational Readiness: Governance, Systems and Controls",
+   "summary": "How to judge whether an applicant will be ready to operate on day one, with adequate governance, staffing, systems, controls and real substance in the jurisdiction.",
+   "objectives": [
+    "Evaluate governance arrangements and the allocation of responsibilities",
+    "Assess systems, controls, outsourcing and staffing readiness",
+    "Judge whether the applicant has genuine local substance"
+   ],
+   "syllabus": [
+    "Board composition, control functions and accountability",
+    "Systems, policies and procedures: designed or merely drafted",
+    "Outsourcing, group dependencies and substance requirements",
+    "Readiness gaps: conditions, phased authorisation or refusal"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 441,
+   "number": 5,
+   "title": "Fit and Proper Assessment: Criteria and Evidence",
+   "summary": "The fitness and propriety framework for controllers, directors and senior managers, the evidence sources available, and how assessment differs at authorisation and on an ongoing basis.",
+   "objectives": [
+    "Explain competence, capability and probity as distinct assessment strands",
+    "Identify and verify the evidence available on a candidate",
+    "Apply fit and proper assessment proportionately across roles"
+   ],
+   "syllabus": [
+    "Competence, capability, honesty, integrity and financial soundness",
+    "Evidence: CVs, references, disclosures and public record checks",
+    "Assessing fitness at authorisation and throughout tenure",
+    "Proportionality by role, firm size and risk"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 442,
+   "number": 6,
+   "title": "Fit and Proper in Practice: Interviews and Difficult Cases",
+   "summary": "Using interviews to test competence and integrity, weighing adverse information fairly, and documenting consistent, defensible decisions in borderline cases.",
+   "objectives": [
+    "Plan and conduct a fit and proper interview",
+    "Weigh adverse information consistently and fairly",
+    "Document a fit and proper decision that will withstand challenge"
+   ],
+   "syllabus": [
+    "Interview planning and questioning for competence and probity",
+    "Handling adverse information, non-disclosure and inconsistency",
+    "Consistency across candidates, roles and decision-makers",
+    "Case study: a borderline fit and proper assessment"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 443,
+   "number": 7,
+   "title": "Controllers, Ownership and Change of Control",
+   "summary": "How to assess proposed controllers at authorisation and on a change of control, trace beneficial ownership through complex structures, and keep unsuitable owners out of the sector.",
+   "objectives": [
+    "Explain what triggers a change-of-control assessment and the criteria applied",
+    "Trace beneficial ownership through layered or opaque structures",
+    "Formulate an outcome on a proposed change of control"
+   ],
+   "syllabus": [
+    "Notifiable changes of control, timelines and procedure",
+    "Assessing a proposed controller: reputation, financial soundness, plans",
+    "Trusts, nominees and layered structures as risk indicators",
+    "Exercise: tracing ownership through a sample structure"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 444,
+   "number": 8,
+   "title": "Financial Crime Checks at the Gateway",
+   "summary": "How to integrate anti-money laundering, counter-terrorist financing and sanctions checks into authorisation so that criminals and their associates do not gain a foothold in the regulated sector.",
+   "objectives": [
+    "Integrate financial crime risk assessment into the authorisation process",
+    "Assess source of funds and source of wealth for owners and capital",
+    "Evaluate an applicant's planned AML/CFT and sanctions framework"
+   ],
+   "syllabus": [
+    "FATF standards on preventing criminals from owning or controlling firms",
+    "Source of funds, source of wealth and capital injections",
+    "Screening, intelligence sharing and engagement with the national FIU",
+    "Assessing the applicant's financial crime controls before go-live"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 445,
+   "number": 9,
+   "title": "Cross-Border Authorisation and Supervisory Cooperation",
+   "summary": "How passporting and cross-border recognition regimes work, the respective roles of home and host authorities, and the cooperation needed to verify applicants and protect host-market customers.",
+   "objectives": [
+    "Explain passporting, branch and cross-border services models",
+    "Assess the respective responsibilities of home and host authorities",
+    "Identify practical cooperation steps and when host intervention applies"
+   ],
+   "syllabus": [
+    "Freedom of establishment versus freedom to provide services",
+    "Notification processes, branches, subsidiaries and third-country firms",
+    "Memoranda of understanding and verification with foreign authorities",
+    "Case study: a cross-border firm causing host-market concern"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 446,
+   "number": 10,
+   "title": "Licence Variations, Conditions and Decisions",
+   "summary": "Brings the programme together: varying and restricting permissions, imposing conditions, refusing or withdrawing a licence, and handing a new firm over to supervision.",
+   "objectives": [
+    "Assess applications to vary, extend or cancel permissions",
+    "Choose between conditions, phased authorisation and refusal",
+    "Formulate and document a defensible authorisation recommendation"
+   ],
+   "syllabus": [
+    "Variations of permission, restrictions and voluntary cancellation",
+    "Refusals, withdrawals, representations and appeals",
+    "Handover to supervision and early post-authorisation engagement",
+    "Workshop: assessing a marginal application end to end"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 254,
+   "entryType": "programme",
+   "title": "Fit and Proper Assessments: Approving Owners, Directors and Key Function Holders",
+   "summary": "An eight-module practitioner programme on assessing owners, controllers, directors and key function holders, from evidence gathering and interviews to defensible decisions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 219,
+   "entryType": "programme",
+   "title": "Crisis Management and Resolution",
+   "summary": "A ten-module programme preparing supervisors for firm and system-wide stress, from early intervention and recovery and resolution planning to crisis communication and a live simulation.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 238,
+   "entryType": "programme",
+   "title": "Enforcement and Sanctions",
+   "summary": "A ten-module programme taking enforcement and supervisory staff through the full life of an enforcement case, from triage and evidence to sanctions, settlement and cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 292,
+   "entryType": "programme",
+   "title": "Policy-Making and Rule-Making",
+   "summary": "An eight-module programme covering the full policy cycle, from problem definition and cost-benefit analysis to drafting, standards implementation and post-implementation review.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

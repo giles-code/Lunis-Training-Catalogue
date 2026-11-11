@@ -1,0 +1,116 @@
+{
+ "id": 50,
+ "entryType": "module",
+ "title": "Cyber Incident Management and Supervisory Intervention",
+ "summary": "The aim of this workshop is to build participants' skills in assessing a firm's cyber incident recovery procedures and disclosure protocols, and understanding the supervisory intervention tools available when incidents occur.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Cybersecurity & Operational Resilience",
+ "tags": [
+  "Operational resilience & cyber"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "cyber-incident-management-and-supervisory-intervention",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in assessing a firm's cyber incident recovery procedures and disclosure protocols, and understanding the supervisory intervention tools available when incidents occur.",
+  "Intended Audience": "Mid-level supervisory staff building capability in cyber and operational resilience supervision.",
+  "Learning Objectives": [
+   "Explain the phases of cyber incident response",
+   "Describe disclosure protocols and obligations following a cyber incident",
+   "Assess the adequacy of a firm's incident recovery procedures",
+   "Evaluate the supervisory intervention tools available during an incident",
+   "Formulate a supervisory response to a simulated cyber incident"
+  ],
+  "Syllabus": [
+   "Phases of incident response: detection, containment, eradication, recovery",
+   "The role of an incident response plan and playbooks",
+   "Disclosure obligations to supervisors and, where relevant, the public",
+   "Timing considerations in incident disclosure",
+   "Facilitated discussion: incident response experiences from participants' own sector",
+   "Criteria for assessing incident recovery procedure adequacy",
+   "Testing recovery procedures through exercises and simulations",
+   "Common weaknesses in recovery planning",
+   "Recovery time objectives and their supervisory relevance",
+   "Group exercise: assess a sample firm's incident recovery procedures",
+   "Supervisory intervention tools available during a live incident",
+   "Balancing intervention against not impeding a firm's own recovery efforts",
+   "Case study: a simulated cyber incident requiring supervisory response",
+   "Case study: formulate a supervisory response to a simulated cyber incident",
+   "Recap: incident response phases, recovery assessment, intervention tools",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Incident response phases (09:30–10:45)\n- Session 2: Assessing recovery procedures (11:00–12:30)\n- Session 3: Supervisory intervention and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Disclosure timing during a cyber incident is a genuine judgement call balancing transparency against operational stability\n- Recovery procedures should be tested through exercises, not just documented on paper\n- Supervisory intervention during a live incident must support, not obstruct, the firm's own recovery efforts",
+  "Useful Prior Knowledge and Experience": "Some familiarity with cybersecurity & operational resilience is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 234,
+   "entryType": "programme",
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "summary": "An eight-module programme on DORA for supervisors and financial entities: ICT risk management, incident reporting, resilience testing and TLPT, ICT third-party risk and critical provider oversight.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 287,
+   "entryType": "programme",
+   "title": "Operational Resilience, Cyber and Critical Third Parties",
+   "summary": "A ten-module programme equipping supervisors to assess firms' operational resilience, cyber risk, incident response and third-party dependencies, and to shape the authority's resilience strategy.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

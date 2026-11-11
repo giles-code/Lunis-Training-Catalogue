@@ -1,0 +1,311 @@
+{
+ "id": 309,
+ "entryType": "programme",
+ "title": "Strategy, Risk Appetite and Business Model Oversight for Boards",
+ "summary": "An eight-module programme helping boards see their firm the way a supervisor does: testing business model viability, challenging plans and setting risk appetite.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 16,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "strategy-risk-appetite-and-business-model-oversight-for-boards",
+ "moduleCount": 8,
+ "hoursPerModule": 2,
+ "intro": "This training programme equips boards and directors to see their firm the way a supervisor does: testing business model viability, challenging the business plan, setting risk appetite and overseeing financial resilience.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Strategy"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give directors the analytical tools supervisors use to judge whether a firm's business model is viable and its strategy sustainable, applied from the boardroom. Participants leave able to challenge management's plans and assumptions, set meaningful risk appetite and evidence effective oversight of strategy to supervisors.",
+  "What It Covers": "How supervisors analyse business models, business plan challenge, financial resilience, risk appetite statements and limits, stress testing and reverse stress testing, recovery and wind-down planning, M&A and outsourcing decisions, shareholder influence and board independence, and monitoring delivery.",
+  "Intended Audience": [
+   "Chairs, non-executive and independent directors and members of board risk and audit committees",
+   "Chief executives, finance and risk directors and senior managers accountable for strategy and planning",
+   "Company secretaries, strategy and planning teams supporting the board"
+  ],
+  "Learning Objectives": [
+   "Explain how supervisors analyse business model viability and strategy sustainability",
+   "Challenge the business plan, its financial projections and key assumptions",
+   "Assess financial resilience using profitability, capital, liquidity and concentration measures",
+   "Set a risk appetite statement with measurable limits that constrains strategy",
+   "Evaluate stress testing, reverse stress testing, recovery and wind-down plans",
+   "Oversee major strategic decisions and the delivery of strategy, independent of undue shareholder influence"
+  ],
+  "Structure and Format": "Eight modules of about two hours each, delivered in person, virtually or in a hybrid format, either as a two-day programme or as a series of board briefing sessions. Each module combines a short briefing with case studies, analytical exercises and a board question set, and modules can be selected or tailored to the firm's sector and business model.",
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No specialist background in finance or risk modelling is required.",
+  "Core Reading": [
+   "FSB, Principles for an Effective Risk Appetite Framework (2013)",
+   "Basel Committee, Stress Testing Principles (2018)",
+   "Basel Committee, Corporate Governance Principles for Banks (2015)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1354,
+   "number": 1,
+   "title": "Seeing Your Firm the Way a Supervisor Does",
+   "summary": "How supervisors analyse corporate strategy and business models, why business model risk sits at the heart of supervisory risk assessment, and what that means for the board.",
+   "objectives": [
+    "Explain what a business model and a corporate strategy are, and how they differ",
+    "Describe how supervisors conduct business model analysis and score its outcome",
+    "Identify the information supervisors use and how the firm will be judged"
+   ],
+   "syllabus": [
+    "Business model components, the value chain and key dependencies",
+    "Viability over one year and sustainability over three to five years",
+    "The supervisory roadmap: preliminary assessment, analysis and scoring",
+    "Where business model risk fits in the supervisory risk framework"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1355,
+   "number": 2,
+   "title": "Challenging the Business Plan and Its Assumptions",
+   "summary": "How boards test the business plan as a supervisor would, from the competitive environment to financial projections, and recognise the patterns behind failed strategies.",
+   "objectives": [
+    "Analyse the firm's macro and competitive environment and its position within it",
+    "Challenge financial projections, growth assumptions and execution risk",
+    "Recognise why strategies fail and identify key vulnerabilities"
+   ],
+   "syllabus": [
+    "Environmental and competitive analysis: suppliers, buyers, entrants and substitutes",
+    "Testing projections: growth, margins, costs and sensitivities",
+    "Execution risk, management capacity and change load",
+    "Case study: comparing two contrasting business strategies"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1356,
+   "number": 3,
+   "title": "Financial Resilience and Key Risk Indicators",
+   "summary": "The quantitative measures supervisors use to judge financial resilience, and how the board uses them to spot vulnerability before it becomes a problem.",
+   "objectives": [
+    "Interpret profitability, capital and liquidity indicators",
+    "Assess concentration in income, clients, products, funding and counterparties",
+    "Identify early warning signs of business model stress"
+   ],
+   "syllabus": [
+    "Profitability drivers, cost-income and return on capital",
+    "Capital structure, quality and headroom over requirements",
+    "Liquidity, funding and concentration risk",
+    "Early warning indicators for the board dashboard"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1357,
+   "number": 4,
+   "title": "Risk Appetite Statements and Limits",
+   "summary": "How to set a risk appetite that genuinely constrains strategy, cascades into limits and triggers, and gives the board a basis for challenge and escalation.",
+   "objectives": [
+    "Evaluate whether the risk appetite statement is linked to strategy and capacity",
+    "Set quantitative limits and qualitative statements with escalation triggers",
+    "Oversee breaches, cascading and periodic review of appetite"
+   ],
+   "syllabus": [
+    "Risk capacity, appetite, tolerance and limits",
+    "Quantitative and qualitative appetite statements",
+    "Cascading appetite into business lines and decisions",
+    "FSB principles for an effective risk appetite framework"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1358,
+   "number": 5,
+   "title": "Stress Testing and Reverse Stress Testing",
+   "summary": "How stress testing reveals how the business model breaks, how to challenge the severity and relevance of scenarios, and how reverse stress testing informs strategy.",
+   "objectives": [
+    "Challenge the design, severity and plausibility of stress scenarios",
+    "Interpret results and their implications for capital, liquidity and strategy",
+    "Use reverse stress testing to identify what would make the business model fail"
+   ],
+   "syllabus": [
+    "Scenario design: idiosyncratic, market-wide and combined stresses",
+    "Management actions and their credibility under stress",
+    "Reverse stress testing: working back from failure",
+    "Linking results to risk appetite and the business plan"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1359,
+   "number": 6,
+   "title": "Recovery and Wind-Down Planning",
+   "summary": "Why supervisors expect firms to plan for severe stress and orderly exit, and how the board tests that recovery options and wind-down plans would work in practice.",
+   "objectives": [
+    "Explain the purpose of recovery plans and solvent wind-down planning",
+    "Assess recovery indicators, options and their feasibility",
+    "Evaluate whether the firm could wind down in an orderly way"
+   ],
+   "syllabus": [
+    "Recovery indicators, triggers and escalation to the board",
+    "Recovery options: capital, liquidity, disposals and cost actions",
+    "Wind-down costs, timelines and client asset return",
+    "Testing plans through fire drills and playbooks"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1360,
+   "number": 7,
+   "title": "Major Decisions: M&A, Outsourcing and Shareholder Influence",
+   "summary": "How the board oversees acquisitions, disposals and material outsourcing, and maintains its independence where shareholders or group entities seek to shape strategy.",
+   "objectives": [
+    "Challenge the strategic rationale, due diligence and integration risk of M&A",
+    "Assess material outsourcing and intragroup dependency decisions",
+    "Maintain board independence and manage conflicts with shareholder interests"
+   ],
+   "syllabus": [
+    "M&A: rationale, valuation, due diligence and integration",
+    "Outsourcing and third-party dependency: oversight and exit",
+    "Group strategy, intragroup arrangements and local board duties",
+    "Shareholder influence, conflicts and independent judgement"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1361,
+   "number": 8,
+   "title": "Monitoring Delivery and Board Action Plan",
+   "summary": "Brings the programme together by examining how boards monitor strategic delivery, respond to unexpected events and prepare for supervisory scrutiny of the business model.",
+   "objectives": [
+    "Specify the management information needed to monitor strategic delivery",
+    "Evaluate management responses when strategy goes off track",
+    "Produce a board action plan for strategy and business model oversight"
+   ],
+   "syllabus": [
+    "Tracking delivery: milestones, KPIs and variance against plan",
+    "Responding to unexpected events and changing course",
+    "Preparing for supervisory business model review",
+    "Workshop: assess and score the firm's business model as a supervisor would"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 236,
+   "entryType": "programme",
+   "title": "Effective Governance for Boards and Directors",
+   "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+   "level": "Board level",
+   "moduleCount": 12,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 242,
+   "entryType": "programme",
+   "title": "Finance and Prudential Essentials for Directors of Regulated Firms",
+   "summary": "An eight-module programme giving non-financial directors the confidence to read a regulated firm's accounts, capital and liquidity position, and to challenge the CFO.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 263,
+   "entryType": "programme",
+   "title": "Geopolitical and Emerging Risks for Boards",
+   "summary": "An eight-module programme helping boards identify, debate and prepare for geopolitical and emerging risks, ending with a facilitated board scenario exercise.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 266,
+   "entryType": "programme",
+   "title": "Group Governance and Cross-Border Operations",
+   "summary": "A nine-module programme helping boards and senior managers of cross-border groups balance group direction with local accountability, oversee intragroup arrangements and deal with multiple supervisors.",
+   "level": "Advanced",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

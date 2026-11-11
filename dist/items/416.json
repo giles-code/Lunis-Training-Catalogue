@@ -1,0 +1,163 @@
+{
+ "id": 416,
+ "entryType": "module",
+ "title": "Groupthink and Board Personalities",
+ "summary": "Why some boards drift into consensus at the expense of realistic appraisal, the warning signs, and how recognising common board personalities helps plan interviews without prejudging findings.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Ongoing Supervision",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "groupthink-and-board-personalities",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Why some boards drift into consensus at the expense of realistic appraisal, the warning signs, and how recognising common board personalities helps plan interviews without prejudging findings.",
+  "Learning Objectives": [
+   "Identify the conditions and warning signs of groupthink",
+   "Assess the countermeasures a board uses to protect independent judgement",
+   "Use board personality types as an interview planning aid, not a finding"
+  ],
+  "Syllabus": [
+   "Risk factors: long tenure, social closeness and a dominant chair or chief executive",
+   "Warning signs: quick unanimity, self-censorship and private doubts",
+   "Countermeasures: devil's advocate, anonymous polling, 'what would change our mind?'",
+   "The dominator, silent director, absentee, box-ticker and permanent devil's advocate"
+  ],
+  "Intended Audience": [
+   "Supervisors and governance specialists who assess boards and senior management of regulated firms",
+   "Staff conducting fit and proper, governance or culture reviews and interviewing chairs and directors",
+   "Senior supervisors and team leaders who review governance assessments and decide the supervisory response"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of governance assessment or supervisory interviews is helpful. No board experience is required.",
+  "Core Reading": [
+   "Basel Committee, Corporate Governance Principles for Banks (2015)",
+   "G20/OECD Principles of Corporate Governance (2023)",
+   "FSB, Guidance on Supervisory Interaction with Financial Institutions on Risk Culture (2014)",
+   "Amy C. Edmondson, The Fearless Organization: Creating Psychological Safety in the Workplace (2018)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 201,
+   "module": 6,
+   "title": "Assessing Board Effectiveness",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 411,
+     "number": 1,
+     "title": "Beyond Structures: Why Board Dynamics Matter"
+    },
+    {
+     "id": 412,
+     "number": 2,
+     "title": "Agendas, Board Papers and Information Quality"
+    },
+    {
+     "id": 413,
+     "number": 3,
+     "title": "Information Asymmetry and the Line Between Oversight and Management"
+    },
+    {
+     "id": 414,
+     "number": 4,
+     "title": "Judging the Quality of Board Decisions"
+    },
+    {
+     "id": 415,
+     "number": 5,
+     "title": "Culture, Challenge and Psychological Safety"
+    },
+    {
+     "id": 416,
+     "number": 6,
+     "title": "Groupthink and Board Personalities"
+    },
+    {
+     "id": 417,
+     "number": 7,
+     "title": "Keeping the Board Effective: Evaluation, Succession, Skills and AI"
+    },
+    {
+     "id": 418,
+     "number": 8,
+     "title": "Case-Study Interview Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 218,
+   "entryType": "programme",
+   "title": "Core Supervisory Skills: Business Models, Governance and Risk Governance Panels",
+   "summary": "A three-day workshop taking supervisors from business model analysis through governance interviews to a risk governance panel, using running case studies and role plays.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 267,
+   "entryType": "programme",
+   "title": "How Financial Firms Work: Business Models and Financial Statements for Supervisors",
+   "summary": "An eight-module programme helping supervisors understand how financial firms make money, read their accounts and identify capital, liquidity and business model risks.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 310,
+   "entryType": "programme",
+   "title": "Supervising Compliance in Practice: Masterclass Series",
+   "summary": "Ten half-day masterclasses showing supervisors how to test whether firms' compliance arrangements work in practice across core compliance areas.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 35,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

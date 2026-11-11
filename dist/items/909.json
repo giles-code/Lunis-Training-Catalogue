@@ -1,0 +1,164 @@
+{
+ "id": 909,
+ "entryType": "module",
+ "title": "Ethics, Independence and the Professional Supervisor",
+ "summary": "The personal standards expected of a supervisor, the threats to independence and objectivity, and the habits that underpin credible supervisory judgement.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Capability & Capacity Building",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "New joiners & developing staff"
+ ],
+ "firmType": [],
+ "slug": "ethics-independence-and-the-professional-supervisor",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Capability & Capacity Building",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The personal standards expected of a supervisor, the threats to independence and objectivity, and the habits that underpin credible supervisory judgement.",
+  "Learning Objectives": [
+   "Explain the ethical duties and conduct standards that apply to regulatory staff",
+   "Recognise conflicts of interest, capture and other threats to independence",
+   "Apply professional scepticism and sound judgement in everyday work"
+  ],
+  "Syllabus": [
+   "Confidentiality, conflicts of interest, gifts and hospitality",
+   "Regulatory capture and maintaining independence from industry",
+   "Professional scepticism, challenge and willingness to act",
+   "Accountability for decisions and recording the rationale"
+  ],
+  "Intended Audience": [
+   "Graduates, new joiners and staff in their first two years at a financial regulatory authority",
+   "Staff moving into supervisory, authorisation, policy or enforcement roles from support or other functions",
+   "Secondees and staff from related public bodies needing a grounding in financial supervision"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior regulatory experience is required. A general interest in financial services and the economy is helpful.",
+  "Core Reading": [
+   "IOSCO (2017), Objectives and Principles of Securities Regulation",
+   "Basel Committee on Banking Supervision (2024), Core Principles for Effective Banking Supervision",
+   "IAIS (2019, as updated), Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups",
+   "FATF (2012, as updated), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations",
+   "IMF (2010), The Making of Good Supervision: Learning to Say \"No\" (Staff Position Note SPN/10/08)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 257,
+   "module": 7,
+   "title": "Foundations of Financial Regulation and Supervision",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 903,
+     "number": 1,
+     "title": "Why We Regulate Financial Services"
+    },
+    {
+     "id": 904,
+     "number": 2,
+     "title": "The Authority: Mandate, Objectives and Powers"
+    },
+    {
+     "id": 905,
+     "number": 3,
+     "title": "The Regulatory Toolkit"
+    },
+    {
+     "id": 906,
+     "number": 4,
+     "title": "Risk-Based Supervision in Practice"
+    },
+    {
+     "id": 907,
+     "number": 5,
+     "title": "The Regulatory Lifecycle: From Authorisation to Enforcement"
+    },
+    {
+     "id": 908,
+     "number": 6,
+     "title": "International Standards and the Global Regulatory Architecture"
+    },
+    {
+     "id": 909,
+     "number": 7,
+     "title": "Ethics, Independence and the Professional Supervisor"
+    },
+    {
+     "id": 910,
+     "number": 8,
+     "title": "Your First Supervisory Case: Integrated Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 218,
+   "entryType": "programme",
+   "title": "Core Supervisory Skills: Business Models, Governance and Risk Governance Panels",
+   "summary": "A three-day workshop taking supervisors from business model analysis through governance interviews to a risk governance panel, using running case studies and role plays.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 267,
+   "entryType": "programme",
+   "title": "How Financial Firms Work: Business Models and Financial Statements for Supervisors",
+   "summary": "An eight-module programme helping supervisors understand how financial firms make money, read their accounts and identify capital, liquidity and business model risks.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,350 @@
+{
+ "id": 305,
+ "entryType": "programme",
+ "title": "Risk Management for Regulated Firms",
+ "summary": "A ten-module programme giving risk professionals the tools to design, run and evidence a risk management framework that informs decisions and withstands supervisory scrutiny.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "risk-management-for-regulated-firms",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips risk professionals in regulated firms to design and run a risk management framework that informs decisions, satisfies the board and stands up to supervisory scrutiny, taught by former supervisors.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Risk Management",
+  "Prudential Risk (Capital & Liquidity)"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To equip risk managers and senior staff with a practical understanding of how an effective risk management framework is built, operated and evidenced in a regulated firm. Participants leave able to set and monitor risk appetite, assess capital and liquidity needs, run stress tests and report risk in a way that drives board decisions.",
+  "What It Covers": "The three lines model, risk appetite frameworks, risk identification and taxonomy, operational risk and risk and control self-assessment, capital and liquidity self-assessment, stress testing, emerging risks including AI, cyber and climate, risk management information and reporting, and the role of the CRO and the board.",
+  "Intended Audience": [
+   "Chief risk officers, heads of risk and risk managers in regulated firms",
+   "Risk analysts and operational risk staff developing their framework and reporting skills",
+   "Finance, compliance, internal audit and business managers who own or oversee risks"
+  ],
+  "Learning Objectives": [
+   "Explain how the three lines model allocates responsibility for risk across the firm",
+   "Design a risk appetite framework with measurable limits and triggers linked to strategy",
+   "Apply risk identification, taxonomy and risk and control self-assessment techniques consistently",
+   "Assess the firm's capital and liquidity needs through an internal self-assessment and stress testing",
+   "Evaluate emerging risks, including AI, cyber and climate, and build them into the framework",
+   "Produce risk reporting that supports board challenge and agree an action plan for the risk function"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines practical frameworks with case studies, group exercises and worked examples, and modules can be selected or tailored to the firm's business model.",
+  "Useful Prior Knowledge and Experience": "Some experience of risk management, finance or control work in a regulated firm is helpful. No quantitative modelling background is required.",
+  "Core Reading": [
+   "FSB, Principles for an Effective Risk Appetite Framework (2013)",
+   "Basel Committee, Principles for Effective Risk Data Aggregation and Risk Reporting (BCBS 239) (2013)",
+   "Basel Committee, Stress Testing Principles (2018)",
+   "Basel Committee, Revisions to the Principles for the Sound Management of Operational Risk (2021)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1320,
+   "number": 1,
+   "title": "Risk Governance and the Three Lines Model",
+   "summary": "How responsibility for risk is allocated between the business, the risk and compliance functions and internal audit, and why supervisors look closely at how this works in practice.",
+   "objectives": [
+    "Explain the roles of the first, second and third lines",
+    "Assess the independence, authority and resourcing of the risk function",
+    "Identify common failures in how the three lines operate in practice"
+   ],
+   "syllabus": [
+    "Risk ownership in the business and the role of the second line",
+    "Internal audit and independent assurance",
+    "Risk committees, terms of reference and escalation routes",
+    "Where the three lines blur: lessons from supervisory findings"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1321,
+   "number": 2,
+   "title": "Risk Appetite Frameworks",
+   "summary": "Translating strategy into a risk appetite statement with measurable metrics, limits and triggers that the board approves and management actually uses.",
+   "objectives": [
+    "Design a risk appetite statement linked to the firm's strategy and business plan",
+    "Apply quantitative metrics, limits and early warning triggers",
+    "Embed risk appetite into decisions, planning and remuneration"
+   ],
+   "syllabus": [
+    "Risk capacity, appetite, tolerance and limits",
+    "Qualitative statements and quantitative metrics",
+    "Cascading appetite to business lines and legal entities",
+    "Monitoring, breaches and escalation to the board"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1322,
+   "number": 3,
+   "title": "Risk Identification and Taxonomy",
+   "summary": "Building a complete, consistent picture of the firm's risks through a clear taxonomy, structured identification and a risk register that stays current.",
+   "objectives": [
+    "Design a risk taxonomy suited to the firm's business model",
+    "Apply structured techniques to identify current and emerging risks",
+    "Maintain a risk register that links risks, controls and owners"
+   ],
+   "syllabus": [
+    "Principal risk categories and taxonomy design",
+    "Top-down and bottom-up risk identification",
+    "Risk registers, owners and control mapping",
+    "Business model analysis: seeing risk as a supervisor does"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1323,
+   "number": 4,
+   "title": "Operational Risk and Risk and Control Self-Assessment",
+   "summary": "Managing operational risk through risk and control self-assessment, loss event data, key risk indicators and scenario analysis that produce reliable insight.",
+   "objectives": [
+    "Explain the sources of operational risk and how they crystallise",
+    "Design and run a risk and control self-assessment that challenges the business",
+    "Apply loss data, key risk indicators and scenario analysis"
+   ],
+   "syllabus": [
+    "Operational risk events, causes and impacts",
+    "Running risk and control self-assessments with credible challenge",
+    "Loss event data, near misses and key risk indicators",
+    "Control testing and the link to internal audit"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1324,
+   "number": 5,
+   "title": "Capital Adequacy Self-Assessment",
+   "summary": "How the firm identifies the risks capital must cover, assesses how much capital it needs over and above regulatory minimums, and documents the assessment for the board and supervisor.",
+   "objectives": [
+    "Explain the purpose of an internal capital adequacy self-assessment",
+    "Assess capital needed for risks not fully captured by regulatory minimums",
+    "Document the assessment in a way the board owns and supervisors can review"
+   ],
+   "syllabus": [
+    "Regulatory minimums and the case for additional internal capital",
+    "Quantifying credit, market, operational and business risk",
+    "Capital planning, buffers and the business plan",
+    "Common weaknesses supervisors find in self-assessments"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1325,
+   "number": 6,
+   "title": "Liquidity Risk and Wind-Down Planning",
+   "summary": "Assessing the firm's liquidity needs under normal and stressed conditions, maintaining a contingency funding plan and preparing for an orderly wind-down if needed.",
+   "objectives": [
+    "Explain the sources of liquidity risk in the firm's business model",
+    "Assess liquidity adequacy under business-as-usual and stressed conditions",
+    "Design a contingency funding plan and an orderly wind-down plan"
+   ],
+   "syllabus": [
+    "Liquidity risk drivers, metrics and limits",
+    "Internal liquidity adequacy self-assessment",
+    "Contingency funding plans and early warning indicators",
+    "Wind-down planning: triggers, costs and timelines"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1326,
+   "number": 7,
+   "title": "Stress Testing and Reverse Stress Testing",
+   "summary": "Designing severe but plausible stress scenarios, assessing their impact on capital, liquidity and operations, and using reverse stress testing to find what would break the business model.",
+   "objectives": [
+    "Design stress scenarios proportionate to the firm's risks and size",
+    "Assess the impact of stress on capital, liquidity and profitability",
+    "Apply reverse stress testing to identify business model vulnerabilities"
+   ],
+   "syllabus": [
+    "Scenario design: severity, plausibility and relevance",
+    "Linking stress results to capital, liquidity and management actions",
+    "Reverse stress testing and recovery options",
+    "Presenting stress test results to the board"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1327,
+   "number": 8,
+   "title": "Emerging Risks: AI, Cyber and Climate",
+   "summary": "How the risk function identifies, assesses and monitors emerging risks from artificial intelligence, cyber threats and climate change, and integrates them into the existing framework.",
+   "objectives": [
+    "Identify emerging risks relevant to the firm and its customers",
+    "Assess AI, cyber and climate risks using the firm's existing risk tools",
+    "Integrate emerging risks into appetite, scenarios and reporting"
+   ],
+   "syllabus": [
+    "Emerging risk radars and horizon scanning",
+    "AI and model risk, cyber threats and third-party dependency",
+    "Climate-related physical and transition risks",
+    "Expectations of international standard-setters on emerging risks"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1328,
+   "number": 9,
+   "title": "Risk Management Information and Reporting",
+   "summary": "Building risk reporting that is accurate, timely and decision-useful, from data aggregation to dashboards that tell the board what it needs to know.",
+   "objectives": [
+    "Design risk management information aligned to appetite and principal risks",
+    "Apply principles of risk data aggregation and reporting quality",
+    "Produce risk reports that support decisions rather than reassure"
+   ],
+   "syllabus": [
+    "Risk data aggregation, quality and lineage",
+    "Dashboards, key risk indicators and trend analysis",
+    "Writing the CRO report: insight, judgement and recommendations",
+    "Case study: reporting that failed to warn the board"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1329,
+   "number": 10,
+   "title": "The CRO, the Board and Capstone Workshop",
+   "summary": "Brings the programme together around the CRO's relationship with the board and risk committee, and a workshop in which participants assess and plan improvements to their own framework.",
+   "objectives": [
+    "Explain the CRO's role, independence and relationship with the board",
+    "Evaluate the effectiveness of the firm's risk framework from a supervisor's perspective",
+    "Produce a prioritised action plan for the firm's risk management"
+   ],
+   "syllabus": [
+    "The CRO's mandate, independence and access to the board",
+    "The risk committee: challenge, oversight and effectiveness",
+    "Seeing the firm the way a supervisor does: a framework self-assessment",
+    "Workshop: the risk function's twelve-month action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 211,
+   "entryType": "programme",
+   "title": "Compliance Officer Academy",
+   "summary": "A ten-module academy giving compliance officers the tools to run an independent, risk-based compliance function and handle supervisory engagement with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 269,
+   "entryType": "programme",
+   "title": "Internal Audit in Regulated Firms",
+   "summary": "An eight-module programme giving internal auditors the tools to deliver risk-based assurance over the regulatory risks that matter most to boards and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 270,
+   "entryType": "programme",
+   "title": "Internal Investigations and Interviewing Skills",
+   "summary": "A nine-module programme giving control functions a structured method to investigate misconduct, whistleblowing reports and breaches, interview witnesses and subjects, and report findings.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 279,
+   "entryType": "programme",
+   "title": "Management and Leadership for Compliance and Risk Teams",
+   "summary": "A ten-module programme giving managers of compliance, risk and financial crime teams the skills to lead the second line, influence the business and earn the board's confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 294,
+   "entryType": "programme",
+   "title": "Professional Judgement and Core Skills for Compliance Staff",
+   "summary": "A ten-module programme building the judgement, questioning, advisory and writing skills that compliance, risk and financial crime staff need to be trusted by the business, the board and the regulator.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 323,
+   "entryType": "programme",
+   "title": "Terrorist and Proliferation Financing Controls for Firms",
+   "summary": "A nine-module programme equipping firms to assess, detect and report terrorist and proliferation financing, including screening, targeted financial sanctions and dual-use goods red flags.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

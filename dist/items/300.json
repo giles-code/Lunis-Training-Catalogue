@@ -1,0 +1,311 @@
+{
+ "id": 300,
+ "entryType": "programme",
+ "title": "Regulatory Essentials for All Staff",
+ "summary": "An eight-module foundation programme giving all staff a practical understanding of regulation, conduct, financial crime awareness and their own responsibilities.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Essentials for all staff"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 12,
+ "durationUnit": "hours",
+ "role": [
+  "All staff"
+ ],
+ "firmType": [],
+ "slug": "regulatory-essentials-for-all-staff",
+ "moduleCount": 8,
+ "hoursPerModule": 1.5,
+ "intro": "This training programme equips all staff in a regulated firm with a clear understanding of why regulation matters, the firm's key obligations and their own responsibilities for conduct, customers and financial crime prevention.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Conduct & Culture / HR"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give staff at every level a practical understanding of the regulatory obligations that shape their day-to-day work and the reasons behind them. Participants leave able to recognise risks, apply the firm's policies and speak up or escalate when something looks wrong.",
+  "What It Covers": "Why regulation matters, the firm's regulatory obligations, treating customers fairly, financial crime awareness, sanctions, market abuse awareness, conflicts of interest and gifts, data protection and information security, speaking up, and conduct and personal accountability.",
+  "Intended Audience": [
+   "All staff in regulated firms, including new joiners as part of induction",
+   "Front-office, operations, technology and support staff who need a regulatory grounding",
+   "Line managers responsible for embedding good conduct in their teams"
+  ],
+  "Learning Objectives": [
+   "Explain why financial services are regulated and the firm's key obligations",
+   "Apply the principles of fair treatment of customers in everyday work",
+   "Recognise financial crime, sanctions and market abuse red flags and escalate them",
+   "Identify and manage conflicts of interest, gifts and hospitality",
+   "Protect personal and confidential information and report incidents",
+   "Speak up confidently and meet the conduct standards expected of all staff"
+  ],
+  "Structure and Format": "Eight modules of about ninety minutes each, delivered in person, virtually or in a hybrid format, either as a two-day induction programme or as a series of short sessions across the year. Modules combine short briefings with real-world examples and scenario questions, and can be selected or tailored to the firm's policies and business.",
+  "Useful Prior Knowledge and Experience": "No prior knowledge of regulation is required. The programme is suitable for new joiners and as annual refresher training.",
+  "Core Reading": [
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)",
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1277,
+   "number": 1,
+   "title": "Why Regulation Matters and the Firm's Obligations",
+   "summary": "Why financial services are regulated, what the authority expects of the firm, and how every member of staff contributes to meeting those obligations.",
+   "objectives": [
+    "Explain why financial services are regulated and what regulation aims to achieve",
+    "Describe the firm's key regulatory obligations and the role of the authority",
+    "Recognise how individual actions affect the firm's regulatory standing"
+   ],
+   "syllabus": [
+    "Objectives of regulation: consumer protection, market integrity and stability",
+    "The firm's licence, permissions and the authority's supervisory approach",
+    "The three lines of defence and where each role fits",
+    "Consequences of failure for customers, the firm and individuals"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1278,
+   "number": 2,
+   "title": "Treating Customers Fairly",
+   "summary": "What fair treatment of customers means day to day, from clear communications to complaints and the needs of vulnerable customers.",
+   "objectives": [
+    "Explain the principles of fair treatment and good customer outcomes",
+    "Recognise the signs of customer vulnerability and respond appropriately",
+    "Identify and escalate complaints and potential customer harm"
+   ],
+   "syllabus": [
+    "Fair, clear and not misleading communications",
+    "Suitable products, fair value and avoiding mis-selling",
+    "Vulnerable customers and reasonable adjustments",
+    "Recognising and handling complaints"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1279,
+   "number": 3,
+   "title": "Financial Crime Awareness",
+   "summary": "How criminals use financial firms to launder money and finance terrorism, the red flags staff should recognise, and how to report suspicions without tipping off.",
+   "objectives": [
+    "Explain money laundering, terrorist financing and fraud in plain terms",
+    "Recognise common red flags in customers and transactions",
+    "Report suspicions internally and avoid tipping off"
+   ],
+   "syllabus": [
+    "The stages of money laundering and common typologies",
+    "Customer due diligence and why it matters",
+    "Red flags and internal suspicious activity reporting",
+    "Fraud, scams and bribery and corruption risks"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1280,
+   "number": 4,
+   "title": "Sanctions and Market Abuse Awareness",
+   "summary": "The basics of financial sanctions and market abuse: what they prohibit, how breaches happen and what staff must do to prevent and report them.",
+   "objectives": [
+    "Explain what financial sanctions are and how firms comply with them",
+    "Recognise insider dealing, unlawful disclosure and market manipulation",
+    "Identify when to escalate a potential sanctions or market abuse concern"
+   ],
+   "syllabus": [
+    "Sanctions regimes, asset freezes and screening",
+    "Evasion techniques and sanctions red flags",
+    "Inside information, insider lists and personal account dealing",
+    "Market manipulation and suspicious transaction reporting"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1281,
+   "number": 5,
+   "title": "Conflicts of Interest, Gifts and Hospitality",
+   "summary": "How conflicts of interest arise in everyday work, how the firm identifies and manages them, and the rules on gifts, hospitality and outside interests.",
+   "objectives": [
+    "Identify actual and potential conflicts of interest",
+    "Apply the firm's gifts, hospitality and outside interests rules",
+    "Record and escalate conflicts appropriately"
+   ],
+   "syllabus": [
+    "What a conflict of interest is and why it matters",
+    "Conflicts between the firm, its staff and its customers",
+    "Gifts, hospitality, inducements and registers",
+    "Outside business interests and personal relationships"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1282,
+   "number": 6,
+   "title": "Data Protection and Information Security",
+   "summary": "Staff responsibilities for protecting personal and confidential information, recognising cyber threats and reporting incidents promptly.",
+   "objectives": [
+    "Apply data protection principles to everyday handling of information",
+    "Recognise phishing, social engineering and other cyber threats",
+    "Report data breaches and security incidents promptly"
+   ],
+   "syllabus": [
+    "Personal data, confidentiality and need-to-know",
+    "Secure handling, sharing, retention and disposal of information",
+    "Phishing, social engineering and safe use of devices and AI tools",
+    "Incident and breach reporting"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1283,
+   "number": 7,
+   "title": "Speaking Up",
+   "summary": "Why speaking up protects customers and the firm, how to raise concerns through internal and external channels, and the protections available to those who do.",
+   "objectives": [
+    "Explain why speaking up matters to the firm and its supervisors",
+    "Identify the channels for raising concerns, including whistleblowing",
+    "Describe the protections against victimisation for those who speak up"
+   ],
+   "syllabus": [
+    "Culture, psychological safety and the cost of silence",
+    "Internal escalation routes and whistleblowing arrangements",
+    "Confidentiality, anonymity and protection from detriment",
+    "Reporting directly to the authority"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1284,
+   "number": 8,
+   "title": "Conduct and Personal Accountability",
+   "summary": "Brings the programme together around the conduct standards that apply to all staff and the personal consequences of misconduct, closing with practical scenarios.",
+   "objectives": [
+    "Explain the conduct standards expected of all staff",
+    "Recognise the personal consequences of misconduct",
+    "Apply the programme to realistic workplace scenarios"
+   ],
+   "syllabus": [
+    "Conduct rules: integrity, skill, care and diligence and openness with the authority",
+    "Fitness and propriety and the personal impact of breaches",
+    "Record-keeping, attestations and annual training",
+    "Workshop: what would you do? Everyday regulatory dilemmas"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 213,
+   "entryType": "programme",
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 281,
+   "entryType": "programme",
+   "title": "Market Conduct Essentials: Inside Information, Conflicts and Personal Dealing",
+   "summary": "A six-module foundation programme helping all staff handle inside information, personal dealing, gifts and communications correctly and avoid market abuse.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 228,
+   "entryType": "programme",
+   "title": "Cyber, Data and Resilience Essentials",
+   "summary": "A six-module foundation programme giving all staff the practical habits to resist cyber attacks, protect data, use AI tools safely and report incidents.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 244,
+   "entryType": "programme",
+   "title": "Financial Crime Essentials for All Staff",
+   "summary": "An eight-module foundation programme helping all staff recognise financial crime red flags, follow the firm's controls and report suspicions without tipping off.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 319,
+   "entryType": "programme",
+   "title": "Sustainable Finance Essentials",
+   "summary": "A six-module foundation programme giving all staff a practical grounding in ESG, climate risk, sustainable products and avoiding greenwashing.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

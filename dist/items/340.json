@@ -1,0 +1,176 @@
+{
+ "id": 340,
+ "entryType": "module",
+ "title": "Governance, Board Oversight and Readiness",
+ "summary": "Brings the programme together into a governance framework and readiness plan, covering accountability, board oversight, supervisory engagement and international standards.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "governance-board-oversight-and-readiness",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together into a governance framework and readiness plan, covering accountability, board oversight, supervisory engagement and international standards.",
+  "Learning Objectives": [
+   "Define accountability for agentic AI under senior manager accountability regimes",
+   "Specify the information and assurance the board needs on agents",
+   "Produce an agentic AI readiness plan for the firm"
+  ],
+  "Syllabus": [
+   "Accountability, risk appetite and approval of agent use cases",
+   "Board reporting, assurance and supervisory engagement",
+   "International work by the FSB, IOSCO, BIS and OECD",
+   "Workshop: the firm's agentic AI readiness plan"
+  ],
+  "Intended Audience": [
+   "Product, digital, technology and innovation leads designing or deploying AI agents",
+   "Compliance, risk, financial crime and legal professionals overseeing agentic AI",
+   "Senior managers and directors accountable for AI strategy and its outcomes"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with AI, payments or digital products in a regulated firm is helpful. No technical background in AI is required.",
+  "Core Reading": [
+   "OECD, Recommendation of the Council on Artificial Intelligence (2019, revised 2024)",
+   "NIST, Artificial Intelligence Risk Management Framework (AI RMF 1.0) (2023)",
+   "FSB, The Financial Stability Implications of Artificial Intelligence (2024)",
+   "FATF, Guidance on Digital Identity (2020)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 192,
+   "module": 8,
+   "title": "Agentic AI and Autonomous Finance for Firms",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 333,
+     "number": 1,
+     "title": "From Generative AI to Agentic Finance"
+    },
+    {
+     "id": 334,
+     "number": 2,
+     "title": "Delegated Authority and Mandates"
+    },
+    {
+     "id": 335,
+     "number": 3,
+     "title": "Identity and Know Your Agent"
+    },
+    {
+     "id": 336,
+     "number": 4,
+     "title": "Payments and Transactions by Agents"
+    },
+    {
+     "id": 337,
+     "number": 5,
+     "title": "Controls, Monitoring and Kill-Switches"
+    },
+    {
+     "id": 338,
+     "number": 6,
+     "title": "Liability, Conduct and Customer Outcomes"
+    },
+    {
+     "id": 339,
+     "number": 7,
+     "title": "Financial Crime and Third-Party Model Risk"
+    },
+    {
+     "id": 340,
+     "number": 8,
+     "title": "Governance, Board Oversight and Readiness"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 196,
+   "entryType": "programme",
+   "title": "AI Governance for Firms",
+   "summary": "A ten-module programme giving compliance, risk, model risk and technology staff the tools to design, run and evidence robust AI governance across the firm.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

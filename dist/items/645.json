@@ -1,0 +1,175 @@
+{
+ "id": 645,
+ "entryType": "module",
+ "title": "Remuneration and Incentives",
+ "summary": "How pay, promotion and recognition drive behaviour, how incentive structures have contributed to misconduct, and what the remuneration committee should challenge.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "remuneration-and-incentives",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Conduct & Culture / HR"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How pay, promotion and recognition drive behaviour, how incentive structures have contributed to misconduct, and what the remuneration committee should challenge.",
+  "Learning Objectives": [
+   "Explain how financial and non-financial incentives shape behaviour",
+   "Challenge incentive structures that reward volume over outcomes",
+   "Apply risk adjustment, deferral, malus and clawback effectively"
+  ],
+  "Syllabus": [
+   "Incentive design: balanced scorecards and conduct gateways",
+   "Sales incentives and the link to mis-selling",
+   "Risk adjustment, deferral, malus and clawback in practice",
+   "FSB principles for sound compensation practices"
+  ],
+  "Intended Audience": [
+   "Chairs, non-executive and independent directors and members of board risk, audit, remuneration and nomination committees",
+   "Executive directors and senior managers accountable for conduct, people and customer outcomes",
+   "Heads of HR, compliance and company secretarial supporting board oversight of culture"
+  ],
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No specialist background in HR or behavioural science is required.",
+  "Core Reading": [
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)",
+   "FSB, Guidance on Supervisory Interaction with Financial Institutions on Risk Culture (2014)",
+   "FSB, Supplementary Guidance to the FSB Principles and Standards on Sound Compensation Practices (2018)",
+   "Group of Thirty, Banking Conduct and Culture: A Call for Sustained and Comprehensive Reform (2015)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 227,
+   "module": 3,
+   "title": "Culture, Conduct and Accountability for Boards",
+   "moduleCount": 8,
+   "durationValue": 16,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 643,
+     "number": 1,
+     "title": "Culture and the Board: Setting the Tone"
+    },
+    {
+     "id": 644,
+     "number": 2,
+     "title": "Measuring and Monitoring Culture"
+    },
+    {
+     "id": 645,
+     "number": 3,
+     "title": "Remuneration and Incentives"
+    },
+    {
+     "id": 646,
+     "number": 4,
+     "title": "Consumer Outcomes and Conduct MI"
+    },
+    {
+     "id": 647,
+     "number": 5,
+     "title": "Speaking Up and Whistleblowing"
+    },
+    {
+     "id": 648,
+     "number": 6,
+     "title": "Senior Manager Accountability"
+    },
+    {
+     "id": 649,
+     "number": 7,
+     "title": "Misconduct and Consequence Management"
+    },
+    {
+     "id": 650,
+     "number": 8,
+     "title": "Supervisory Focus on Culture and Board Action Plan"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 236,
+   "entryType": "programme",
+   "title": "Effective Governance for Boards and Directors",
+   "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+   "level": "Board level",
+   "moduleCount": 12,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 242,
+   "entryType": "programme",
+   "title": "Finance and Prudential Essentials for Directors of Regulated Firms",
+   "summary": "An eight-module programme giving non-financial directors the confidence to read a regulated firm's accounts, capital and liquidity position, and to challenge the CFO.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

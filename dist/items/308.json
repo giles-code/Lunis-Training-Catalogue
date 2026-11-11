@@ -1,0 +1,311 @@
+{
+ "id": 308,
+ "entryType": "programme",
+ "title": "Senior Management Accountability",
+ "summary": "An eight-module programme helping executives and senior managers understand their personal accountability and evidence reasonable steps under senior manager regimes.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "senior-management-accountability",
+ "moduleCount": 8,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips executives and senior managers to understand and discharge their personal obligations under senior manager accountability and certification regimes, and to evidence the reasonable steps they take.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give executives and senior managers a clear, practical understanding of individual accountability: what they are responsible for, what reasonable steps look like, and how authorities judge failure. Participants leave able to define their responsibilities, oversee what they delegate and evidence their decisions in a way that stands up to supervisory and enforcement scrutiny.",
+  "What It Covers": "The purpose of senior manager accountability regimes, statements of responsibilities, the duty of responsibility and reasonable steps, delegation, oversight and handovers, conduct rules and fitness and propriety, evidencing reasonable steps, lessons from enforcement cases, and personal accountability for AI and technology decisions.",
+  "Intended Audience": [
+   "Executive directors, senior managers and heads of business lines holding senior manager functions",
+   "Heads of compliance, risk, internal audit and other control functions with personal accountability",
+   "Company secretaries, HR and compliance staff who administer the accountability regime"
+  ],
+  "Learning Objectives": [
+   "Explain the purpose and building blocks of senior manager accountability and certification regimes",
+   "Define personal responsibilities clearly in statements of responsibilities",
+   "Apply the duty of responsibility and the reasonable steps test to real scenarios",
+   "Design delegation, oversight and handover arrangements that preserve accountability",
+   "Evidence reasonable steps through proportionate, contemporaneous records",
+   "Assess personal accountability for AI and technology and see the firm the way a supervisor does"
+  ],
+  "Structure and Format": "Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Modules combine short briefings with scenario exercises, generic enforcement cases and group discussion, and can be selected or tailored to the firm's accountability framework.",
+  "Useful Prior Knowledge and Experience": "Some management experience in a regulated firm is helpful. No legal background is required.",
+  "Core Reading": [
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)",
+   "Group of Thirty, Banking Conduct and Culture: A Call for Sustained and Comprehensive Reform (2015)",
+   "Basel Committee, Corporate Governance Principles for Banks (2015)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1346,
+   "number": 1,
+   "title": "Why Senior Manager Accountability Regimes Exist",
+   "summary": "The origins and purpose of senior manager accountability and certification regimes, the gaps they were designed to close, and how they change the personal position of executives.",
+   "objectives": [
+    "Explain the policy rationale for individual accountability in financial services",
+    "Describe the common building blocks of senior manager and certification regimes",
+    "Identify how these regimes change the personal exposure of senior managers"
+   ],
+   "syllabus": [
+    "Lessons from past failures where no one was held accountable",
+    "Senior manager functions, certified staff and conduct rules",
+    "International approaches and the FSB toolkit on misconduct risk",
+    "What supervisors now expect of individual senior managers"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1347,
+   "number": 2,
+   "title": "Statements of Responsibility and Responsibilities Maps",
+   "summary": "How responsibilities are allocated, documented and kept current, and how to write a statement of responsibilities that is clear, complete and defensible.",
+   "objectives": [
+    "Draft a clear and accurate statement of responsibilities",
+    "Assess the firm's responsibilities map for gaps and overlaps",
+    "Keep allocations current through change and restructuring"
+   ],
+   "syllabus": [
+    "Prescribed responsibilities and business area responsibilities",
+    "Drafting principles: precision, completeness and avoiding shared ownership",
+    "Responsibilities maps, governance arrangements and reporting lines",
+    "Common drafting weaknesses identified by supervisors"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1348,
+   "number": 3,
+   "title": "The Duty of Responsibility and Reasonable Steps",
+   "summary": "What the duty of responsibility means in practice, how reasonable steps are judged, and the factors an authority weighs when deciding whether a senior manager fell short.",
+   "objectives": [
+    "Explain the duty of responsibility and the reasonable steps test",
+    "Identify the factors used to judge whether steps were reasonable",
+    "Apply the test to realistic scenarios involving failures in the senior manager's area"
+   ],
+   "syllabus": [
+    "The duty of responsibility: scope, burden and consequences",
+    "What counts as reasonable: knowledge, resources, urgency and hindsight",
+    "Acting on red flags, escalation and seeking expert advice",
+    "Scenario exercise: did the senior manager take reasonable steps"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1349,
+   "number": 4,
+   "title": "Delegation, Oversight and Handovers",
+   "summary": "How senior managers delegate without abdicating responsibility, oversee what they have delegated, and manage handovers so that accountability does not fall between the gaps.",
+   "objectives": [
+    "Delegate tasks while retaining effective oversight and accountability",
+    "Design management information and challenge that evidence oversight",
+    "Plan and document an effective handover on joining or leaving a role"
+   ],
+   "syllabus": [
+    "Delegation versus abdication: what remains with the senior manager",
+    "Oversight tools: management information, assurance and challenge",
+    "Reliance on committees, control functions and group entities",
+    "Handover certificates, reading in and the first hundred days"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1350,
+   "number": 5,
+   "title": "Conduct Rules, Fitness and Propriety",
+   "summary": "The conduct standards that apply to senior managers and wider staff, and the ongoing assessment of fitness and propriety, including how the firm certifies and monitors individuals.",
+   "objectives": [
+    "Explain the individual and senior manager conduct rules",
+    "Apply fitness and propriety criteria at appointment and on an ongoing basis",
+    "Identify breaches, reporting obligations and regulatory references"
+   ],
+   "syllabus": [
+    "Individual conduct rules and the additional senior manager rules",
+    "Honesty, integrity, competence and financial soundness",
+    "Annual certification, regulatory references and breach reporting",
+    "Non-financial misconduct and its treatment under the regime"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1351,
+   "number": 6,
+   "title": "Evidencing Reasonable Steps",
+   "summary": "How senior managers create a contemporaneous record that shows they understood their area, acted on risks and escalated issues, without generating defensive paperwork.",
+   "objectives": [
+    "Identify the records that best evidence reasonable steps",
+    "Design a personal accountability file proportionate to the role",
+    "Use minutes, challenge and escalation records to evidence decisions"
+   ],
+   "syllabus": [
+    "What good evidence looks like: contemporaneous, specific and decision-focused",
+    "Board and committee minutes as evidence of challenge",
+    "Personal accountability files, attestations and their limits",
+    "Avoiding box-ticking and defensive documentation"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1352,
+   "number": 7,
+   "title": "Enforcement Cases and Lessons Learned",
+   "summary": "What enforcement and supervisory interventions against senior managers reveal about where individuals go wrong, how investigations unfold and how to respond if under scrutiny.",
+   "objectives": [
+    "Analyse generic enforcement cases against senior managers",
+    "Explain the stages of an investigation into an individual",
+    "Identify the behaviours that most often lead to individual action"
+   ],
+   "syllabus": [
+    "Typical failings: ignored warnings, inadequate oversight and poor escalation",
+    "Investigation process: interviews, representations and outcomes",
+    "Sanctions: prohibition, fines, suspension and remuneration consequences",
+    "Personal protection: legal advice, insurance and indemnities"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1353,
+   "number": 8,
+   "title": "Personal Accountability for AI and Technology Decisions",
+   "summary": "Applies the regime to AI, technology change and third-party dependency, and closes with a personal action plan for each participant's accountabilities.",
+   "objectives": [
+    "Identify who is accountable for AI, technology and outsourcing decisions",
+    "Apply the reasonable steps test to technology failures and AI-driven harm",
+    "Produce a personal accountability action plan"
+   ],
+   "syllabus": [
+    "Allocating responsibility for AI models, data and automated decisions",
+    "Major technology change, outages and third-party failures",
+    "Questions a senior manager should ask before approving AI use",
+    "Workshop: my accountabilities, evidence and twelve-month action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 236,
+   "entryType": "programme",
+   "title": "Effective Governance for Boards and Directors",
+   "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+   "level": "Board level",
+   "moduleCount": 12,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 242,
+   "entryType": "programme",
+   "title": "Finance and Prudential Essentials for Directors of Regulated Firms",
+   "summary": "An eight-module programme giving non-financial directors the confidence to read a regulated firm's accounts, capital and liquidity position, and to challenge the CFO.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 263,
+   "entryType": "programme",
+   "title": "Geopolitical and Emerging Risks for Boards",
+   "summary": "An eight-module programme helping boards identify, debate and prepare for geopolitical and emerging risks, ending with a facilitated board scenario exercise.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 266,
+   "entryType": "programme",
+   "title": "Group Governance and Cross-Border Operations",
+   "summary": "A nine-module programme helping boards and senior managers of cross-border groups balance group direction with local accountability, oversee intragroup arrangements and deal with multiple supervisors.",
+   "level": "Advanced",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

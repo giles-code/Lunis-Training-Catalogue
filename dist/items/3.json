@@ -1,0 +1,116 @@
+{
+ "id": 3,
+ "entryType": "module",
+ "title": "AI & Machine Learning in AML/CFT Detection",
+ "summary": "The aim of this workshop is to build participants' understanding of how regulated entities use AI and machine learning to strengthen transaction monitoring and suspicious activity detection, and the practical trade-offs supervisors should expect firms to manage.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Reducing Financial Crime & Delivering Market Integrity",
+ "tags": [
+  "Financial crime",
+  "AI & technology"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "ai-and-machine-learning-in-aml-cft-detection",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how regulated entities use AI and machine learning to strengthen transaction monitoring and suspicious activity detection, and the practical trade-offs supervisors should expect firms to manage.",
+  "Intended Audience": "Mid-level supervisory and financial crime specialist staff assessing firms' financial crime controls.",
+  "Learning Objectives": [
+   "Explain how AI/ML techniques are applied to transaction monitoring",
+   "Describe network and graph analytics approaches to detecting suspicious activity",
+   "Assess the trade-off between detection sensitivity and false-positive rates",
+   "Evaluate a firm's AI-driven monitoring system for supervisory adequacy",
+   "Identify the human oversight controls that should accompany AI-driven detection"
+  ],
+  "Syllabus": [
+   "From rules-based to AI/ML-driven transaction monitoring",
+   "Anomaly detection and behavioural profiling techniques",
+   "Network and graph analytics for detecting suspicious patterns",
+   "Realistic capabilities and limitations of current AI/ML tools",
+   "Facilitated discussion: AI adoption in AML systems participants have encountered",
+   "Why false-positive rates matter for both firms and supervisors",
+   "Techniques for false-positive reduction and their risks",
+   "The risk of tuning systems to minimise workload rather than maximise detection",
+   "Assessing model performance metrics critically",
+   "Group exercise: assess a sample AI monitoring system's performance metrics",
+   "Supervisory criteria for assessing AI-driven monitoring adequacy",
+   "Human oversight and escalation controls that should accompany AI detection",
+   "Case study: a firm's AI monitoring system under supervisory review",
+   "Case study: evaluate a firm's AI-driven monitoring system and identify oversight gaps",
+   "Recap: AI/ML techniques, false-positive trade-offs, oversight",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: AI/ML in transaction monitoring (09:30–10:45)\n- Session 2: False positives and detection trade-offs (11:00–12:30)\n- Session 3: Supervisory assessment and oversight (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- AI/ML-driven monitoring changes the nature of supervisory review — from checking rules to assessing model performance\n- Reducing false positives is only beneficial if genuine detection capability is preserved\n- Human oversight remains essential even in highly automated detection systems",
+  "Useful Prior Knowledge and Experience": "Some familiarity with reducing financial crime & delivering market integrity is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 247,
+   "entryType": "programme",
+   "title": "Financial Crime Supervision in the Age of AI",
+   "summary": "A ten-module programme equipping supervisors to assess financial crime controls and firms' use of AI in monitoring, screening, fraud and surveillance.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 225,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 245,
+   "entryType": "programme",
+   "title": "Financial Crime Foundations for Regulatory Staff",
+   "summary": "An eight-module foundation programme giving regulatory staff a grounding in AML/CFT, sanctions and fraud, firms' controls and financial crime red flags.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

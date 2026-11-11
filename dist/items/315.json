@@ -1,0 +1,332 @@
+{
+ "id": 315,
+ "entryType": "programme",
+ "title": "Supervisory Risk Assessment Toolkit",
+ "summary": "A ten-module toolkit taking supervisors through the full firm risk assessment cycle, from business model and governance analysis to panels, risk ratings and findings.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Ongoing Supervision",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "supervisory-risk-assessment-toolkit",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisors with a complete, practical toolkit for assessing regulated firms: from risk-based frameworks and business model analysis to governance assessment, interviews, panels, risk ratings and well-evidenced supervisory findings.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Risk Management"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To equip supervisors to carry out a structured, evidence-based risk assessment of a regulated firm and turn it into a defensible risk rating and supervisory plan. Participants leave able to analyse a firm's business model, finances, governance and controls, test what they find through interviews and panel challenge, and write findings that drive action.",
+  "What It Covers": "Risk-based supervisory frameworks, impact and probability, prioritisation and supervisory intensity, business model and strategy analysis, financial analysis, governance and controls assessment, supervisory interviews, thematic reviews, risk governance panels, risk ratings and supervisory plans, and writing findings and following up.",
+  "Intended Audience": [
+   "Line supervisors and supervisory analysts responsible for assessing individual firms",
+   "Senior supervisors and team leaders who review assessments, chair or sit on panels and sign off risk ratings",
+   "Risk, methodology and quality assurance staff who design or calibrate the authority's supervisory framework"
+  ],
+  "Learning Objectives": [
+   "Explain how a risk-based supervisory framework rates firms by impact and probability and sets supervisory intensity",
+   "Analyse a firm's business model, strategy and financial position to identify key vulnerabilities",
+   "Assess governance, risk management and internal controls against clear supervisory expectations",
+   "Apply structured interviewing techniques to test management's account and gather reliable evidence",
+   "Challenge and calibrate risk assessments through thematic reviews and risk governance panels",
+   "Translate assessments into risk ratings, supervisory plans and clearly written findings that are followed through"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines short input with case studies, group exercises and practical tools, building to an end-to-end assessment workshop, and modules can be selected or tailored to the authority's own framework.",
+  "Useful Prior Knowledge and Experience": "Some experience of supervising regulated firms is helpful. No specialist financial or analytical background is required.",
+  "Core Reading": [
+   "Basel Committee, Core Principles for Effective Banking Supervision (2024)",
+   "IMF, Good Supervision: Lessons from the Field (Working Paper WP/23/181, 2023)",
+   "IMF, The Making of Good Supervision: Learning to Say \"No\" (Staff Position Note SPN/10/08, 2010)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1413,
+   "number": 1,
+   "title": "Risk-Based Supervision: Principles and Frameworks",
+   "summary": "The logic of risk-based supervision, how authorities combine the impact of a firm's failure with the probability of it happening, and how the framework structures every later assessment.",
+   "objectives": [
+    "Explain why risk-based supervision replaced compliance-based approaches",
+    "Distinguish impact and probability and how each is assessed",
+    "Map the risk categories and elements of the authority's supervisory risk framework"
+   ],
+   "syllabus": [
+    "From compliance checking to risk-based and outcomes-based supervision",
+    "Impact: size, systemic importance, customer reach and substitutability",
+    "Probability: inherent risks, controls, governance and financial resilience",
+    "International principles on risk-based supervision across sectors"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1414,
+   "number": 2,
+   "title": "Prioritisation, Supervisory Intensity and Resource Allocation",
+   "summary": "How an authority sets its own risk appetite, varies supervisory intensity across the regulated population and makes explicit, defensible trade-offs when resources are limited.",
+   "objectives": [
+    "Apply a supervisory risk appetite to prioritise firms and issues",
+    "Assess intensity models and the trade-off between breadth and depth",
+    "Formulate a risk-based work plan that can be reprioritised as risks change"
+   ],
+   "syllabus": [
+    "The authority's risk appetite and tolerance for firm failure",
+    "Supervisory intensity tiers and minimum engagement models",
+    "Allocating scarce resource and explaining the trade-offs",
+    "Exercise: reprioritising a work plan mid-year"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1415,
+   "number": 3,
+   "title": "Business Model and Strategy Analysis",
+   "summary": "Why supervisors analyse business models and strategy, how a firm creates and sustains value, and a practical roadmap for scoping a proportionate business model analysis.",
+   "objectives": [
+    "Explain what a business model and corporate strategy are and why they matter to supervisors",
+    "Identify the facets of business model and strategy risk",
+    "Plan a proportionate business model analysis using appropriate information sources"
+   ],
+   "syllabus": [
+    "Firm characterisation: products, customers, channels and value chain",
+    "Where strategy and business model risk sit in the risk framework",
+    "Assessing the business environment: competition, buyer and supplier power, new entrants",
+    "Roadmap, proportionality and the preliminary assessment"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1416,
+   "number": 4,
+   "title": "Financial Analysis for Supervisors",
+   "summary": "The quantitative side of risk assessment: reading a firm's financial position, testing the sustainability of earnings and capital, and challenging projections and the assumptions behind them.",
+   "objectives": [
+    "Analyse profitability, capital and liquidity indicators to identify vulnerabilities",
+    "Assess concentration and dependency risks in earnings and funding",
+    "Challenge financial projections and the execution risk behind a strategy"
+   ],
+   "syllabus": [
+    "Profitability key risk indicators and drivers of earnings",
+    "Capital structure, capital quality and liquidity buffers",
+    "Concentration, dependency and peer comparison",
+    "Why strategies fail: projections, assumptions and execution risk"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1417,
+   "number": 5,
+   "title": "Assessing Governance Risk",
+   "summary": "What governance risk is, how supervisors assess board effectiveness, accountability and culture, and how to reach a well-supported conclusion on the quality of a firm's governance.",
+   "objectives": [
+    "Describe the sub-categories of governance risk",
+    "Plan and carry out a governance assessment using documents, observation and interviews",
+    "Draw and evidence conclusions on governance effectiveness"
+   ],
+   "syllabus": [
+    "Governance risk: board, management, accountability, culture and group influence",
+    "Evidence sources: board packs, minutes, evaluations and committee papers",
+    "Red flags: dominant individuals, weak challenge and unclear accountability",
+    "Rating governance and linking it to other risk categories"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1418,
+   "number": 6,
+   "title": "Assessing Risk Management and Internal Controls",
+   "summary": "How supervisors judge whether a firm's risk management framework and control functions actually work, rather than merely exist, and how control quality affects the overall risk rating.",
+   "objectives": [
+    "Evaluate the design and operation of the risk management framework",
+    "Assess the independence, resourcing and influence of the control functions",
+    "Judge whether controls adequately mitigate the inherent risks identified"
+   ],
+   "syllabus": [
+    "Risk appetite, risk identification and management information",
+    "Risk, compliance and internal audit: independence, stature and coverage",
+    "Testing controls: walk-throughs, sample testing and outcomes evidence",
+    "Net risk: weighing controls against inherent risk"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1419,
+   "number": 7,
+   "title": "Supervisory Interviews and Evidence Gathering",
+   "summary": "How to plan and conduct interviews with directors and senior managers, test the credibility of what is said, handle evasive or defensive interviewees and record reliable evidence.",
+   "objectives": [
+    "Plan interviews with clear objectives and an evidence-led question strategy",
+    "Apply questioning techniques and recognise evasion and inconsistency",
+    "Link interview evidence to supervisory conclusions and action"
+   ],
+   "syllabus": [
+    "Interview planning, roles and the supervisory mindset",
+    "Open, probing and closed questions; funnelling and challenge",
+    "Credibility, consistency and handling difficult interviewees",
+    "Recording interviews and corroborating with documentary evidence"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1420,
+   "number": 8,
+   "title": "Thematic Reviews and Cross-Firm Analysis",
+   "summary": "When and how to use thematic reviews to examine a risk across many firms, how to scope them tightly, and how to use the results in both firm-level and sector-wide supervision.",
+   "objectives": [
+    "Explain what drives a thematic review and the main types of review",
+    "Design a tightly scoped review that avoids over-reach",
+    "Use thematic findings to inform firm ratings, policy and industry communication"
+   ],
+   "syllabus": [
+    "Triggers for thematic work: emerging risks, outliers and policy questions",
+    "Scoping, sampling and avoiding the over-scoped 'Christmas tree' review",
+    "Managing moral hazard and expectations created by thematic findings",
+    "Thematic governance: panel composition, packs and reporting"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1421,
+   "number": 9,
+   "title": "Risk Governance Panels and Calibrating Risk Ratings",
+   "summary": "How internal panels challenge and calibrate supervisory assessments, the roles of presenters, chair and members, and how to prepare a panel pack that supports a consistent, defensible rating.",
+   "objectives": [
+    "Describe the purpose, phases and operating procedures of a risk governance panel",
+    "Prepare a panel pack with a clear supervisory narrative and assessment of materiality",
+    "Contribute to open, constructive challenge as presenter or panel member"
+   ],
+   "syllabus": [
+    "Pre-panel meeting, panel discussion and post-panel actions",
+    "Roles of presenter, chair, members, secretary and observers",
+    "The panel pack: narrative, evidence, materiality and proposed rating",
+    "Consistency of ratings across firms and over time"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1422,
+   "number": 10,
+   "title": "From Assessment to Action: Findings, Plans and Follow-Up",
+   "summary": "Brings the toolkit together: choosing proportionate supervisory tools, writing findings that firms understand and act on, setting a supervisory plan and tracking remediation to closure.",
+   "objectives": [
+    "Select proportionate supervisory tools and interventions for the risks identified",
+    "Write clear, evidenced findings and a risk mitigation programme",
+    "Track remediation and decide when to close or escalate"
+   ],
+   "syllabus": [
+    "The supervisory toolkit: from letters to formal requirements",
+    "Writing findings: issue, evidence, risk, required action and deadline",
+    "Supervisory plans, follow-up and validating remediation",
+    "Workshop: end-to-end risk assessment of a case-study firm"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 218,
+   "entryType": "programme",
+   "title": "Core Supervisory Skills: Business Models, Governance and Risk Governance Panels",
+   "summary": "A three-day workshop taking supervisors from business model analysis through governance interviews to a risk governance panel, using running case studies and role plays.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 267,
+   "entryType": "programme",
+   "title": "How Financial Firms Work: Business Models and Financial Statements for Supervisors",
+   "summary": "An eight-module programme helping supervisors understand how financial firms make money, read their accounts and identify capital, liquidity and business model risks.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 310,
+   "entryType": "programme",
+   "title": "Supervising Compliance in Practice: Masterclass Series",
+   "summary": "Ten half-day masterclasses showing supervisors how to test whether firms' compliance arrangements work in practice across core compliance areas.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 35,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 257,
+   "entryType": "programme",
+   "title": "Foundations of Financial Regulation and Supervision",
+   "summary": "An eight-module induction for new regulatory staff covering why we regulate, the authority's powers, risk-based supervision and a first supervisory case.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 217,
+   "entryType": "programme",
+   "title": "Core Professional Skills for Regulatory Staff",
+   "summary": "An eight-module practical programme building the core writing, analysis, meeting, challenge, presentation and data skills that regulatory staff need every day.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

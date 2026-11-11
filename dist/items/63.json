@@ -1,0 +1,113 @@
+{
+ "id": 63,
+ "entryType": "module",
+ "title": "Early Intervention: Recognising and Acting on Warning Signs",
+ "summary": "The aim of this workshop is to build participants' ability to recognise early warning signs of firm distress and apply a structured intervention ladder before problems become crises.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Crisis Management & Resolution",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Leadership & senior management",
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "early-intervention-recognising-and-acting-on-warning-signs",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Crisis Management & Resolution"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' ability to recognise early warning signs of firm distress and apply a structured intervention ladder before problems become crises.",
+  "Intended Audience": "Mid-to-senior staff involved in crisis preparedness, recovery, and resolution planning.",
+  "Learning Objectives": [
+   "Explain the concept of an intervention ladder",
+   "Identify common early warning indicators of firm distress",
+   "Assess when escalation up the intervention ladder is warranted",
+   "Apply structured decision thresholds for early intervention",
+   "Formulate an early intervention response for a sample scenario"
+  ],
+  "Syllabus": [
+   "The intervention ladder: from monitoring to formal action",
+   "Why early intervention is more effective than late intervention",
+   "Common early warning indicators across risk types",
+   "Behavioural versus quantitative warning signs",
+   "Facilitated discussion: early warning signs participants have observed",
+   "Deciding when to escalate up the intervention ladder",
+   "Balancing false alarms against late intervention risk",
+   "Structured decision thresholds for common warning signs",
+   "Documenting the basis for escalation decisions",
+   "Group exercise: assess a sample firm's warning signs and decide on an escalation point",
+   "Options available at each rung of the intervention ladder",
+   "Case study: a firm showing early signs of distress",
+   "Case study: formulate an early intervention response for a sample firm",
+   "Recap: warning signs, escalation thresholds, intervention",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Warning signs and the intervention ladder (09:30–10:45)\n- Session 2: Escalation thresholds (11:00–12:30)\n- Session 3: Applying early intervention (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Early intervention is almost always more effective and less costly than late intervention\n- A structured intervention ladder makes escalation decisions consistent and defensible\n- Behavioural warning signs often precede quantitative deterioration and deserve equal attention",
+  "Useful Prior Knowledge and Experience": "Some familiarity with crisis management & resolution is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 219,
+   "entryType": "programme",
+   "title": "Crisis Management and Resolution",
+   "summary": "A ten-module programme preparing supervisors for firm and system-wide stress, from early intervention and recovery and resolution planning to crisis communication and a live simulation.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

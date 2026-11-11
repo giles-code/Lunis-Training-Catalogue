@@ -1,0 +1,180 @@
+{
+ "id": 978,
+ "entryType": "module",
+ "title": "Group Structures and Why They Matter",
+ "summary": "How regulated firms organise across borders through holding companies, subsidiaries and branches, and why supervisors look at the group as well as the licensed entity.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "group-structures-and-why-they-matter",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Governance & Company Secretarial",
+  "International & Cross-Border Affairs"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How regulated firms organise across borders through holding companies, subsidiaries and branches, and why supervisors look at the group as well as the licensed entity.",
+  "Learning Objectives": [
+   "Explain common cross-border group structures in investment, funds, payments and crypto-asset businesses",
+   "Identify where regulated and unregulated entities create gaps or risks",
+   "Explain how consolidated and group-wide supervision affects the local firm"
+  ],
+  "Syllabus": [
+   "Holding companies, operating subsidiaries, branches and service companies",
+   "Why groups grow complex: tax, licences, acquisitions and legacy",
+   "Consolidated and group-wide supervision from the firm's side",
+   "Mapping the group: legal entities, licences, people and money flows"
+  ],
+  "Intended Audience": [
+   "Chairs, executive, non-executive and independent directors of regulated subsidiaries, and of parent and holding companies",
+   "Country heads, branch managers and senior managers responsible for a local entity within a wider group",
+   "Group and local heads of compliance, risk, legal, governance and regulatory affairs"
+  ],
+  "Useful Prior Knowledge and Experience": "Board, senior management or control function experience in a firm that is part of a group or operates across borders is helpful. No legal background is required.",
+  "Core Reading": [
+   "G20/OECD Principles of Corporate Governance (2023)",
+   "FSB, Enhancing Third-Party Risk Management and Oversight: A Toolkit for Financial Institutions and Financial Authorities (2023)",
+   "Basel Committee, Principles for Effective Supervisory Colleges (2014)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 266,
+   "module": 1,
+   "title": "Group Governance and Cross-Border Operations",
+   "moduleCount": 9,
+   "durationValue": 27,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 978,
+     "number": 1,
+     "title": "Group Structures and Why They Matter"
+    },
+    {
+     "id": 979,
+     "number": 2,
+     "title": "Subsidiary or Branch: Structuring for Access and Control"
+    },
+    {
+     "id": 980,
+     "number": 3,
+     "title": "Local Board Independence and Group Direction"
+    },
+    {
+     "id": 981,
+     "number": 4,
+     "title": "Intragroup Outsourcing and Service Agreements"
+    },
+    {
+     "id": 982,
+     "number": 5,
+     "title": "Booking Models, Substance and Local Control"
+    },
+    {
+     "id": 983,
+     "number": 6,
+     "title": "Passporting and Third-Country Access"
+    },
+    {
+     "id": 984,
+     "number": 7,
+     "title": "Dealing with Multiple Supervisors"
+    },
+    {
+     "id": 985,
+     "number": 8,
+     "title": "Conflicts Between the Group and the Local Entity"
+    },
+    {
+     "id": 986,
+     "number": 9,
+     "title": "Group Stress, Recovery and Wind-Down: Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 236,
+   "entryType": "programme",
+   "title": "Effective Governance for Boards and Directors",
+   "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+   "level": "Board level",
+   "moduleCount": 12,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

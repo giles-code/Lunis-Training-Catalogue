@@ -1,0 +1,155 @@
+{
+ "id": 1186,
+ "entryType": "module",
+ "title": "This Year's International Regulatory Agenda",
+ "summary": "A briefing on the year's main regulatory and supervisory developments for funds and managers, drawing on the work of international standard-setters and recurring supervisory priorities.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1.5,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "this-year-s-international-regulatory-agenda",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "A briefing on the year's main regulatory and supervisory developments for funds and managers, drawing on the work of international standard-setters and recurring supervisory priorities.",
+  "Learning Objectives": [
+   "Identify the year's main international policy developments for funds and managers",
+   "Explain how standard-setter work is translated into national requirements",
+   "Assess which developments matter most for the board's own fund range"
+  ],
+  "Syllabus": [
+   "IOSCO and FSB work on fund liquidity, leverage and non-bank intermediation",
+   "Supervisory priorities: fees and costs, valuation, governance and delegation",
+   "Private markets, retail access and product governance developments",
+   "Enforcement themes and lessons from recent supervisory findings"
+  ],
+  "Intended Audience": [
+   "Independent and non-executive directors of investment funds and fund management companies",
+   "Executive directors, conducting officers and designated persons responsible for regulatory compliance",
+   "Heads of compliance, legal and risk, and company secretaries supporting fund boards"
+  ],
+  "Useful Prior Knowledge and Experience": "Experience as a fund director or in fund management, compliance or legal roles is helpful. No legal qualification is required.",
+  "Core Reading": [
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)",
+   "FSB, The Financial Stability Implications of Tokenisation (2024)",
+   "IOSCO, Recommendations on Sustainability-Related Practices, Policies, Procedures and Disclosure in Asset Management (2021)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 288,
+   "module": 3,
+   "title": "Overseeing Regulatory Change: Annual Update for Fund Directors",
+   "moduleCount": 6,
+   "durationValue": 9,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 1184,
+     "number": 1,
+     "title": "Legal and Regulatory Touch Points for Funds"
+    },
+    {
+     "id": 1185,
+     "number": 2,
+     "title": "Managing Regulatory Change and Regulatory Risk"
+    },
+    {
+     "id": 1186,
+     "number": 3,
+     "title": "This Year's International Regulatory Agenda"
+    },
+    {
+     "id": 1187,
+     "number": 4,
+     "title": "Technology Themes: Resilience, Tokenisation and AI"
+    },
+    {
+     "id": 1188,
+     "number": 5,
+     "title": "Sustainability and Disclosure Developments"
+    },
+    {
+     "id": 1189,
+     "number": 6,
+     "title": "Workshop: The Board's Regulatory Change Plan"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 199,
+   "entryType": "programme",
+   "title": "Alternative Investments for Fund Directors",
+   "summary": "An eight-module programme explaining hedge fund, private markets, real asset, structured and digital asset strategies to fund directors, with board questions on valuation, liquidity and fees.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 207,
+   "entryType": "programme",
+   "title": "Board Oversight of Fund Operations and Service Providers",
+   "summary": "A ten-module programme giving fund directors the tools to oversee fund operations and service providers, from NAV production and custody to errors and resilience.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 260,
+   "entryType": "programme",
+   "title": "Fund Board Governance Toolkit: A Risk-Based Oversight Workshop",
+   "summary": "A six-module practical workshop giving fund directors a risk-based governance toolkit, from skills matrices to escalation triggers, and a draft oversight plan for their own board.",
+   "level": "Board level",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  }
+ ]
+}

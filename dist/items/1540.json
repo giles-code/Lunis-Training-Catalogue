@@ -1,0 +1,171 @@
+{
+ "id": 1540,
+ "entryType": "module",
+ "title": "Trust and Company Service Providers",
+ "summary": "What trust and company service providers do, how they form and administer companies, trusts and foundations, and the ownership and control information they hold.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Intelligence & Law Enforcement",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Financial investigators & police",
+  "FIU analysts",
+  "Asset recovery, customs & tax"
+ ],
+ "firmType": [],
+ "slug": "trust-and-company-service-providers",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Capability & Capacity Building"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What trust and company service providers do, how they form and administer companies, trusts and foundations, and the ownership and control information they hold.",
+  "Learning Objectives": [
+   "Explain the services trust and company service providers offer",
+   "Describe how companies, trusts and foundations are formed and administered",
+   "Identify beneficial ownership and control records held by providers"
+  ],
+  "Syllabus": [
+   "Company formation, registered office and nominee services",
+   "Trusts and foundations: trustees, settlors, protectors and beneficiaries",
+   "Beneficial ownership information and registers",
+   "Records: due diligence files, minutes, ledgers and bank mandates"
+  ],
+  "Intended Audience": [
+   "Police and agency investigators new to financial investigation",
+   "FIU, intelligence and asset recovery staff who request or analyse financial records",
+   "Customs, tax and other enforcement officers who need a working knowledge of financial services firms"
+  ],
+  "Useful Prior Knowledge and Experience": "No prior knowledge of financial services is required. Some experience of investigation or intelligence work is helpful.",
+  "Core Reading": [
+   "FATF (2012, as updated), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations",
+   "FATF (2012), Operational Issues: Financial Investigations Guidance",
+   "FATF (2016), Guidance on Correspondent Banking Services",
+   "FATF (2021), Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 330,
+   "module": 5,
+   "title": "Understanding Financial Services for Investigators",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 1536,
+     "number": 1,
+     "title": "The Financial System for Investigators"
+    },
+    {
+     "id": 1537,
+     "number": 2,
+     "title": "Banks and Correspondent Banking"
+    },
+    {
+     "id": 1538,
+     "number": 3,
+     "title": "Payment and E-Money Firms"
+    },
+    {
+     "id": 1539,
+     "number": 4,
+     "title": "Investment Firms, Brokers and Funds"
+    },
+    {
+     "id": 1540,
+     "number": 5,
+     "title": "Trust and Company Service Providers"
+    },
+    {
+     "id": 1541,
+     "number": 6,
+     "title": "Crypto-Asset Service Providers"
+    },
+    {
+     "id": 1542,
+     "number": 7,
+     "title": "What Firms Must Keep: Due Diligence, Records and Reports"
+    },
+    {
+     "id": 1543,
+     "number": 8,
+     "title": "Requesting and Reading Records: Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 256,
+   "entryType": "programme",
+   "title": "FIU Operational and Strategic Analysis",
+   "summary": "A ten-module programme equipping FIU analysts to prioritise and analyse reports, produce operational and strategic intelligence, and cooperate effectively at home and abroad.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

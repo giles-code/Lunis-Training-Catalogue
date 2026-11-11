@@ -1,0 +1,165 @@
+{
+ "id": 655,
+ "entryType": "module",
+ "title": "Incident Reporting, Business Continuity and Resilience",
+ "summary": "What to do when something goes wrong, from reporting a suspected breach to supporting the firm's continuity and recovery plans during a major disruption.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Operational resilience & cyber"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1.5,
+ "durationUnit": "hours",
+ "role": [
+  "All staff"
+ ],
+ "firmType": [],
+ "slug": "incident-reporting-business-continuity-and-resilience",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What to do when something goes wrong, from reporting a suspected breach to supporting the firm's continuity and recovery plans during a major disruption.",
+  "Learning Objectives": [
+   "Recognise security incidents, data breaches and near misses that must be reported",
+   "Report incidents promptly through the correct channels",
+   "Explain their own role in business continuity and the firm's important business services"
+  ],
+  "Syllabus": [
+   "What counts as an incident, and why speed matters",
+   "Internal reporting routes and preserving evidence",
+   "Business continuity plans, critical processes and fallback arrangements",
+   "Important business services, impact tolerances and staff roles in recovery"
+  ],
+  "Intended Audience": [
+   "All staff in regulated firms, including new joiners, contractors and temporary staff with access to the firm's systems",
+   "Front-office, operations, technology, HR, finance and support staff who handle customer data or critical processes",
+   "Line managers responsible for secure working practices and continuity arrangements in their teams"
+  ],
+  "Useful Prior Knowledge and Experience": "No technical background is required. The programme is suitable for new joiners and as annual refresher training.",
+  "Core Reading": [
+   "NIST (2024), The NIST Cybersecurity Framework (CSF) 2.0",
+   "ISO/IEC (2022), ISO/IEC 27001:2022 Information Security, Cybersecurity and Privacy Protection – Information Security Management Systems – Requirements",
+   "ISO (2019), ISO 22301:2019 Security and Resilience – Business Continuity Management Systems – Requirements",
+   "BCBS (2021), Principles for Operational Resilience"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 228,
+   "module": 5,
+   "title": "Cyber, Data and Resilience Essentials",
+   "moduleCount": 6,
+   "durationValue": 9,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 651,
+     "number": 1,
+     "title": "The Threat Landscape and Your Role"
+    },
+    {
+     "id": 652,
+     "number": 2,
+     "title": "Phishing, Social Engineering and Impersonation"
+    },
+    {
+     "id": 653,
+     "number": 3,
+     "title": "Passwords, Authentication and Secure Devices"
+    },
+    {
+     "id": 654,
+     "number": 4,
+     "title": "Data Protection and Confidentiality"
+    },
+    {
+     "id": 655,
+     "number": 5,
+     "title": "Incident Reporting, Business Continuity and Resilience"
+    },
+    {
+     "id": 656,
+     "number": 6,
+     "title": "Safe Use of AI Tools and Third-Party Apps"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 213,
+   "entryType": "programme",
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 244,
+   "entryType": "programme",
+   "title": "Financial Crime Essentials for All Staff",
+   "summary": "An eight-module foundation programme helping all staff recognise financial crime red flags, follow the firm's controls and report suspicions without tipping off.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

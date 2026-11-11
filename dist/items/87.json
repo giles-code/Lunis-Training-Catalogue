@@ -1,0 +1,113 @@
+{
+ "id": 87,
+ "entryType": "module",
+ "title": "From International Standard to Domestic Rule: Transposition in Practice",
+ "summary": "The aim of this workshop is to build participants' understanding of how international and regional standards are translated into domestic rules, including the risks of over- or under-implementation, so that transposition decisions are made deliberately rather than by default.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Policy-Making & Rule-Making",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "from-international-standard-to-domestic-rule-transposition-in-practice",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Policy"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how international and regional standards are translated into domestic rules, including the risks of over- or under-implementation, so that transposition decisions are made deliberately rather than by default.",
+  "Intended Audience": "Junior to mid-level policy officers drafting or contributing to rules, guidance, and consultation papers.",
+  "Learning Objectives": [
+   "Explain the transposition process from international standard to domestic rule",
+   "Distinguish minimum harmonisation from maximum harmonisation approaches",
+   "Assess the risks of over-implementation and under-implementation",
+   "Evaluate domestic discretion available within an international standard",
+   "Formulate a transposition approach for a sample international standard"
+  ],
+  "Syllabus": [
+   "How international standards (IOSCO, FATF, Basel) become domestic rules",
+   "Regional directives versus directly applicable regulations and their transposition implications",
+   "Minimum versus maximum harmonisation",
+   "Timing and sequencing of transposition",
+   "Facilitated discussion: transposition experiences from participants' own jurisdictions",
+   "Consequences of over-implementation: competitiveness, unintended burden",
+   "Consequences of under-implementation: assessment failures, reputational risk",
+   "Case examples of both failure modes",
+   "Balancing domestic context against international consistency",
+   "Group exercise: assess a sample transposition decision for over/under-implementation risk",
+   "Identifying the discretion available within an international standard",
+   "Using discretion deliberately rather than by default",
+   "Case study: transposing a sample international standard",
+   "Case study: formulate a transposition approach for a sample standard, identifying where discretion is used and why",
+   "Recap: transposition process, over/under-implementation, discretion",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: The transposition process (09:30–10:45)\n- Session 2: Risks of over- and under-implementation (11:00–12:30)\n- Session 3: Domestic discretion and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Transposition is a deliberate policy choice, not a mechanical copy-paste exercise\n- Both over- and under-implementation carry real risks that need active management\n- Understanding available discretion lets an authority tailor standards sensibly to domestic context",
+  "Useful Prior Knowledge and Experience": "Some familiarity with policy-making & rule-making is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 292,
+   "entryType": "programme",
+   "title": "Policy-Making and Rule-Making",
+   "summary": "An eight-module programme covering the full policy cycle, from problem definition and cost-benefit analysis to drafting, standards implementation and post-implementation review.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

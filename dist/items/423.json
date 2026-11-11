@@ -1,0 +1,183 @@
+{
+ "id": 423,
+ "entryType": "module",
+ "title": "Fund Distribution, Suitability and Investor Disclosure",
+ "summary": "How funds reach investors through advisers, platforms and direct channels, the conduct rules that govern distribution, and the disclosure and costs principles designed to protect investors.",
+ "clientType": [
+  "firms",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes",
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Funds",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "fund-distribution-suitability-and-investor-disclosure",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How funds reach investors through advisers, platforms and direct channels, the conduct rules that govern distribution, and the disclosure and costs principles designed to protect investors.",
+  "Learning Objectives": [
+   "Explain product governance, target market and distribution oversight obligations",
+   "Apply suitability, appropriateness and conflict of interest principles to fund distribution",
+   "Assess key investor disclosures and costs and charges from manager to end investor"
+  ],
+  "Syllabus": [
+   "Distribution models: advised, execution-only, platforms and digital channels",
+   "Product governance, target market and inducements",
+   "Prospectus, key information documents, periodic reports and marketing communications",
+   "Costs and charges, performance fees and value for investors"
+  ],
+  "Intended Audience": [
+   "Supervisors, authorisation and policy staff at securities and markets authorities covering funds and asset managers",
+   "Compliance, legal, risk and product staff at fund managers, investment managers, distributors and fund platforms",
+   "Directors, depositary, custody and fund administration staff who need a working map of fund regulation across jurisdictions"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of asset management, funds or their supervision is helpful. No legal background or knowledge of any particular jurisdiction's rules is required.",
+  "Core Reading": [
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)",
+   "IOSCO, Recommendations on Sustainability-Related Practices, Policies, Procedures and Disclosure in Asset Management (2021)",
+   "IOSCO, Thematic Analysis: Emerging Risks in Private Finance (2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 202,
+   "module": 5,
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 419,
+     "number": 1,
+     "title": "The Asset Management Value Chain and Regulatory Perimeter"
+    },
+    {
+     "id": 420,
+     "number": 2,
+     "title": "How Fund Regulation Is Organised Internationally"
+    },
+    {
+     "id": 421,
+     "number": 3,
+     "title": "Retail, Professional and Alternative Fund Regimes"
+    },
+    {
+     "id": 422,
+     "number": 4,
+     "title": "Authorising Managers: Governance, Delegation and Substance"
+    },
+    {
+     "id": 423,
+     "number": 5,
+     "title": "Fund Distribution, Suitability and Investor Disclosure"
+    },
+    {
+     "id": 424,
+     "number": 6,
+     "title": "Depositaries, Custody and Safeguarding Investor Assets"
+    },
+    {
+     "id": 425,
+     "number": 7,
+     "title": "Liquidity, Leverage and Valuation: The Prudential Toolkit"
+    },
+    {
+     "id": 426,
+     "number": 8,
+     "title": "Cross-Border Distribution, Passporting and Mutual Recognition"
+    },
+    {
+     "id": 427,
+     "number": 9,
+     "title": "Sustainability Disclosure and Greenwashing Risk"
+    },
+    {
+     "id": 428,
+     "number": 10,
+     "title": "Operational Resilience, Convergence and Emerging Fund Models"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 262,
+   "entryType": "programme",
+   "title": "Fund Regulation Country Briefings",
+   "summary": "Eleven country webinar briefings on fund vehicles, regulators, authorisation, distribution and recent developments in leading European, offshore and Asia Pacific fund markets.",
+   "level": "Intermediate",
+   "moduleCount": 11,
+   "hours": 11,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 271,
+   "entryType": "programme",
+   "title": "International Fund Regulation: Global and Regional Briefings",
+   "summary": "A ten-module webinar series mapping international, EU and Asia Pacific fund regulation and how cross-border fund distribution, management and investment are regulated.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 10,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

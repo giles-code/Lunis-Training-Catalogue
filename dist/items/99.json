@@ -1,0 +1,192 @@
+{
+ "id": 99,
+ "entryType": "module",
+ "title": "Identifying and Protecting Vulnerable Customers",
+ "summary": "The aim of this workshop is to build supervisors' ability to assess how firms identify and respond to customer vulnerability. Participants will learn the drivers of vulnerability, how firms should adapt products, communications and service for vulnerable customers, and how to…",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Cross-Cutting Themes"
+ },
+ "topic": "Consumer Protection & Financial Inclusion",
+ "tags": [
+  "Consumer protection & conduct"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "identifying-and-protecting-vulnerable-customers",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Consumer Protection"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build supervisors' ability to assess how firms identify and respond to customer vulnerability. Participants will learn the drivers of vulnerability, how firms should adapt products, communications and service for vulnerable customers, and how to assess whether a firm's vulnerable-customer framework is effective in practice rather than just on paper.",
+  "Intended Audience": "Junior to mid-level supervisors assessing consumer protection outcomes.",
+  "Learning Objectives": [
+   "Explain the drivers and dimensions of customer vulnerability",
+   "Describe regulatory expectations for identifying vulnerable customers",
+   "Assess the adequacy of a firm's vulnerable-customer policy",
+   "Evaluate whether frontline staff are equipped to identify vulnerability",
+   "Analyse case examples of tailored treatment for vulnerable customers",
+   "Identify gaps between a firm's stated policy and its practical delivery",
+   "Formulate supervisory conclusions on vulnerable-customer treatment"
+  ],
+  "Syllabus": [
+   "Drivers of vulnerability: health, life events, resilience, capability",
+   "Vulnerability as a spectrum, not a fixed category",
+   "Regulatory expectations for identifying vulnerable customers",
+   "The business case for good vulnerable-customer practice",
+   "Facilitated discussion: how vulnerability shows up in different sectors",
+   "Exercise: map vulnerability drivers to customer scenarios",
+   "What a good vulnerable-customer policy contains",
+   "Frontline identification: training, tools, escalation routes",
+   "Tailoring products, communications and service",
+   "Common weaknesses in practice versus policy",
+   "Group exercise: review a sample vulnerable-customer policy",
+   "Role-play: a frontline interaction with a vulnerable customer",
+   "Case examples of good and poor tailored treatment",
+   "Identifying the gap between stated policy and delivery",
+   "Supervisory tools for assessing vulnerable-customer outcomes",
+   "Escalation and intervention where practice falls short",
+   "Case study: assess a firm's vulnerable-customer framework and produce supervisory conclusions",
+   "Recap: vulnerability drivers, policy assessment, practical delivery",
+   "Reinforcing the spectrum view of vulnerability",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Understanding vulnerability (09:30–10:45)\n- Session 2: Assessing firm frameworks (11:00–12:30)\n- Session 3: Case examples and supervisory assessment (13:30–15:00)\n- Session 4: Wrap-up and key takeaways (15:00–15:15)\n\n**Key Takeaways**\n- Vulnerability is a spectrum that can affect any customer, not a fixed group\n- A good policy is meaningless without frontline capability to act on it\n- Supervisors should test delivery in practice, not just review documentation",
+  "Useful Prior Knowledge and Experience": "Some familiarity with consumer protection & financial inclusion is helpful but not essential.",
+  "Core Reading": [
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "World Bank, Good Practices for Financial Consumer Protection (2017)",
+   "CPMI and World Bank, Payment Aspects of Financial Inclusion (2016)"
+  ]
+ },
+ "inherited": [
+  "Core Reading",
+  "level"
+ ],
+ "partOf": [
+  {
+   "programme": 216,
+   "module": 5,
+   "title": "Consumer Protection and Financial Inclusion",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 545,
+     "number": 1,
+     "title": "Foundations of Consumer Protection Supervision"
+    },
+    {
+     "id": 546,
+     "number": 2,
+     "title": "Product Governance and Target Markets"
+    },
+    {
+     "id": 547,
+     "number": 3,
+     "title": "Fair Value Assessment"
+    },
+    {
+     "id": 548,
+     "number": 4,
+     "title": "Disclosure, Communications and Consumer Understanding"
+    },
+    {
+     "id": 99,
+     "number": 5,
+     "title": "Identifying and Protecting Vulnerable Customers"
+    },
+    {
+     "id": 549,
+     "number": 6,
+     "title": "Supervising Complaints Handling and Redress"
+    },
+    {
+     "id": 109,
+     "number": 7,
+     "title": "Issuer Disclosure as Investor Protection"
+    },
+    {
+     "id": 75,
+     "number": 8,
+     "title": "Financial Inclusion and Access to Services"
+    },
+    {
+     "id": 550,
+     "number": 9,
+     "title": "Consumer Outcomes Monitoring and Supervisory Judgement"
+    },
+    {
+     "id": 551,
+     "number": 10,
+     "title": "Emerging Consumer Harms and the Authority's Response"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 212,
+   "entryType": "programme",
+   "title": "Conduct, Culture and Behavioural Supervision",
+   "summary": "An eight-module programme on assessing conduct risk and culture in firms, using behavioural insights, data and targeted supervisory interventions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 220,
+   "entryType": "programme",
+   "title": "Cross-Border and Group Supervision",
+   "summary": "An eight-module programme on home-host supervision, consolidated group oversight, MoUs, supervisory colleges, third-country firms and cross-border crisis cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

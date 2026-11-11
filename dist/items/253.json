@@ -1,0 +1,360 @@
+{
+ "id": 253,
+ "entryType": "programme",
+ "title": "FinTech Business Models: Understanding and Supervising Innovation",
+ "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto",
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3",
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology",
+  "regulators": "Cross-Cutting Themes"
+ },
+ "topic": "Data & Technology as Supervisory Infrastructure",
+ "tags": [
+  "AI & technology",
+  "Payments",
+  "Crypto & digital assets"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Authorisation & licensing",
+  "Policy & specialist teams",
+  "Leadership & senior management",
+  "Senior leaders & managers"
+ ],
+ "firmType": [
+  "FinTech & Big Tech",
+  "Payments & E-Money",
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "fintech-business-models-supervision",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisors, and the compliance teams of innovative firms, to understand how FinTech business models make money, grow and fail, and to assess their consumer, financial crime, resilience and viability risks.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Supervision"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors a practical understanding of the main FinTech business models, from digital lending and neobanks to trading apps, insurtech and crypto on-ramps, and of the unit economics and funding dynamics that drive their behaviour. Participants leave able to read a FinTech's model the way a supervisor does, identify red flags early, and apply proportionate licensing, innovation-facilitation and wind-down tools.",
+  "What It Covers": "The FinTech landscape and unit economics, digital lending and buy now, pay later, neobanks, wallets and payment apps, crowdfunding and peer-to-peer platforms, robo-advice and trading apps, insurtech, crypto on-ramps and regtech, growth, funding and partnership-chain risk, consumer outcomes, financial crime and operational resilience, licensing, sandboxes and innovation hubs, and failure and wind-down.",
+  "Intended Audience": [
+   "Supervisors, authorisation and innovation-hub staff dealing with FinTech applicants and fast-growing digital firms",
+   "Policy, consumer protection and financial crime specialists assessing new business models",
+   "Compliance, risk and legal teams in FinTech firms who want to see their firm the way a supervisor does"
+  ],
+  "Learning Objectives": [
+   "Explain how the main FinTech business models generate revenue, acquire customers and scale",
+   "Analyse unit economics, cash burn and funding dependency as early indicators of fragility",
+   "Assess consumer outcomes, financial crime and operational resilience risks specific to each model",
+   "Evaluate partnership chains and where regulatory accountability sits within them",
+   "Compare licensing approaches, sandboxes and innovation hubs and their supervisory trade-offs",
+   "Plan a proportionate supervisory response to a FinTech in difficulty, through to orderly wind-down"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines a briefing with case studies, business model analysis exercises and supervisory question sets, closing with a FinTech failure workshop, and modules can be selected or tailored to the client's needs.",
+  "Useful Prior Knowledge and Experience": "Some experience of supervision, authorisation or compliance in financial services is helpful. No technical or financial modelling background is required.",
+  "Core Reading": [
+   "FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)",
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "FSB, The Use of Supervisory and Regulatory Technology by Authorities and Regulated Institutions (2020)",
+   "FATF, Guidance on Digital Identity (2020)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 866,
+   "number": 1,
+   "title": "The FinTech Landscape and Unit Economics",
+   "summary": "How FinTech firms create value, the main business model archetypes, and the unit economics every supervisor should read before judging a firm's viability and incentives.",
+   "objectives": [
+    "Map the main FinTech archetypes and their revenue sources",
+    "Interpret customer acquisition cost, lifetime value, take rates and contribution margin",
+    "Identify where revenue models create conduct and prudential incentives"
+   ],
+   "syllabus": [
+    "Archetypes: lenders, payment apps, platforms, advisers and infrastructure providers",
+    "Revenue models: interchange, interest, float, subscriptions, fees and data",
+    "Unit economics: acquisition cost, lifetime value, churn and contribution margin",
+    "Reading a pitch deck and business plan as a supervisor"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 867,
+   "number": 2,
+   "title": "Digital Lending and Buy Now, Pay Later",
+   "summary": "How algorithmic lenders and BNPL providers originate, fund and collect credit, where affordability and credit risk are mispriced, and what supervisors test in their models and outcomes.",
+   "objectives": [
+    "Explain the origination, funding and collections models of digital lenders",
+    "Assess affordability testing, credit models and arrears management",
+    "Identify red flags in BNPL growth, merchant incentives and repeat borrowing"
+   ],
+   "syllabus": [
+    "Alternative data, automated credit decisions and model drift",
+    "Funding through warehouse lines, forward flow and securitisation",
+    "BNPL economics: merchant fees, late fees and stacked borrowing",
+    "Collections practices and vulnerable borrowers"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 868,
+   "number": 3,
+   "title": "Neobanks, Digital Wallets and Payment Apps",
+   "summary": "The economics of app-based banks, e-money wallets and payment apps, the customer funds and safeguarding risks they carry, and why rapid growth often outpaces controls.",
+   "objectives": [
+    "Explain neobank and wallet revenue models and the path to profitability",
+    "Assess safeguarding, reconciliation and the protection of customer funds",
+    "Evaluate control maturity against customer growth and transaction volumes"
+   ],
+   "syllabus": [
+    "Deposit-taking neobanks versus e-money and payment licences",
+    "Interchange dependency, float income and premium subscriptions",
+    "Safeguarding, reconciliation and reliance on partner banks",
+    "Red flags: onboarding surges, complaint spikes and account freezes"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 869,
+   "number": 4,
+   "title": "Crowdfunding and Peer-to-Peer Platforms",
+   "summary": "How lending and investment crowdfunding platforms match investors with borrowers and issuers, where conflicts and credit risk sit, and how supervisors test due diligence and client money arrangements.",
+   "objectives": [
+    "Explain platform models for lending, equity and real estate crowdfunding",
+    "Assess project due diligence, risk disclosure and investor protections",
+    "Identify conflicts of interest and platform failure risks for investors"
+   ],
+   "syllabus": [
+    "Platform roles: introducer, servicer, guarantor or balance-sheet lender",
+    "Credit assessment, provision funds and default reporting",
+    "Investor categorisation, appropriateness and concentration limits",
+    "Back-up servicing and continuity of loan books"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 870,
+   "number": 5,
+   "title": "Robo-Advice and Trading Apps",
+   "summary": "How automated advice and commission-free trading apps make money, how digital design shapes investor behaviour, and what supervisors examine in suitability, order handling and gamification.",
+   "objectives": [
+    "Explain robo-advice and trading app revenue models, including payment for order flow",
+    "Assess suitability algorithms, risk profiling and portfolio rebalancing",
+    "Evaluate gamification, leverage and complex product access for retail investors"
+   ],
+   "syllabus": [
+    "Hybrid and fully automated advice models",
+    "Commission-free trading, spreads, securities lending and order routing",
+    "Gamification, push notifications and copy trading",
+    "Supervisory testing of algorithms and customer journeys"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 871,
+   "number": 6,
+   "title": "Insurtech, Crypto On-Ramps and Regtech",
+   "summary": "Three fast-moving models: digital insurance distribution and pricing, fiat-to-crypto on-ramps embedded in consumer apps, and regtech providers that firms increasingly rely on for compliance.",
+   "objectives": [
+    "Assess insurtech pricing, distribution and claims models for fair value",
+    "Identify consumer and financial crime risks at crypto on-ramps",
+    "Evaluate firms' reliance on regtech for onboarding, monitoring and reporting"
+   ],
+   "syllabus": [
+    "Usage-based and embedded insurance, data-driven pricing and claims automation",
+    "On-ramp models: card and bank purchases of crypto inside consumer apps",
+    "Regtech for identity, screening, monitoring and regulatory reporting",
+    "Accountability when compliance is delivered by a technology vendor"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 872,
+   "number": 7,
+   "title": "Growth, Funding and Partnership-Chain Risk",
+   "summary": "How venture funding, cash burn and growth targets shape behaviour, and how chains of licensed providers, agents, programme managers and vendors blur accountability for customers and controls.",
+   "objectives": [
+    "Analyse runway, cash burn and dependence on further funding rounds",
+    "Map partnership chains and identify who holds the licence and the risk",
+    "Recognise how growth pressure erodes controls and culture"
+   ],
+   "syllabus": [
+    "Funding stages, down rounds, valuation pressure and investor influence",
+    "Runway, burn multiples and early warning indicators of distress",
+    "Licence-holders, agents, distributors and outsourced compliance",
+    "Founder-led governance and growth-at-all-costs culture"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 873,
+   "number": 8,
+   "title": "Consumer Outcomes, Financial Crime and Operational Resilience",
+   "summary": "The cross-cutting risks that recur across FinTech models: harm from digital journeys, exploitation by fraudsters and launderers, and fragile technology stacks built for speed rather than resilience.",
+   "objectives": [
+    "Assess consumer outcomes, vulnerability and complaints across digital journeys",
+    "Evaluate onboarding, fraud and transaction monitoring controls at scale",
+    "Judge the resilience of technology stacks, cloud reliance and incident response"
+   ],
+   "syllabus": [
+    "Frictionless journeys, dark patterns and fair value",
+    "Remote onboarding, synthetic identities, mule accounts and authorised push payment fraud",
+    "Cloud dependency, change management and outage history",
+    "Supervisory data and early warning indicators across the three risks"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 874,
+   "number": 9,
+   "title": "Licensing Approaches, Sandboxes and Innovation Hubs",
+   "summary": "How authorities licence FinTech activities, the design and limits of regulatory sandboxes and innovation hubs, and how to support innovation without lowering standards or creating moral hazard.",
+   "objectives": [
+    "Compare full, restricted, phased and activity-based licensing approaches",
+    "Evaluate the design, governance and outcomes of sandboxes and innovation hubs",
+    "Identify the conflicts and moral hazard risks of innovation facilitation"
+   ],
+   "syllabus": [
+    "Perimeter questions and choosing the right licence",
+    "Sandbox entry criteria, safeguards, testing parameters and exit",
+    "Innovation hubs, cross-border testing networks and regtech challenges",
+    "Avoiding implicit endorsement and regulatory capture"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 875,
+   "number": 10,
+   "title": "Failure, Wind-Down and Supervisory Workshop",
+   "summary": "How FinTechs fail, what an orderly wind-down requires for customers and their funds, and a workshop applying the programme to a fast-growing firm heading into difficulty.",
+   "objectives": [
+    "Identify failure patterns in FinTech firms and their early signals",
+    "Assess solvent wind-down plans and the protection of customer funds and data",
+    "Apply the programme to a supervisory case involving a FinTech under stress"
+   ],
+   "syllabus": [
+    "Failure patterns: funding withdrawal, partner exit, fraud losses and control breakdown",
+    "Wind-down planning, client money return and continuity of critical services",
+    "Supervisory intervention, communication and coordination with other authorities",
+    "Workshop: a fast-growing FinTech loses its funding and partner bank"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 192,
+   "entryType": "programme",
+   "title": "Agentic AI and Autonomous Finance for Firms",
+   "summary": "An eight-module programme helping firms deploy AI agents that act and transact with sound authority, controls, governance and customer protection.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 196,
+   "entryType": "programme",
+   "title": "AI Governance for Firms",
+   "summary": "A ten-module programme giving compliance, risk, model risk and technology staff the tools to design, run and evidence robust AI governance across the firm.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 298,
+   "entryType": "programme",
+   "title": "Quantum and Cryptographic Resilience for Firms",
+   "summary": "An eight-module programme helping firms understand the quantum threat, build a cryptographic inventory, plan post-quantum migration and report readiness to the board and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 222,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals for Industry",
+   "summary": "A ten-module foundation programme giving industry professionals and their advisers a practical understanding of blockchain, crypto-asset markets and service providers, and the risks and controls that matter.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 237,
+   "entryType": "programme",
+   "title": "Embedded Finance, Open Finance and Big Tech Partnerships",
+   "summary": "A nine-module programme for firms building embedded finance, open finance and platform partnerships, covering partnership models, responsibility, partner oversight, data sharing, customer outcomes and exit.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs"
+   ]
+  }
+ ]
+}

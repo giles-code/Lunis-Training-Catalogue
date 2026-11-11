@@ -1,0 +1,331 @@
+{
+ "id": 322,
+ "entryType": "programme",
+ "title": "Tax Crime and the Facilitation of Tax Evasion: Controls for Firms",
+ "summary": "A nine-module programme equipping investment, wealth, fund and fintech firms to prevent the facilitation of tax evasion, detect tax crime proceeds and meet automatic exchange obligations.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Compliance, risk & control functions",
+  "Funds & asset management"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 27,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders",
+  "Senior leaders & managers"
+ ],
+ "firmType": [
+  "Investment Firms & Wealth Management",
+  "Investment Funds & Asset Management",
+  "FinTech & Big Tech"
+ ],
+ "slug": "tax-evasion-facilitation-and-tax-crime-controls",
+ "moduleCount": 9,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips investment, wealth management, fund and fintech firms to manage tax crime risk: preventing the facilitation of tax evasion, detecting laundered tax proceeds and meeting automatic exchange of information obligations.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Compliance"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give compliance, financial crime and client-facing teams a practical understanding of how firms are drawn into tax crime, as a channel for laundered proceeds or as facilitators of evasion. Participants leave able to assess the firm's exposure, design reasonable prevention procedures, apply tax-aware client and investor due diligence, meet automatic exchange of information obligations and act on suspicion.",
+  "What It Covers": "Tax crime as a predicate offence, corporate offences of failing to prevent the facilitation of tax evasion and reasonable prevention procedures, tax evasion risk assessment and associated persons, tax-aware client due diligence and source of wealth, structures and wealth management red flags, fund structures and investor risk, automatic exchange of information under the OECD Common Reporting Standard, and suspicion, reporting and governance.",
+  "Intended Audience": [
+   "MLROs, compliance officers and tax compliance teams in investment, wealth management and fund management firms",
+   "Relationship managers, private client advisers, fund administrators and transfer agency teams",
+   "Senior managers accountable for client onboarding, distribution, introducers and tax reporting"
+  ],
+  "Learning Objectives": [
+   "Explain tax crime as a predicate offence and how firms become channels or facilitators",
+   "Assess the firm's tax evasion facilitation risk, including through associated persons",
+   "Design reasonable prevention procedures and evidence them to supervisors and prosecutors",
+   "Apply tax-aware client and investor due diligence, including source of wealth",
+   "Recognise red flags in wealth management, structures and fund investment",
+   "Meet automatic exchange of information obligations and act on suspicion of tax crime"
+  ],
+  "Structure and Format": "Nine modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines a practitioner briefing with case studies and structure-mapping exercises, ending in a prevention procedures workshop, and modules can be selected or tailored to the firm's client base and products.",
+  "Useful Prior Knowledge and Experience": "Some experience of compliance, AML/CFT or client onboarding is helpful. No specialist knowledge of tax law is required.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "OECD, Fighting Tax Crime – The Ten Global Principles, Second Edition (2021)",
+   "OECD, Standard for Automatic Exchange of Financial Account Information in Tax Matters, Second Edition (2017)",
+   "OECD, Ending the Shell Game: Cracking down on the Professionals who enable Tax and White Collar Crimes (2021)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1468,
+   "number": 1,
+   "title": "Tax Crime as a Financial Crime Risk",
+   "summary": "Why tax crimes are predicate offences for money laundering, how evasion, avoidance and laundering differ, and how investment and wealth firms become channels for the proceeds of tax crime.",
+   "objectives": [
+    "Explain tax crimes as predicate offences under the FATF standards",
+    "Distinguish evasion, aggressive avoidance and laundering of tax proceeds",
+    "Identify how the firm's products and services can hold or move tax crime proceeds"
+   ],
+   "syllabus": [
+    "Tax crimes as designated predicate offences",
+    "Evasion, avoidance and planning: where the legal lines fall",
+    "Common schemes: undeclared income, false invoicing and hidden assets",
+    "Lessons from data leaks, enforcement cases and voluntary disclosure programmes"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1469,
+   "number": 2,
+   "title": "Corporate Offences and Reasonable Prevention Procedures",
+   "summary": "How corporate offences of failing to prevent the facilitation of tax evasion work, who counts as an associated person, and what reasonable prevention procedures look like in practice.",
+   "objectives": [
+    "Explain the structure of failure-to-prevent offences and the defence of reasonable procedures",
+    "Identify the firm's associated persons, including employees, agents and introducers",
+    "Design proportionate prevention procedures with clear senior management ownership"
+   ],
+   "syllabus": [
+    "Criminal facilitation, the corporate offence and cross-border reach",
+    "Associated persons: staff, introducers, distributors and service providers",
+    "Prevention principles: risk assessment, proportionality, commitment, due diligence, communication and monitoring",
+    "Documenting procedures and the evidence a prosecutor or supervisor would expect"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1470,
+   "number": 3,
+   "title": "Assessing Tax Evasion Facilitation Risk",
+   "summary": "How to assess where the firm, its staff and associated persons could facilitate tax evasion, and how to reflect tax crime in the business-wide financial crime risk assessment.",
+   "objectives": [
+    "Map facilitation risk across clients, products, jurisdictions and distribution",
+    "Assess incentives and opportunities for staff and associated persons",
+    "Integrate tax crime into the business-wide risk assessment and risk appetite"
+   ],
+   "syllabus": [
+    "Client, product, jurisdiction and channel risk factors",
+    "Remuneration, sales incentives and introducer arrangements",
+    "Workshops and interviews with front-line and product teams",
+    "Recording residual risk and linking it to controls"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1471,
+   "number": 4,
+   "title": "Tax-Aware Client Due Diligence and Source of Wealth",
+   "summary": "How to build tax transparency into onboarding and review, from tax residence self-certifications and source of wealth to legacy clients and requests for evidence of tax compliance.",
+   "objectives": [
+    "Integrate tax residence and tax compliance checks into due diligence",
+    "Assess source of wealth and source of funds for plausibility",
+    "Manage legacy and high-risk clients, including remediation and exit"
+   ],
+   "syllabus": [
+    "Tax residence self-certifications and reasonableness checks",
+    "Source of wealth and source of funds: evidence and plausibility",
+    "When to ask for evidence of tax compliance or regularisation",
+    "Legacy book reviews, remediation and relationship exit"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1472,
+   "number": 5,
+   "title": "Structures, Beneficial Ownership and Wealth Management Red Flags",
+   "summary": "How companies, trusts, foundations and nominee arrangements are used to conceal income and assets from tax authorities, and the red flags wealth managers and advisers should recognise.",
+   "objectives": [
+    "Recognise structures commonly used to conceal income and assets",
+    "Identify beneficial owners, controllers and tax-relevant persons",
+    "Apply red flags to client instructions and account activity"
+   ],
+   "syllabus": [
+    "Personal investment companies, trusts, foundations and nominees",
+    "Beneficial ownership, controlling persons and register limitations",
+    "Red flags: hold mail, cash, secrecy requests and unexplained transfers",
+    "Mapping exercise: unpicking a multi-layered client structure"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1473,
+   "number": 6,
+   "title": "Fund Structures and Investor Tax Crime Risk",
+   "summary": "How investment funds and private market vehicles can be used to hide or round-trip untaxed money, and what fund managers, administrators and transfer agents should do about investor risk.",
+   "objectives": [
+    "Identify tax crime risk in fund structures and investor flows",
+    "Apply investor due diligence across direct, nominee and omnibus holdings",
+    "Recognise red flags in subscriptions, redemptions and transfers"
+   ],
+   "syllabus": [
+    "Feeder, master, private and closed-ended structures: where opacity arises",
+    "Nominees, omnibus accounts, distributors and reliance on third parties",
+    "Round-tripping, side letters and unusual subscription and redemption patterns",
+    "Allocating responsibility between manager, administrator and transfer agent"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1474,
+   "number": 7,
+   "title": "Automatic Exchange of Information and Tax Reporting",
+   "summary": "What automatic exchange of information under the OECD Common Reporting Standard requires of financial institutions, how arrangements to avoid it work, and how reporting extends to crypto-assets.",
+   "objectives": [
+    "Explain due diligence and reporting obligations under the Common Reporting Standard",
+    "Recognise arrangements designed to avoid automatic exchange",
+    "Assess the accuracy and governance of the firm's tax reporting"
+   ],
+   "syllabus": [
+    "Reporting financial institutions, reportable accounts and controlling persons",
+    "Self-certification, indicia searches and change in circumstances",
+    "Avoidance arrangements, mandatory disclosure and the Crypto-Asset Reporting Framework",
+    "Data quality, reconciliations, penalties and assurance over reporting"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1475,
+   "number": 8,
+   "title": "Suspicion, Reporting and Responding to Authorities",
+   "summary": "How to escalate concerns about tax evasion, reach a reasoned judgement on suspicion, report to the national FIU and respond to tax authority and law enforcement requests without tipping off.",
+   "objectives": [
+    "Escalate and investigate tax-related concerns consistently",
+    "Decide on and file usable suspicious activity reports involving tax crime",
+    "Handle information requests and relationship decisions correctly"
+   ],
+   "syllabus": [
+    "Internal reporting and whistleblowing on facilitation concerns",
+    "Suspicion of tax crime: thresholds, evidence and decision records",
+    "Report quality, tipping off and exiting or continuing relationships",
+    "Responding to tax authority, FIU and law enforcement requests"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1476,
+   "number": 9,
+   "title": "Governance, Training and Prevention Procedures Workshop",
+   "summary": "Brings the programme together by examining governance, training and monitoring of tax crime controls, ending with a workshop in which teams test and improve the firm's prevention procedures.",
+   "objectives": [
+    "Specify management information, monitoring and testing for tax crime controls",
+    "Design targeted training for staff and associated persons",
+    "Produce a gap analysis and action plan for the firm's prevention procedures"
+   ],
+   "syllabus": [
+    "Senior management ownership and board reporting",
+    "Training, attestations and contractual terms for associated persons",
+    "Monitoring, internal audit and periodic review of procedures",
+    "Workshop: prevention procedures gap analysis and action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 211,
+   "entryType": "programme",
+   "title": "Compliance Officer Academy",
+   "summary": "A ten-module academy giving compliance officers the tools to run an independent, risk-based compliance function and handle supervisory engagement with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 269,
+   "entryType": "programme",
+   "title": "Internal Audit in Regulated Firms",
+   "summary": "An eight-module programme giving internal auditors the tools to deliver risk-based assurance over the regulatory risks that matter most to boards and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 270,
+   "entryType": "programme",
+   "title": "Internal Investigations and Interviewing Skills",
+   "summary": "A nine-module programme giving control functions a structured method to investigate misconduct, whistleblowing reports and breaches, interview witnesses and subjects, and report findings.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 279,
+   "entryType": "programme",
+   "title": "Management and Leadership for Compliance and Risk Teams",
+   "summary": "A ten-module programme giving managers of compliance, risk and financial crime teams the skills to lead the second line, influence the business and earn the board's confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 294,
+   "entryType": "programme",
+   "title": "Professional Judgement and Core Skills for Compliance Staff",
+   "summary": "A ten-module programme building the judgement, questioning, advisory and writing skills that compliance, risk and financial crime staff need to be trusted by the business, the board and the regulator.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 305,
+   "entryType": "programme",
+   "title": "Risk Management for Regulated Firms",
+   "summary": "A ten-module programme giving risk professionals the tools to design, run and evidence a risk management framework that informs decisions and withstands supervisory scrutiny.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "id": 1249,
+ "entryType": "module",
+ "title": "Cross-Border Cases and Mock Hearing Workshop",
+ "summary": "Brings the programme together by examining mutual legal assistance and foreign evidence, ending with a mock hearing in which participants argue and decide the key issues in a laundering case.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Intelligence & Law Enforcement",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Prosecutors & judiciary",
+  "Financial investigators & police"
+ ],
+ "firmType": [],
+ "slug": "cross-border-cases-and-mock-hearing-workshop",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Enforcement",
+  "Financial Crime, AML & Sanctions Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together by examining mutual legal assistance and foreign evidence, ending with a mock hearing in which participants argue and decide the key issues in a laundering case.",
+  "Learning Objectives": [
+   "Draft effective mutual legal assistance requests for evidence and assets",
+   "Manage the admissibility and use of evidence obtained abroad",
+   "Apply the programme to argue and decide a realistic case"
+  ],
+  "Syllabus": [
+   "Mutual legal assistance: dual criminality, content and timing",
+   "Joint investigation teams and direct cooperation between prosecutors",
+   "Admissibility and use of foreign evidence",
+   "Workshop: mock hearing on knowledge, evidence and confiscation"
+  ],
+  "Intended Audience": [
+   "Prosecutors handling money laundering, fraud, corruption and other economic crime",
+   "Judges and magistrates hearing financial crime, restraint and confiscation cases",
+   "Senior investigators and legal advisers who prepare financial crime cases for prosecution"
+  ],
+  "Useful Prior Knowledge and Experience": "Experience of criminal prosecution, judicial work or financial crime investigation is helpful. No accounting or technical background is required.",
+  "Core Reading": [
+   "FATF (2012, as updated), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations",
+   "UNODC (2012), Manual on Mutual Legal Assistance and Extradition",
+   "World Bank and UNODC StAR Initiative (2021), Asset Recovery Handbook: A Guide for Practitioners, Second Edition",
+   "FATF (2018), Professional Money Laundering"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 295,
+   "module": 8,
+   "title": "Prosecuting Financial Crime: Evidence, Experts and the Courtroom",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1242,
+     "number": 1,
+     "title": "Money Laundering Offences and International Standards"
+    },
+    {
+     "id": 1243,
+     "number": 2,
+     "title": "Charging Decisions and Case Strategy"
+    },
+    {
+     "id": 1244,
+     "number": 3,
+     "title": "Proving Criminal Property and Knowledge"
+    },
+    {
+     "id": 1245,
+     "number": 4,
+     "title": "Complex Financial and Digital Evidence"
+    },
+    {
+     "id": 1246,
+     "number": 5,
+     "title": "Expert Witnesses in Financial Cases"
+    },
+    {
+     "id": 1247,
+     "number": 6,
+     "title": "Disclosure and Case Management in Large Cases"
+    },
+    {
+     "id": 1248,
+     "number": 7,
+     "title": "Sentencing, Confiscation and Ancillary Orders"
+    },
+    {
+     "id": 1249,
+     "number": 8,
+     "title": "Cross-Border Cases and Mock Hearing Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 256,
+   "entryType": "programme",
+   "title": "FIU Operational and Strategic Analysis",
+   "summary": "A ten-module programme equipping FIU analysts to prioritise and analyse reports, produce operational and strategic intelligence, and cooperate effectively at home and abroad.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

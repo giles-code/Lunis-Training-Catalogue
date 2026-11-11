@@ -1,0 +1,114 @@
+{
+ "id": 181,
+ "entryType": "module",
+ "title": "Tokenisation of Traditional Assets",
+ "summary": "The aim of this workshop is to build participants' understanding of how traditional financial assets are tokenised and traded on distributed ledger infrastructure, and the supervisory considerations as tokenised and traditional market infrastructure converge.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Digital Assets & Blockchain",
+ "tags": [
+  "Crypto & digital assets"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "tokenisation-of-traditional-assets",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how traditional financial assets are tokenised and traded on distributed ledger infrastructure, and the supervisory considerations as tokenised and traditional market infrastructure converge.",
+  "Intended Audience": "Mid-level supervisory staff building capability in digital assets/crypto-asset regulation.",
+  "Learning Objectives": [
+   "Explain the process of tokenising a traditional financial asset",
+   "Describe how tokenised securities are traded and settled",
+   "Assess the interoperability challenges between tokenised and traditional infrastructure",
+   "Evaluate the investor protection implications of tokenisation",
+   "Formulate a supervisory view on a sample tokenisation initiative"
+  ],
+  "Syllabus": [
+   "What tokenisation means: representing an asset on a distributed ledger",
+   "Types of assets being tokenised: bonds, funds, real estate, equities",
+   "Legal structures underpinning tokenised assets",
+   "Drivers behind growing interest in tokenisation",
+   "Facilitated discussion: tokenisation initiatives participants are aware of",
+   "How tokenised securities are traded and settled on-chain",
+   "Interoperability challenges between DLT and traditional market infrastructure",
+   "DLT pilot regimes as a regulatory sandbox approach",
+   "Settlement finality considerations for tokenised assets",
+   "Group exercise: map the interoperability challenges for a sample tokenised bond issuance",
+   "Investor protection implications: custody, disclosure, redress",
+   "Case study: a tokenisation initiative raising supervisory questions",
+   "Case study: formulate a supervisory view on a sample tokenisation initiative",
+   "Recap: tokenisation process, trading/settlement, investor protection",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: The tokenisation process (09:30–10:45)\n- Session 2: Trading, settlement and interoperability (11:00–12:30)\n- Session 3: Investor protection and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Tokenisation raises genuine interoperability questions as DLT and traditional market infrastructure begin to converge\n- Investor protection principles apply to tokenised assets just as they do to their traditional equivalents\n- Regulatory sandbox approaches such as DLT pilot regimes allow supervised experimentation with tokenisation",
+  "Useful Prior Knowledge and Experience": "Some familiarity with digital assets & blockchain is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 221,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals",
+   "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 226,
+   "entryType": "programme",
+   "title": "Crypto-Asset Regulation and Supervision",
+   "summary": "An advanced twelve-module programme equipping supervisors to authorise, supervise and take action against crypto-asset firms under comprehensive regimes and international standards.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 48,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 233,
+   "entryType": "programme",
+   "title": "Digital Money: Stablecoins, Tokenised Deposits and CBDCs",
+   "summary": "A ten-module programme equipping supervisors and central bankers to assess stablecoins, tokenised deposits and CBDCs, and their risks to payments and financial stability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

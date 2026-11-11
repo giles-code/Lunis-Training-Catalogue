@@ -1,0 +1,101 @@
+{
+ "id": 68,
+ "entryType": "module",
+ "title": "ESG Scoring and Sustainability Reporting Standards",
+ "summary": "Explore the methodologies behind ESG scoring and corporate sustainability reporting best practice.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Sustainable Finance in Practice",
+ "tags": [
+  "Sustainable finance"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 1,
+ "durationUnit": "days",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "esg-scoring-and-sustainability-reporting-standards",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Sustainable Finance & ESG"
+ ],
+ "contentGaps": [
+  "aimAndPurpose: expanded from a one-line catalogue summary only",
+  "learningObjectives: derived from focus-area keywords, not explicit source content",
+  "syllabus: derived from focus-area keywords, needs expansion",
+  "structureAndFormat: not specified in source catalogue",
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "duration: not stated in source catalogue; defaulted to a single full day pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "Explore the methodologies behind ESG scoring and corporate sustainability reporting best practice.",
+  "Intended Audience": "Mid-level supervisory staff building capability in sustainable finance/ESG supervision.",
+  "Learning Objectives": [
+   "Understand and apply: ESG scoring methodology",
+   "Understand and apply: mandatory corporate sustainability reporting regimes",
+   "Understand and apply: regional sustainability reporting standards"
+  ],
+  "Syllabus": [
+   "ESG scoring methodology",
+   "Mandatory corporate sustainability reporting regimes",
+   "Regional sustainability reporting standards"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with sustainable finance in practice is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 318,
+   "entryType": "programme",
+   "title": "Sustainable Finance and ESG Supervision",
+   "summary": "A ten-module programme equipping supervisors to assess ESG and climate risk, sustainability disclosures and product claims, and to integrate sustainable finance into day-to-day supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

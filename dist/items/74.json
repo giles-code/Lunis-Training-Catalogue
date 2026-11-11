@@ -1,0 +1,113 @@
+{
+ "id": 74,
+ "entryType": "module",
+ "title": "Exercising Supervisory Judgement Under Uncertainty",
+ "summary": "The aim of this workshop is to build participants' skills in exercising supervisory judgement when information is incomplete or ambiguous, recognising common cognitive biases and applying frameworks that improve consistency and defensibility of decisions.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "Supervisory Judgement & Professional Practice",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "exercising-supervisory-judgement-under-uncertainty",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in exercising supervisory judgement when information is incomplete or ambiguous, recognising common cognitive biases and applying frameworks that improve consistency and defensibility of decisions.",
+  "Intended Audience": "Junior to mid-level supervisory staff developing core professional judgement skills.",
+  "Learning Objectives": [
+   "Explain why supervisory judgement is often exercised under genuine uncertainty",
+   "Identify common cognitive biases that affect supervisory decisions",
+   "Apply structured judgement frameworks to reduce inconsistency",
+   "Evaluate the defensibility of a supervisory judgement",
+   "Formulate a well-reasoned judgement for an ambiguous scenario"
+  ],
+  "Syllabus": [
+   "Why supervision inherently involves judgement calls, not just rule application",
+   "Sources of uncertainty: incomplete information, evolving risk, ambiguous rules",
+   "The cost of both over- and under-cautious judgement",
+   "Judgement versus discretion — what accountability requires",
+   "Facilitated discussion: judgement calls participants have found genuinely difficult",
+   "Common biases: confirmation bias, anchoring, groupthink, hindsight bias",
+   "How biases specifically distort supervisory risk assessment",
+   "Techniques for recognising bias in your own reasoning",
+   "Structural safeguards against biased decision-making",
+   "Exercise: identify biases at play in a set of sample supervisory decisions",
+   "Structured frameworks for exercising judgement consistently",
+   "Documenting the reasoning behind a judgement for defensibility",
+   "Case study: an ambiguous scenario requiring a reasoned judgement",
+   "Case study: formulate and document a judgement for an ambiguous scenario",
+   "Recap: uncertainty, bias, structured frameworks",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Judgement and uncertainty (09:30–10:45)\n- Session 2: Cognitive biases in supervisory decisions (11:00–12:30)\n- Session 3: Structured judgement frameworks (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Supervisory judgement under uncertainty is unavoidable — the goal is consistency and defensibility, not certainty\n- Cognitive biases affect experienced supervisors just as much as novices, and awareness is the first defence\n- A well-documented reasoning process is what makes a judgement defensible under later scrutiny",
+  "Useful Prior Knowledge and Experience": "Some familiarity with supervisory judgement & professional practice is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 273,
+   "entryType": "programme",
+   "title": "Investigative and Interviewing Skills for Supervisors",
+   "summary": "An eight-module practical programme on planning and conducting supervisory interviews and turning interview evidence into sound findings.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 314,
+   "entryType": "programme",
+   "title": "Supervisory Judgement and Professional Practice",
+   "summary": "A ten-module programme on forming, documenting and defending supervisory judgements, and turning them into clear findings, letters and interventions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 217,
+   "entryType": "programme",
+   "title": "Core Professional Skills for Regulatory Staff",
+   "summary": "An eight-module practical programme building the core writing, analysis, meeting, challenge, presentation and data skills that regulatory staff need every day.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

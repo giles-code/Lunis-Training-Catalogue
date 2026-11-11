@@ -1,0 +1,185 @@
+{
+ "id": 1159,
+ "entryType": "module",
+ "title": "Incident Response and Crisis Decision-Making",
+ "summary": "How the firm detects, escalates and responds to severe incidents, and how the board takes decisions under pressure, with incomplete information and intense external scrutiny.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Operational resilience & cyber"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "incident-response-and-crisis-decision-making",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Operational Resilience & Technology/Cyber"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How the firm detects, escalates and responds to severe incidents, and how the board takes decisions under pressure, with incomplete information and intense external scrutiny.",
+  "Learning Objectives": [
+   "Evaluate incident response, escalation and crisis management arrangements",
+   "Explain the board's role during a crisis and how it differs from management's",
+   "Assess decision-making under pressure, including ransom and disclosure decisions"
+  ],
+  "Syllabus": [
+   "Incident detection, classification and escalation to the board",
+   "Crisis governance: who decides what, and when the board convenes",
+   "Hard decisions: ransom payments, service shutdowns and customer redress",
+   "Communicating with customers, the authority, markets and media"
+  ],
+  "Intended Audience": [
+   "Chairs, non-executive and independent directors and board committee members, especially on risk, audit and technology committees",
+   "Executive directors and senior managers accountable for operations, technology, security and resilience",
+   "Company secretaries and heads of governance supporting board oversight"
+  ],
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No technical background in technology or cyber security is required.",
+  "Core Reading": [
+   "Basel Committee, Principles for Operational Resilience (2021)",
+   "FSB, Effective Practices for Cyber Incident Response and Recovery (2020)",
+   "FSB, Enhancing Third-Party Risk Management and Oversight: A Toolkit for Financial Institutions and Financial Authorities (2023)",
+   "NIST, Cybersecurity Framework 2.0 (2024)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 285,
+   "module": 6,
+   "title": "Operational Resilience and Cyber Risk for Boards",
+   "moduleCount": 10,
+   "durationValue": 20,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 1154,
+     "number": 1,
+     "title": "Board Accountability for Technology and Cyber Risk"
+    },
+    {
+     "id": 1155,
+     "number": 2,
+     "title": "Operational Resilience: Concepts and Frameworks"
+    },
+    {
+     "id": 1156,
+     "number": 3,
+     "title": "Important Business Services and Impact Tolerances"
+    },
+    {
+     "id": 1157,
+     "number": 4,
+     "title": "The Cyber Threat Landscape"
+    },
+    {
+     "id": 1158,
+     "number": 5,
+     "title": "Third-Party and Concentration Risk"
+    },
+    {
+     "id": 1159,
+     "number": 6,
+     "title": "Incident Response and Crisis Decision-Making"
+    },
+    {
+     "id": 1160,
+     "number": 7,
+     "title": "Testing and Scenario Exercises"
+    },
+    {
+     "id": 1161,
+     "number": 8,
+     "title": "Reporting, Metrics and Assurance"
+    },
+    {
+     "id": 1162,
+     "number": 9,
+     "title": "The Board's Own Technical Literacy"
+    },
+    {
+     "id": 1163,
+     "number": 10,
+     "title": "Workshop: A Severe Cyber Incident"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 195,
+   "entryType": "programme",
+   "title": "AI Governance for Boards",
+   "summary": "A ten-module programme giving boards and directors the understanding and tools to govern AI responsibly and evidence sound oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 210,
+   "entryType": "programme",
+   "title": "Climate and Sustainability for Boards",
+   "summary": "An eight-module programme giving boards and directors the understanding and tools to oversee climate and nature-related risk, transition plans and sustainability disclosures.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

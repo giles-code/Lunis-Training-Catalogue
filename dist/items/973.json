@@ -1,0 +1,178 @@
+{
+ "id": 973,
+ "entryType": "module",
+ "title": "Default Management and Fire Drills",
+ "summary": "How the infrastructure prepares for and handles a participant default, from declaration, close-out and auction to the default waterfall, and how fire drills test that procedures work under pressure.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes"
+ },
+ "topic": "Sector Programmes",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors",
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [
+  "Market Infrastructure & Trading Venues"
+ ],
+ "slug": "default-management-and-fire-drills",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Risk Management",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How the infrastructure prepares for and handles a participant default, from declaration, close-out and auction to the default waterfall, and how fire drills test that procedures work under pressure.",
+  "Learning Objectives": [
+   "Design default rules, procedures and the sequence of the default waterfall",
+   "Size the default fund and the infrastructure's own resources at risk",
+   "Plan and run default management fire drills and auctions"
+  ],
+  "Syllabus": [
+   "Declaring a default, porting client positions and close-out",
+   "Default waterfall: margin, default fund, own resources and assessments",
+   "Auction design, participant obligations and hedging",
+   "Fire drill design, findings and remediation"
+  ],
+  "Intended Audience": [
+   "Board members, risk and audit committee members and senior executives of trading venues, CCPs, CSDs, payment systems and trade repositories",
+   "Chief risk officers, heads of compliance, internal audit and risk, treasury, default management and operations staff",
+   "Regulatory affairs, legal and strategy teams preparing for supervisory assessments or new services"
+  ],
+  "Useful Prior Knowledge and Experience": "Experience of trading, clearing, settlement or payment systems is helpful. No prior study of the PFMI is required.",
+  "Core Reading": [
+   "CPMI-IOSCO, Principles for Financial Market Infrastructures (2012)",
+   "FSB, Key Attributes of Effective Resolution Regimes for Financial Institutions (2014)",
+   "IOSCO, Regulatory Issues Raised by Changes in Market Structure (2013)",
+   "FSB, Effective Practices for Cyber Incident Response and Recovery (2020)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 265,
+   "module": 6,
+   "title": "Governance, Risk and Compliance for Market Infrastructures",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 968,
+     "number": 1,
+     "title": "Market Infrastructures, Systemic Importance and the PFMI"
+    },
+    {
+     "id": 969,
+     "number": 2,
+     "title": "Governance, Ownership and the Board"
+    },
+    {
+     "id": 970,
+     "number": 3,
+     "title": "The Comprehensive Risk Management Framework"
+    },
+    {
+     "id": 971,
+     "number": 4,
+     "title": "Credit and Liquidity Risk Management"
+    },
+    {
+     "id": 972,
+     "number": 5,
+     "title": "Collateral, Margin and Procyclicality"
+    },
+    {
+     "id": 973,
+     "number": 6,
+     "title": "Default Management and Fire Drills"
+    },
+    {
+     "id": 974,
+     "number": 7,
+     "title": "Settlement, Finality and Asset Safekeeping"
+    },
+    {
+     "id": 975,
+     "number": 8,
+     "title": "Operational Resilience, Cyber and Critical Service Providers"
+    },
+    {
+     "id": 976,
+     "number": 9,
+     "title": "Access, Tiering, Links and Trading Venue Controls"
+    },
+    {
+     "id": 977,
+     "number": 10,
+     "title": "Recovery, Wind-Down and Supervisory Engagement"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 223,
+   "entryType": "programme",
+   "title": "Crypto-Asset Compliance Programme",
+   "summary": "An advanced twelve-module programme for compliance, risk and MLRO staff at crypto-asset service providers, from authorisation and custody to market abuse, AML/CFT and wind-down.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 42,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 261,
+   "entryType": "programme",
+   "title": "Fund Governance and Compliance for Managers and Service Providers",
+   "summary": "A ten-module programme giving fund managers and service providers the practical tools to meet fund rules and supervisory expectations across the fund lifecycle.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 278,
+   "entryType": "programme",
+   "title": "Investment Services Compliance",
+   "summary": "A ten-module programme giving compliance and risk staff at investment firms the tools to build, test and evidence compliance across the client journey and market activity.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  }
+ ]
+}

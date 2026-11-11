@@ -1,0 +1,185 @@
+{
+ "id": 755,
+ "entryType": "module",
+ "title": "Supervisory Meetings, Inspections and Interviews",
+ "summary": "How supervisors plan meetings, on-site inspections and interviews with directors and managers, what they test, and how the firm prepares people and documents without scripting them.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Regulatory Readiness",
+  "payments": "Regulatory Readiness",
+  "crypto": "Regulatory Readiness"
+ },
+ "topic": "Regulatory Readiness",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "supervisory-meetings-inspections-and-interviews",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How supervisors plan meetings, on-site inspections and interviews with directors and managers, what they test, and how the firm prepares people and documents without scripting them.",
+  "Learning Objectives": [
+   "Explain how supervisors plan meetings, inspections and interviews",
+   "Prepare directors and managers to give accurate, owned answers",
+   "Manage document requests, logistics and follow-up during an inspection"
+  ],
+  "Syllabus": [
+   "Visit planning, document requests and interview schedules",
+   "What supervisors test in interviews with chairs, executives and control functions",
+   "Preparation: briefing packs, consistency and owning the answer",
+   "Mock supervisory meeting with the chief executive and chair"
+  ],
+  "Intended Audience": [
+   "Chief executives, senior managers and executive directors who meet the supervisor",
+   "Heads of compliance, risk, finance and internal audit and their teams who prepare the firm for supervision",
+   "Company secretaries, regulatory liaison and relationship managers who coordinate supervisory engagement"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of senior management, compliance, risk or finance work in a regulated firm is helpful. No prior experience of working for an authority is required.",
+  "Core Reading": [
+   "FSB, Guidance on Supervisory Interaction with Financial Institutions on Risk Culture (2014)",
+   "IMF, Good Supervision: Lessons from the Field (Working Paper WP/23/181, 2023)",
+   "IMF, The Making of Good Supervision: Learning to Say \"No\" (Staff Position Note SPN/10/08, 2010)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 239,
+   "module": 8,
+   "title": "Engaging Effectively with Your Supervisor: How Firms Are Assessed",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 748,
+     "number": 1,
+     "title": "Inside the Authority: Risk-Based Supervision"
+    },
+    {
+     "id": 749,
+     "number": 2,
+     "title": "Supervisory Intensity and the Supervisory Cycle"
+    },
+    {
+     "id": 750,
+     "number": 3,
+     "title": "Your Business Model Through a Supervisor's Eyes"
+    },
+    {
+     "id": 751,
+     "number": 4,
+     "title": "Your Financials Through a Supervisor's Eyes"
+    },
+    {
+     "id": 752,
+     "number": 5,
+     "title": "Governance as the Supervisor Assesses It"
+    },
+    {
+     "id": 753,
+     "number": 6,
+     "title": "Risk Management and Controls: Working, Not Just Existing"
+    },
+    {
+     "id": 754,
+     "number": 7,
+     "title": "Data, Returns and Thematic Reviews"
+    },
+    {
+     "id": 755,
+     "number": 8,
+     "title": "Supervisory Meetings, Inspections and Interviews"
+    },
+    {
+     "id": 756,
+     "number": 9,
+     "title": "Risk Ratings, Panels, Findings and Remediation"
+    },
+    {
+     "id": 757,
+     "number": 10,
+     "title": "A Constructive Relationship and Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 255,
+   "entryType": "programme",
+   "title": "Fit and Proper for Firms: Appointing and Assessing Key Function Holders",
+   "summary": "A nine-module programme showing firms how to appoint and assess key function holders, prepare applications and interviews, and manage fitness and certification on an ongoing basis.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 264,
+   "entryType": "programme",
+   "title": "Governance Reviews and Supervisory Interviews: Preparing Your Board and Management",
+   "summary": "A one-day workshop on how supervisors assess governance and interview directors and staff, and how licensees can evidence effective governance and prepare openly.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 6,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 299,
+   "entryType": "programme",
+   "title": "Recovery and Wind-Down Planning for Firms",
+   "summary": "An eight-module programme helping firms build credible recovery and wind-down plans, from scenarios and triggers to client asset return, testing and supervisory review.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

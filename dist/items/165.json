@@ -1,0 +1,113 @@
+{
+ "id": 165,
+ "entryType": "module",
+ "title": "Settlement and Negotiated Outcomes in Enforcement",
+ "summary": "The aim of this workshop is to build participants' understanding of the practical and strategic considerations in negotiating settlements with firms under investigation, including when settlement is and is not appropriate.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Enforcement & Sanctions",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Enforcement & investigations"
+ ],
+ "firmType": [],
+ "slug": "settlement-and-negotiated-outcomes-in-enforcement",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Enforcement"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of the practical and strategic considerations in negotiating settlements with firms under investigation, including when settlement is and is not appropriate.",
+  "Intended Audience": "Junior to mid-level enforcement investigators and case officers.",
+  "Learning Objectives": [
+   "Explain the rationale for settlement in enforcement cases",
+   "Describe common settlement mechanisms, including settlement discounts",
+   "Assess when settlement is and is not appropriate",
+   "Apply negotiation techniques relevant to enforcement settlement",
+   "Evaluate a proposed settlement against the public interest"
+  ],
+  "Syllabus": [
+   "Benefits of settlement: speed, certainty, resource efficiency",
+   "Risks of settlement: perceived leniency, inconsistency",
+   "Common settlement mechanisms and discount structures",
+   "Transparency expectations around settled cases",
+   "Facilitated discussion: settlement practice in participants' own jurisdictions",
+   "Criteria for assessing whether settlement is appropriate",
+   "Cases where settlement should be resisted",
+   "Negotiation techniques specific to enforcement settlement",
+   "Managing power dynamics between authority and firm",
+   "Role-play: a settlement negotiation for a sample enforcement case",
+   "Assessing whether a settlement serves the public interest",
+   "Balancing settlement benefits against deterrence value",
+   "Case study: a contested settlement decision",
+   "Case study: evaluate and either approve or reject a proposed settlement",
+   "Recap: rationale, mechanisms, appropriateness, public interest",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Why settle? (09:30–10:45)\n- Session 2: When to settle and negotiation technique (11:00–12:30)\n- Session 3: Public interest and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Settlement offers real efficiency benefits but must not be allowed to undermine deterrence\n- Not every case is suitable for settlement — knowing when to resist is as important as knowing how to negotiate\n- The public interest test should be applied explicitly, not assumed, before any settlement is approved",
+  "Useful Prior Knowledge and Experience": "Some familiarity with enforcement & sanctions is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 238,
+   "entryType": "programme",
+   "title": "Enforcement and Sanctions",
+   "summary": "A ten-module programme taking enforcement and supervisory staff through the full life of an enforcement case, from triage and evidence to sanctions, settlement and cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

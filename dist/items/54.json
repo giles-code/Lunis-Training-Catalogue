@@ -1,0 +1,115 @@
+{
+ "id": 54,
+ "entryType": "module",
+ "title": "Decentralised Finance (DeFi): Supervisory Challenges",
+ "summary": "The aim of this workshop is to build participants' understanding of how DeFi protocols operate outside traditional intermediated structures, examining the supervisory and regulatory perimeter challenges this creates and the tools available to address them.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Digital Assets & Blockchain",
+ "tags": [
+  "Crypto & digital assets"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "decentralised-finance-defi-supervisory-challenges",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how DeFi protocols operate outside traditional intermediated structures, examining the supervisory and regulatory perimeter challenges this creates and the tools available to address them.",
+  "Intended Audience": "Mid-level supervisory staff building capability in digital assets/crypto-asset regulation.",
+  "Learning Objectives": [
+   "Explain how DeFi protocols differ from intermediated financial services",
+   "Describe common DeFi structures: lending pools, DEXs, yield aggregators",
+   "Assess smart contract risk within DeFi protocols",
+   "Evaluate the regulatory perimeter challenges DeFi presents",
+   "Identify supervisory tools and approaches for addressing DeFi risk"
+  ],
+  "Syllabus": [
+   "How DeFi removes traditional intermediaries",
+   "Common DeFi structures: lending/borrowing pools, decentralised exchanges, yield aggregators",
+   "Governance tokens and decentralised governance models",
+   "Why disintermediation challenges traditional regulatory concepts",
+   "Facilitated discussion: DeFi developments participants are tracking",
+   "How smart contracts execute DeFi protocol logic",
+   "Common smart contract vulnerabilities: exploits, flash loan attacks",
+   "Assessing audit quality for a DeFi protocol",
+   "Oracle risk and price manipulation vulnerabilities",
+   "Group exercise: assess smart contract risk factors for a sample DeFi protocol",
+   "Challenges of applying entity-based regulation to disintermediated protocols",
+   "Emerging approaches: regulating access points, front-ends, and fiat gateways",
+   "Case study: a DeFi protocol raising perimeter questions",
+   "Case study: identify supervisory tools and approaches for a sample DeFi scenario",
+   "Recap: DeFi structures, smart contract risk, regulatory perimeter",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: DeFi fundamentals (09:30–10:45)\n- Session 2: Smart contract risk (11:00–12:30)\n- Session 3: Regulatory perimeter and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- DeFi's disintermediated structure challenges the entity-based foundations of traditional financial regulation\n- Smart contract vulnerabilities are a distinct, technical risk category requiring specialist assessment skills\n- Regulating access points and gateways is emerging as a practical approach where direct entity regulation is difficult",
+  "Useful Prior Knowledge and Experience": "Some familiarity with digital assets & blockchain is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 221,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals",
+   "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 226,
+   "entryType": "programme",
+   "title": "Crypto-Asset Regulation and Supervision",
+   "summary": "An advanced twelve-module programme equipping supervisors to authorise, supervise and take action against crypto-asset firms under comprehensive regimes and international standards.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 48,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 233,
+   "entryType": "programme",
+   "title": "Digital Money: Stablecoins, Tokenised Deposits and CBDCs",
+   "summary": "A ten-module programme equipping supervisors and central bankers to assess stablecoins, tokenised deposits and CBDCs, and their risks to payments and financial stability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

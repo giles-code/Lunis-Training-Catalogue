@@ -1,0 +1,368 @@
+{
+ "id": 289,
+ "entryType": "programme",
+ "title": "Payment Services Supervision",
+ "summary": "A ten-module programme equipping supervisors to authorise and supervise payment and e-money institutions, from safeguarding and fraud to open banking, instant payments and wind-down.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Payment Services",
+ "tags": [
+  "Payments"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Authorisation & licensing",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Payments & E-Money"
+ ],
+ "slug": "payment-services-supervision",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisory staff to authorise and supervise payment and e-money institutions: assessing safeguarding, operational and fraud risk, overseeing agents, open banking and instant payments, and preparing for failure and orderly wind-down.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Authorisations"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors a practical understanding of how payment and e-money institutions make money, move funds and fail, and the risk-based tools needed to supervise a large and diverse population of firms. Participants leave able to test safeguarding and operational resilience with evidence, challenge firms on fraud, agents and third-party access, and act early when a firm heads towards failure.",
+  "What It Covers": "The payments landscape and regulatory framework, authorisation of payment and e-money institutions, risk-based supervision, safeguarding, operational and security risk, fraud and authorised push payment scams, open banking, agents, distributors and financial crime, instant payments and stablecoins, and wind-down and failure.",
+  "Intended Audience": [
+   "Supervisors, inspectors and authorisation staff responsible for payment institutions, e-money institutions and their agents",
+   "Payment system oversight, consumer protection and financial crime specialists",
+   "Policy staff, team leaders and heads of department responsible for payments and fintech"
+  ],
+  "Learning Objectives": [
+   "Explain how payment and e-money services work and how they are regulated",
+   "Assess applications and ongoing supervision of payment institutions using a risk-based approach",
+   "Evaluate safeguarding of client funds using reconciliation and audit evidence",
+   "Challenge firms on operational, security, fraud and financial crime risk",
+   "Apply supervisory expectations to open banking, agents, instant payments and stablecoins",
+   "Design an early intervention and wind-down response for a failing payment firm"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day workshops. Each module combines a technical briefing with case studies, group exercises and supervisory question sets, and modules can be selected or tailored to the authority's payments sector.",
+  "Useful Prior Knowledge and Experience": "Some experience of supervision or authorisation is helpful. No specialist payments or technology background is required.",
+  "Core Reading": [
+   "CPMI, Fast Payments: Enhancing the Speed and Availability of Retail Payments (2016)",
+   "FSB, Enhancing Cross-border Payments: Stage 3 Roadmap (2020)",
+   "CPMI-IOSCO, Principles for Financial Market Infrastructures (2012)",
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1190,
+   "number": 1,
+   "title": "The Payments Landscape and Regulatory Framework",
+   "summary": "How retail payments flow from payer to payee, who the participants are, and how payment services, e-money issuance and payment systems are regulated and overseen.",
+   "objectives": [
+    "Explain the payment chain and the roles of banks, payment firms and schemes",
+    "Distinguish payment services, e-money issuance and payment system operation",
+    "Relate CPMI, FATF and PFMI standards to the national framework"
+   ],
+   "syllabus": [
+    "Card, account-to-account, wallet and remittance payment models",
+    "Regulated payment services and e-money: what falls inside the perimeter",
+    "Payment institution, e-money institution and small registered firm categories",
+    "International standards: CPMI, PFMI and FATF payment transparency rules"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1191,
+   "number": 2,
+   "title": "Authorising Payment and E-Money Institutions",
+   "summary": "How the authority assesses applications from payment and e-money firms, matching requirements to the real business model and spotting weaknesses before they become supervisory problems.",
+   "objectives": [
+    "Assess a licence application against category-specific requirements",
+    "Evaluate business plans, capital, governance and safeguarding proposals",
+    "Identify common application weaknesses and gateway red flags"
+   ],
+   "syllabus": [
+    "Business model, programme of operations and financial projections",
+    "Initial capital, own funds methods and fit and proper assessment",
+    "Safeguarding, security, AML and outsourcing plans at the gateway",
+    "Group exercise: assessing a sample payment institution application"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 156,
+   "number": 3,
+   "title": "Risk-Based Supervision of Payment Institutions",
+   "summary": "The aim of this workshop is to build participants' skills in applying a risk-based approach to supervising payment institutions, drawing on published supervisory guidance in this area, including how to assess safeguarding of client funds.",
+   "objectives": [
+    "Explain the key risk categories relevant to payment institution supervision",
+    "Describe risk-based supervisory approaches for payment institutions",
+    "Assess the adequacy of a firm's safeguarding arrangements for client funds",
+    "Evaluate operational and financial resilience indicators for payment institutions",
+    "Formulate a risk-based supervisory assessment of a payment institution"
+   ],
+   "syllabus": [
+    "Key risk categories: safeguarding, operational, financial crime, conduct",
+    "Why payment institutions pose distinct risks compared to banks",
+    "Published supervisory guidance on risk-based payment institution supervision",
+    "Proportionality considerations given the diversity of payment institution business models",
+    "Facilitated discussion: risk profiles of payment institutions participants supervise",
+    "How safeguarding of client funds is meant to work in practice",
+    "Common safeguarding failures: commingling, inadequate reconciliation",
+    "Verifying safeguarding through reconciliation and audit evidence",
+    "Consequences of safeguarding failure for consumers",
+    "Group exercise: assess a sample firm's safeguarding arrangements for adequacy",
+    "Operational and financial resilience indicators for payment institutions",
+    "Case study: a payment institution's risk profile under supervisory review",
+    "Case study: formulate a risk-based supervisory assessment of a sample payment institution",
+    "Recap: risk categories, safeguarding assessment, resilience indicators",
+    "Reflection and discussion",
+    "Q&A"
+   ],
+   "durationValue": 3.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1192,
+   "number": 4,
+   "title": "Safeguarding Client Funds",
+   "summary": "How safeguarding is meant to protect users' funds if a firm fails, the common ways it breaks down, and how supervisors verify it through reconciliations and audit evidence rather than policy statements.",
+   "objectives": [
+    "Explain segregation, insurance and guarantee methods of safeguarding",
+    "Assess reconciliation practice, safeguarding accounts and audit evidence",
+    "Identify commingling, shortfalls and other safeguarding red flags"
+   ],
+   "syllabus": [
+    "When safeguarding starts and ends, and which funds are relevant",
+    "Safeguarding accounts, acknowledgement letters and investment of funds",
+    "Daily reconciliation, shortfalls and safeguarding audits",
+    "Case study: safeguarding failures revealed on insolvency"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1193,
+   "number": 5,
+   "title": "Operational, Security and ICT Risk",
+   "summary": "How payment firms manage the operational and security risks at the heart of their business, from strong customer authentication to incident reporting, cloud dependency and third-party failure.",
+   "objectives": [
+    "Assess operational and security risk management frameworks",
+    "Evaluate strong customer authentication and incident reporting",
+    "Challenge firms on ICT, cloud and third-party resilience"
+   ],
+   "syllabus": [
+    "Security policies, risk assessments and major incident reporting",
+    "Strong customer authentication and its exemptions",
+    "Cloud, outsourcing and dependence on banking and scheme partners",
+    "Operational resilience: important services, tolerances and testing"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1194,
+   "number": 6,
+   "title": "Payment Fraud and Authorised Push Payment Scams",
+   "summary": "How payment fraud, including authorised push payment scams, is committed and prevented, how losses are allocated between firms and victims, and how supervisors use fraud data.",
+   "objectives": [
+    "Explain the main payment fraud typologies, including authorised push payment scams",
+    "Assess fraud prevention controls, payee verification and transaction monitoring",
+    "Evaluate reimbursement, liability allocation and fraud reporting data"
+   ],
+   "syllabus": [
+    "Unauthorised fraud versus authorised push payment scams",
+    "Payee verification, risk-based friction and transaction monitoring",
+    "Liability allocation and reimbursement models for scam victims",
+    "Fraud data, cross-sector information sharing and supervisory follow-up"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 135,
+   "number": 7,
+   "title": "Open Banking and Third-Party Provider Access",
+   "summary": "The aim of this workshop is to build participants' understanding of how open banking access rights operate under payment services legislation, and the supervisory considerations for account information and payment initiation service providers.",
+   "objectives": [
+    "Explain the open banking access rights established under payment services legislation",
+    "Describe the roles of account information service providers and payment initiation service providers",
+    "Assess strong customer authentication requirements in an open banking context",
+    "Evaluate API access quality and its supervisory relevance",
+    "Formulate a supervisory assessment of an open banking access arrangement"
+   ],
+   "syllabus": [
+    "The rationale for open banking and third-party access rights",
+    "Account information services and payment initiation services distinguished",
+    "Consent and data-sharing frameworks underpinning open banking",
+    "Market development of open banking use cases",
+    "Facilitated discussion: open banking developments participants have observed",
+    "Strong customer authentication requirements and their application to open banking",
+    "API access quality: reliability, availability, and the 'obstacle' prohibition",
+    "Common friction points between account-servicing and third-party providers",
+    "Supervisory relevance of API performance data",
+    "Group exercise: assess a sample API access arrangement for quality and compliance",
+    "Bringing access rights, SCA, and API quality assessment together",
+    "Case study: an open banking access dispute or quality concern",
+    "Case study: formulate a supervisory assessment of an open banking access arrangement",
+    "Recap: access rights, SCA, API access quality",
+    "Reflection and discussion",
+    "Q&A"
+   ],
+   "durationValue": 3.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1195,
+   "number": 8,
+   "title": "Agents, Distributors and Financial Crime",
+   "summary": "How payment firms extend their reach through agents, e-money distributors and cross-border provision, and why these networks concentrate money laundering, fraud and oversight risk.",
+   "objectives": [
+    "Explain agent and distributor models and the principal's responsibilities",
+    "Assess oversight of agent networks and cross-border activity",
+    "Identify money laundering and sanctions red flags in payment flows"
+   ],
+   "syllabus": [
+    "Registration, due diligence and monitoring of agents and distributors",
+    "Cross-border provision and host authority cooperation",
+    "Money laundering typologies in remittances, wallets and prepaid products",
+    "Correspondent and bank partner de-risking and its consequences"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1196,
+   "number": 9,
+   "title": "Instant Payments, Payment Systems and Stablecoins",
+   "summary": "How instant payment systems settle in near real time, the oversight of payment system operators and access to systems, and the supervisory questions raised by stablecoins used for payments.",
+   "objectives": [
+    "Explain instant payment operation, settlement risk and liquidity demands",
+    "Assess payment system oversight and non-bank access to systems",
+    "Evaluate the risks of stablecoins and other new entrants in payments"
+   ],
+   "syllabus": [
+    "Instant payments: settlement, liquidity and fraud implications",
+    "Payment system operator oversight and the PFMI",
+    "Direct and indirect access to payment systems for non-banks",
+    "Stablecoins in payments: reserves, redemption and run risk"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1197,
+   "number": 10,
+   "title": "Early Intervention, Wind-Down and Failure",
+   "summary": "Brings the programme together by examining how payment firms fail, what credible wind-down planning looks like, and how the authority intervenes early to protect users and their funds.",
+   "objectives": [
+    "Identify early warning signs of financial or operational distress",
+    "Assess the credibility of a firm's wind-down plan",
+    "Design a supervisory response to a failing payment firm"
+   ],
+   "syllabus": [
+    "Early warning indicators: losses, funding, partner withdrawal and complaints",
+    "Wind-down plans: triggers, resources, communications and return of funds",
+    "Insolvency, distribution of safeguarded funds and user communication",
+    "Workshop: responding to a payment firm in distress"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 241,
+   "entryType": "programme",
+   "title": "EU Payments Regulation: PSD2, PSD3 and the Payment Services Regulation (EU Edition)",
+   "summary": "An eight-module programme on EU payments regulation for supervisors and firms, covering PSD2 and EMD2 today and the PSD3 and Payment Services Regulation reform package.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 233,
+   "entryType": "programme",
+   "title": "Digital Money: Stablecoins, Tokenised Deposits and CBDCs",
+   "summary": "A ten-module programme equipping supervisors and central bankers to assess stablecoins, tokenised deposits and CBDCs, and their risks to payments and financial stability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

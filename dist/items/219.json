@@ -1,0 +1,332 @@
+{
+ "id": 219,
+ "entryType": "programme",
+ "title": "Crisis Management and Resolution",
+ "summary": "A ten-module programme preparing supervisors for firm and system-wide stress, from early intervention and recovery and resolution planning to crisis communication and a live simulation.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Crisis Management & Resolution",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Leadership & senior management",
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "crisis-management-and-resolution",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisors to act early and decisively when firms or markets come under stress: recognising warning signs, intervening, assessing recovery and resolution plans, managing contagion and communicating under pressure.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Crisis Management & Resolution",
+  "Supervision"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To build the capability authorities need for the moments that matter most but occur least, from early intervention through recovery and resolution to system-wide stress. Participants leave able to recognise distress early, escalate with confidence, judge the credibility of recovery and resolution plans, and make and communicate decisions under time pressure.",
+  "What It Covers": "The authority's role in a crisis, early warning indicators, the intervention ladder, recovery planning, resolution planning and resolvability, resolution tools and orderly failure, systemic risk and contagion, macroprudential tools, crisis communication and coordination, and a firm-distress simulation.",
+  "Intended Audience": [
+   "Supervisors and risk specialists responsible for firms that may come under stress",
+   "Resolution, financial stability and macroprudential staff",
+   "Senior managers and executives who would lead or take decisions in the authority's crisis response"
+  ],
+  "Learning Objectives": [
+   "Explain the roles of supervisors, resolution authorities and other bodies in a financial crisis",
+   "Identify early warning signs and apply a structured intervention ladder",
+   "Assess the credibility of recovery plans and the resolvability of firms",
+   "Evaluate systemic risk, contagion channels and the macroprudential tools to address them",
+   "Communicate and coordinate effectively with the public, industry, government and other authorities",
+   "Make and evaluate supervisory decisions under time pressure in a simulated crisis"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Modules combine short input with case studies and exercises, ending in a live crisis simulation and debrief, and can be selected or tailored to the authority's sectors and resolution framework.",
+  "Useful Prior Knowledge and Experience": "Some experience of supervision, financial stability or risk work is helpful. No prior crisis or resolution experience is required.",
+  "Core Reading": [
+   "FSB, Key Attributes of Effective Resolution Regimes for Financial Institutions (2014)",
+   "Basel Committee, Guidelines for Identifying and Dealing with Weak Banks (2015)",
+   "IADI, Core Principles for Effective Deposit Insurance Systems"
+  ]
+ },
+ "modules": [
+  {
+   "id": 568,
+   "number": 1,
+   "title": "Financial Crises and the Authority's Role",
+   "summary": "How firms and markets fail, the roles of the supervisor, resolution authority, central bank and protection schemes, and how an authority organises itself to take crisis decisions.",
+   "objectives": [
+    "Explain the common paths from stress to failure",
+    "Describe the roles of the authorities involved in a crisis",
+    "Assess the authority's own crisis governance and readiness"
+   ],
+   "syllabus": [
+    "Anatomy of firm failure: solvency, liquidity, conduct and operational triggers",
+    "Supervisors, resolution authorities, central banks and protection schemes",
+    "FSB Key Attributes and IADI principles",
+    "Crisis governance: decision rights, playbooks and escalation within the authority"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 569,
+   "number": 2,
+   "title": "Early Warning Indicators and Signs of Distress",
+   "summary": "The quantitative and behavioural signals that typically precede firm distress, and how supervisors build them into monitoring so problems are spotted while there is still time to act.",
+   "objectives": [
+    "Identify common early warning indicators across risk types",
+    "Distinguish behavioural from quantitative warning signs",
+    "Assess whether monitoring arrangements would detect distress in time"
+   ],
+   "syllabus": [
+    "Capital, liquidity, earnings and funding indicators",
+    "Behavioural signals: management turnover, evasiveness and delayed reporting",
+    "Market signals, complaints and whistleblowing",
+    "Early warning dashboards and their limits"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 570,
+   "number": 3,
+   "title": "The Intervention Ladder: Escalation and Early Action",
+   "summary": "How a structured intervention ladder makes escalation consistent and defensible, how to set decision thresholds, and the options available at each rung before problems become crises.",
+   "objectives": [
+    "Explain the intervention ladder from monitoring to formal action",
+    "Apply decision thresholds while balancing false alarms against late action",
+    "Formulate an early intervention response for a firm in difficulty"
+   ],
+   "syllabus": [
+    "Why early intervention is more effective and less costly",
+    "Thresholds, triggers and documenting escalation decisions",
+    "Options at each rung: enhanced monitoring to restrictions and removals",
+    "Case study: a firm showing early signs of distress"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 571,
+   "number": 4,
+   "title": "Recovery Planning: Assessing Credibility",
+   "summary": "How to assess whether a firm's recovery plan would genuinely restore viability under severe stress, and the common weaknesses supervisors should challenge.",
+   "objectives": [
+    "Explain the purpose and content of a recovery plan",
+    "Assess recovery indicators, options and scenarios for credibility",
+    "Challenge unrealistic assumptions and untested options"
+   ],
+   "syllabus": [
+    "Recovery plans: governance, indicators, options and communication",
+    "Severe but plausible scenarios and the capacity of recovery options",
+    "Common weaknesses: optimistic timing, value and executability",
+    "Exercise: assessing a sample recovery plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 572,
+   "number": 5,
+   "title": "Resolution Planning and Resolvability",
+   "summary": "The distinction between firm-led recovery and authority-led resolution, the supervisor's role in resolution planning, and how to identify and remove barriers to resolvability in advance.",
+   "objectives": [
+    "Distinguish recovery planning from resolution planning",
+    "Describe the supervisor's contribution to resolution planning",
+    "Evaluate resolvability barriers in structure, data and continuity of services"
+   ],
+   "syllabus": [
+    "Preferred resolution strategies and the role of the resolution authority",
+    "Barriers: legal structure, intra-group dependencies, data and systems",
+    "Operational continuity and critical shared services",
+    "Case study: a firm with significant resolvability barriers"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 573,
+   "number": 6,
+   "title": "Resolution Tools and Orderly Failure",
+   "summary": "The tools available to resolve or wind down a failing firm, how they apply across banks, insurers, investment firms and other sectors, and how customers and critical functions are protected.",
+   "objectives": [
+    "Explain the main resolution and wind-down tools and when each is used",
+    "Assess how customer assets, deposits and policyholders are protected",
+    "Evaluate the practical steps in executing a resolution or orderly wind-down"
+   ],
+   "syllabus": [
+    "Transfer, bridge institution, bail-in and run-off",
+    "Insolvency, special administration and solvent wind-down",
+    "Deposit guarantee, investor and policyholder protection and client assets",
+    "Resolution weekend: valuation, sequencing and decision-making"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 574,
+   "number": 7,
+   "title": "Systemic Risk and Contagion",
+   "summary": "What distinguishes systemic from firm-specific risk, how stress spreads between firms and markets, and how authorities identify interconnectedness before it crystallises.",
+   "objectives": [
+    "Explain the drivers of systemic risk, including beyond the banking sector",
+    "Describe contagion channels between firms and markets",
+    "Identify systemic risk indicators and the data needed to monitor them"
+   ],
+   "syllabus": [
+    "Interconnectedness, size and substitutability",
+    "Contagion: direct exposures, fire sales and confidence effects",
+    "Non-bank financial intermediation and cross-border spillovers",
+    "Exercise: mapping contagion channels in an interconnected market"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 575,
+   "number": 8,
+   "title": "Macroprudential Tools and System-Wide Monitoring",
+   "summary": "How authorities monitor the build-up of system-wide vulnerabilities and choose among macroprudential tools, matching each tool to the risk it is designed to address.",
+   "objectives": [
+    "Design a systemic risk dashboard drawing on firm and market data",
+    "Assess the main macroprudential tools and their trade-offs",
+    "Match tools to specific systemic risk drivers and decide when to deploy them"
+   ],
+   "syllabus": [
+    "Systemic risk dashboards and system-wide stress testing",
+    "Countercyclical and systemic capital buffers",
+    "Sectoral capital requirements and borrower-based measures",
+    "Case study: an emerging systemic risk and the policy response"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 576,
+   "number": 9,
+   "title": "Crisis Communication and Coordination",
+   "summary": "How to communicate clearly and quickly with the public, industry and government during a crisis, balance transparency against stability, and coordinate messages and actions across authorities.",
+   "objectives": [
+    "Explain how crisis communication differs from routine communication",
+    "Draft clear public statements under time pressure",
+    "Coordinate messages and actions across domestic and cross-border authorities"
+   ],
+   "syllabus": [
+    "Transparency versus financial stability; risks of premature disclosure",
+    "Statements, spokespeople and differentiated stakeholder messaging",
+    "Crisis management groups and cross-border cooperation agreements",
+    "Exercise: drafting a statement against the clock"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 577,
+   "number": 10,
+   "title": "Crisis Simulation: Firm-Specific Distress",
+   "summary": "A live simulation in which teams respond to an unfolding firm-distress scenario, making supervisory decisions, escalating and coordinating across functions under time pressure, followed by a structured debrief.",
+   "objectives": [
+    "Apply decision-making frameworks under time pressure and incomplete information",
+    "Coordinate a response across supervision, legal, resolution and communications",
+    "Evaluate decisions made and identify lessons for crisis preparedness"
+   ],
+   "syllabus": [
+    "Scenario briefing, roles and initial rapid assessment",
+    "Escalation, coordination and stakeholder management as the scenario evolves",
+    "Facilitator-led debrief comparing team decisions",
+    "Workshop: the authority's crisis preparedness action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 238,
+   "entryType": "programme",
+   "title": "Enforcement and Sanctions",
+   "summary": "A ten-module programme taking enforcement and supervisory staff through the full life of an enforcement case, from triage and evidence to sanctions, settlement and cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 254,
+   "entryType": "programme",
+   "title": "Fit and Proper Assessments: Approving Owners, Directors and Key Function Holders",
+   "summary": "An eight-module practitioner programme on assessing owners, controllers, directors and key function holders, from evidence gathering and interviews to defensible decisions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 292,
+   "entryType": "programme",
+   "title": "Policy-Making and Rule-Making",
+   "summary": "An eight-module programme covering the full policy cycle, from problem definition and cost-benefit analysis to drafting, standards implementation and post-implementation review.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "id": 1440,
+ "entryType": "module",
+ "title": "The Sustainable Finance Regulatory Landscape",
+ "summary": "The building blocks of sustainable finance regulation, from taxonomies and disclosure regimes to corporate due diligence, and how international standards shape national and regional approaches.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Sustainable Finance in Practice",
+ "tags": [
+  "Sustainable finance"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "the-sustainable-finance-regulatory-landscape",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Sustainable Finance & ESG"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The building blocks of sustainable finance regulation, from taxonomies and disclosure regimes to corporate due diligence, and how international standards shape national and regional approaches.",
+  "Learning Objectives": [
+   "Describe the main types of sustainable finance regulation and their objectives",
+   "Explain how taxonomies, product disclosure and corporate reporting regimes interact",
+   "Analyse the direction of travel in sustainable finance regulation"
+  ],
+  "Syllabus": [
+   "Sustainable finance taxonomies and their use in classification",
+   "Product-level and entity-level sustainability disclosure regimes",
+   "Corporate sustainability reporting and due diligence obligations",
+   "International coordination: FSB, IOSCO, NGFS and G20 roadmaps"
+  ],
+  "Intended Audience": [
+   "Supervisors and inspectors in banking, insurance, investment funds, investment services and pensions",
+   "Sustainable finance, policy and risk specialists supporting supervisory teams",
+   "Authorisation and product teams reviewing sustainability-related products and disclosures"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of financial supervision or risk assessment is helpful. No prior knowledge of sustainable finance or ESG is required.",
+  "Core Reading": [
+   "Basel Committee, Principles for the Effective Management and Supervision of Climate-related Financial Risks (2022)",
+   "NGFS, Guide for Supervisors: Integrating Climate-related and Environmental Risks into Prudential Supervision (2020)",
+   "ISSB, IFRS S1 General Requirements and IFRS S2 Climate-related Disclosures (2023)",
+   "IOSCO, Recommendations on Sustainability-Related Practices, Policies, Procedures and Disclosure in Asset Management (2021)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 318,
+   "module": 3,
+   "title": "Sustainable Finance and ESG Supervision",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1438,
+     "number": 1,
+     "title": "Sustainable Finance and ESG Risk Foundations"
+    },
+    {
+     "id": 1439,
+     "number": 2,
+     "title": "Climate and Nature-Related Financial Risks"
+    },
+    {
+     "id": 1440,
+     "number": 3,
+     "title": "The Sustainable Finance Regulatory Landscape"
+    },
+    {
+     "id": 1441,
+     "number": 4,
+     "title": "Sustainability Reporting Standards and ESG Data"
+    },
+    {
+     "id": 1442,
+     "number": 5,
+     "title": "Sustainability Risk Assessment in Supervised Entities"
+    },
+    {
+     "id": 1443,
+     "number": 6,
+     "title": "ESG Governance and Risk Management in Firms"
+    },
+    {
+     "id": 1444,
+     "number": 7,
+     "title": "Product Governance, Labelling and Disclosure"
+    },
+    {
+     "id": 1445,
+     "number": 8,
+     "title": "Greenwashing and Greenbleaching"
+    },
+    {
+     "id": 1446,
+     "number": 9,
+     "title": "Climate Scenario Analysis and Stress Testing"
+    },
+    {
+     "id": 1447,
+     "number": 10,
+     "title": "Integrating Sustainable Finance into Day-to-Day Supervision"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

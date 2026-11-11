@@ -1,0 +1,180 @@
+{
+ "id": 1014,
+ "entryType": "module",
+ "title": "Whistleblowing and Speak-Up Reports",
+ "summary": "How to receive, triage and protect whistleblowing and speak-up reports so that concerns are investigated properly and those who raise them are not deterred or harmed.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "whistleblowing-and-speak-up-reports",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Conduct & Culture / HR"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to receive, triage and protect whistleblowing and speak-up reports so that concerns are investigated properly and those who raise them are not deterred or harmed.",
+  "Learning Objectives": [
+   "Design a triage process for speak-up reports and other concerns",
+   "Protect confidentiality and anonymity and prevent retaliation",
+   "Explain the board's oversight role in whistleblowing arrangements"
+  ],
+  "Syllabus": [
+   "Channels, intake and acknowledging the reporter",
+   "Triage: seriousness, credibility, urgency and conflicts of interest",
+   "Confidentiality, anonymity and detecting and preventing retaliation",
+   "Psychological safety and why staff stay silent"
+  ],
+  "Intended Audience": [
+   "Heads of compliance, risk, internal audit, financial crime and legal, and the investigators in their teams",
+   "HR and employee relations professionals who conduct disciplinary and misconduct investigations",
+   "Whistleblowing champions, investigation sponsors and senior managers who commission internal reviews"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of compliance, audit, legal, HR or risk work in a regulated firm is helpful. No prior investigation or interviewing training is required.",
+  "Core Reading": [
+   "Rebecca Milne and Ray Bull, Investigative Interviewing: Psychology and Practice (1999)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)",
+   "Amy C. Edmondson, The Fearless Organization: Creating Psychological Safety in the Workplace (2018)",
+   "Daniel Kahneman, Thinking, Fast and Slow (2011)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 270,
+   "module": 2,
+   "title": "Internal Investigations and Interviewing Skills",
+   "moduleCount": 9,
+   "durationValue": 27,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1013,
+     "number": 1,
+     "title": "Internal Investigations: Triggers, Mandate and Independence"
+    },
+    {
+     "id": 1014,
+     "number": 2,
+     "title": "Whistleblowing and Speak-Up Reports"
+    },
+    {
+     "id": 1015,
+     "number": 3,
+     "title": "Planning the Investigation"
+    },
+    {
+     "id": 1016,
+     "number": 4,
+     "title": "Gathering and Preserving Evidence"
+    },
+    {
+     "id": 1017,
+     "number": 5,
+     "title": "The Investigative Interview: Structure, Fairness and Mindset"
+    },
+    {
+     "id": 1018,
+     "number": 6,
+     "title": "Questioning, Listening and Testing Accounts"
+    },
+    {
+     "id": 1019,
+     "number": 7,
+     "title": "Documents, Records and Difficult Interviews"
+    },
+    {
+     "id": 1020,
+     "number": 8,
+     "title": "Findings, Reporting and Outcomes"
+    },
+    {
+     "id": 1021,
+     "number": 9,
+     "title": "Role-Play Workshop: From Interview to Board Report"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 211,
+   "entryType": "programme",
+   "title": "Compliance Officer Academy",
+   "summary": "A ten-module academy giving compliance officers the tools to run an independent, risk-based compliance function and handle supervisory engagement with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 269,
+   "entryType": "programme",
+   "title": "Internal Audit in Regulated Firms",
+   "summary": "An eight-module programme giving internal auditors the tools to deliver risk-based assurance over the regulatory risks that matter most to boards and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 279,
+   "entryType": "programme",
+   "title": "Management and Leadership for Compliance and Risk Teams",
+   "summary": "A ten-module programme giving managers of compliance, risk and financial crime teams the skills to lead the second line, influence the business and earn the board's confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

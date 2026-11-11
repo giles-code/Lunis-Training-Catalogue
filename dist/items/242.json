@@ -1,0 +1,313 @@
+{
+ "id": 242,
+ "entryType": "programme",
+ "title": "Finance and Prudential Essentials for Directors of Regulated Firms",
+ "summary": "An eight-module programme giving non-financial directors the confidence to read a regulated firm's accounts, capital and liquidity position, and to challenge the CFO.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 16,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors",
+  "Senior leaders & managers"
+ ],
+ "firmType": [],
+ "slug": "finance-for-non-financial-directors",
+ "moduleCount": 8,
+ "hoursPerModule": 2,
+ "intro": "This training programme equips non-executive directors without a finance background to read the numbers of a regulated firm with confidence: understanding financial statements, capital and liquidity, regulatory returns and plans, and challenging the finance function effectively.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Prudential Risk (Capital & Liquidity)"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give directors without an accounting or finance background a practical, jargon-free understanding of the financial and prudential position of regulated firms, and how to see the numbers the way a supervisor does. Participants leave able to read financial statements and regulatory returns, interpret capital, liquidity and stress test results, and put informed questions to the CFO and auditors.",
+  "What It Covers": "Financial statements of regulated firms, key ratios and performance measures, capital and liquidity adequacy, regulatory returns, internal capital and liquidity assessments, budgets and business plans, audit and accounting judgements, valuation, stress testing and reverse stress testing, and the questions directors should ask the CFO.",
+  "Intended Audience": [
+   "Non-executive and independent directors without a finance or accounting background",
+   "Chairs and members of board committees other than audit, and newly appointed directors",
+   "Executive directors and senior managers from non-finance functions who sign off plans or returns"
+  ],
+  "Learning Objectives": [
+   "Explain how the financial statements of different types of regulated firm fit together",
+   "Interpret key ratios for profitability, capital, liquidity and efficiency",
+   "Assess capital and liquidity adequacy and the firm's internal assessments of both",
+   "Challenge budgets, business plans and the assumptions behind them",
+   "Evaluate audit findings, accounting judgements, valuations and stress test results",
+   "Use a structured question set to hold the CFO and finance function to account"
+  ],
+  "Structure and Format": "Eight modules of about two hours each, delivered in person, virtually or in a hybrid format, either as a two-day programme or as a series of board briefing sessions. Each module combines a short briefing with worked examples and a board question set, and modules can be selected or tailored to the firm's sector and business model.",
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No accounting or finance qualification is required.",
+  "Core Reading": [
+   "Basel Committee, The Basel Framework (consolidated Basel III standards)",
+   "Basel Committee, Principles for Sound Liquidity Risk Management and Supervision (2008)",
+   "Basel Committee, Stress Testing Principles (2018)",
+   "IOSCO, Principles for the Valuation of Collective Investment Schemes (2013)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 776,
+   "number": 1,
+   "title": "Reading the Financial Statements of a Regulated Firm",
+   "summary": "Plain-language guide to the income statement, balance sheet and cash flow statement, and how they look different for banks, investment firms, payment firms, fund managers and insurers.",
+   "objectives": [
+    "Explain how the three primary statements connect",
+    "Recognise the distinctive features of different regulated business models",
+    "Identify the lines in the accounts that matter most to supervisors"
+   ],
+   "syllabus": [
+    "Income statement, balance sheet and cash flow: how they fit together",
+    "Business model differences: lending, dealing, payments, asset management and insurance",
+    "Client money and assets: why they sit apart from the balance sheet",
+    "Notes to the accounts: where the important information hides"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 777,
+   "number": 2,
+   "title": "Key Ratios and Performance Measures",
+   "summary": "The ratios and measures that tell directors whether the firm is profitable, efficient and sustainable, and how to spot when headline numbers flatter the position.",
+   "objectives": [
+    "Interpret profitability, efficiency and concentration measures",
+    "Compare performance over time and against peers",
+    "Identify warning signs behind apparently healthy figures"
+   ],
+   "syllabus": [
+    "Margins, return on equity, cost-income ratio and revenue concentration",
+    "Recurring versus one-off income and quality of earnings",
+    "Trend analysis and peer comparison",
+    "Red flags: rapid growth, related parties and unexplained movements"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 778,
+   "number": 3,
+   "title": "Capital and Liquidity Adequacy",
+   "summary": "Why regulated firms must hold capital and liquid assets, how requirements are set and measured, and how directors judge whether headroom is sufficient.",
+   "objectives": [
+    "Explain the purpose of capital and liquidity requirements in plain language",
+    "Interpret capital and liquidity ratios, buffers and headroom",
+    "Assess whether management actions and triggers are credible"
+   ],
+   "syllabus": [
+    "Own funds, capital quality and deductions",
+    "Risk-based, fixed-overhead and activity-based capital requirements",
+    "Liquidity requirements, buffers and funding concentration",
+    "Early warning indicators, recovery triggers and management actions"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 779,
+   "number": 4,
+   "title": "Regulatory Returns and Internal Capital and Liquidity Assessments",
+   "summary": "What firms report to the authority, how directors gain comfort over its accuracy, and what a good internal assessment of capital and liquidity needs looks like.",
+   "objectives": [
+    "Explain the main regulatory returns and the board's responsibility for them",
+    "Evaluate the quality of the firm's internal capital and liquidity assessment",
+    "Identify common weaknesses that supervisors challenge"
+   ],
+   "syllabus": [
+    "Regulatory reporting: content, frequency, controls and sign-off",
+    "Internal assessments of capital and liquidity: purpose, structure and board ownership",
+    "Wind-down planning and the cost of an orderly exit",
+    "Common supervisory findings on returns and internal assessments"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 780,
+   "number": 5,
+   "title": "Budgets, Business Plans and Forecasts",
+   "summary": "How to challenge budgets, business plans and forecasts, test the assumptions behind them, and link plans to capital, liquidity and risk appetite.",
+   "objectives": [
+    "Test the assumptions underlying budgets and business plans",
+    "Link business plans to capital, liquidity and risk appetite",
+    "Monitor performance against plan and respond to variances"
+   ],
+   "syllabus": [
+    "Anatomy of a business plan: revenue drivers, costs and investment",
+    "Testing assumptions: sensitivity, downside cases and optimism bias",
+    "Capital and liquidity implications of growth and new business",
+    "Variance analysis and reforecasting"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 781,
+   "number": 6,
+   "title": "Audit, Accounting Judgements and Valuation",
+   "summary": "Where the numbers depend on judgement, from provisions and impairments to the valuation of hard-to-price assets, and how directors use the auditors to gain assurance.",
+   "objectives": [
+    "Identify significant accounting judgements and estimates",
+    "Assess valuation approaches for illiquid and complex assets",
+    "Engage effectively with external and internal auditors"
+   ],
+   "syllabus": [
+    "Provisions, impairments, expected credit losses and revenue recognition",
+    "Valuation hierarchies, models and independent price verification",
+    "Reading the audit report, key audit matters and management letters",
+    "The board's relationship with the auditors and the audit committee"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 782,
+   "number": 7,
+   "title": "Stress Testing and Reverse Stress Testing",
+   "summary": "How stress tests and reverse stress tests show the firm's vulnerabilities, how to judge whether scenarios are severe enough, and how results should shape board decisions.",
+   "objectives": [
+    "Explain how stress and reverse stress tests are built",
+    "Challenge scenario severity, assumptions and management actions",
+    "Use stress test results in strategy, capital and risk appetite decisions"
+   ],
+   "syllabus": [
+    "Scenario design: idiosyncratic, market-wide and combined stresses",
+    "Reverse stress testing: what would make the business model fail",
+    "Plausibility of management actions under stress",
+    "Integrating results into planning, capital and recovery decisions"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 783,
+   "number": 8,
+   "title": "Holding the Finance Function to Account",
+   "summary": "Brings the programme together into a board question set for the CFO, auditors and finance function, and a practical plan for improving the board's financial oversight.",
+   "objectives": [
+    "Assess the capability and independence of the finance function",
+    "Specify the financial and prudential information the board needs",
+    "Produce a personal and board action plan for financial oversight"
+   ],
+   "syllabus": [
+    "Questions to ask the CFO: performance, capital, liquidity and judgements",
+    "Board financial and prudential management information",
+    "Seeing the numbers the way a supervisor does",
+    "Workshop: reviewing a board finance pack and agreeing actions"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 236,
+   "entryType": "programme",
+   "title": "Effective Governance for Boards and Directors",
+   "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+   "level": "Board level",
+   "moduleCount": 12,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 263,
+   "entryType": "programme",
+   "title": "Geopolitical and Emerging Risks for Boards",
+   "summary": "An eight-module programme helping boards identify, debate and prepare for geopolitical and emerging risks, ending with a facilitated board scenario exercise.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 266,
+   "entryType": "programme",
+   "title": "Group Governance and Cross-Border Operations",
+   "summary": "A nine-module programme helping boards and senior managers of cross-border groups balance group direction with local accountability, oversee intragroup arrangements and deal with multiple supervisors.",
+   "level": "Advanced",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 268,
+   "entryType": "programme",
+   "title": "Induction for Directors of Regulated Firms",
+   "summary": "A ten-module induction giving new directors of regulated firms the grounding to discharge their duties, understand supervisory expectations and oversee the firm's risks.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

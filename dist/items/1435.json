@@ -1,0 +1,176 @@
+{
+ "id": 1435,
+ "entryType": "module",
+ "title": "ESG Data, Ratings and Methodologies",
+ "summary": "Understanding the limits of ESG data and ratings, assessing providers and building data governance fit for risk management and disclosure.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "Sustainable finance"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "esg-data-ratings-and-methodologies",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Sustainable Finance & ESG",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Understanding the limits of ESG data and ratings, assessing providers and building data governance fit for risk management and disclosure.",
+  "Learning Objectives": [
+   "Assess the quality, coverage and comparability of ESG data",
+   "Evaluate ESG ratings methodologies and their limitations",
+   "Design data governance for sustainability data"
+  ],
+  "Syllabus": [
+   "ESG data sources, gaps and estimation",
+   "Ratings divergence and methodology transparency",
+   "Due diligence on ESG data and ratings providers",
+   "IOSCO recommendations on ESG ratings and data providers"
+  ],
+  "Intended Audience": [
+   "Risk, compliance and sustainability professionals in regulated firms",
+   "Portfolio managers, product developers and stewardship teams",
+   "Finance, reporting and senior management staff responsible for sustainability disclosures"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of risk, compliance, investment or reporting in a regulated firm is helpful. No specialist sustainability background is required.",
+  "Core Reading": [
+   "ISSB, IFRS S1 General Requirements and IFRS S2 Climate-related Disclosures (2023)",
+   "TCFD, Recommendations of the Task Force on Climate-related Financial Disclosures (2017)",
+   "IOSCO, Recommendations on Sustainability-Related Practices, Policies, Procedures and Disclosure in Asset Management (2021)",
+   "TNFD, Recommendations of the Taskforce on Nature-related Financial Disclosures (2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 317,
+   "module": 6,
+   "title": "Sustainable Finance and ESG for Firms",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1430,
+     "number": 1,
+     "title": "Climate and ESG Risk Management"
+    },
+    {
+     "id": 1431,
+     "number": 2,
+     "title": "Climate Scenario Analysis and Stress Testing"
+    },
+    {
+     "id": 1432,
+     "number": 3,
+     "title": "Transition Plans"
+    },
+    {
+     "id": 1433,
+     "number": 4,
+     "title": "Sustainability Disclosures"
+    },
+    {
+     "id": 1434,
+     "number": 5,
+     "title": "Product Labelling and Greenwashing"
+    },
+    {
+     "id": 1435,
+     "number": 6,
+     "title": "ESG Data, Ratings and Methodologies"
+    },
+    {
+     "id": 1436,
+     "number": 7,
+     "title": "Stewardship and Engagement"
+    },
+    {
+     "id": 1437,
+     "number": 8,
+     "title": "Governance of Sustainability and Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 192,
+   "entryType": "programme",
+   "title": "Agentic AI and Autonomous Finance for Firms",
+   "summary": "An eight-module programme helping firms deploy AI agents that act and transact with sound authority, controls, governance and customer protection.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 196,
+   "entryType": "programme",
+   "title": "AI Governance for Firms",
+   "summary": "A ten-module programme giving compliance, risk, model risk and technology staff the tools to design, run and evidence robust AI governance across the firm.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

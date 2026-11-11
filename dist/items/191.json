@@ -1,0 +1,113 @@
+{
+ "id": 191,
+ "entryType": "module",
+ "title": "Writing for Impact: Supervisory Correspondence and Public Statements",
+ "summary": "The aim of this workshop is to build participants' skills in writing clear, authoritative supervisory correspondence and public statements that are accurate, defensible, and appropriately calibrated for their audience, from firm-level letters to public communications.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "Supervisory Judgement & Professional Practice",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "writing-for-impact-supervisory-correspondence-and-public-statements",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in writing clear, authoritative supervisory correspondence and public statements that are accurate, defensible, and appropriately calibrated for their audience, from firm-level letters to public communications.",
+  "Intended Audience": "Junior to mid-level supervisory staff developing core professional judgement skills.",
+  "Learning Objectives": [
+   "Explain the principles of clear, authoritative regulatory writing",
+   "Apply structure and tone appropriate to different types of correspondence",
+   "Draft a firm-level supervisory letter that is clear and defensible",
+   "Draft a public statement calibrated for a general audience",
+   "Evaluate a piece of regulatory writing for clarity and risk"
+  ],
+  "Syllabus": [
+   "What makes regulatory writing clear and authoritative",
+   "Calibrating tone: firm-level letters versus public statements",
+   "Common weaknesses in regulatory correspondence",
+   "Legal and reputational risk in written communication",
+   "Facilitated discussion: examples of strong and weak regulatory writing",
+   "Structuring a supervisory letter: findings, expectations, next steps",
+   "Balancing firmness with fairness in tone",
+   "Ensuring the letter is defensible if challenged",
+   "Common drafting pitfalls in firm-level correspondence",
+   "Exercise: draft a supervisory letter for a sample finding",
+   "Calibrating a public statement for a general audience",
+   "Balancing transparency with legal and market-sensitivity considerations",
+   "Peer review techniques for evaluating regulatory writing",
+   "Exercise: draft a public statement for a sample scenario and peer-review a colleague's draft",
+   "Recap: principles, firm-level correspondence, public statements",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Principles of regulatory writing (09:30–10:45)\n- Session 2: Drafting firm-level correspondence (11:00–12:30)\n- Session 3: Public statements and evaluation (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Regulatory writing must serve multiple audiences at once — the firm, the public, and potentially a future court\n- Structure and tone should be calibrated deliberately to the type of correspondence, not applied uniformly\n- Peer review is one of the most effective ways to catch clarity and risk issues before a document is sent",
+  "Useful Prior Knowledge and Experience": "Some familiarity with supervisory judgement & professional practice is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 273,
+   "entryType": "programme",
+   "title": "Investigative and Interviewing Skills for Supervisors",
+   "summary": "An eight-module practical programme on planning and conducting supervisory interviews and turning interview evidence into sound findings.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 314,
+   "entryType": "programme",
+   "title": "Supervisory Judgement and Professional Practice",
+   "summary": "A ten-module programme on forming, documenting and defending supervisory judgements, and turning them into clear findings, letters and interventions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 217,
+   "entryType": "programme",
+   "title": "Core Professional Skills for Regulatory Staff",
+   "summary": "An eight-module practical programme building the core writing, analysis, meeting, challenge, presentation and data skills that regulatory staff need every day.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

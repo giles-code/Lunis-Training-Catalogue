@@ -1,0 +1,157 @@
+{
+ "id": 1261,
+ "entryType": "module",
+ "title": "Supervisory Expectations and Quantum Readiness",
+ "summary": "Brings the programme together into proportionate supervisory expectations for quantum readiness, the international work under way and an action plan for the authority's own systems.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Cybersecurity & Operational Resilience",
+ "tags": [
+  "Operational resilience & cyber",
+  "Crypto & digital assets"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "supervisory-expectations-and-quantum-readiness",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together into proportionate supervisory expectations for quantum readiness, the international work under way and an action plan for the authority's own systems.",
+  "Learning Objectives": [
+   "Compare emerging supervisory and international approaches to quantum readiness",
+   "Formulate proportionate supervisory expectations for different types of firm",
+   "Design a quantum readiness plan for the authority and its regulated population"
+  ],
+  "Syllabus": [
+   "International work: BIS, G7 Cyber Expert Group and national cyber agencies",
+   "Embedding quantum risk in cyber and operational resilience supervision",
+   "The authority's own cryptographic exposure and migration",
+   "Workshop: the authority's quantum readiness action plan"
+  ],
+  "Intended Audience": [
+   "Supervisors and inspectors responsible for technology, cyber and operational resilience risk",
+   "Payments, market infrastructure and digital asset specialists in supervisory and central bank functions",
+   "Policy staff and senior managers shaping the authority's cyber and quantum readiness approach"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of cyber, technology risk or operational resilience supervision is helpful. No background in mathematics or cryptography is required.",
+  "Core Reading": [
+   "NIST, FIPS 203, 204 and 205: Post-Quantum Cryptography Standards (2024)",
+   "G7 Cyber Expert Group, Public Statement on Planning for the Opportunities and Risks of Quantum Computing (2024)",
+   "NIST, Cybersecurity Framework 2.0 (2024)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 297,
+   "module": 6,
+   "title": "Quantum and Cryptographic Resilience",
+   "moduleCount": 6,
+   "durationValue": 18,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1256,
+     "number": 1,
+     "title": "Quantum Computing and the Cryptographic Threat"
+    },
+    {
+     "id": 1257,
+     "number": 2,
+     "title": "Where Cryptography Sits in Financial Services"
+    },
+    {
+     "id": 1258,
+     "number": 3,
+     "title": "Cryptographic Inventories and Risk Assessment"
+    },
+    {
+     "id": 1259,
+     "number": 4,
+     "title": "Post-Quantum Standards, Migration and Crypto-Agility"
+    },
+    {
+     "id": 1260,
+     "number": 5,
+     "title": "Third Parties, Payments and Crypto-Assets"
+    },
+    {
+     "id": 1261,
+     "number": 6,
+     "title": "Supervisory Expectations and Quantum Readiness"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 234,
+   "entryType": "programme",
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "summary": "An eight-module programme on DORA for supervisors and financial entities: ICT risk management, incident reporting, resilience testing and TLPT, ICT third-party risk and critical provider oversight.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 287,
+   "entryType": "programme",
+   "title": "Operational Resilience, Cyber and Critical Third Parties",
+   "summary": "A ten-module programme equipping supervisors to assess firms' operational resilience, cyber risk, incident response and third-party dependencies, and to shape the authority's resilience strategy.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

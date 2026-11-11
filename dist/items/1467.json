@@ -1,0 +1,162 @@
+{
+ "id": 1467,
+ "entryType": "module",
+ "title": "Recovering Proceeds and Joint Case Workshop",
+ "summary": "Brings the programme together by examining recovery of tax crime proceeds through criminal, civil and tax routes, ending with a workshop in which teams plan a joint tax and money laundering investigation.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Intelligence & Law Enforcement",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Asset recovery, customs & tax",
+  "Financial investigators & police",
+  "FIU analysts"
+ ],
+ "firmType": [],
+ "slug": "recovering-proceeds-and-joint-case-workshop",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "International & Cross-Border Affairs"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Brings the programme together by examining recovery of tax crime proceeds through criminal, civil and tax routes, ending with a workshop in which teams plan a joint tax and money laundering investigation.",
+  "Learning Objectives": [
+   "Compare criminal confiscation, civil recovery and tax assessment as recovery routes",
+   "Coordinate recovery across tax and law-enforcement agencies",
+   "Apply the programme to plan a realistic joint investigation"
+  ],
+  "Syllabus": [
+   "Tax assessments, penalties and criminal confiscation",
+   "Civil recovery and settlements in tax crime cases",
+   "Avoiding double recovery and coordinating enforcement",
+   "Workshop: the joint tax and laundering investigation plan"
+  ],
+  "Intended Audience": [
+   "Tax crime investigators, tax auditors and revenue intelligence officers",
+   "FIU analysts and financial investigators handling tax-related intelligence",
+   "Prosecutors and asset recovery officers working on tax and laundering cases"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of tax investigation, financial intelligence or financial crime work is helpful. No specialist knowledge of international tax law is required.",
+  "Core Reading": [
+   "OECD (2021), Fighting Tax Crime – The Ten Global Principles, Second Edition",
+   "OECD (2019), Money Laundering and Terrorist Financing Awareness Handbook for Tax Examiners and Tax Auditors",
+   "OECD (2021), Ending the Shell Game: Cracking down on the Professionals who enable Tax and White Collar Crimes",
+   "OECD (2017), Standard for Automatic Exchange of Financial Account Information in Tax Matters, Second Edition",
+   "FATF (2024), Guidance on Beneficial Ownership and Transparency of Legal Arrangements"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 321,
+   "module": 6,
+   "title": "Tax Crime and Money Laundering",
+   "moduleCount": 6,
+   "durationValue": 18,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1462,
+     "number": 1,
+     "title": "Tax Crime and Money Laundering: The Links"
+    },
+    {
+     "id": 1463,
+     "number": 2,
+     "title": "Offshore Structures, Secrecy and Beneficial Ownership"
+    },
+    {
+     "id": 1464,
+     "number": 3,
+     "title": "International Exchange of Information"
+    },
+    {
+     "id": 1465,
+     "number": 4,
+     "title": "Inter-Agency Cooperation and Joint Investigations"
+    },
+    {
+     "id": 1466,
+     "number": 5,
+     "title": "Professional Enablers"
+    },
+    {
+     "id": 1467,
+     "number": 6,
+     "title": "Recovering Proceeds and Joint Case Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 256,
+   "entryType": "programme",
+   "title": "FIU Operational and Strategic Analysis",
+   "summary": "A ten-module programme equipping FIU analysts to prioritise and analyse reports, produce operational and strategic intelligence, and cooperate effectively at home and abroad.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

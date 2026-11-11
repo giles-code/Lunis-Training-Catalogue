@@ -1,0 +1,174 @@
+{
+ "id": 1354,
+ "entryType": "module",
+ "title": "Seeing Your Firm the Way a Supervisor Does",
+ "summary": "How supervisors analyse corporate strategy and business models, why business model risk sits at the heart of supervisory risk assessment, and what that means for the board.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "seeing-your-firm-the-way-a-supervisor-does",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Strategy"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How supervisors analyse corporate strategy and business models, why business model risk sits at the heart of supervisory risk assessment, and what that means for the board.",
+  "Learning Objectives": [
+   "Explain what a business model and a corporate strategy are, and how they differ",
+   "Describe how supervisors conduct business model analysis and score its outcome",
+   "Identify the information supervisors use and how the firm will be judged"
+  ],
+  "Syllabus": [
+   "Business model components, the value chain and key dependencies",
+   "Viability over one year and sustainability over three to five years",
+   "The supervisory roadmap: preliminary assessment, analysis and scoring",
+   "Where business model risk fits in the supervisory risk framework"
+  ],
+  "Intended Audience": [
+   "Chairs, non-executive and independent directors and members of board risk and audit committees",
+   "Chief executives, finance and risk directors and senior managers accountable for strategy and planning",
+   "Company secretaries, strategy and planning teams supporting the board"
+  ],
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No specialist background in finance or risk modelling is required.",
+  "Core Reading": [
+   "FSB, Principles for an Effective Risk Appetite Framework (2013)",
+   "Basel Committee, Stress Testing Principles (2018)",
+   "Basel Committee, Corporate Governance Principles for Banks (2015)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 309,
+   "module": 1,
+   "title": "Strategy, Risk Appetite and Business Model Oversight for Boards",
+   "moduleCount": 8,
+   "durationValue": 16,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 1354,
+     "number": 1,
+     "title": "Seeing Your Firm the Way a Supervisor Does"
+    },
+    {
+     "id": 1355,
+     "number": 2,
+     "title": "Challenging the Business Plan and Its Assumptions"
+    },
+    {
+     "id": 1356,
+     "number": 3,
+     "title": "Financial Resilience and Key Risk Indicators"
+    },
+    {
+     "id": 1357,
+     "number": 4,
+     "title": "Risk Appetite Statements and Limits"
+    },
+    {
+     "id": 1358,
+     "number": 5,
+     "title": "Stress Testing and Reverse Stress Testing"
+    },
+    {
+     "id": 1359,
+     "number": 6,
+     "title": "Recovery and Wind-Down Planning"
+    },
+    {
+     "id": 1360,
+     "number": 7,
+     "title": "Major Decisions: M&A, Outsourcing and Shareholder Influence"
+    },
+    {
+     "id": 1361,
+     "number": 8,
+     "title": "Monitoring Delivery and Board Action Plan"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 236,
+   "entryType": "programme",
+   "title": "Effective Governance for Boards and Directors",
+   "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+   "level": "Board level",
+   "moduleCount": 12,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

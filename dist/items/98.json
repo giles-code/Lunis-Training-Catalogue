@@ -1,0 +1,116 @@
+{
+ "id": 98,
+ "entryType": "module",
+ "title": "Home-Host Relationships in Cross-Border Supervision",
+ "summary": "The aim of this workshop is to build participants' understanding of the Basel Core Principle on home-host relationships and to develop the practical skills needed to cooperate effectively with other supervisory authorities in the consolidated supervision of cross-border banking…",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Cross-Cutting Themes"
+ },
+ "topic": "Cross-Border & Group Supervision",
+ "tags": [
+  "Cross-border & groups"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "home-host-relationships-in-cross-border-supervision",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "International & Cross-Border Affairs",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of the Basel Core Principle on home-host relationships and to develop the practical skills needed to cooperate effectively with other supervisory authorities in the consolidated supervision of cross-border banking groups.",
+  "Intended Audience": "Mid-to-senior supervisors involved in cross-border/group supervision and international cooperation.",
+  "Learning Objectives": [
+   "Explain the requirements of the Basel Core Principle on home-host relationships",
+   "Distinguish the roles and responsibilities of home and host supervisors",
+   "Describe the information-sharing obligations between home and host supervisors",
+   "Assess the adequacy of cooperation arrangements for a cross-border group",
+   "Identify common obstacles to effective home-host cooperation",
+   "Apply home-host principles to a cross-border supervisory scenario"
+  ],
+  "Syllabus": [
+   "The Basel Core Principle on home-host relationships",
+   "Why cross-border consolidated supervision requires cooperation",
+   "Distinguishing home and host supervisor roles",
+   "The risks of supervisory gaps and duplication",
+   "Facilitated discussion: challenges of supervising a group with cross-border operations",
+   "Information-sharing gateways and confidentiality considerations",
+   "Memoranda of understanding and their role",
+   "Assessing whether cooperation arrangements are fit for purpose",
+   "IOSCO's cross-sectoral comparison of home/host practice",
+   "Group exercise: review a sample cooperation arrangement and identify gaps",
+   "Common obstacles: legal barriers, differing mandates, resource asymmetry",
+   "Escalation when cooperation breaks down",
+   "Case study: a cross-border group facing a supervisory issue",
+   "Case study: role-play a home-host coordination scenario and agree an action plan",
+   "Recap: Basel principle, roles, information-sharing, application",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Foundations of home-host supervision (09:30–10:45)\n- Session 2: Information-sharing and cooperation in practice (11:00–12:30)\n- Session 3: Applying home-host principles (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Home-host cooperation is a named Basel Core Principle, not an optional courtesy\n- Clear role division between home and host supervisors avoids both gaps and duplication\n- Effective cooperation depends on pre-agreed information-sharing arrangements, not ad hoc requests",
+  "Useful Prior Knowledge and Experience": "Some familiarity with cross-border & group supervision is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 220,
+   "entryType": "programme",
+   "title": "Cross-Border and Group Supervision",
+   "summary": "An eight-module programme on home-host supervision, consolidated group oversight, MoUs, supervisory colleges, third-country firms and cross-border crisis cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 212,
+   "entryType": "programme",
+   "title": "Conduct, Culture and Behavioural Supervision",
+   "summary": "An eight-module programme on assessing conduct risk and culture in firms, using behavioural insights, data and targeted supervisory interventions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 216,
+   "entryType": "programme",
+   "title": "Consumer Protection and Financial Inclusion",
+   "summary": "A ten-module programme equipping supervisors to assess product governance, fair value, disclosure, vulnerable customer treatment, complaints and financial inclusion.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

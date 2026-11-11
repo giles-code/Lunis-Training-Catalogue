@@ -1,0 +1,175 @@
+{
+ "id": 1317,
+ "entryType": "module",
+ "title": "Reading Risk MI",
+ "summary": "The information committees need to oversee risk and control, how to read risk reports and dashboards critically, and how to reshape committee packs so that the key messages stand out.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Governance & boards"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "reading-risk-mi",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The information committees need to oversee risk and control, how to read risk reports and dashboards critically, and how to reshape committee packs so that the key messages stand out.",
+  "Learning Objectives": [
+   "Specify the management information and indicators the committee needs",
+   "Interpret risk reports, trends and forward-looking indicators",
+   "Specify improvements to committee papers and dashboards"
+  ],
+  "Syllabus": [
+   "The core committee information set: profile, appetite, incidents and actions",
+   "Key risk indicators, trends and emerging risk horizon scanning",
+   "Overdue actions, repeat findings and risk acceptances",
+   "Good committee papers: clear asks, balanced views and exception reporting"
+  ],
+  "Intended Audience": [
+   "Chairs and members of board risk and audit committees",
+   "Non-executive and independent directors preparing to join a risk or audit committee",
+   "Heads of risk, compliance and internal audit, and company secretaries supporting committees"
+  ],
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No accounting or audit qualification is required.",
+  "Core Reading": [
+   "Basel Committee, Corporate Governance Principles for Banks (2015)",
+   "FSB, Principles for an Effective Risk Appetite Framework (2013)",
+   "Basel Committee, The Internal Audit Function in Banks (2012)",
+   "Institute of Internal Auditors, Global Internal Audit Standards (2024)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 304,
+   "module": 6,
+   "title": "Risk and Audit Committee Effectiveness",
+   "moduleCount": 8,
+   "durationValue": 16,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 1312,
+     "number": 1,
+     "title": "Committee Mandates, Composition and Interaction"
+    },
+    {
+     "id": 1313,
+     "number": 2,
+     "title": "Risk Appetite Frameworks"
+    },
+    {
+     "id": 1314,
+     "number": 3,
+     "title": "Overseeing the CRO, Compliance and Internal Audit"
+    },
+    {
+     "id": 1315,
+     "number": 4,
+     "title": "External Audit and Financial Reporting Judgements"
+    },
+    {
+     "id": 1316,
+     "number": 5,
+     "title": "Assurance Mapping and the Three Lines"
+    },
+    {
+     "id": 1317,
+     "number": 6,
+     "title": "Reading Risk MI"
+    },
+    {
+     "id": 1318,
+     "number": 7,
+     "title": "Chairing the Committee and Reporting to the Board"
+    },
+    {
+     "id": 1319,
+     "number": 8,
+     "title": "Committee Evaluation and Improvement"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 236,
+   "entryType": "programme",
+   "title": "Effective Governance for Boards and Directors",
+   "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+   "level": "Board level",
+   "moduleCount": 12,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

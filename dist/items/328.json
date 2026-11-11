@@ -1,0 +1,354 @@
+{
+ "id": 328,
+ "entryType": "programme",
+ "title": "Tokenisation of Financial Markets for Firms",
+ "summary": "A ten-module programme for firms designing, launching and running tokenised securities, funds and platforms, from business case and legal structure to custody, settlement and supervisory engagement.",
+ "clientType": [
+  "firms",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "Crypto & digital assets",
+  "Funds & asset management"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management",
+  "Investment Firms & Wealth Management",
+  "Market Infrastructure & Trading Venues",
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "tokenisation-of-financial-markets-for-firms",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips asset managers, investment firms, platforms and market infrastructures to design, launch and run tokenised securities and funds: building the business case, structuring the legal basis, choosing platforms, and managing custody, settlement and technology risk.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Strategy"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To equip firms to move from tokenisation pilots to products and services that are commercially sound, legally robust and operationally safe. Participants leave able to build and challenge a business case, structure and run a tokenised issuance, fund or platform, and evidence to supervisors that familiar standards on investor protection, custody and settlement are met.",
+  "What It Covers": "The business case for tokenisation, legal structuring and the link to the underlying asset, issuing and distributing tokenised securities, tokenised fund design and operations, collateral and treasury use cases, platform choice and ledger governance, settlement and the cash leg, custody and client asset protection, smart contract and interoperability risk, and the operating model and regulatory engagement.",
+  "Intended Audience": [
+   "Product, strategy and digital assets leads at asset managers, investment firms, trading venues, CSDs and tokenisation platforms",
+   "Operations, transfer agency, custody, legal, compliance and risk staff responsible for tokenised products and services",
+   "Senior managers and project sponsors taking a tokenisation initiative from pilot to launch"
+  ],
+  "Learning Objectives": [
+   "Build and challenge a business case for tokenisation that separates genuine benefits from claims",
+   "Structure tokenised securities and funds so that legal ownership, investor rights and the ledger record align",
+   "Evaluate platform, ledger and cash leg options and their governance, settlement and interoperability consequences",
+   "Design custody, safekeeping and reconciliation arrangements that protect client assets on a ledger",
+   "Manage smart contract, technology and third-party risk across the tokenisation value chain",
+   "Design the operating model for a tokenised product and evidence its soundness to supervisors"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a five-day programme or as a series of half-day sessions. Each module combines a briefing with case studies and design exercises, ending with a launch workshop, and modules can be selected or tailored to the firm's products and role in the value chain.",
+  "Useful Prior Knowledge and Experience": "Experience of securities, funds, custody or settlement operations is helpful. Some familiarity with crypto-assets or distributed ledgers is useful but not required.",
+  "Core Reading": [
+   "FSB, The Financial Stability Implications of Tokenisation (2024)",
+   "CPMI-IOSCO, Principles for Financial Market Infrastructures (2012)",
+   "IOSCO, Policy Recommendations for Crypto and Digital Asset Markets (2023)",
+   "BIS, Annual Economic Report 2023, Chapter III: Blueprint for the Future Monetary System"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1520,
+   "number": 1,
+   "title": "Tokenisation Strategy and the Business Case",
+   "summary": "What tokenisation means in practice for a firm, where it creates real value in issuance, funds, collateral and settlement, and how to test a business case before committing capital and reputation.",
+   "objectives": [
+    "Explain how a traditional asset is tokenised and the ledger designs that support it",
+    "Assess claimed benefits such as faster settlement, fractionalisation and programmability against current practice",
+    "Challenge a tokenisation business case on cost, demand, liquidity and dependency"
+   ],
+   "syllabus": [
+    "Tokens, ledgers, nodes and consensus for practitioners",
+    "Where value lies: issuance, funds, collateral, settlement and distribution",
+    "Strategic options: issue, distribute, custody, operate or partner",
+    "Business case tests: demand, secondary liquidity, cost and exit"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1521,
+   "number": 2,
+   "title": "Legal Structuring of Tokenised Assets",
+   "summary": "How to structure a tokenised asset so that ownership, transfer and investor rights are legally certain, and how to resolve conflicts between the ledger and the legal record before launch.",
+   "objectives": [
+    "Distinguish digitally native issuance, digital twins and depositary receipt structures",
+    "Determine when a token is a financial instrument and the consequences for the firm",
+    "Design legal documentation that aligns the ledger with the register of ownership"
+   ],
+   "syllabus": [
+    "Native tokens, digital twins and wrapped or receipt structures",
+    "Classification: financial instruments, fund units and other tokens",
+    "Ledger records, registers, governing law and conflict of laws",
+    "Insolvency remoteness, enforceability and investor rights"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1522,
+   "number": 3,
+   "title": "Issuing and Distributing Tokenised Securities",
+   "summary": "How firms arrange, issue and distribute tokenised bonds and equities, the roles each party plays, and the disclosure, product governance and suitability duties that apply when products reach new investors.",
+   "objectives": [
+    "Map the roles of issuer, arranger, registrar, platform operator and distributor",
+    "Prepare disclosure of the technology, legal and operational risks of a tokenised offering",
+    "Apply product governance and suitability to fractionalised and retail distribution"
+   ],
+   "syllabus": [
+    "The issuance lifecycle for a tokenised bond or equity",
+    "Roles, contracts and allocation of responsibilities",
+    "Disclosure of technology, ledger and counterparty risk",
+    "Fractionalisation, target market and retail suitability"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1523,
+   "number": 4,
+   "title": "Tokenised Funds: Product Design and Operations",
+   "summary": "How fund managers and service providers design and operate tokenised share classes, including on-chain transfer agency, dealing and valuation, and the responsibilities of managers, depositaries and distributors.",
+   "objectives": [
+    "Design a tokenised share class and its subscription, transfer and redemption flows",
+    "Adapt transfer agency, NAV calculation and investor registers to a ledger",
+    "Allocate oversight duties between the manager, depositary and distributors"
+   ],
+   "syllabus": [
+    "Tokenised share classes and on-chain transfer agency",
+    "Dealing cycles, NAV, redemption and liquidity management on a ledger",
+    "Investor onboarding, whitelisting and AML/CFT controls on transfer",
+    "Depositary oversight, distributor arrangements and secondary transfers"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1524,
+   "number": 5,
+   "title": "Collateral, Repo and Treasury Use Cases",
+   "summary": "How firms use tokenised assets and tokenised money market fund shares for collateral, margin, intraday repo and cash management, and the legal, liquidity and operational risks of faster collateral movement.",
+   "objectives": [
+    "Explain how tokenised assets are mobilised for collateral, margin and repo",
+    "Assess the enforceability of collateral arrangements and close-out on a ledger",
+    "Manage the liquidity and operational risks of faster collateral flows"
+   ],
+   "syllabus": [
+    "Collateral mobility, intraday repo and margin calls",
+    "Tokenised money market fund shares as collateral and cash management",
+    "Eligibility, haircuts, valuation and close-out netting",
+    "Interaction with central counterparties and margin frameworks"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1525,
+   "number": 6,
+   "title": "Platform Choice and Ledger Governance",
+   "summary": "How to choose between building, joining or partnering on a tokenisation platform, the trade-offs between permissioned and public ledgers, and the governance rights the firm needs over the network it relies on.",
+   "objectives": [
+    "Compare permissioned, public and hybrid ledgers for control, access and resilience",
+    "Assess platform operators, node arrangements and governance rights",
+    "Evaluate conflicts in platforms that combine issuance, trading, settlement and custody"
+   ],
+   "syllabus": [
+    "Build, join or partner: platform options and selection criteria",
+    "Permissioned, public and hybrid ledgers: governance and access",
+    "Node operation, upgrades, forks and change control",
+    "Vertical integration, conflicts of interest and licensing implications"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1526,
+   "number": 7,
+   "title": "Settlement, the Cash Leg and Finality",
+   "summary": "How tokenised transactions settle, the options for the cash leg, and how the firm achieves legal and operational finality, applying the PFMI where it operates or relies on settlement infrastructure.",
+   "objectives": [
+    "Design delivery versus payment and atomic settlement for tokenised trades",
+    "Evaluate cash leg options and their credit, liquidity and settlement risk",
+    "Assess legal and operational finality under different consensus models"
+   ],
+   "syllabus": [
+    "Delivery versus payment, atomic settlement and prefunding",
+    "Cash leg options: central bank money, tokenised deposits and stablecoins",
+    "Legal finality, probabilistic finality, forks and rollback",
+    "PFMI expectations for settlement, liquidity and operational risk"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1527,
+   "number": 8,
+   "title": "Custody, Safekeeping and Client Asset Protection",
+   "summary": "How custodians, depositaries and platforms safeguard tokenised assets, from wallet architecture and key management to segregation, reconciliation and the return of client assets on insolvency.",
+   "objectives": [
+    "Design a custody model and wallet architecture for tokenised assets",
+    "Implement key management, segregation and reconciliation controls",
+    "Evidence that client assets are protected and returnable on insolvency"
+   ],
+   "syllabus": [
+    "Custody models: direct holding, omnibus and third-party custodians",
+    "Private key management, multi-signature and threshold signatures",
+    "Reconciliation between the ledger and books and records",
+    "Client asset protection, insolvency and return of assets"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1528,
+   "number": 9,
+   "title": "Smart Contracts, Interoperability and Technology Risk",
+   "summary": "The technology risks specific to tokenised products, including smart contract defects, administrative keys, oracles, bridges and fragmented ledgers, and the controls and assurance a firm should put in place.",
+   "objectives": [
+    "Assess smart contract design, code audit and upgrade governance",
+    "Manage interoperability, bridge, oracle and node operator dependencies",
+    "Apply operational resilience and third-party risk controls to DLT arrangements"
+   ],
+   "syllabus": [
+    "Smart contract vulnerabilities, audits, pause functions and administrative keys",
+    "Fragmentation, cross-chain bridges and messaging standards",
+    "Oracles, data feeds and third-party technology providers",
+    "Incident response, cyber risk and resilience testing on a ledger"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1529,
+   "number": 10,
+   "title": "Operating Model, Regulatory Engagement and Launch",
+   "summary": "Brings the programme together into an operating model and launch plan, covering governance, controls, financial crime, pilots and sandboxes, and how to engage the authority so that the product is approved and supervised with confidence.",
+   "objectives": [
+    "Design the governance, controls and operating model for a tokenised product",
+    "Plan regulatory engagement, including pilots, sandboxes and permissions",
+    "Anticipate the questions a supervisor will ask and prepare the evidence"
+   ],
+   "syllabus": [
+    "Target operating model, risk appetite and board approval",
+    "Pilot regimes, sandboxes, permissions and exit routes",
+    "International work: FSB, IOSCO, CPMI and BIS on tokenisation",
+    "Workshop: a tokenised fund or bond launch reviewed through a supervisor's eyes"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 222,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals for Industry",
+   "summary": "A ten-module foundation programme giving industry professionals and their advisers a practical understanding of blockchain, crypto-asset markets and service providers, and the risks and controls that matter.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 298,
+   "entryType": "programme",
+   "title": "Quantum and Cryptographic Resilience for Firms",
+   "summary": "An eight-module programme helping firms understand the quantum threat, build a cryptographic inventory, plan post-quantum migration and report readiness to the board and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 192,
+   "entryType": "programme",
+   "title": "Agentic AI and Autonomous Finance for Firms",
+   "summary": "An eight-module programme helping firms deploy AI agents that act and transact with sound authority, controls, governance and customer protection.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 196,
+   "entryType": "programme",
+   "title": "AI Governance for Firms",
+   "summary": "A ten-module programme giving compliance, risk, model risk and technology staff the tools to design, run and evidence robust AI governance across the firm.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "id": 313,
+ "entryType": "programme",
+ "title": "Supervisory Findings and Remediation: From Risk Assessment to Closure",
+ "summary": "A one-day workshop on how supervisors reach findings and how licensees can respond with remediation that fixes root causes and closes issues on evidence.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Regulatory Readiness",
+  "payments": "Regulatory Readiness",
+  "crypto": "Regulatory Readiness"
+ },
+ "topic": "Regulatory Readiness",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 6,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "supervisory-findings-and-remediation",
+ "moduleCount": 6,
+ "hoursPerModule": 1,
+ "intro": "This training programme equips licensees to understand how supervisors reach and challenge their conclusions, and to respond to risk ratings, risk mitigation programmes and thematic reviews with remediation that works and evidence that closes issues.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Risk Management"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To help boards, senior managers and control functions understand the path from a supervisory risk assessment to ratings, findings and required actions, and to manage remediation so that issues are fixed at their root and closed on evidence. Participants leave able to engage constructively with findings, design remediation that addresses underlying causes and respond well to thematic reviews.",
+  "What It Covers": "How supervisory conclusions are reached and challenged, risk ratings and engagement, risk mitigation programmes, choosing and planning remediation, evidencing closure, escalation and enforcement risk, and thematic reviews and industry reports.",
+  "Intended Audience": [
+   "Board members and senior managers accountable for responding to supervisory findings",
+   "Compliance, risk and internal audit staff who coordinate remediation and track actions",
+   "Project and change managers who deliver remediation programmes"
+  ],
+  "Learning Objectives": [
+   "Explain how supervisors form, test and challenge their conclusions before findings are issued",
+   "Interpret risk ratings and what they mean for the firm's supervisory engagement",
+   "Analyse supervisory findings to identify incidents, control failures and underlying causes",
+   "Design remediation actions that define the outcome and can be evidenced",
+   "Manage remediation to closure and avoid escalation",
+   "Respond effectively to thematic reviews and industry findings"
+  ],
+  "Structure and Format": "Six modules of about one hour each, delivered as a one-day workshop in person, virtually or in a hybrid format, built around a running case study. It can be delivered on its own or with the companion workshops on business models and on governance and supervisory interviews.",
+  "Useful Prior Knowledge and Experience": "Some experience of supervisory engagement or remediation work is helpful. No prior training is required.",
+  "Core Reading": [
+   "IMF, Good Supervision: Lessons from the Field (Working Paper WP/23/181, 2023)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1397,
+   "number": 1,
+   "title": "How Supervisors Reach Their Conclusions",
+   "summary": "How supervisory teams turn analysis into ratings and proposed actions, and how internal challenge and governance processes test their conclusions before findings reach the firm.",
+   "objectives": [
+    "Describe how supervisors move from evidence to judgement",
+    "Explain the role of internal challenge in supervisory decisions",
+    "Anticipate what a well-reasoned finding looks like"
+   ],
+   "syllabus": [
+    "From desk review and visits to key vulnerabilities",
+    "Written rationales and the supervisory audit trail",
+    "Internal challenge and peer review of supervisory conclusions",
+    "Consistency across firms and over time"
+   ],
+   "durationValue": 1,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1398,
+   "number": 2,
+   "title": "Risk Ratings and Supervisory Engagement",
+   "summary": "What impact and risk ratings mean, how they drive the intensity of supervision and what the firm can do to understand and influence its risk profile.",
+   "objectives": [
+    "Distinguish impact from assessed risk",
+    "Explain how ratings shape supervisory engagement",
+    "Identify the drivers of the firm's risk profile"
+   ],
+   "syllabus": [
+    "Impact, risk and the intensity of supervision",
+    "How ratings are communicated to the firm",
+    "Correcting factual errors and providing context",
+    "Improving the risk profile over time"
+   ],
+   "durationValue": 1,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1399,
+   "number": 3,
+   "title": "Risk Mitigation Programmes and Required Actions",
+   "summary": "How supervisors structure issues and actions, the range of tools from firm-led actions to formal measures, and how the escalation ladder works.",
+   "objectives": [
+    "Read a supervisory issue and its required actions",
+    "Explain the range of supervisory tools and escalation",
+    "Recognise when a matter risks referral to enforcement"
+   ],
+   "syllabus": [
+    "Anatomy of a required action: issue, action, owner, date",
+    "Tools that work through the firm and formal supervisory measures",
+    "The escalation ladder and what triggers it",
+    "When findings become enforcement referrals"
+   ],
+   "durationValue": 1,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1400,
+   "number": 4,
+   "title": "Designing Remediation That Works",
+   "summary": "How to diagnose root causes and design remediation that defines the destination, has clear ownership and fixes the underlying control failure rather than the symptom.",
+   "objectives": [
+    "Separate incident, control failure and underlying cause",
+    "Design outcome-focused remediation actions",
+    "Set realistic milestones and accountability"
+   ],
+   "syllabus": [
+    "Incident, control failure and underlying cause",
+    "Define the destination, not the journey",
+    "Ownership, resourcing and realistic timelines",
+    "Case study: drafting the remediation plan"
+   ],
+   "durationValue": 1,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1401,
+   "number": 5,
+   "title": "Evidencing Closure and Avoiding Escalation",
+   "summary": "What evidence supervisors need before closing an action, how to report progress and how to handle slippage without losing credibility.",
+   "objectives": [
+    "Assemble evidence that an action is complete and effective",
+    "Report remediation progress to the board and supervisor",
+    "Manage slippage and changes to agreed actions"
+   ],
+   "syllabus": [
+    "Completion versus effectiveness: testing the fix",
+    "Assurance from the second and third lines",
+    "Progress reporting and early warning of slippage",
+    "Case study: six months on"
+   ],
+   "durationValue": 1,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1402,
+   "number": 6,
+   "title": "Thematic Reviews and Industry Findings",
+   "summary": "How supervisors run thematic reviews, what they mean for firms in and outside the sample, and how to use published findings to strengthen the firm's own controls.",
+   "objectives": [
+    "Explain how thematic reviews are scoped and run",
+    "Respond effectively when selected for a thematic review",
+    "Apply published thematic findings to the firm"
+   ],
+   "syllabus": [
+    "Why supervisors run thematic reviews",
+    "Responding to questionnaires, visits and feedback",
+    "Reading industry reports: complying with intent, not just wording",
+    "Workshop: a gap analysis against a thematic report"
+   ],
+   "durationValue": 1,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 239,
+   "entryType": "programme",
+   "title": "Engaging Effectively with Your Supervisor: How Firms Are Assessed",
+   "summary": "A ten-module programme showing firms how supervisors assess business models, governance and risk, so they can see themselves as the supervisor does and engage with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 255,
+   "entryType": "programme",
+   "title": "Fit and Proper for Firms: Appointing and Assessing Key Function Holders",
+   "summary": "A nine-module programme showing firms how to appoint and assess key function holders, prepare applications and interviews, and manage fitness and certification on an ongoing basis.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 264,
+   "entryType": "programme",
+   "title": "Governance Reviews and Supervisory Interviews: Preparing Your Board and Management",
+   "summary": "A one-day workshop on how supervisors assess governance and interview directors and staff, and how licensees can evidence effective governance and prepare openly.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 6,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 299,
+   "entryType": "programme",
+   "title": "Recovery and Wind-Down Planning for Firms",
+   "summary": "An eight-module programme helping firms build credible recovery and wind-down plans, from scenarios and triggers to client asset return, testing and supervisory review.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 301,
+   "entryType": "programme",
+   "title": "Regulatory Investigations and Enforcement: Responding as a Firm",
+   "summary": "A ten-module programme showing firms how to prepare for, manage and respond to supervisory investigations and enforcement, from first information request to settlement.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 303,
+   "entryType": "programme",
+   "title": "Regulatory Readiness: Authorisation and Supervisory Engagement",
+   "summary": "A ten-module programme taking firms from licence application through to established supervision, showing how authorities assess applications and supervise new firms.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

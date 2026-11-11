@@ -1,0 +1,254 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/giles-code/lunis-training-catalogue/schema/entry.schema.json",
+  "title": "Lunis Training catalogue entry: programme or module (v3, November 2026)",
+  "description": "Fields at the top of each file in programmes/ and modules/. Written sections below the fields, in this order: Aim and Purpose; What It Covers (optional, programmes); Intended Audience (bullets); Learning Objectives (bullets); Syllabus (bullets, modules); Structure and Format; Useful Prior Knowledge and Experience; Materials (optional); Core Reading (bullets); Modules Intro (optional, programmes). Modules leaving Intended Audience, Prior Knowledge, Core Reading, level or deliveryFormat blank take them from their first programme.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "entryType",
+    "title",
+    "summary",
+    "clientType",
+    "pillar",
+    "deliveryFormat",
+    "durationValue",
+    "durationUnit",
+    "active"
+  ],
+  "properties": {
+    "id": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Permanent sequential number, shared by programmes and modules. Never reused or changed. Also the page link: programme.html?id=<id>."
+    },
+    "entryType": {
+      "type": "string",
+      "enum": [
+        "programme",
+        "module"
+      ],
+      "description": "Programme (made up of linked modules) or Module (every standalone course and every programme module)."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120,
+      "description": "Full name."
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 300,
+      "description": "One or two sentence teaser for cards."
+    },
+    "clientType": {
+      "type": "array",
+      "description": "Which of the five 'Training for' groups this entry appears under. One or more.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "firms",
+          "payments",
+          "crypto",
+          "regulators",
+          "government"
+        ]
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "pillar": {
+      "type": "object",
+      "description": "Exactly one pillar for each client type the entry carries, chosen from that client type's list in taxonomy/pillars.json. The validator checks the keys match clientType exactly.",
+      "propertyNames": {
+        "enum": [
+          "firms",
+          "payments",
+          "crypto",
+          "regulators",
+          "government"
+        ]
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minProperties": 1
+    },
+    "topic": {
+      "type": "string",
+      "maxLength": 80,
+      "description": "Free text subject label, e.g. 'Management & leadership fundamentals'."
+    },
+    "tags": {
+      "type": "array",
+      "description": "Short cross-cutting subject labels (crypto, AI, AML, MiCA ...). Used for search, the tag filter and Related training.",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 40
+      },
+      "uniqueItems": true
+    },
+    "partOf": {
+      "type": "array",
+      "description": "Modules only: the programme(s) this module belongs to and its module number in each. Programmes' module lists and module counts are built from these links automatically.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "programme",
+          "module"
+        ],
+        "properties": {
+          "programme": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "The programme's id."
+          },
+          "module": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Module number within that programme."
+          }
+        }
+      }
+    },
+    "image": {
+      "type": "string",
+      "pattern": "^images/[0-9]+\\.webp$",
+      "description": "Filled automatically by the build when images/<id>.webp exists. Do not type by hand."
+    },
+    "active": {
+      "type": "boolean",
+      "description": "true = shown on the site; false = hidden everywhere, including inside programmes."
+    },
+    "lastUpdated": {
+      "type": "string",
+      "format": "date"
+    },
+    "contentGaps": {
+      "type": "array",
+      "description": "Internal flags for unconfirmed content. While non-empty, the page shows 'the full content is being finalised'.",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "businessFunction": {
+      "type": "array",
+      "description": "KEPT FOR NOW, under review. Not shown on the site.",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "deliveryFormat": {
+      "type": "array",
+      "description": "Required. How it is delivered; one or more.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "In-person",
+          "Online",
+          "Hybrid"
+        ]
+      },
+      "uniqueItems": true,
+      "minItems": 1
+    },
+    "durationValue": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "description": "Required. Length as a number. For a programme, the total."
+    },
+    "durationUnit": {
+      "type": "string",
+      "enum": [
+        "hours",
+        "days",
+        "weeks"
+      ],
+      "description": "Required. Unit for durationValue."
+    },
+    "role": {
+      "type": "array",
+      "description": "Carried over from October; pending review. Role groups (taxonomy/roles.json).",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "firmType": {
+      "type": "array",
+      "description": "Carried over from October; pending review.",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "level": {
+      "type": "string",
+      "enum": [
+        "Foundation",
+        "Intermediate",
+        "Advanced",
+        "Board level"
+      ],
+      "description": "Required on programmes. Modules without a level take their programme's."
+    },
+    "legacySlug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Internal: an old web address name, only where the file has been renamed since it was published, so old links still redirect."
+    },
+    "hoursPerModule": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "description": "Programmes only, optional: typical teaching hours per module ('c. 3 hrs per module'). Otherwise total hours / module count."
+    },
+    "related": {
+      "type": "array",
+      "description": "Optional: ids of programmes or modules shown under 'Go further'. If empty, the site falls back to entries sharing tags.",
+      "items": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "uniqueItems": true
+    },
+    "brochure": {
+      "type": "string",
+      "pattern": "^brochures/[0-9]+\\.pdf$",
+      "description": "Filled automatically when brochures/<id>.pdf has been generated. Do not type by hand."
+    },
+    "intro": {
+      "type": "string",
+      "maxLength": 600,
+      "description": "Optional, programmes: the longer lead paragraph under the title (the brochure cover text). Falls back to summary."
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "entryType": {
+            "const": "programme"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "level"
+        ],
+        "not": {
+          "required": [
+            "partOf"
+          ]
+        }
+      }
+    }
+  ]
+}

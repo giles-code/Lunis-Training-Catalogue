@@ -1,0 +1,164 @@
+{
+ "id": 877,
+ "entryType": "module",
+ "title": "Controllers, Qualifying Holdings and Ownership Chains",
+ "summary": "How to identify who owns and controls an applicant firm, assess proposed acquirers and see through complex or opaque ownership structures.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Authorisation & Licensing",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Authorisation & licensing",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "controllers-qualifying-holdings-and-ownership-chains",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Authorisations",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to identify who owns and controls an applicant firm, assess proposed acquirers and see through complex or opaque ownership structures.",
+  "Learning Objectives": [
+   "Identify controllers, qualifying holdings and ultimate beneficial owners",
+   "Assess proposed acquirers and changes in control",
+   "Recognise structures designed to obscure ownership or influence"
+  ],
+  "Syllabus": [
+   "Control thresholds, acting in concert and indirect holdings",
+   "Mapping ownership chains and identifying beneficial owners",
+   "Assessing acquirers: reputation, financial soundness and strategy",
+   "Red flags: nominees, trusts, layered structures and secrecy jurisdictions"
+  ],
+  "Intended Audience": [
+   "Authorisation and licensing staff responsible for approving owners, directors and key function holders",
+   "Supervisors and inspectors who assess changes in control or monitor ongoing fitness",
+   "Enforcement and legal staff involved in fitness-related decisions and challenges"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of authorisation, licensing or supervisory work is helpful. Participants new to the gateway may benefit from attending a foundation programme first.",
+  "Core Reading": [
+   "Basel Committee on Banking Supervision (2024), Core Principles for Effective Banking Supervision",
+   "IAIS (2019, as updated), Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups",
+   "IOSCO (2017), Objectives and Principles of Securities Regulation",
+   "FATF (2023), Guidance on Beneficial Ownership of Legal Persons"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 254,
+   "module": 2,
+   "title": "Fit and Proper Assessments: Approving Owners, Directors and Key Function Holders",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 876,
+     "number": 1,
+     "title": "The Fit and Proper Test: Purpose and Standards"
+    },
+    {
+     "id": 877,
+     "number": 2,
+     "title": "Controllers, Qualifying Holdings and Ownership Chains"
+    },
+    {
+     "id": 878,
+     "number": 3,
+     "title": "Source of Wealth and Source of Funds"
+    },
+    {
+     "id": 879,
+     "number": 4,
+     "title": "Honesty, Integrity and Reputation"
+    },
+    {
+     "id": 880,
+     "number": 5,
+     "title": "Competence, Capability and Capacity"
+    },
+    {
+     "id": 881,
+     "number": 6,
+     "title": "Conducting Approval Interviews"
+    },
+    {
+     "id": 882,
+     "number": 7,
+     "title": "Decisions: Approvals, Conditions and Refusals"
+    },
+    {
+     "id": 883,
+     "number": 8,
+     "title": "Ongoing Fitness and Case Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 219,
+   "entryType": "programme",
+   "title": "Crisis Management and Resolution",
+   "summary": "A ten-module programme preparing supervisors for firm and system-wide stress, from early intervention and recovery and resolution planning to crisis communication and a live simulation.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": 158,
+ "entryType": "module",
+ "title": "Running an Effective Regulatory Consultation",
+ "summary": "The aim of this workshop is to build participants' skills in designing and running an effective public consultation on proposed rules, including stakeholder engagement strategy and how to analyse and respond to consultation feedback transparently.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Policy-Making & Rule-Making",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "running-an-effective-regulatory-consultation",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Policy"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in designing and running an effective public consultation on proposed rules, including stakeholder engagement strategy and how to analyse and respond to consultation feedback transparently.",
+  "Intended Audience": "Junior to mid-level policy officers drafting or contributing to rules, guidance, and consultation papers.",
+  "Learning Objectives": [
+   "Explain the purpose and value of regulatory consultation",
+   "Design an effective consultation process and timeline",
+   "Develop a stakeholder engagement strategy for a consultation",
+   "Apply techniques for analysing consultation responses systematically",
+   "Draft a transparent feedback statement responding to consultation input"
+  ],
+  "Syllabus": [
+   "Why consultation improves rule quality and legitimacy",
+   "Designing a consultation timeline and document",
+   "Consultation questions: open versus closed, avoiding leading questions",
+   "Statutory versus voluntary consultation requirements",
+   "Facilitated discussion: consultation experiences, good and bad, from participants",
+   "Identifying and mapping consultation stakeholders",
+   "Engagement channels: written responses, roundtables, targeted outreach",
+   "Ensuring smaller or less-resourced stakeholders are heard",
+   "Balancing industry input against other public interests",
+   "Group exercise: design a stakeholder engagement plan for a sample consultation",
+   "Systematic approaches to analysing consultation responses",
+   "Identifying themes versus outlier views",
+   "Drafting a transparent feedback statement",
+   "Handling contentious or high-volume responses",
+   "Exercise: analyse a set of sample consultation responses and draft key feedback points",
+   "Recap: purpose, design, stakeholder engagement, feedback analysis",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Purpose and design of consultation (09:30–10:45)\n- Session 2: Stakeholder engagement strategy (11:00–12:30)\n- Session 3: Analysing and responding to feedback (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Good consultation design shapes the quality of the input an authority receives\n- Stakeholder engagement should actively seek out less-resourced voices, not just respond to the loudest\n- A transparent feedback statement builds trust even when not every response can be accommodated",
+  "Useful Prior Knowledge and Experience": "Some familiarity with policy-making & rule-making is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 292,
+   "entryType": "programme",
+   "title": "Policy-Making and Rule-Making",
+   "summary": "An eight-module programme covering the full policy cycle, from problem definition and cost-benefit analysis to drafting, standards implementation and post-implementation review.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

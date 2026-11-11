@@ -1,0 +1,178 @@
+{
+ "id": 1087,
+ "entryType": "module",
+ "title": "Wealth and Discretionary Management: Client Outcomes",
+ "summary": "How wealth and discretionary managers serve private clients through model portfolios, platforms and bespoke mandates, and how supervisors test suitability, costs and value.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Management",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management",
+  "Investment Firms & Wealth Management"
+ ],
+ "slug": "wealth-and-discretionary-management-client-outcomes",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How wealth and discretionary managers serve private clients through model portfolios, platforms and bespoke mandates, and how supervisors test suitability, costs and value.",
+  "Learning Objectives": [
+   "Assess suitability in discretionary and model portfolio services",
+   "Evaluate costs, charges and value across the distribution chain",
+   "Identify poor outcomes from ongoing advice and portfolio drift"
+  ],
+  "Syllabus": [
+   "Discretionary, advisory and model portfolio services",
+   "Ongoing suitability reviews and portfolio drift",
+   "Layered costs: platforms, managers, funds and advice",
+   "Vulnerable and high-net-worth clients: distinct supervisory risks"
+  ],
+  "Intended Audience": [
+   "Supervisors and inspectors responsible for asset managers, wealth managers, discretionary managers and private fund managers",
+   "Financial stability, policy and risk specialists working on non-bank financial intermediation and private credit",
+   "Team leaders and heads of department setting priorities for asset and wealth management supervision"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of supervising asset managers, funds or investment firms is helpful. No specialist private markets or quantitative background is required.",
+  "Core Reading": [
+   "IOSCO, Thematic Analysis: Emerging Risks in Private Finance (2023)",
+   "FSB, Global Monitoring Report on Non-Bank Financial Intermediation (annual)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 277,
+   "module": 4,
+   "title": "Investment Management and Private Markets Supervision",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 1084,
+     "number": 1,
+     "title": "The Investment Management Sector and Non-Bank Finance"
+    },
+    {
+     "id": 1085,
+     "number": 2,
+     "title": "Manager Governance, Substance and Delegation"
+    },
+    {
+     "id": 1086,
+     "number": 3,
+     "title": "Portfolio Management Practice and Mandate Compliance"
+    },
+    {
+     "id": 1087,
+     "number": 4,
+     "title": "Wealth and Discretionary Management: Client Outcomes"
+    },
+    {
+     "id": 1088,
+     "number": 5,
+     "title": "Remuneration, Conflicts of Interest and Performance Disclosure"
+    },
+    {
+     "id": 1089,
+     "number": 6,
+     "title": "Private Equity and Private Credit: Structures and Risks"
+    },
+    {
+     "id": 1090,
+     "number": 7,
+     "title": "Valuation, Fees and Conflicts in Private Markets"
+    },
+    {
+     "id": 1091,
+     "number": 8,
+     "title": "Leverage, Liquidity Mismatch and Interconnectedness"
+    },
+    {
+     "id": 1092,
+     "number": 9,
+     "title": "Non-Bank Systemic Risk and Supervisory Data"
+    },
+    {
+     "id": 1093,
+     "number": 10,
+     "title": "Retailisation of Private Markets and Supervisory Response"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 262,
+   "entryType": "programme",
+   "title": "Fund Regulation Country Briefings",
+   "summary": "Eleven country webinar briefings on fund vehicles, regulators, authorisation, distribution and recent developments in leading European, offshore and Asia Pacific fund markets.",
+   "level": "Intermediate",
+   "moduleCount": 11,
+   "hours": 11,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

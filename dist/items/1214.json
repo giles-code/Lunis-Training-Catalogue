@@ -1,0 +1,170 @@
+{
+ "id": 1214,
+ "entryType": "module",
+ "title": "Cross-Border Payments, Remittances and Financial Crime",
+ "summary": "Why cross-border payments remain slow and costly, the G20 programme to improve them, and the financial crime, sanctions and resilience risks that new payment channels create.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Crypto & digital assets",
+  "Payments"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters",
+  "Public agencies & investment promotion"
+ ],
+ "firmType": [
+  "Payments & E-Money"
+ ],
+ "slug": "cross-border-payments-remittances-and-financial-crime",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Policy",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Why cross-border payments remain slow and costly, the G20 programme to improve them, and the financial crime, sanctions and resilience risks that new payment channels create.",
+  "Learning Objectives": [
+   "Explain the frictions in cross-border payments and remittances",
+   "Describe the G20 targets and the national actions they require",
+   "Assess fraud, money laundering and operational resilience risks in payments"
+  ],
+  "Syllabus": [
+   "Correspondent banking, de-risking and remittance costs",
+   "The G20 roadmap: targets, building blocks and payment system links",
+   "Authorised push payment fraud, scams and reimbursement policy",
+   "Cyber resilience, outages and critical payment infrastructure"
+  ],
+  "Intended Audience": [
+   "Officials in finance ministries and treasuries responsible for payments, fintech and financial inclusion policy",
+   "Legislative drafters, legal advisers and parliamentary committee staff working on payments or digital money legislation",
+   "Staff of competition authorities, digital ministries and other public bodies with an interest in payments"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with financial services or economic policy is helpful. No technical background in payments or monetary economics is required.",
+  "Core Reading": [
+   "CPMI and IOSCO (2012), Principles for Financial Market Infrastructures",
+   "BIS and a group of central banks (2020), Central Bank Digital Currencies: Foundational Principles and Core Features",
+   "CPMI (2020), Enhancing Cross-Border Payments: Building Blocks of a Global Roadmap",
+   "FSB (2023), High-level Recommendations for the Regulation, Supervision and Oversight of Global Stablecoin Arrangements",
+   "CPMI and World Bank (2016), Payment Aspects of Financial Inclusion"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 291,
+   "module": 7,
+   "title": "Payments, Digital Money and CBDCs: Policy for Government",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1208,
+     "number": 1,
+     "title": "How Payment Systems Work"
+    },
+    {
+     "id": 1209,
+     "number": 2,
+     "title": "Regulating Payment and E-Money Providers"
+    },
+    {
+     "id": 1210,
+     "number": 3,
+     "title": "Competition, Access and Innovation"
+    },
+    {
+     "id": 1211,
+     "number": 4,
+     "title": "Stablecoins and Tokenised Money"
+    },
+    {
+     "id": 1212,
+     "number": 5,
+     "title": "Central Bank Digital Currencies: The Policy Case"
+    },
+    {
+     "id": 1213,
+     "number": 6,
+     "title": "CBDC Design, Legal Foundations and Governance"
+    },
+    {
+     "id": 1214,
+     "number": 7,
+     "title": "Cross-Border Payments, Remittances and Financial Crime"
+    },
+    {
+     "id": 1215,
+     "number": 8,
+     "title": "Designing a National Payments Strategy"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 230,
+   "entryType": "programme",
+   "title": "Digital Assets and Blockchain: A Policy Programme for Government",
+   "summary": "An eight-module programme giving policymakers the understanding to set digital asset policy, design legislation and meet international standards on crypto-assets and stablecoins.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 249,
+   "entryType": "programme",
+   "title": "Financial Inclusion and Consumer Protection Policy",
+   "summary": "An eight-module programme helping policymakers widen access to financial services while protecting consumers through strategy, regulation, redress and fraud prevention.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 225,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

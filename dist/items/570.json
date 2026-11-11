@@ -1,0 +1,173 @@
+{
+ "id": 570,
+ "entryType": "module",
+ "title": "The Intervention Ladder: Escalation and Early Action",
+ "summary": "How a structured intervention ladder makes escalation consistent and defensible, how to set decision thresholds, and the options available at each rung before problems become crises.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Crisis Management & Resolution",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Leadership & senior management",
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "the-intervention-ladder-escalation-and-early-action",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Crisis Management & Resolution",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How a structured intervention ladder makes escalation consistent and defensible, how to set decision thresholds, and the options available at each rung before problems become crises.",
+  "Learning Objectives": [
+   "Explain the intervention ladder from monitoring to formal action",
+   "Apply decision thresholds while balancing false alarms against late action",
+   "Formulate an early intervention response for a firm in difficulty"
+  ],
+  "Syllabus": [
+   "Why early intervention is more effective and less costly",
+   "Thresholds, triggers and documenting escalation decisions",
+   "Options at each rung: enhanced monitoring to restrictions and removals",
+   "Case study: a firm showing early signs of distress"
+  ],
+  "Intended Audience": [
+   "Supervisors and risk specialists responsible for firms that may come under stress",
+   "Resolution, financial stability and macroprudential staff",
+   "Senior managers and executives who would lead or take decisions in the authority's crisis response"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of supervision, financial stability or risk work is helpful. No prior crisis or resolution experience is required.",
+  "Core Reading": [
+   "FSB, Key Attributes of Effective Resolution Regimes for Financial Institutions (2014)",
+   "Basel Committee, Guidelines for Identifying and Dealing with Weak Banks (2015)",
+   "IADI, Core Principles for Effective Deposit Insurance Systems"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 219,
+   "module": 3,
+   "title": "Crisis Management and Resolution",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 568,
+     "number": 1,
+     "title": "Financial Crises and the Authority's Role"
+    },
+    {
+     "id": 569,
+     "number": 2,
+     "title": "Early Warning Indicators and Signs of Distress"
+    },
+    {
+     "id": 570,
+     "number": 3,
+     "title": "The Intervention Ladder: Escalation and Early Action"
+    },
+    {
+     "id": 571,
+     "number": 4,
+     "title": "Recovery Planning: Assessing Credibility"
+    },
+    {
+     "id": 572,
+     "number": 5,
+     "title": "Resolution Planning and Resolvability"
+    },
+    {
+     "id": 573,
+     "number": 6,
+     "title": "Resolution Tools and Orderly Failure"
+    },
+    {
+     "id": 574,
+     "number": 7,
+     "title": "Systemic Risk and Contagion"
+    },
+    {
+     "id": 575,
+     "number": 8,
+     "title": "Macroprudential Tools and System-Wide Monitoring"
+    },
+    {
+     "id": 576,
+     "number": 9,
+     "title": "Crisis Communication and Coordination"
+    },
+    {
+     "id": 577,
+     "number": 10,
+     "title": "Crisis Simulation: Firm-Specific Distress"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 238,
+   "entryType": "programme",
+   "title": "Enforcement and Sanctions",
+   "summary": "A ten-module programme taking enforcement and supervisory staff through the full life of an enforcement case, from triage and evidence to sanctions, settlement and cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

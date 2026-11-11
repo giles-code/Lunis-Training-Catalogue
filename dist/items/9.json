@@ -1,0 +1,116 @@
+{
+ "id": 9,
+ "entryType": "module",
+ "title": "AI Model Explainability for Supervisors",
+ "summary": "The aim of this workshop is to build participants' practical skills in explainability techniques such as LIME and SHAP, which supervisors can use to assess whether firms' AI models are sufficiently auditable and transparent.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Artificial Intelligence",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "ai-model-explainability-for-supervisors",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' practical skills in explainability techniques such as LIME and SHAP, which supervisors can use to assess whether firms' AI models are sufficiently auditable and transparent.",
+  "Intended Audience": "Mid-level supervisory staff building capability in AI-related supervision and internal AI use.",
+  "Learning Objectives": [
+   "Explain why explainability matters for supervised AI models",
+   "Describe the LIME and SHAP explainability techniques",
+   "Assess whether a firm's approach to explainability is proportionate to the model's stakes",
+   "Apply an explainability framework to a sample AI model output",
+   "Evaluate the limitations of current explainability techniques"
+  ],
+  "Syllabus": [
+   "The 'black box' problem in complex AI models",
+   "Why explainability matters for supervisory challenge and accountability",
+   "Explainability versus interpretability: important distinctions",
+   "Regulatory expectations around explainable AI",
+   "Facilitated discussion: black-box model concerns participants have encountered",
+   "How LIME approximates model behaviour locally",
+   "How SHAP allocates feature contribution using game-theoretic principles",
+   "Practical demonstration of both techniques on a sample model output",
+   "Choosing between explainability techniques for different model types",
+   "Exercise: apply LIME or SHAP-style analysis to a sample AI model output",
+   "Matching explainability rigour to the stakes of the model's decisions",
+   "Limitations: explainability techniques can themselves be imperfect approximations",
+   "Case study: a firm's explainability approach under supervisory review",
+   "Case study: assess whether a firm's explainability approach is proportionate and adequate",
+   "Recap: why explainability matters, LIME/SHAP, proportionality",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Why explainability matters (09:30–10:45)\n- Session 2: LIME and SHAP techniques (11:00–12:30)\n- Session 3: Proportionality and limitations (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Explainability techniques like LIME and SHAP give supervisors practical tools to probe otherwise opaque models\n- The right level of explainability rigour depends on how much is at stake in the model's decisions\n- Even good explainability techniques are approximations and should be interpreted with appropriate caution",
+  "Useful Prior Knowledge and Experience": "Some familiarity with artificial intelligence is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 325,
+   "entryType": "programme",
+   "title": "The EU AI Act and Financial Services (EU Edition)",
+   "summary": "An eight-module programme on the EU AI Act for supervisors and financial firms: risk classification, high-risk credit and insurance uses, provider and deployer duties, supervision and compliance programmes.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

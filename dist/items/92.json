@@ -1,0 +1,116 @@
+{
+ "id": 92,
+ "entryType": "module",
+ "title": "Generative AI Risks in Financial Crime: New Typologies",
+ "summary": "The aim of this workshop is to build participants' awareness of how criminals are using generative AI to create new financial crime typologies — including synthetic identity fraud, deepfake-enabled onboarding fraud, and AI-generated social engineering — and how supervisors and…",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Reducing Financial Crime & Delivering Market Integrity",
+ "tags": [
+  "Financial crime",
+  "AI & technology"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "generative-ai-risks-in-financial-crime-new-typologies",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' awareness of how criminals are using generative AI to create new financial crime typologies — including synthetic identity fraud, deepfake-enabled onboarding fraud, and AI-generated social engineering — and how supervisors and firms can build resilience against these emerging threats.",
+  "Intended Audience": "Mid-level supervisory and financial crime specialist staff assessing firms' financial crime controls.",
+  "Learning Objectives": [
+   "Explain how generative AI is being used to create new financial crime typologies",
+   "Describe synthetic identity fraud and deepfake-enabled onboarding fraud",
+   "Assess the risk of AI-generated phishing and social engineering",
+   "Evaluate a firm's resilience against generative-AI-enabled fraud",
+   "Identify emerging supervisory priorities in this fast-moving risk area"
+  ],
+  "Syllabus": [
+   "How generative AI lowers the barrier to sophisticated fraud",
+   "Synthetic identity fraud: constructing convincing false identities",
+   "Deepfake-enabled onboarding and verification fraud",
+   "The pace of typology evolution versus the pace of regulation",
+   "Facilitated discussion: generative AI fraud cases participants are aware of",
+   "AI-generated phishing: scale, personalisation, and sophistication",
+   "Voice cloning and deepfake video in social engineering",
+   "Why traditional staff training may be insufficient against AI-enabled attacks",
+   "Detecting AI-generated content and its limits",
+   "Group exercise: assess a firm's exposure to AI-enabled social engineering",
+   "Firm-level resilience measures against generative-AI-enabled fraud",
+   "Liveness detection and multi-factor verification as counter-measures",
+   "Case study: a firm targeted by a deepfake-enabled fraud attempt",
+   "Case study: evaluate a firm's resilience and recommend improvements",
+   "Recap: new typologies, social engineering risk, resilience",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Generative AI and new fraud typologies (09:30–10:45)\n- Session 2: Social engineering and phishing risk (11:00–12:30)\n- Session 3: Building resilience and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Generative AI has meaningfully lowered the skill barrier for sophisticated financial crime\n- Deepfake and synthetic identity risks challenge onboarding and verification controls that were designed for an earlier threat model\n- This is a fast-moving risk area requiring continuous horizon-scanning rather than a one-off assessment",
+  "Useful Prior Knowledge and Experience": "Some familiarity with reducing financial crime & delivering market integrity is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 247,
+   "entryType": "programme",
+   "title": "Financial Crime Supervision in the Age of AI",
+   "summary": "A ten-module programme equipping supervisors to assess financial crime controls and firms' use of AI in monitoring, screening, fraud and surveillance.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 225,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 245,
+   "entryType": "programme",
+   "title": "Financial Crime Foundations for Regulatory Staff",
+   "summary": "An eight-module foundation programme giving regulatory staff a grounding in AML/CFT, sanctions and fraud, firms' controls and financial crime red flags.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

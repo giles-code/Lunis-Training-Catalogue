@@ -1,0 +1,180 @@
+{
+ "id": 1472,
+ "entryType": "module",
+ "title": "Structures, Beneficial Ownership and Wealth Management Red Flags",
+ "summary": "How companies, trusts, foundations and nominee arrangements are used to conceal income and assets from tax authorities, and the red flags wealth managers and advisers should recognise.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Compliance, risk & control functions",
+  "Funds & asset management"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders",
+  "Senior leaders & managers"
+ ],
+ "firmType": [
+  "Investment Firms & Wealth Management",
+  "Investment Funds & Asset Management",
+  "FinTech & Big Tech"
+ ],
+ "slug": "structures-beneficial-ownership-and-wealth-management-red-flags",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How companies, trusts, foundations and nominee arrangements are used to conceal income and assets from tax authorities, and the red flags wealth managers and advisers should recognise.",
+  "Learning Objectives": [
+   "Recognise structures commonly used to conceal income and assets",
+   "Identify beneficial owners, controllers and tax-relevant persons",
+   "Apply red flags to client instructions and account activity"
+  ],
+  "Syllabus": [
+   "Personal investment companies, trusts, foundations and nominees",
+   "Beneficial ownership, controlling persons and register limitations",
+   "Red flags: hold mail, cash, secrecy requests and unexplained transfers",
+   "Mapping exercise: unpicking a multi-layered client structure"
+  ],
+  "Intended Audience": [
+   "MLROs, compliance officers and tax compliance teams in investment, wealth management and fund management firms",
+   "Relationship managers, private client advisers, fund administrators and transfer agency teams",
+   "Senior managers accountable for client onboarding, distribution, introducers and tax reporting"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of compliance, AML/CFT or client onboarding is helpful. No specialist knowledge of tax law is required.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "OECD, Fighting Tax Crime – The Ten Global Principles, Second Edition (2021)",
+   "OECD, Standard for Automatic Exchange of Financial Account Information in Tax Matters, Second Edition (2017)",
+   "OECD, Ending the Shell Game: Cracking down on the Professionals who enable Tax and White Collar Crimes (2021)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 322,
+   "module": 5,
+   "title": "Tax Crime and the Facilitation of Tax Evasion: Controls for Firms",
+   "moduleCount": 9,
+   "durationValue": 27,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1468,
+     "number": 1,
+     "title": "Tax Crime as a Financial Crime Risk"
+    },
+    {
+     "id": 1469,
+     "number": 2,
+     "title": "Corporate Offences and Reasonable Prevention Procedures"
+    },
+    {
+     "id": 1470,
+     "number": 3,
+     "title": "Assessing Tax Evasion Facilitation Risk"
+    },
+    {
+     "id": 1471,
+     "number": 4,
+     "title": "Tax-Aware Client Due Diligence and Source of Wealth"
+    },
+    {
+     "id": 1472,
+     "number": 5,
+     "title": "Structures, Beneficial Ownership and Wealth Management Red Flags"
+    },
+    {
+     "id": 1473,
+     "number": 6,
+     "title": "Fund Structures and Investor Tax Crime Risk"
+    },
+    {
+     "id": 1474,
+     "number": 7,
+     "title": "Automatic Exchange of Information and Tax Reporting"
+    },
+    {
+     "id": 1475,
+     "number": 8,
+     "title": "Suspicion, Reporting and Responding to Authorities"
+    },
+    {
+     "id": 1476,
+     "number": 9,
+     "title": "Governance, Training and Prevention Procedures Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 211,
+   "entryType": "programme",
+   "title": "Compliance Officer Academy",
+   "summary": "A ten-module academy giving compliance officers the tools to run an independent, risk-based compliance function and handle supervisory engagement with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 269,
+   "entryType": "programme",
+   "title": "Internal Audit in Regulated Firms",
+   "summary": "An eight-module programme giving internal auditors the tools to deliver risk-based assurance over the regulatory risks that matter most to boards and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 270,
+   "entryType": "programme",
+   "title": "Internal Investigations and Interviewing Skills",
+   "summary": "A nine-module programme giving control functions a structured method to investigate misconduct, whistleblowing reports and breaches, interview witnesses and subjects, and report findings.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

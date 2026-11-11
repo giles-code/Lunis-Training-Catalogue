@@ -1,0 +1,114 @@
+{
+ "id": 118,
+ "entryType": "module",
+ "title": "Managing Systemic Risk and Contagion",
+ "summary": "The aim of this workshop is to build participants' understanding of systemic risk and contagion channels, and the macroprudential tools available to address them.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Crisis Management & Resolution",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Leadership & senior management",
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "managing-systemic-risk-and-contagion",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Crisis Management & Resolution"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of systemic risk and contagion channels, and the macroprudential tools available to address them.",
+  "Intended Audience": "Mid-to-senior staff involved in crisis preparedness, recovery, and resolution planning.",
+  "Learning Objectives": [
+   "Explain the concept of systemic risk and its distinguishing features",
+   "Describe common contagion channels between firms and markets",
+   "Identify systemic risk indicators relevant to a supervisory authority",
+   "Assess the macroprudential tools available to address systemic risk",
+   "Evaluate a scenario for systemic risk and propose a policy response"
+  ],
+  "Syllabus": [
+   "What distinguishes systemic risk from firm-specific risk",
+   "Interconnectedness, size, and substitutability as systemic risk drivers",
+   "Historical episodes of systemic risk crystallising",
+   "The evolving perimeter of systemic risk beyond banks",
+   "Facilitated discussion: systemic risk episodes participants have studied or observed",
+   "Contagion channels: direct exposure, fire sales, confidence effects",
+   "Systemic risk indicators used by supervisory authorities",
+   "Data challenges in monitoring systemic risk",
+   "Cross-border dimensions of contagion",
+   "Group exercise: map contagion channels for a sample interconnected market",
+   "Macroprudential tools: capital buffers, liquidity requirements, exposure limits",
+   "Matching tools to specific systemic risk drivers",
+   "Case study: a scenario with emerging systemic risk",
+   "Case study: assess a systemic risk scenario and propose a macroprudential policy response",
+   "Recap: systemic risk features, contagion channels, macroprudential tools",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Understanding systemic risk (09:30–10:45)\n- Session 2: Contagion channels and indicators (11:00–12:30)\n- Session 3: Macroprudential tools and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Systemic risk is fundamentally about interconnectedness, not just the size of any single firm\n- Contagion can spread through confidence effects as fast as through direct financial exposure\n- Macroprudential tools need to be matched deliberately to the specific systemic risk driver they address",
+  "Useful Prior Knowledge and Experience": "Some familiarity with crisis management & resolution is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 219,
+   "entryType": "programme",
+   "title": "Crisis Management and Resolution",
+   "summary": "A ten-module programme preparing supervisors for firm and system-wide stress, from early intervention and recovery and resolution planning to crisis communication and a live simulation.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

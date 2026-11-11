@@ -1,0 +1,116 @@
+{
+ "id": 186,
+ "entryType": "module",
+ "title": "Understanding Portfolio Management Practice",
+ "summary": "The aim of this workshop is to build participants' understanding of how portfolio managers construct and manage portfolios against mandates, and how supervisors assess mandate compliance and risk budgeting practice.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Management",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "understanding-portfolio-management-practice",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how portfolio managers construct and manage portfolios against mandates, and how supervisors assess mandate compliance and risk budgeting practice.",
+  "Intended Audience": "Junior to mid-level supervisors working in investment management supervision.",
+  "Learning Objectives": [
+   "Explain how portfolios are constructed against an investment mandate",
+   "Describe risk budgeting techniques used in portfolio management",
+   "Assess mandate compliance for a sample portfolio",
+   "Evaluate risk budgeting practice for consistency with stated risk appetite",
+   "Formulate a supervisory assessment of portfolio management practice"
+  ],
+  "Syllabus": [
+   "The investment mandate as the foundation of portfolio management",
+   "Asset allocation and security selection within a mandate",
+   "Common mandate restrictions and how they are monitored",
+   "Risk budgeting as a portfolio management discipline",
+   "Facilitated discussion: mandate compliance issues participants have encountered",
+   "Techniques for testing mandate compliance",
+   "Common breaches: concentration limits, asset class restrictions, leverage limits",
+   "Pre-trade versus post-trade compliance monitoring",
+   "Escalation when breaches occur",
+   "Group exercise: test a sample portfolio for mandate compliance",
+   "Assessing whether risk budgeting is consistent with stated risk appetite",
+   "Case study: a portfolio drifting from its stated risk budget",
+   "Case study: formulate a supervisory assessment of portfolio management practice",
+   "Recap: mandate construction, compliance testing, risk budgeting",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Portfolio construction against mandate (09:30–10:45)\n- Session 2: Assessing mandate compliance (11:00–12:30)\n- Session 3: Risk budgeting and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Mandate compliance monitoring is the primary control that keeps portfolio management within agreed risk boundaries\n- Risk budgets can drift gradually, making periodic review as important as point-in-time compliance checks\n- Understanding portfolio construction helps supervisors ask sharper questions about manager practice",
+  "Useful Prior Knowledge and Experience": "Some familiarity with investment management is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 277,
+   "entryType": "programme",
+   "title": "Investment Management and Private Markets Supervision",
+   "summary": "A ten-module programme equipping supervisors to oversee investment, wealth and private market managers, including private credit, leverage, valuation and non-bank systemic risk.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

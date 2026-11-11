@@ -1,0 +1,164 @@
+{
+ "id": 403,
+ "entryType": "module",
+ "title": "Generative AI Essentials for Supervisory Work",
+ "summary": "A practical introduction to how generative AI and large language models work, what they can and cannot do, and where they add value in supervisory work.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "Supervisory Data Analytics & AI Skills",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams",
+  "New joiners & developing staff",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "generative-ai-essentials-for-supervisory-work",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Data & Supervisory Analytics",
+  "Capability & Capacity Building"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "A practical introduction to how generative AI and large language models work, what they can and cannot do, and where they add value in supervisory work.",
+  "Learning Objectives": [
+   "Explain in plain terms how large language models generate text",
+   "Identify strengths and limits, including hallucination and outdated knowledge",
+   "Recognise the supervisory tasks where AI tools add most value"
+  ],
+  "Syllabus": [
+   "How large language models work: training, prompts and probabilistic output",
+   "Chat assistants, document tools, analytics tools and AI built into office software",
+   "Typical failure modes: hallucination, omission, overconfidence and bias",
+   "Mapping the supervisory day: where AI helps and where it should not be used"
+  ],
+  "Intended Audience": [
+   "Supervisors, inspectors, analysts and authorisation staff at all levels of seniority",
+   "Policy, enforcement and financial crime staff who review documents, data and correspondence",
+   "Team leaders responsible for embedding AI tools safely in their teams' work"
+  ],
+  "Useful Prior Knowledge and Experience": "Everyday familiarity with office software is helpful. No prior experience of AI tools or data analysis is required.",
+  "Core Reading": [
+   "FSB, The Use of Supervisory and Regulatory Technology by Authorities and Regulated Institutions (2020)",
+   "BIS Financial Stability Institute, Innovative Technology in Financial Supervision (Suptech): The Experience of Early Users (FSI Insights No 9, 2018)",
+   "NIST, Artificial Intelligence Risk Management Framework (AI RMF 1.0) (2023)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 200,
+   "module": 1,
+   "title": "Applied AI for Supervisory Staff",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 403,
+     "number": 1,
+     "title": "Generative AI Essentials for Supervisory Work"
+    },
+    {
+     "id": 404,
+     "number": 2,
+     "title": "Using AI Safely: Policy, Confidentiality and Data"
+    },
+    {
+     "id": 405,
+     "number": 3,
+     "title": "Prompting for Supervisory Tasks"
+    },
+    {
+     "id": 406,
+     "number": 4,
+     "title": "Reviewing Firm Documents and Returns"
+    },
+    {
+     "id": 407,
+     "number": 5,
+     "title": "Drafting with AI: Letters, Reports and Briefings"
+    },
+    {
+     "id": 408,
+     "number": 6,
+     "title": "Data Analysis with AI Tools"
+    },
+    {
+     "id": 409,
+     "number": 7,
+     "title": "Verification, Bias and Professional Judgement"
+    },
+    {
+     "id": 410,
+     "number": 8,
+     "title": "Building AI into Supervisory Workflows"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 247,
+   "entryType": "programme",
+   "title": "Financial Crime Supervision in the Age of AI",
+   "summary": "A ten-module programme equipping supervisors to assess financial crime controls and firms' use of AI in monitoring, screening, fraud and surveillance.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "id": 939,
+ "entryType": "module",
+ "title": "Conflicts of Interest and Fund Governance",
+ "summary": "How conflicts arise across the fund lifecycle and how managers, boards and service providers identify, manage and evidence their resolution in investors' interests.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Sector Programmes"
+ },
+ "topic": "Sector Programmes",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "conflicts-of-interest-and-fund-governance",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How conflicts arise across the fund lifecycle and how managers, boards and service providers identify, manage and evidence their resolution in investors' interests.",
+  "Learning Objectives": [
+   "Identify conflicts across portfolio management, dealing and service provision",
+   "Design conflicts registers, policies and controls",
+   "Assess the role of the fund board and independent oversight in managing conflicts"
+  ],
+  "Syllabus": [
+   "Common conflicts: allocation, cross-trades, related parties and fees",
+   "Inducements, soft commissions and intragroup arrangements",
+   "Conflicts policies, registers and disclosure",
+   "Board challenge and independent directors"
+  ],
+  "Intended Audience": [
+   "Compliance, risk and legal staff at fund managers and investment managers",
+   "Fund administrators, depositaries, trustees, transfer agents and other service providers",
+   "Fund board directors, conducting officers and senior managers overseeing fund ranges"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of the investment funds sector is helpful. No prior knowledge of specific fund rules is required.",
+  "Core Reading": [
+   "IOSCO, Recommendations for Liquidity Risk Management for Collective Investment Schemes (2018)",
+   "IOSCO, Principles for the Valuation of Collective Investment Schemes (2013)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)",
+   "IOSCO, Examination of Governance for Collective Investment Schemes (2006–2007)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 261,
+   "module": 7,
+   "title": "Fund Governance and Compliance for Managers and Service Providers",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 933,
+     "number": 1,
+     "title": "The Fund Regulatory Framework"
+    },
+    {
+     "id": 934,
+     "number": 2,
+     "title": "Delegation, Substance and Oversight"
+    },
+    {
+     "id": 935,
+     "number": 3,
+     "title": "The Depositary and Trustee Interface"
+    },
+    {
+     "id": 936,
+     "number": 4,
+     "title": "Valuation"
+    },
+    {
+     "id": 937,
+     "number": 5,
+     "title": "Liquidity Risk Management"
+    },
+    {
+     "id": 938,
+     "number": 6,
+     "title": "Costs, Value and Disclosure"
+    },
+    {
+     "id": 939,
+     "number": 7,
+     "title": "Conflicts of Interest and Fund Governance"
+    },
+    {
+     "id": 940,
+     "number": 8,
+     "title": "Private Markets and Retail Access"
+    },
+    {
+     "id": 941,
+     "number": 9,
+     "title": "Tokenised Funds and Technology"
+    },
+    {
+     "id": 942,
+     "number": 10,
+     "title": "Engaging with the Supervisor"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 293,
+   "entryType": "programme",
+   "title": "Private Markets and Private Credit for Managers",
+   "summary": "An eight-module advanced programme giving private markets managers and service providers the tools to manage valuation, leverage, liquidity and conflicts risks and meet supervisory expectations.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

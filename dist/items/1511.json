@@ -1,0 +1,179 @@
+{
+ "id": 1511,
+ "entryType": "module",
+ "title": "The Legal Basis of Tokenised Assets",
+ "summary": "How the law recognises ownership and transfer of tokenised assets, the difference between digitally native and digital twin structures, and why legal certainty is the first supervisory question.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Digital Assets & Blockchain",
+ "tags": [
+  "Crypto & digital assets",
+  "Funds & asset management"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Leadership & senior management"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money",
+  "Market Infrastructure & Trading Venues",
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "the-legal-basis-of-tokenised-assets",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How the law recognises ownership and transfer of tokenised assets, the difference between digitally native and digital twin structures, and why legal certainty is the first supervisory question.",
+  "Learning Objectives": [
+   "Explain how tokenised assets are characterised under securities and property law",
+   "Distinguish digitally native issuance from tokenised representations of existing assets",
+   "Assess the legal risks arising from mismatches between the ledger and the legal record"
+  ],
+  "Syllabus": [
+   "Native tokens, digital twins and depositary receipt structures",
+   "Classification: when is a token a financial instrument",
+   "Ledger records, registers of ownership and conflict of laws",
+   "Insolvency, enforceability and investor rights"
+  ],
+  "Intended Audience": [
+   "Supervisors of investment firms, trading venues, fund managers, custodians and market infrastructures",
+   "Central bank and market infrastructure oversight staff dealing with DLT-based settlement",
+   "Policy, legal and innovation teams assessing tokenisation proposals, sandboxes and pilot regimes"
+  ],
+  "Useful Prior Knowledge and Experience": "A basic understanding of crypto-assets and blockchain is helpful, for example from a fundamentals course, together with some experience of securities, funds or market infrastructure supervision. No technical background is required.",
+  "Core Reading": [
+   "FSB, The Financial Stability Implications of Tokenisation (2024)",
+   "CPMI-IOSCO, Principles for Financial Market Infrastructures (2012)",
+   "IOSCO, Policy Recommendations for Crypto and Digital Asset Markets (2023)",
+   "BIS, Annual Economic Report 2023, Chapter III: Blueprint for the Future Monetary System"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 327,
+   "module": 2,
+   "title": "Tokenisation of Financial Markets",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 1510,
+     "number": 1,
+     "title": "Foundations of Tokenisation and Distributed Ledgers"
+    },
+    {
+     "id": 1511,
+     "number": 2,
+     "title": "The Legal Basis of Tokenised Assets"
+    },
+    {
+     "id": 1512,
+     "number": 3,
+     "title": "Tokenised Securities and Primary Markets"
+    },
+    {
+     "id": 1513,
+     "number": 4,
+     "title": "Tokenised Funds and Fund Distribution"
+    },
+    {
+     "id": 1514,
+     "number": 5,
+     "title": "Tokenised Collateral and Repo"
+    },
+    {
+     "id": 1515,
+     "number": 6,
+     "title": "DLT Market Infrastructure: Trading, Clearing and Settlement"
+    },
+    {
+     "id": 1516,
+     "number": 7,
+     "title": "Settlement Finality and the PFMI"
+    },
+    {
+     "id": 1517,
+     "number": 8,
+     "title": "Custody, Safekeeping and Asset Segregation"
+    },
+    {
+     "id": 1518,
+     "number": 9,
+     "title": "Interoperability, Smart Contracts and Technology Risk"
+    },
+    {
+     "id": 1519,
+     "number": 10,
+     "title": "Pilot Regimes, Sandboxes and Supervisory Strategy"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 221,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals",
+   "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 226,
+   "entryType": "programme",
+   "title": "Crypto-Asset Regulation and Supervision",
+   "summary": "An advanced twelve-module programme equipping supervisors to authorise, supervise and take action against crypto-asset firms under comprehensive regimes and international standards.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 48,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 233,
+   "entryType": "programme",
+   "title": "Digital Money: Stablecoins, Tokenised Deposits and CBDCs",
+   "summary": "A ten-module programme equipping supervisors and central bankers to assess stablecoins, tokenised deposits and CBDCs, and their risks to payments and financial stability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

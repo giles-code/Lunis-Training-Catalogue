@@ -1,0 +1,183 @@
+{
+ "id": 509,
+ "entryType": "module",
+ "title": "Dealing with the Supervisor",
+ "summary": "How supervisors plan visits, information requests and thematic reviews, what they are looking for, and how the firm prepares, responds to findings and builds a relationship of trust.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "dealing-with-the-supervisor",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How supervisors plan visits, information requests and thematic reviews, what they are looking for, and how the firm prepares, responds to findings and builds a relationship of trust.",
+  "Learning Objectives": [
+   "Explain how supervisors assess firms and decide where to focus",
+   "Prepare the firm for supervisory visits, interviews and information requests",
+   "Respond to findings and risk mitigation programmes credibly and on time"
+  ],
+  "Syllabus": [
+   "The supervisory cycle seen from the supervisor's side",
+   "Visits, interviews, information requests and thematic reviews",
+   "Responding to findings letters and agreeing remediation",
+   "Building trust: openness, consistency and no surprises"
+  ],
+  "Intended Audience": [
+   "Heads of compliance, compliance officers and deputies in regulated firms",
+   "Compliance analysts and monitoring staff moving into more senior or advisory roles",
+   "Risk, legal and business managers who work closely with the compliance function"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of working in or alongside a compliance function in a regulated firm is helpful. No legal qualification is required.",
+  "Core Reading": [
+   "Basel Committee, Compliance and the Compliance Function in Banks (2005)",
+   "IOSCO, Compliance Function at Market Intermediaries (2006)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 211,
+   "module": 9,
+   "title": "Compliance Officer Academy",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 501,
+     "number": 1,
+     "title": "The Role and Independence of Compliance"
+    },
+    {
+     "id": 502,
+     "number": 2,
+     "title": "Regulatory Horizon Scanning and Change Management"
+    },
+    {
+     "id": 503,
+     "number": 3,
+     "title": "Compliance Risk Assessment"
+    },
+    {
+     "id": 504,
+     "number": 4,
+     "title": "Designing and Running Monitoring Programmes"
+    },
+    {
+     "id": 505,
+     "number": 5,
+     "title": "Advisory, Training and Influencing the Business"
+    },
+    {
+     "id": 506,
+     "number": 6,
+     "title": "Conduct Risk and Consumer Outcomes"
+    },
+    {
+     "id": 507,
+     "number": 7,
+     "title": "The Financial Crime Interface"
+    },
+    {
+     "id": 508,
+     "number": 8,
+     "title": "Regulatory Reporting, Breaches and Notifications"
+    },
+    {
+     "id": 509,
+     "number": 9,
+     "title": "Dealing with the Supervisor"
+    },
+    {
+     "id": 510,
+     "number": 10,
+     "title": "Reporting to the Board and Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 269,
+   "entryType": "programme",
+   "title": "Internal Audit in Regulated Firms",
+   "summary": "An eight-module programme giving internal auditors the tools to deliver risk-based assurance over the regulatory risks that matter most to boards and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 270,
+   "entryType": "programme",
+   "title": "Internal Investigations and Interviewing Skills",
+   "summary": "A nine-module programme giving control functions a structured method to investigate misconduct, whistleblowing reports and breaches, interview witnesses and subjects, and report findings.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 279,
+   "entryType": "programme",
+   "title": "Management and Leadership for Compliance and Risk Teams",
+   "summary": "A ten-module programme giving managers of compliance, risk and financial crime teams the skills to lead the second line, influence the business and earn the board's confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

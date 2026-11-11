@@ -1,0 +1,298 @@
+{
+ "id": 198,
+ "entryType": "programme",
+ "title": "AI in Financial Services: Policy Choices for Government",
+ "summary": "An eight-module programme helping policymakers understand AI in financial services and make informed choices on regulation, institutional roles and national strategy.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "Ministers & senior officials",
+  "Policy officials & legislative drafters",
+  "Parliamentarians & committee staff"
+ ],
+ "firmType": [
+  "FinTech & Big Tech"
+ ],
+ "slug": "ai-in-financial-services-policy-for-government",
+ "moduleCount": 8,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips ministries, legislators and public bodies to understand how AI is transforming financial services, weigh its benefits and risks, and make informed choices on regulation, institutional responsibilities and national AI strategy.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Policy"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give policymakers a practical, jargon-free understanding of how AI is used in financial services, the risks it creates for consumers, markets and financial stability, and the policy approaches available to government. Participants leave able to decide whether and how to legislate, set clear expectations of regulators, and align financial sector AI policy with national AI strategy and international commitments.",
+  "What It Covers": "How AI works and where financial firms use it, benefits for growth, inclusion and efficiency, risks to consumers and fairness, market integrity and financial stability, concentration and third-party dependency, regulatory approaches and international principles, institutional roles and regulators' own capability, and designing a national approach to AI in finance.",
+  "Intended Audience": [
+   "Officials in finance ministries, treasuries and digital ministries developing AI, fintech and financial services policy",
+   "Legislative drafters, legal advisers and parliamentary committee staff working on AI or financial legislation",
+   "Senior officials in data protection, competition and other public bodies whose remit touches AI in finance"
+  ],
+  "Learning Objectives": [
+   "Explain in plain language how AI works and where it is used in financial services",
+   "Assess the economic benefits of AI alongside its consumer, market and stability risks",
+   "Compare horizontal, sectoral and principles-based approaches to AI regulation",
+   "Evaluate how responsibilities for AI oversight should be allocated across public bodies",
+   "Identify the international principles and commitments relevant to AI in finance",
+   "Design a coherent national policy approach to AI in the financial sector"
+  ],
+  "Structure and Format": "Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as an intensive programme over two to three days or as a series of half-day sessions. Each module combines a plain-language briefing with case studies and policy options analysis, ending in a strategy workshop, and modules can be selected or tailored to the government's priorities.",
+  "Useful Prior Knowledge and Experience": "Some familiarity with financial services or digital policy is helpful. No technical background in AI or data science is required.",
+  "Core Reading": [
+   "OECD (2019, revised 2024), Recommendation of the Council on Artificial Intelligence",
+   "FSB (2024), The Financial Stability Implications of Artificial Intelligence",
+   "IOSCO (2021), The Use of Artificial Intelligence and Machine Learning by Market Intermediaries and Asset Managers: Final Report",
+   "NIST (2023), Artificial Intelligence Risk Management Framework (AI RMF 1.0)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 387,
+   "number": 1,
+   "title": "AI Explained for Policymakers",
+   "summary": "Plain-language grounding in how machine learning and generative AI are built, trained and deployed, and why they differ from the rules-based systems existing law was written for.",
+   "objectives": [
+    "Explain how AI systems learn from data and produce outputs",
+    "Distinguish machine learning, generative AI and autonomous agents",
+    "Identify the technical features that create policy challenges"
+   ],
+   "syllabus": [
+    "Data, training, testing and deployment",
+    "Machine learning, large language models and agents",
+    "Opacity, drift, bias and hallucination",
+    "Foundation models and the AI supply chain"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 388,
+   "number": 2,
+   "title": "How Financial Services Use AI",
+   "summary": "Where banks, insurers, investment firms and payment providers deploy AI today, the economic benefits claimed, and how adoption is likely to develop.",
+   "objectives": [
+    "Describe the main use cases across lending, insurance, trading, advice and compliance",
+    "Assess claimed benefits for productivity, inclusion and competitiveness",
+    "Identify where adoption is concentrated and where it is accelerating"
+   ],
+   "syllabus": [
+    "Credit scoring, insurance pricing and underwriting",
+    "Trading, portfolio management and robo-advice",
+    "Fraud detection, AML monitoring and customer service",
+    "Evidence on adoption, productivity and financial inclusion"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 389,
+   "number": 3,
+   "title": "Consumer, Fairness and Data Protection Risks",
+   "summary": "How AI-driven decisions can harm consumers through bias, exclusion, manipulation and opaque outcomes, and the interaction between financial, data protection and equality law.",
+   "objectives": [
+    "Explain how bias and proxy discrimination arise in AI decisions",
+    "Assess risks of exclusion, personalised pricing and manipulation",
+    "Identify gaps and overlaps between financial, data protection and equality frameworks"
+   ],
+   "syllabus": [
+    "Bias, proxies and the right to an explanation",
+    "Personalised pricing, dark patterns and vulnerable consumers",
+    "Data protection, consent and automated decision-making",
+    "Case studies of AI-related consumer harm and redress"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 390,
+   "number": 4,
+   "title": "Market Integrity, Financial Stability and Concentration",
+   "summary": "The systemic risks AI may create, from herding and correlated trading to dependence on a few technology providers, and the international work assessing them.",
+   "objectives": [
+    "Explain how AI can amplify herding, procyclicality and market volatility",
+    "Assess concentration and third-party dependency on cloud and model providers",
+    "Evaluate the financial stability analysis of the FSB, BIS and IMF"
+   ],
+   "syllabus": [
+    "Algorithmic trading, correlated behaviour and flash events",
+    "Cloud and foundation-model concentration and critical third parties",
+    "Cyber risk, AI-enabled fraud and deepfakes",
+    "International financial stability assessments of AI"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 391,
+   "number": 5,
+   "title": "Approaches to Regulating AI",
+   "summary": "The choices facing government: horizontal AI laws, sectoral rules applied by financial regulators, principles-based guidance or a combination, and the trade-offs each brings.",
+   "objectives": [
+    "Compare horizontal, sectoral and principles-based regulatory approaches",
+    "Assess whether existing financial regulation is adequate for AI",
+    "Weigh innovation, legal certainty and protection objectives"
+   ],
+   "syllabus": [
+    "Risk-based AI laws and high-risk classification",
+    "Applying existing conduct, prudential and model risk rules to AI",
+    "Guidance, codes and soft law as alternatives to legislation",
+    "Technology neutrality and future-proofing legal definitions"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 392,
+   "number": 6,
+   "title": "International Principles and Cooperation",
+   "summary": "The international principles, standards and forums that shape AI policy, and how government can align domestic policy, influence global standards and manage cross-border divergence.",
+   "objectives": [
+    "Describe the OECD AI Principles and related international frameworks",
+    "Explain the work of the FSB, IOSCO, BIS and other standard-setters on AI",
+    "Assess the costs of divergence and options for interoperability"
+   ],
+   "syllabus": [
+    "OECD AI Principles, G20 commitments and international declarations",
+    "Standard-setter work on AI in banking, securities and insurance",
+    "Management system and risk frameworks: ISO/IEC 42001 and NIST",
+    "Cross-border divergence, mutual recognition and interoperability"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 393,
+   "number": 7,
+   "title": "Institutional Roles and Regulators' Capability",
+   "summary": "How responsibility for AI oversight should be shared across financial regulators, data protection and competition authorities and AI bodies, and how government can support regulators' own capability and use of AI.",
+   "objectives": [
+    "Allocate AI oversight responsibilities across public bodies",
+    "Design coordination mechanisms to avoid gaps and duplication",
+    "Assess regulators' capability, resourcing and use of supervisory technology"
+   ],
+   "syllabus": [
+    "Lead regulator, coordinated and central AI authority models",
+    "Regulatory forums, memoranda of understanding and joint guidance",
+    "Skills, funding and data for AI-ready regulators",
+    "Questions government should ask regulators about AI"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 394,
+   "number": 8,
+   "title": "Designing a National Approach to AI in Finance",
+   "summary": "Brings the programme together into a policy approach that links financial sector AI policy with national AI strategy, and anticipates emerging issues from generative AI and autonomous agents.",
+   "objectives": [
+    "Align financial sector AI policy with national AI and digital strategy",
+    "Anticipate policy issues from generative AI and autonomous agents",
+    "Produce a policy action plan for AI in the financial sector"
+   ],
+   "syllabus": [
+    "Linking AI, data, competition and financial services policy",
+    "Sandboxes, pilots and public-private collaboration",
+    "Agentic AI, accountability and liability questions",
+    "Workshop: a national AI in finance policy action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 229,
+   "entryType": "programme",
+   "title": "Developing Capital Markets and Investment Fund Industries",
+   "summary": "An eight-module programme helping policymakers develop deep, well-regulated capital markets and fund industries through credible, well-sequenced reform.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 230,
+   "entryType": "programme",
+   "title": "Digital Assets and Blockchain: A Policy Programme for Government",
+   "summary": "An eight-module programme giving policymakers the understanding to set digital asset policy, design legislation and meet international standards on crypto-assets and stablecoins.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 235,
+   "entryType": "programme",
+   "title": "Drafting Financial Services Legislation",
+   "summary": "An eight-module programme helping legislative drafters and legal advisers design and draft effective, enforceable and technology-neutral financial services legislation.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 248,
+   "entryType": "programme",
+   "title": "Financial Crises and Public Finances: Crisis Preparedness for Government",
+   "summary": "An eight-module advanced programme preparing finance ministries and senior officials to manage financial crises, protect public finances and coordinate resolution.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 249,
+   "entryType": "programme",
+   "title": "Financial Inclusion and Consumer Protection Policy",
+   "summary": "An eight-module programme helping policymakers widen access to financial services while protecting consumers through strategy, regulation, redress and fraud prevention.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

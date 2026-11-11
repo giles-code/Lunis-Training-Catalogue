@@ -1,0 +1,173 @@
+{
+ "id": 744,
+ "entryType": "module",
+ "title": "Gathering and Preserving Evidence",
+ "summary": "Practical techniques for obtaining evidence using formal powers, preserving it without contamination and maintaining a chain of custody that will survive challenge.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Enforcement & Sanctions",
+ "tags": [
+  "Policy, authorisation & enforcement",
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Enforcement & investigations"
+ ],
+ "firmType": [],
+ "slug": "gathering-and-preserving-evidence",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Enforcement"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "Practical techniques for obtaining evidence using formal powers, preserving it without contamination and maintaining a chain of custody that will survive challenge.",
+  "Learning Objectives": [
+   "Apply formal information-gathering powers appropriately",
+   "Maintain a defensible chain of custody and record of provenance",
+   "Identify evidence-handling errors that undermine cases"
+  ],
+  "Syllabus": [
+   "Information requirements, document production and on-site visits",
+   "Preserving digital evidence: devices, communications and data",
+   "Chain of custody and documenting provenance",
+   "Exercise: finding the gaps in a sample evidence file"
+  ],
+  "Intended Audience": [
+   "Enforcement investigators, case managers and lawyers",
+   "Supervisors who refer cases to enforcement or work alongside enforcement teams",
+   "Members of decision-making committees and senior staff responsible for sanctioning and settlement decisions"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of supervision, investigations or regulatory legal work is helpful. No formal legal qualification is required.",
+  "Core Reading": [
+   "IOSCO, Credible Deterrence in the Enforcement of Securities Regulation (2015)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)",
+   "IOSCO, Multilateral Memorandum of Understanding (MMoU) and Enhanced MMoU (2016)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 238,
+   "module": 5,
+   "title": "Enforcement and Sanctions",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 740,
+     "number": 1,
+     "title": "The Enforcement Function and Its Powers"
+    },
+    {
+     "id": 741,
+     "number": 2,
+     "title": "Deciding to Investigate: Referral and Case Triage"
+    },
+    {
+     "id": 742,
+     "number": 3,
+     "title": "Planning and Managing an Investigation"
+    },
+    {
+     "id": 743,
+     "number": 4,
+     "title": "Evidential Standards and Disclosure"
+    },
+    {
+     "id": 744,
+     "number": 5,
+     "title": "Gathering and Preserving Evidence"
+    },
+    {
+     "id": 745,
+     "number": 6,
+     "title": "Investigative Interviews and Witness Statements"
+    },
+    {
+     "id": 145,
+     "number": 7,
+     "title": "Procedural Fairness in Enforcement Decisions"
+    },
+    {
+     "id": 57,
+     "number": 8,
+     "title": "Determining Proportionate Sanctions"
+    },
+    {
+     "id": 746,
+     "number": 9,
+     "title": "Settlement and Negotiated Outcomes"
+    },
+    {
+     "id": 747,
+     "number": 10,
+     "title": "Cooperation, Litigation and Seeing a Case Through"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

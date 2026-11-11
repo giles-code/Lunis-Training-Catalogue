@@ -1,0 +1,165 @@
+{
+ "id": 1398,
+ "entryType": "module",
+ "title": "Risk Ratings and Supervisory Engagement",
+ "summary": "What impact and risk ratings mean, how they drive the intensity of supervision and what the firm can do to understand and influence its risk profile.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Regulatory Readiness",
+  "payments": "Regulatory Readiness",
+  "crypto": "Regulatory Readiness"
+ },
+ "topic": "Regulatory Readiness",
+ "tags": [
+  "Compliance, risk & control functions"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 1,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "risk-ratings-and-supervisory-engagement",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Compliance",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What impact and risk ratings mean, how they drive the intensity of supervision and what the firm can do to understand and influence its risk profile.",
+  "Learning Objectives": [
+   "Distinguish impact from assessed risk",
+   "Explain how ratings shape supervisory engagement",
+   "Identify the drivers of the firm's risk profile"
+  ],
+  "Syllabus": [
+   "Impact, risk and the intensity of supervision",
+   "How ratings are communicated to the firm",
+   "Correcting factual errors and providing context",
+   "Improving the risk profile over time"
+  ],
+  "Intended Audience": [
+   "Board members and senior managers accountable for responding to supervisory findings",
+   "Compliance, risk and internal audit staff who coordinate remediation and track actions",
+   "Project and change managers who deliver remediation programmes"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of supervisory engagement or remediation work is helpful. No prior training is required.",
+  "Core Reading": [
+   "IMF, Good Supervision: Lessons from the Field (Working Paper WP/23/181, 2023)",
+   "FSB, Strengthening Governance Frameworks to Mitigate Misconduct Risk: A Toolkit for Firms and Supervisors (2018)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 313,
+   "module": 2,
+   "title": "Supervisory Findings and Remediation: From Risk Assessment to Closure",
+   "moduleCount": 6,
+   "durationValue": 6,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1397,
+     "number": 1,
+     "title": "How Supervisors Reach Their Conclusions"
+    },
+    {
+     "id": 1398,
+     "number": 2,
+     "title": "Risk Ratings and Supervisory Engagement"
+    },
+    {
+     "id": 1399,
+     "number": 3,
+     "title": "Risk Mitigation Programmes and Required Actions"
+    },
+    {
+     "id": 1400,
+     "number": 4,
+     "title": "Designing Remediation That Works"
+    },
+    {
+     "id": 1401,
+     "number": 5,
+     "title": "Evidencing Closure and Avoiding Escalation"
+    },
+    {
+     "id": 1402,
+     "number": 6,
+     "title": "Thematic Reviews and Industry Findings"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 239,
+   "entryType": "programme",
+   "title": "Engaging Effectively with Your Supervisor: How Firms Are Assessed",
+   "summary": "A ten-module programme showing firms how supervisors assess business models, governance and risk, so they can see themselves as the supervisor does and engage with confidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 255,
+   "entryType": "programme",
+   "title": "Fit and Proper for Firms: Appointing and Assessing Key Function Holders",
+   "summary": "A nine-module programme showing firms how to appoint and assess key function holders, prepare applications and interviews, and manage fitness and certification on an ongoing basis.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 264,
+   "entryType": "programme",
+   "title": "Governance Reviews and Supervisory Interviews: Preparing Your Board and Management",
+   "summary": "A one-day workshop on how supervisors assess governance and interview directors and staff, and how licensees can evidence effective governance and prepare openly.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 6,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

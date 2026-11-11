@@ -1,0 +1,185 @@
+{
+ "id": 784,
+ "entryType": "module",
+ "title": "The Risk-Based Approach and Supervisory Expectations",
+ "summary": "The foundations of an effective financial crime framework: FATF standards, the risk-based approach, the MLRO's role and how supervisors now judge effectiveness rather than technical compliance alone.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "AI & technology",
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "the-risk-based-approach-and-supervisory-expectations",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The foundations of an effective financial crime framework: FATF standards, the risk-based approach, the MLRO's role and how supervisors now judge effectiveness rather than technical compliance alone.",
+  "Learning Objectives": [
+   "Explain FATF standards and the risk-based approach as they apply to the firm",
+   "Define the accountabilities of the board, senior management and MLRO",
+   "Distinguish technical compliance from effectiveness in supervisory assessment"
+  ],
+  "Syllabus": [
+   "FATF Recommendations, immediate outcomes and national risk assessments",
+   "Governance, MLRO independence, resourcing and accountability",
+   "How supervisors assess financial crime frameworks",
+   "Seeing the firm's controls the way a supervisor does"
+  ],
+  "Intended Audience": [
+   "MLROs, deputy MLROs and heads of financial crime compliance",
+   "Financial crime, AML, sanctions and fraud analysts, investigators and team leaders",
+   "Compliance, risk, data and technology staff who design, validate or run financial crime systems"
+  ],
+  "Useful Prior Knowledge and Experience": "Experience of AML, sanctions or fraud compliance in a regulated firm is helpful. No data science background is required.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)",
+   "FATF, Guidance on Digital Identity (2020)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 243,
+   "module": 1,
+   "title": "Financial Crime Compliance in the Age of AI",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 784,
+     "number": 1,
+     "title": "The Risk-Based Approach and Supervisory Expectations"
+    },
+    {
+     "id": 785,
+     "number": 2,
+     "title": "Business-Wide Risk Assessment"
+    },
+    {
+     "id": 786,
+     "number": 3,
+     "title": "Customer Due Diligence and Digital Identity"
+    },
+    {
+     "id": 787,
+     "number": 4,
+     "title": "Transaction Monitoring and Machine Learning"
+    },
+    {
+     "id": 788,
+     "number": 5,
+     "title": "Sanctions Screening and Adverse Media"
+    },
+    {
+     "id": 789,
+     "number": 6,
+     "title": "Fraud and Authorised Push Payment Scams"
+    },
+    {
+     "id": 790,
+     "number": 7,
+     "title": "Deepfakes, Synthetic Identities and AI-Enabled Crime"
+    },
+    {
+     "id": 791,
+     "number": 8,
+     "title": "Governing AI in Financial Crime Compliance"
+    },
+    {
+     "id": 792,
+     "number": 9,
+     "title": "Suspicious Activity Reporting and Intelligence Sharing"
+    },
+    {
+     "id": 793,
+     "number": 10,
+     "title": "Evidencing Effectiveness to Supervisors"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 224,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Tracing and Controls for Compliance Teams",
+   "summary": "A nine-module programme equipping compliance teams to detect crypto-asset financial crime, use blockchain analytics, meet travel rule and sanctions obligations, and investigate and report suspicion.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 27,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 259,
+   "entryType": "programme",
+   "title": "Fraud and Scams: Prevention, Detection and Response",
+   "summary": "An eight-module practitioner programme on preventing, detecting and responding to fraud and scams, from authorised push payment scams and deepfakes to reimbursement and board reporting.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 283,
+   "entryType": "programme",
+   "title": "MLRO and Financial Crime Leadership",
+   "summary": "An eight-module programme giving MLROs and deputies the tools to lead the firm's financial crime framework, report to the board and handle supervisory inspections.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

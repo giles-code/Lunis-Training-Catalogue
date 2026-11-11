@@ -1,0 +1,176 @@
+{
+ "id": 1174,
+ "entryType": "module",
+ "title": "Foundations of Operational Resilience",
+ "summary": "What operational resilience means, why it has become a core supervisory objective, and how it builds on business continuity, operational risk management and international standards.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Cybersecurity & Operational Resilience",
+ "tags": [
+  "Operational resilience & cyber"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "foundations-of-operational-resilience-operational-resilience-cyber-and-critica",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Operational Resilience & Technology/Cyber"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "What operational resilience means, why it has become a core supervisory objective, and how it builds on business continuity, operational risk management and international standards.",
+  "Learning Objectives": [
+   "Explain the core concepts of operational resilience and their supervisory rationale",
+   "Distinguish operational resilience from business continuity and operational risk management",
+   "Identify the international principles shaping operational resilience regimes"
+  ],
+  "Syllabus": [
+   "From preventing failure to assuming disruption: the resilience mindset",
+   "Operational resilience regimes and their common building blocks",
+   "Basel Committee, FSB, IOSCO and CPMI principles on resilience and cyber",
+   "Proportionality across sectors and firm sizes"
+  ],
+  "Intended Audience": [
+   "Supervisors and inspectors assessing operational resilience, ICT and cyber risk across banking, insurance, investment, payments and market infrastructure",
+   "Technology risk, cyber and outsourcing specialists supporting supervisory teams",
+   "Policy staff and senior managers shaping the authority's resilience, cyber and critical third-party approach"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of financial supervision or operational risk is helpful. No technical background in IT or cybersecurity is required.",
+  "Core Reading": [
+   "Basel Committee, Principles for Operational Resilience (2021)",
+   "FSB, Enhancing Third-Party Risk Management and Oversight: A Toolkit for Financial Institutions and Financial Authorities (2023)",
+   "FSB, Effective Practices for Cyber Incident Response and Recovery (2020)",
+   "NIST, Cybersecurity Framework 2.0 (2024)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 287,
+   "module": 1,
+   "title": "Operational Resilience, Cyber and Critical Third Parties",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1174,
+     "number": 1,
+     "title": "Foundations of Operational Resilience"
+    },
+    {
+     "id": 1175,
+     "number": 2,
+     "title": "The Cyber Threat Landscape for Financial Services"
+    },
+    {
+     "id": 1176,
+     "number": 3,
+     "title": "Supervisory Tolerance and Strategy for Cyber Risk"
+    },
+    {
+     "id": 1177,
+     "number": 4,
+     "title": "Assessing ICT and Cyber Governance and Controls"
+    },
+    {
+     "id": 1178,
+     "number": 5,
+     "title": "Important Business Services and Impact Tolerances"
+    },
+    {
+     "id": 1179,
+     "number": 6,
+     "title": "Resilience Testing and Threat-Led Penetration Testing"
+    },
+    {
+     "id": 1180,
+     "number": 7,
+     "title": "Incident Management, Reporting and Supervisory Intervention"
+    },
+    {
+     "id": 1181,
+     "number": 8,
+     "title": "Third-Party, Cloud and Outsourcing Risk"
+    },
+    {
+     "id": 1182,
+     "number": 9,
+     "title": "Critical Third Parties and Systemic Concentration"
+    },
+    {
+     "id": 1183,
+     "number": 10,
+     "title": "Sector-Wide Resilience and the Authority's Strategy"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 234,
+   "entryType": "programme",
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "summary": "An eight-module programme on DORA for supervisors and financial entities: ICT risk management, incident reporting, resilience testing and TLPT, ICT third-party risk and critical provider oversight.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 297,
+   "entryType": "programme",
+   "title": "Quantum and Cryptographic Resilience",
+   "summary": "A six-module programme equipping supervisors to assess firms' exposure to quantum threats, cryptographic inventories and post-quantum migration plans, and to set proportionate expectations.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

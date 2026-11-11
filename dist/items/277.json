@@ -1,0 +1,339 @@
+{
+ "id": 277,
+ "entryType": "programme",
+ "title": "Investment Management and Private Markets Supervision",
+ "summary": "A ten-module programme equipping supervisors to oversee investment, wealth and private market managers, including private credit, leverage, valuation and non-bank systemic risk.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Management",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management",
+  "Investment Firms & Wealth Management"
+ ],
+ "slug": "investment-management-and-private-markets-supervision",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisory staff to oversee investment managers, wealth managers and private markets: assessing governance, mandates and client outcomes, challenging valuation, leverage and liquidity mismatch, and responding to systemic and retail risks in non-bank finance.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Risk Management"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors an informed view of the investment management business itself, from discretionary and wealth management to private equity and private credit, and of the risks it now poses to clients and to financial stability. Participants leave able to test managers' governance, conflicts and portfolio practice, scrutinise private market valuation and leverage, and contribute to the authority's response to non-bank systemic risk and the retailisation of private markets.",
+  "What It Covers": "The investment management sector and non-bank financial intermediation, manager governance and substance, portfolio management and mandate compliance, wealth and discretionary management, remuneration, conflicts and performance disclosure, private equity and private credit, private market valuation, leverage and liquidity mismatch, non-bank systemic risk, and retail access to private markets.",
+  "Intended Audience": [
+   "Supervisors and inspectors responsible for asset managers, wealth managers, discretionary managers and private fund managers",
+   "Financial stability, policy and risk specialists working on non-bank financial intermediation and private credit",
+   "Team leaders and heads of department setting priorities for asset and wealth management supervision"
+  ],
+  "Learning Objectives": [
+   "Explain how investment, wealth and private market managers operate and earn revenue",
+   "Assess manager governance, substance, remuneration and conflicts of interest",
+   "Evaluate portfolio management practice, mandate compliance and client outcomes in discretionary services",
+   "Challenge private market managers on valuation, leverage, liquidity and fees",
+   "Analyse non-bank systemic risk using FSB and IOSCO work and supervisory data",
+   "Design a supervisory response to the retailisation of private markets"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day workshops. Each module combines a technical briefing with case studies, data exercises and supervisory question sets, and modules can be selected or tailored to the authority's asset and wealth management sector.",
+  "Useful Prior Knowledge and Experience": "Some experience of supervising asset managers, funds or investment firms is helpful. No specialist private markets or quantitative background is required.",
+  "Core Reading": [
+   "IOSCO, Thematic Analysis: Emerging Risks in Private Finance (2023)",
+   "FSB, Global Monitoring Report on Non-Bank Financial Intermediation (annual)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1084,
+   "number": 1,
+   "title": "The Investment Management Sector and Non-Bank Finance",
+   "summary": "How asset, wealth and private market managers fit into the financial system, how their business models have changed, and why non-bank financial intermediation is now a supervisory priority.",
+   "objectives": [
+    "Explain the business models and revenue drivers of investment managers",
+    "Distinguish the regulation of managers, products and client services",
+    "Describe the growth of non-bank financial intermediation and private markets"
+   ],
+   "syllabus": [
+    "Traditional, alternative, wealth and private market managers",
+    "Fee pressure, consolidation and the shift to passive and private assets",
+    "Manager, product and service regulation: where the perimeter sits",
+    "FSB and IOSCO work on non-bank financial intermediation"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1085,
+   "number": 2,
+   "title": "Manager Governance, Substance and Delegation",
+   "summary": "How supervisors assess whether a manager is properly governed and genuinely in control of the activities it delegates, including in cross-border and platform structures.",
+   "objectives": [
+    "Evaluate board composition, independence and oversight of investment risk",
+    "Assess substance, delegation and cross-border management structures",
+    "Identify letter-box and white-label red flags"
+   ],
+   "syllabus": [
+    "Governance, fit and proper requirements and key function holders",
+    "Delegation of portfolio and risk management and retained oversight",
+    "Cross-border management structures and substance tests",
+    "Host platforms and white-label managers: supervisory concerns"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1086,
+   "number": 3,
+   "title": "Portfolio Management Practice and Mandate Compliance",
+   "summary": "How portfolio managers construct and manage portfolios against mandates and risk budgets, and how supervisors test the independence and effectiveness of investment risk oversight.",
+   "objectives": [
+    "Explain mandate-driven portfolio construction and risk budgeting",
+    "Assess pre-trade and post-trade mandate compliance controls",
+    "Evaluate the independence of investment risk management"
+   ],
+   "syllabus": [
+    "Investment process, mandates and risk budgets",
+    "Mandate breaches, investment restrictions and compliance monitoring",
+    "Trade allocation, cross trades and dealing errors",
+    "Exercise: testing mandate compliance on a sample portfolio"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1087,
+   "number": 4,
+   "title": "Wealth and Discretionary Management: Client Outcomes",
+   "summary": "How wealth and discretionary managers serve private clients through model portfolios, platforms and bespoke mandates, and how supervisors test suitability, costs and value.",
+   "objectives": [
+    "Assess suitability in discretionary and model portfolio services",
+    "Evaluate costs, charges and value across the distribution chain",
+    "Identify poor outcomes from ongoing advice and portfolio drift"
+   ],
+   "syllabus": [
+    "Discretionary, advisory and model portfolio services",
+    "Ongoing suitability reviews and portfolio drift",
+    "Layered costs: platforms, managers, funds and advice",
+    "Vulnerable and high-net-worth clients: distinct supervisory risks"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1088,
+   "number": 5,
+   "title": "Remuneration, Conflicts of Interest and Performance Disclosure",
+   "summary": "How manager remuneration and ownership create incentives, how conflicts of interest arise across clients and products, and how supervisors test performance claims used in marketing.",
+   "objectives": [
+    "Assess whether remuneration structures create inappropriate incentives",
+    "Identify and evaluate conflicts of interest across clients and products",
+    "Challenge performance measurement, attribution and marketing claims"
+   ],
+   "syllabus": [
+    "Remuneration policies, deferral and performance fees",
+    "Conflicts registers, allocation fairness and in-house product bias",
+    "Performance measurement, composites and industry presentation standards",
+    "Misleading performance claims and backtested results"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1089,
+   "number": 6,
+   "title": "Private Equity and Private Credit: Structures and Risks",
+   "summary": "How private equity and private credit funds raise, deploy and return capital, the financing techniques now common in private markets, and the risks these create for investors and the system.",
+   "objectives": [
+    "Explain private equity and private credit fund structures and lifecycles",
+    "Assess fund finance, continuation vehicles and other liquidity techniques",
+    "Identify concentration and interconnectedness risks in private credit"
+   ],
+   "syllabus": [
+    "Buyout, growth, direct lending and asset-based finance strategies",
+    "Subscription lines, net asset value loans and payment-in-kind interest",
+    "Continuation vehicles and manager-led secondaries",
+    "Links between private credit, banks and insurers"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1090,
+   "number": 7,
+   "title": "Valuation, Fees and Conflicts in Private Markets",
+   "summary": "Why valuation of private assets relies heavily on judgement, how fees and conflicts can distort valuations and investor outcomes, and how supervisors challenge valuation governance.",
+   "objectives": [
+    "Explain valuation methods for private equity and private credit assets",
+    "Assess valuation governance, independence and use of third-party valuers",
+    "Identify red flags such as stale marks and valuation smoothing"
+   ],
+   "syllabus": [
+    "Valuation methods and the treatment of stressed and amended loans",
+    "Valuation committees, independent valuers and audit",
+    "Fees, expenses and conflicts in transactions between funds",
+    "Case study: challenging a private credit portfolio valuation"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1091,
+   "number": 8,
+   "title": "Leverage, Liquidity Mismatch and Interconnectedness",
+   "summary": "How leverage builds up at fund, portfolio company and manager level, where liquidity mismatches arise in investment vehicles, and how stress transmits through margin calls and funding links.",
+   "objectives": [
+    "Assess leverage across funds, portfolio companies and financing chains",
+    "Evaluate liquidity mismatch in open-ended and semi-liquid vehicles",
+    "Explain how margin calls and funding links transmit stress"
+   ],
+   "syllabus": [
+    "Financial and synthetic leverage and their measurement",
+    "Liquidity mismatch, redemption terms and liquidity management tools",
+    "Margin calls, collateral and procyclicality",
+    "Lessons from recent stress episodes in non-bank finance"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1092,
+   "number": 9,
+   "title": "Non-Bank Systemic Risk and Supervisory Data",
+   "summary": "How authorities identify and monitor systemic risk outside the banking sector, close data gaps, and use macroprudential and supervisory tools in line with FSB and IOSCO recommendations.",
+   "objectives": [
+    "Explain FSB and IOSCO recommendations on non-bank leverage and liquidity",
+    "Use supervisory data to monitor concentration, leverage and liquidity risk",
+    "Evaluate macroprudential and supervisory tools for non-bank risk"
+   ],
+   "syllabus": [
+    "Systemic risk channels: leverage, liquidity, interconnectedness and concentration",
+    "Data gaps and use of fund, manager and transaction reporting",
+    "Stress testing and system-wide exercises for non-bank finance",
+    "Macroprudential tools and cross-authority coordination"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1093,
+   "number": 10,
+   "title": "Retailisation of Private Markets and Supervisory Response",
+   "summary": "Brings the programme together by examining how private market products are reaching retail and wealth investors, the investor protection risks this creates, and the authority's supervisory response.",
+   "objectives": [
+    "Assess semi-liquid and long-term vehicles offered to retail investors",
+    "Evaluate distribution, suitability and disclosure for private market products",
+    "Produce a supervisory plan for managers and private markets"
+   ],
+   "syllabus": [
+    "Evergreen and semi-liquid funds, feeder structures and tokenised access",
+    "Distribution through wealth managers, platforms and retirement savings",
+    "Disclosure of fees, liquidity limits and valuation uncertainty",
+    "Workshop: a supervisory plan for private markets retailisation"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 262,
+   "entryType": "programme",
+   "title": "Fund Regulation Country Briefings",
+   "summary": "Eleven country webinar briefings on fund vehicles, regulators, authorisation, distribution and recent developments in leading European, offshore and Asia Pacific fund markets.",
+   "level": "Intermediate",
+   "moduleCount": 11,
+   "hours": 11,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 271,
+   "entryType": "programme",
+   "title": "International Fund Regulation: Global and Regional Briefings",
+   "summary": "A ten-module webinar series mapping international, EU and Asia Pacific fund regulation and how cross-border fund distribution, management and investment are regulated.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 10,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 272,
+   "entryType": "programme",
+   "title": "Introduction to Investment Funds: From Launch to Wind-Down",
+   "summary": "A fourteen-module foundation programme taking new funds professionals and supervisors through every stage of an investment fund, from structure and regulation to operations and wind-down.",
+   "level": "Foundation",
+   "moduleCount": 14,
+   "hours": 42,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 276,
+   "entryType": "programme",
+   "title": "Investment Funds Supervision",
+   "summary": "A ten-module programme equipping supervisors to oversee investment funds and their managers, from authorisation and valuation to liquidity, leverage, private markets and tokenised funds.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

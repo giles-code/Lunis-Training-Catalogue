@@ -1,0 +1,178 @@
+{
+ "id": 698,
+ "entryType": "module",
+ "title": "Central Bank Digital Currencies: Retail and Wholesale",
+ "summary": "The motivations for retail and wholesale CBDCs, the main design choices central banks face, and the implications for privacy, intermediaries and the supervisory perimeter.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Digital Assets & Blockchain",
+ "tags": [
+  "Crypto & digital assets",
+  "Payments"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Leadership & senior management"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money",
+  "Payments & E-Money"
+ ],
+ "slug": "central-bank-digital-currencies-retail-and-wholesale",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Supervision"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The motivations for retail and wholesale CBDCs, the main design choices central banks face, and the implications for privacy, intermediaries and the supervisory perimeter.",
+  "Learning Objectives": [
+   "Explain the policy objectives behind retail and wholesale CBDCs",
+   "Analyse key design choices: architecture, holding limits, privacy and offline use",
+   "Assess the roles and supervision of intermediaries distributing a CBDC"
+  ],
+  "Syllabus": [
+   "Retail CBDC: objectives, architecture and remuneration",
+   "Wholesale CBDC and settlement of tokenised assets",
+   "Privacy, data protection and holding limits",
+   "Intermediary roles: onboarding, wallets and customer service"
+  ],
+  "Intended Audience": [
+   "Supervisors responsible for e-money, payment, crypto-asset and banking firms engaging with digital money",
+   "Central bank staff in payments, market infrastructure, financial stability and monetary policy functions",
+   "Policy, legal and innovation teams shaping the authority's approach to stablecoins, tokenised deposits and CBDCs"
+  ],
+  "Useful Prior Knowledge and Experience": "A basic understanding of crypto-assets and blockchain is helpful, for example from a fundamentals course. Familiarity with payments or banking supervision is useful but not essential.",
+  "Core Reading": [
+   "BIS, Annual Economic Report 2023, Chapter III: Blueprint for the Future Monetary System",
+   "FSB, High-level Recommendations for the Regulation, Supervision and Oversight of Global Stablecoin Arrangements (2023)",
+   "CPMI-IOSCO, Application of the Principles for Financial Market Infrastructures to Stablecoin Arrangements (2022)",
+   "BIS and central banks, Central Bank Digital Currencies: Foundational Principles and Core Features (2020)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 233,
+   "module": 6,
+   "title": "Digital Money: Stablecoins, Tokenised Deposits and CBDCs",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 693,
+     "number": 1,
+     "title": "The Landscape of Digital Money"
+    },
+    {
+     "id": 694,
+     "number": 2,
+     "title": "Stablecoin Design and Business Models"
+    },
+    {
+     "id": 695,
+     "number": 3,
+     "title": "Regulating Stablecoins: Authorisation and Prudential Requirements"
+    },
+    {
+     "id": 696,
+     "number": 4,
+     "title": "Reserve Assets, Redemption and Run Risk"
+    },
+    {
+     "id": 697,
+     "number": 5,
+     "title": "Tokenised Deposits and Bank-Issued Digital Money"
+    },
+    {
+     "id": 698,
+     "number": 6,
+     "title": "Central Bank Digital Currencies: Retail and Wholesale"
+    },
+    {
+     "id": 699,
+     "number": 7,
+     "title": "Payments, Monetary Sovereignty and Financial Stability"
+    },
+    {
+     "id": 700,
+     "number": 8,
+     "title": "Financial Crime and Consumer Protection"
+    },
+    {
+     "id": 701,
+     "number": 9,
+     "title": "Cross-Border Payments and Interoperability"
+    },
+    {
+     "id": 702,
+     "number": 10,
+     "title": "Supervising Digital Money Issuers in Practice"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 221,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals",
+   "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 226,
+   "entryType": "programme",
+   "title": "Crypto-Asset Regulation and Supervision",
+   "summary": "An advanced twelve-module programme equipping supervisors to authorise, supervise and take action against crypto-asset firms under comprehensive regimes and international standards.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 48,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 282,
+   "entryType": "programme",
+   "title": "MiCA Essentials for Supervisors (EU Edition)",
+   "summary": "A six-module essentials programme giving EU national competent authority staff a practical command of MiCA, from token regimes and CASP authorisation to supervision and enforcement.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "id": 430,
+ "entryType": "module",
+ "title": "Legal Routes: Conviction-Based and Non-Conviction-Based",
+ "summary": "The main legal routes to recover criminal assets, including object- and value-based confiscation, extended confiscation, non-conviction-based forfeiture and unexplained wealth tools, and how to choose between them.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Intelligence & Law Enforcement",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Asset recovery, customs & tax",
+  "Financial investigators & police",
+  "Prosecutors & judiciary"
+ ],
+ "firmType": [],
+ "slug": "legal-routes-conviction-based-and-non-conviction-based",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Enforcement",
+  "International & Cross-Border Affairs"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The main legal routes to recover criminal assets, including object- and value-based confiscation, extended confiscation, non-conviction-based forfeiture and unexplained wealth tools, and how to choose between them.",
+  "Learning Objectives": [
+   "Compare conviction-based, non-conviction-based and civil recovery routes",
+   "Explain object-based, value-based and extended confiscation",
+   "Choose the most effective route for the facts and evidence"
+  ],
+  "Syllabus": [
+   "Object-based and value-based confiscation and benefit calculation",
+   "Extended confiscation and shifting the burden of proof",
+   "Non-conviction-based forfeiture, civil recovery and unexplained wealth tools",
+   "Safeguards: proportionality, third-party rights and fair trial"
+  ],
+  "Intended Audience": [
+   "Asset recovery officers, financial investigators and asset recovery office staff",
+   "Prosecutors and lawyers handling restraint, confiscation and civil recovery proceedings",
+   "Asset management office staff and customs, tax and FIU officers involved in recovering criminal proceeds"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of financial investigation, prosecution or asset recovery work is helpful. No legal qualification is required.",
+  "Core Reading": [
+   "World Bank and UNODC StAR Initiative (2021), Asset Recovery Handbook: A Guide for Practitioners, Second Edition",
+   "World Bank and UNODC StAR Initiative (2009), Stolen Asset Recovery: A Good Practices Guide for Non-Conviction Based Asset Forfeiture",
+   "FATF (2012), Best Practices on Confiscation (Recommendations 4 and 38) and a Framework for Ongoing Work on Asset Recovery",
+   "UNODC (2012), Manual on International Cooperation for the Purposes of Confiscation of Proceeds of Crime"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 203,
+   "module": 2,
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 429,
+     "number": 1,
+     "title": "Asset Recovery: Cycle, Standards and Strategy"
+    },
+    {
+     "id": 430,
+     "number": 2,
+     "title": "Legal Routes: Conviction-Based and Non-Conviction-Based"
+    },
+    {
+     "id": 431,
+     "number": 3,
+     "title": "Identifying and Tracing Assets"
+    },
+    {
+     "id": 432,
+     "number": 4,
+     "title": "Freezing, Seizure and Restraint"
+    },
+    {
+     "id": 433,
+     "number": 5,
+     "title": "Asset Management and Realisation"
+    },
+    {
+     "id": 434,
+     "number": 6,
+     "title": "International Requests and Cooperation"
+    },
+    {
+     "id": 435,
+     "number": 7,
+     "title": "Crypto-Assets and Other Emerging Assets"
+    },
+    {
+     "id": 436,
+     "number": 8,
+     "title": "Disposal, Return and Recovery Strategy: Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 256,
+   "entryType": "programme",
+   "title": "FIU Operational and Strategic Analysis",
+   "summary": "A ten-module programme equipping FIU analysts to prioritise and analyse reports, produce operational and strategic intelligence, and cooperate effectively at home and abroad.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 258,
+   "entryType": "programme",
+   "title": "Fraud and Cyber-Enabled Financial Crime Investigations",
+   "summary": "An eight-module programme equipping investigators and FIU analysts to tackle fraud, money mules and ransomware proceeds, working with banks and payment firms to recover funds.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

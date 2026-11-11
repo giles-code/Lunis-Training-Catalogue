@@ -1,0 +1,177 @@
+{
+ "id": 377,
+ "entryType": "module",
+ "title": "Foundations of AI and Machine Learning",
+ "summary": "A grounding in how AI and machine learning systems are built, trained and deployed in financial services, how they differ from rules-based and statistical models, and why firms are adopting them.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Artificial Intelligence",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "foundations-of-ai-and-machine-learning-ai-governance-for-supervisors",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "A grounding in how AI and machine learning systems are built, trained and deployed in financial services, how they differ from rules-based and statistical models, and why firms are adopting them.",
+  "Learning Objectives": [
+   "Explain how machine learning models are developed, trained and deployed",
+   "Distinguish traditional statistical models, machine learning and generative AI",
+   "Identify the drivers and patterns of AI adoption across financial sectors"
+  ],
+  "Syllabus": [
+   "Supervised, unsupervised and reinforcement learning in financial applications",
+   "The AI lifecycle: data, training, validation, deployment and monitoring",
+   "Generative AI and large language models: capabilities and limits",
+   "In-house build versus vendor AI: supervisory implications"
+  ],
+  "Intended Audience": [
+   "Supervisors and inspectors responsible for overseeing AI use by regulated firms across all sectors",
+   "Risk, policy and technology specialists working on digital finance, model risk or innovation",
+   "Senior managers and heads of department shaping the authority's approach to AI supervision"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of financial supervision or risk assessment is helpful. No technical background in AI or data science is required.",
+  "Core Reading": [
+   "FSB, The Financial Stability Implications of Artificial Intelligence (2024)",
+   "IOSCO, The Use of Artificial Intelligence and Machine Learning by Market Intermediaries and Asset Managers (2021)",
+   "NIST, Artificial Intelligence Risk Management Framework (AI RMF 1.0) (2023)",
+   "OECD, Recommendation of the Council on Artificial Intelligence (2019, revised 2024)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 197,
+   "module": 1,
+   "title": "AI Governance for Supervisors",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 377,
+     "number": 1,
+     "title": "Foundations of AI and Machine Learning"
+    },
+    {
+     "id": 378,
+     "number": 2,
+     "title": "AI Governance Frameworks and Ethics"
+    },
+    {
+     "id": 379,
+     "number": 3,
+     "title": "Explainability, Transparency and Model Risk"
+    },
+    {
+     "id": 380,
+     "number": 4,
+     "title": "Bias, Fairness and Discrimination"
+    },
+    {
+     "id": 381,
+     "number": 5,
+     "title": "AI in Trading, Investment and Operations"
+    },
+    {
+     "id": 382,
+     "number": 6,
+     "title": "AI in Advice and Consumer-Facing Services"
+    },
+    {
+     "id": 383,
+     "number": 7,
+     "title": "AI Vulnerabilities and Failure Modes"
+    },
+    {
+     "id": 384,
+     "number": 8,
+     "title": "AI Regulation and the Financial Regulatory Perimeter"
+    },
+    {
+     "id": 385,
+     "number": 9,
+     "title": "SupTech: AI in Supervisory Practice"
+    },
+    {
+     "id": 386,
+     "number": 10,
+     "title": "Building the Authority's Approach to AI Supervision"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 325,
+   "entryType": "programme",
+   "title": "The EU AI Act and Financial Services (EU Edition)",
+   "summary": "An eight-module programme on the EU AI Act for supervisors and financial firms: risk classification, high-risk credit and insurance uses, provider and deployer duties, supervision and compliance programmes.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 316,
+   "entryType": "programme",
+   "title": "SupTech, Data and Supervisory Analytics",
+   "summary": "A ten-module programme equipping supervisors and leaders to govern supervisory data, interrogate returns, use analytics to surface risk and build the authority's SupTech capability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

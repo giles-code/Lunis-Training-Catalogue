@@ -1,0 +1,335 @@
+{
+ "id": 312,
+ "entryType": "programme",
+ "title": "Supervising Financial Market Infrastructures",
+ "summary": "An advanced ten-module programme equipping supervisors and overseers to apply the PFMI to trading venues, CCPs, CSDs, payment systems and trade repositories.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Services & Capital Markets",
+ "tags": [
+  "Investment services & markets"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Market Infrastructure & Trading Venues"
+ ],
+ "slug": "market-infrastructure-supervision",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisors and overseers of trading venues, CCPs, CSDs, payment systems and trade repositories to apply the PFMI in practice: assessing governance, financial and operational risks, recovery and resolution, and cross-border oversight.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Crisis Management & Resolution"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors and overseers a rigorous, practical command of how financial market infrastructures work, how they fail and how the PFMI translate into supervisory judgement. Participants leave able to challenge an infrastructure's risk models, default arrangements and resilience, and to contribute to recovery, resolution and cooperative oversight across borders.",
+  "What It Covers": "The role and systemic importance of FMIs, the PFMI and responsibilities of authorities, governance and risk frameworks, credit and liquidity risk, collateral and margin, default management and loss waterfalls, settlement finality and DvP, operational risk and cyber resilience, access and tiered participation, recovery and resolution, cross-border cooperative oversight, and DLT-based infrastructures.",
+  "Intended Audience": [
+   "Supervisors and overseers of trading venues, CCPs, CSDs, payment systems and trade repositories in securities authorities and central banks",
+   "Financial stability, risk modelling and operational resilience specialists who assess FMI risk",
+   "Resolution, policy and international staff working on FMI recovery, resolution and cooperative oversight"
+  ],
+  "Learning Objectives": [
+   "Explain how each type of FMI works, where it concentrates risk and why it is systemically important",
+   "Apply the PFMI and the responsibilities of authorities to supervision and oversight in practice",
+   "Assess credit, liquidity, collateral and margin arrangements and the robustness of default management",
+   "Evaluate settlement finality, operational risk, cyber resilience and access arrangements",
+   "Challenge recovery plans and contribute to resolution planning and cooperative oversight",
+   "Analyse the risks of DLT-based infrastructures and set supervisory priorities"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines a technical briefing with case studies and supervisory question exercises, closing with an FMI stress workshop, and modules can be selected or tailored to the authority's needs.",
+  "Useful Prior Knowledge and Experience": "Some experience of capital markets, payments or financial stability work is helpful. Familiarity with the PFMI is useful but not required.",
+  "Core Reading": [
+   "CPMI-IOSCO, Principles for Financial Market Infrastructures (2012)",
+   "FSB, Key Attributes of Effective Resolution Regimes for Financial Institutions (2014)",
+   "CPMI-IOSCO, Application of the Principles for Financial Market Infrastructures to Stablecoin Arrangements (2022)",
+   "FSB, The Financial Stability Implications of Tokenisation (2024)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1387,
+   "number": 1,
+   "title": "Financial Market Infrastructures and the PFMI",
+   "summary": "What trading venues, CCPs, CSDs, securities settlement systems, payment systems and trade repositories do, why they concentrate systemic risk, and how the PFMI and responsibilities of authorities frame supervision.",
+   "objectives": [
+    "Explain the functions and interdependencies of the main types of FMI",
+    "Identify why FMIs both reduce and concentrate systemic risk",
+    "Apply the structure of the PFMI and the responsibilities of authorities"
+   ],
+   "syllabus": [
+    "The post-trade chain from execution to clearing, settlement and reporting",
+    "Systemic importance, interdependencies and lessons from past disruptions",
+    "PFMI principles, key considerations and the assessment methodology",
+    "Supervision versus oversight: securities authorities and central banks"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1388,
+   "number": 2,
+   "title": "Governance and the Comprehensive Risk Framework",
+   "summary": "How FMI ownership, board composition and risk governance shape decisions on risk, access and fees, and how supervisors test whether the risk framework works across all risk types.",
+   "objectives": [
+    "Assess FMI board composition, independence and risk committee effectiveness",
+    "Evaluate how ownership and commercial incentives affect risk decisions",
+    "Test the comprehensiveness of the risk management framework"
+   ],
+   "syllabus": [
+    "Ownership models: user-owned, listed groups and vertical silos",
+    "Board, risk committee and participant representation",
+    "Conflicts between profitability, risk standards and open access",
+    "Integrated view of credit, liquidity, operational and business risks"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1389,
+   "number": 3,
+   "title": "Credit and Liquidity Risk",
+   "summary": "How FMIs measure and cover credit and liquidity exposures to participants, the cover standards and stress testing behind them, and how supervisors challenge model assumptions.",
+   "objectives": [
+    "Explain credit and liquidity exposures in clearing, settlement and payment systems",
+    "Assess stress testing, cover standards and qualifying liquid resources",
+    "Challenge model assumptions, scenarios and backtesting results"
+   ],
+   "syllabus": [
+    "Current and potential future exposure; cover 1 and cover 2 standards",
+    "Liquidity needs, qualifying resources and settlement bank dependencies",
+    "Stress scenario design, reverse stress testing and backtesting",
+    "Red flags: optimistic scenarios, wrong-way risk and stale models"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1390,
+   "number": 4,
+   "title": "Collateral, Margin and Procyclicality",
+   "summary": "How initial and variation margin and collateral policies protect FMIs, the trade-off between prudence and procyclicality, and how supervisors assess margin models and haircuts.",
+   "objectives": [
+    "Evaluate initial margin models, calibration and look-back periods",
+    "Assess eligible collateral, haircuts and concentration limits",
+    "Analyse procyclicality and the transparency of margin calls in stress"
+   ],
+   "syllabus": [
+    "Initial and variation margin: purpose, methods and calibration",
+    "Collateral eligibility, haircuts, concentration limits and reuse",
+    "Procyclicality tools, anti-procyclicality buffers and margin transparency",
+    "Lessons from margin spikes in commodity and bond market stress"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1391,
+   "number": 5,
+   "title": "Default Management and the Loss Waterfall",
+   "summary": "How FMIs handle a participant default, from close-out, hedging and auction to the sequence of resources in the default waterfall, and how supervisors test readiness through fire drills.",
+   "objectives": [
+    "Explain default rules, procedures and the sequence of the default waterfall",
+    "Assess the adequacy of skin in the game and default fund sizing",
+    "Evaluate default management fire drills and auction design"
+   ],
+   "syllabus": [
+    "Declaring a default, porting client positions and close-out",
+    "Default waterfall: margin, default fund, own resources and assessments",
+    "Auction design, participant obligations and hedging",
+    "Lessons from clearing member defaults and fire drill findings"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1392,
+   "number": 6,
+   "title": "Settlement, Finality and Custody Risk",
+   "summary": "How settlement finality, money settlement, delivery versus payment and CSD safekeeping eliminate principal and custody risk, and what supervisors check when those protections are weak.",
+   "objectives": [
+    "Explain settlement finality and its legal basis",
+    "Assess DvP and PvP models, money settlement assets and settlement bank risk",
+    "Evaluate CSD safekeeping, reconciliation and integrity of the issue"
+   ],
+   "syllabus": [
+    "Legal certainty and the moment of finality",
+    "DvP models, PvP and central bank versus commercial bank money",
+    "Settlement fails, buy-ins and settlement discipline",
+    "CSD account structures, reconciliation and protection of participants' assets"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1393,
+   "number": 7,
+   "title": "Operational Risk, Cyber Resilience and Critical Providers",
+   "summary": "How FMIs manage operational, cyber and third-party risk, the resilience expectations they must meet, and how supervisors test recovery capability against severe but plausible scenarios.",
+   "objectives": [
+    "Assess operational risk frameworks and business continuity arrangements",
+    "Evaluate cyber resilience, including recovery from data corruption",
+    "Analyse dependencies on critical service providers and cloud"
+   ],
+   "syllabus": [
+    "Two-hour recovery objective and severe but plausible scenarios",
+    "Cyber resilience guidance, threat-led testing and data integrity",
+    "Critical service providers, cloud concentration and exit options",
+    "Incident reporting, root cause analysis and supervisory follow-up"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1394,
+   "number": 8,
+   "title": "Access, Tiered Participation and Links",
+   "summary": "How FMIs set fair and open access criteria, the risks hidden in tiered participation and client clearing, and the exposures created by links between infrastructures.",
+   "objectives": [
+    "Evaluate participation requirements for fairness, risk basis and openness",
+    "Identify risks from indirect participants and client clearing",
+    "Assess the risks of links and interoperability arrangements"
+   ],
+   "syllabus": [
+    "Risk-based access criteria and suspension or exit of participants",
+    "Tiered participation: concentration on large direct participants",
+    "Client clearing, segregation and portability",
+    "CCP links, CSD links and interoperability exposures"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1395,
+   "number": 9,
+   "title": "Recovery, Resolution and Orderly Wind-Down",
+   "summary": "How FMIs plan for recovery from extreme losses, the tools for allocating uncovered losses and liquidity shortfalls, and how resolution authorities maintain critical services when recovery fails.",
+   "objectives": [
+    "Challenge FMI recovery plans, triggers and loss-allocation tools",
+    "Assess general business risk and orderly wind-down resources",
+    "Explain resolution powers and planning for systemically important FMIs"
+   ],
+   "syllabus": [
+    "Recovery tools: cash calls, variation margin gains haircutting and tear-ups",
+    "Non-default losses: investment, custody, operational and business losses",
+    "Liquid net assets for business risk and orderly wind-down plans",
+    "Resolution planning, continuity of critical services and the Key Attributes"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1396,
+   "number": 10,
+   "title": "Cooperative Oversight, DLT Infrastructures and Supervisory Workshop",
+   "summary": "Brings the programme together: cooperative oversight of cross-border FMIs, the risks of DLT-based and tokenised infrastructures, and a supervisory workshop on an FMI under stress.",
+   "objectives": [
+    "Operate cooperative oversight arrangements and crisis cooperation across borders",
+    "Analyse how the PFMI apply to DLT-based infrastructures and stablecoin arrangements",
+    "Apply the programme to a supervisory case involving an FMI under stress"
+   ],
+   "syllabus": [
+    "Responsibility E: colleges, crisis management groups and information sharing",
+    "DLT settlement, tokenised assets and atomic settlement risks",
+    "Stablecoin arrangements and the PFMI",
+    "Workshop: a CCP member default with cross-border spillovers"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 209,
+   "entryType": "programme",
+   "title": "Capital Markets and Investment Services Supervision",
+   "summary": "A ten-module programme equipping supervisors to oversee investment firms, trading venues and issuers, from client conduct and client assets to algorithmic trading and market abuse.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 221,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals",
+   "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

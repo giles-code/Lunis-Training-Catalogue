@@ -1,0 +1,312 @@
+{
+ "id": 210,
+ "entryType": "programme",
+ "title": "Climate and Sustainability for Boards",
+ "summary": "An eight-module programme giving boards and directors the understanding and tools to oversee climate and nature-related risk, transition plans and sustainability disclosures.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership",
+  "payments": "Board & Senior Leadership",
+  "crypto": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Sustainable finance"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 16,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [],
+ "slug": "climate-and-sustainability-for-boards",
+ "moduleCount": 8,
+ "hoursPerModule": 2,
+ "intro": "This training programme equips boards and directors to oversee climate and nature-related financial risk: challenging transition plans, setting risk appetite, avoiding greenwashing and evidencing sound oversight to regulators and investors.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Sustainable Finance & ESG"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give directors a practical, jargon-free grounding in how climate change and nature loss translate into financial risk for the firm, and the governance tools to oversee it. Participants leave able to challenge transition plans, scenario analysis and disclosures, and evidence effective oversight to supervisors, auditors and investors.",
+  "What It Covers": "Climate and nature-related financial risk, transition planning, scenario analysis, ISSB and TCFD-type disclosure, greenwashing and conduct risk, stewardship, risk appetite, and board skills and incentives.",
+  "Intended Audience": [
+   "Chairs, non-executive and independent directors and board committee members, especially on risk, audit and sustainability committees",
+   "Executive directors and senior managers accountable for strategy, risk, sustainability and disclosure",
+   "Company secretaries and heads of governance supporting board oversight of sustainability"
+  ],
+  "Learning Objectives": [
+   "Explain how physical, transition and nature-related risks become financial risks for the firm",
+   "Challenge the credibility of the firm's transition plan and its targets",
+   "Interpret scenario analysis and stress testing results and their limitations",
+   "Oversee sustainability disclosures and product claims to avoid greenwashing",
+   "Assess stewardship, risk appetite and the integration of climate risk into the risk framework",
+   "Evaluate the board's own skills and the role of incentives, and agree an action plan"
+  ],
+  "Structure and Format": "Eight modules of about two hours each, delivered in person, virtually or in a hybrid format, either as a two-day programme or as a series of board briefing sessions. Each module combines a short briefing with case studies and a board question set, and modules can be selected or tailored to the board's needs.",
+  "Useful Prior Knowledge and Experience": "Board or senior management experience in financial services is helpful. No technical background in climate science or sustainability reporting is required.",
+  "Core Reading": [
+   "ISSB, IFRS S1 General Requirements and IFRS S2 Climate-related Disclosures (2023)",
+   "TCFD, Recommendations of the Task Force on Climate-related Financial Disclosures (2017)",
+   "Basel Committee, Principles for the Effective Management and Supervision of Climate-related Financial Risks (2022)",
+   "TNFD, Recommendations of the Taskforce on Nature-related Financial Disclosures (2023)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 493,
+   "number": 1,
+   "title": "Climate and Nature-Related Financial Risk",
+   "summary": "Plain-language grounding in how physical, transition and nature-related risks arise, how they transmit through credit, market, insurance, liquidity and operational risk, and why they matter to the board.",
+   "objectives": [
+    "Explain physical, transition and liability risks and their time horizons",
+    "Trace how climate and nature risks transmit into existing financial risk categories",
+    "Identify where the firm is most exposed across its balance sheet, clients and operations"
+   ],
+   "syllabus": [
+    "Physical, transition and liability risk in plain language",
+    "Transmission channels into credit, market, underwriting and operational risk",
+    "Nature loss, biodiversity and dependency on ecosystem services",
+    "International work by the FSB, NGFS, Basel Committee and IAIS"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 494,
+   "number": 2,
+   "title": "Strategy and Transition Planning",
+   "summary": "How boards test whether the firm's transition plan is credible, consistent with its strategy and capable of delivery, and how climate targets fit into business decisions.",
+   "objectives": [
+    "Challenge the ambition, assumptions and deliverability of the transition plan",
+    "Assess whether targets and interim milestones are embedded in business decisions",
+    "Recognise the strategic opportunities and risks of the transition"
+   ],
+   "syllabus": [
+    "Elements of a credible transition plan: targets, levers, metrics and governance",
+    "Financed and insured emissions and the limits of the data",
+    "Client engagement versus divestment",
+    "Questions to ask of a transition plan before board approval"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 495,
+   "number": 3,
+   "title": "Scenario Analysis and Stress Testing",
+   "summary": "What climate scenario analysis can and cannot tell the board, how to read the results critically and how to use them in strategic and capital decisions.",
+   "objectives": [
+    "Explain how climate scenarios are built and the main scenario families",
+    "Interpret results and identify weaknesses in data, models and assumptions",
+    "Use scenario outcomes to inform strategy, risk appetite and capital planning"
+   ],
+   "syllabus": [
+    "Orderly, disorderly and hot-house world scenarios",
+    "Time horizons, data gaps and model limitations",
+    "Supervisory climate stress tests and what they reveal",
+    "Turning scenario results into board decisions"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 496,
+   "number": 4,
+   "title": "Sustainability Disclosure and Reporting",
+   "summary": "The board's responsibility for sustainability disclosures under ISSB and TCFD-type standards, how disclosure connects to financial reporting, and how the board gains assurance on what is published.",
+   "objectives": [
+    "Explain the structure of ISSB and TCFD-type disclosure: governance, strategy, risk management, metrics and targets",
+    "Evaluate the controls and data behind sustainability disclosures",
+    "Oversee assurance and consistency between sustainability and financial reporting"
+   ],
+   "syllabus": [
+    "ISSB standards and the TCFD framework in outline",
+    "Materiality, connectivity and consistency with the financial statements",
+    "Data quality, estimation and controls over sustainability reporting",
+    "Assurance of sustainability information and the audit committee's role"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 497,
+   "number": 5,
+   "title": "Greenwashing and Conduct Risk",
+   "summary": "How sustainability claims about the firm, its products and its investment processes can mislead, the conduct and legal exposure this creates, and the controls the board should expect.",
+   "objectives": [
+    "Recognise the common forms of greenwashing in products, marketing and corporate statements",
+    "Assess product governance, labelling and marketing controls for sustainability claims",
+    "Identify the legal, conduct and reputational consequences of misleading claims"
+   ],
+   "syllabus": [
+    "Forms of greenwashing: vague claims, selective data and unsupported labels",
+    "Sustainable product labels, naming and anti-greenwashing rules",
+    "Product governance and sign-off of sustainability claims",
+    "Case studies of supervisory and enforcement action on greenwashing"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 498,
+   "number": 6,
+   "title": "Stewardship and Engagement",
+   "summary": "How investors and lenders use stewardship, voting and engagement to manage climate and nature risk, and how the board oversees whether stewardship activity is genuine and effective.",
+   "objectives": [
+    "Explain the purpose and tools of stewardship and engagement",
+    "Assess whether stewardship policies are applied in practice and produce outcomes",
+    "Oversee escalation, voting and reporting on stewardship"
+   ],
+   "syllabus": [
+    "Stewardship codes and principles in outline",
+    "Engagement, escalation, voting and collaborative initiatives",
+    "Evidencing stewardship outcomes rather than activity",
+    "Conflicts of interest and consistency with stated policy"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 499,
+   "number": 7,
+   "title": "Risk Appetite and Integration into the Risk Framework",
+   "summary": "How climate and nature risk are embedded in the risk management framework, risk appetite statement and capital planning, and what management information the board needs.",
+   "objectives": [
+    "Set climate and nature risk appetite with measurable limits and triggers",
+    "Evaluate how climate risk is integrated across the three lines of defence",
+    "Specify the management information and indicators the board needs"
+   ],
+   "syllabus": [
+    "Drafting climate risk appetite: sectors, concentrations and limits",
+    "Integration into credit, underwriting, investment and capital processes",
+    "Key risk indicators and the core board information set",
+    "Supervisory expectations for the management of climate-related financial risk"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 500,
+   "number": 8,
+   "title": "Board Skills, Incentives and Action Plan",
+   "summary": "Brings the programme together into a board action plan covering the board's own capability, committee mandates, remuneration and incentives, and keeping governance current as standards evolve.",
+   "objectives": [
+    "Assess the board's sustainability expertise and plan to close gaps",
+    "Evaluate how remuneration and incentives support sustainability objectives",
+    "Produce a board action plan for climate and sustainability oversight"
+   ],
+   "syllabus": [
+    "Board skills, committee mandates and external advice",
+    "Linking sustainability metrics to remuneration without perverse incentives",
+    "Emerging themes: nature, social risk and transition finance",
+    "Workshop: the board's twelve-month climate and sustainability oversight plan"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 195,
+   "entryType": "programme",
+   "title": "AI Governance for Boards",
+   "summary": "A ten-module programme giving boards and directors the understanding and tools to govern AI responsibly and evidence sound oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 206,
+   "entryType": "programme",
+   "title": "Board Effectiveness: Dynamics and Decision-Making",
+   "summary": "A ten-module programme helping boards strengthen their dynamics, information and decision-making, and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 227,
+   "entryType": "programme",
+   "title": "Culture, Conduct and Accountability for Boards",
+   "summary": "An eight-module programme giving boards the tools to shape and oversee culture, align incentives, hold individuals to account and evidence oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 236,
+   "entryType": "programme",
+   "title": "Effective Governance for Boards and Directors",
+   "summary": "A twelve-module programme covering the standards expected of individual directors and the practices that make a board effective, for regulated firms, fund boards and management companies.",
+   "level": "Board level",
+   "moduleCount": 12,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 242,
+   "entryType": "programme",
+   "title": "Finance and Prudential Essentials for Directors of Regulated Firms",
+   "summary": "An eight-module programme giving non-financial directors the confidence to read a regulated firm's accounts, capital and liquidity position, and to challenge the CFO.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 246,
+   "entryType": "programme",
+   "title": "Financial Crime Oversight for Boards",
+   "summary": "An eight-module programme giving boards the understanding and tools to oversee financial crime risk and evidence effective oversight to supervisors.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

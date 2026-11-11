@@ -1,0 +1,114 @@
+{
+ "id": 190,
+ "entryType": "module",
+ "title": "Workforce Planning for Specialist Regulatory Functions",
+ "summary": "The aim of this workshop is to build participants' skills in planning and resourcing a supervisory workforce with the right mix of generalist and specialist skills, addressing recruitment and retention challenges specific to regulatory bodies.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Capability & Capacity Building",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Leadership & senior management",
+  "New joiners & developing staff"
+ ],
+ "firmType": [],
+ "slug": "workforce-planning-for-specialist-regulatory-functions",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Capability & Capacity Building"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in planning and resourcing a supervisory workforce with the right mix of generalist and specialist skills, addressing recruitment and retention challenges specific to regulatory bodies.",
+  "Intended Audience": "Managers and learning & development leads responsible for building supervisory capability within the authority.",
+  "Learning Objectives": [
+   "Explain the workforce planning challenges specific to regulatory authorities",
+   "Apply a skills-gap analysis methodology",
+   "Assess build-versus-buy options for specialist capability",
+   "Evaluate recruitment and retention strategies for public-sector regulators",
+   "Formulate a workforce plan for a sample specialist function"
+  ],
+  "Syllabus": [
+   "Why regulatory authorities face distinct workforce challenges",
+   "Competing with industry for specialist skills",
+   "Public-sector pay and career structure constraints",
+   "The cost of skills gaps in specialist supervisory functions",
+   "Facilitated discussion: workforce challenges participants' own authorities face",
+   "Methodology for conducting a skills-gap analysis",
+   "Build (train existing staff) versus buy (recruit externally) trade-offs",
+   "Using secondments and partnerships to plug specialist gaps",
+   "Forecasting future skills needs as risks evolve",
+   "Group exercise: conduct a skills-gap analysis for a sample specialist function",
+   "Recruitment strategies suited to public-sector regulators",
+   "Retention levers beyond pay: mission, development, flexibility",
+   "Case study: building a specialist function from a skills gap",
+   "Case study: formulate a workforce plan for a sample specialist regulatory function",
+   "Recap: workforce challenges, skills-gap analysis, recruitment and retention",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Workforce planning challenges (09:30–10:45)\n- Session 2: Skills-gap analysis and build-versus-buy (11:00–12:30)\n- Session 3: Recruitment, retention and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Regulatory authorities face structural disadvantages in the market for specialist technical skills\n- Build-versus-buy decisions should be made deliberately, function by function, rather than by default\n- Retention often depends more on mission and development opportunities than on matching industry pay",
+  "Useful Prior Knowledge and Experience": "Some familiarity with capability & capacity building is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 257,
+   "entryType": "programme",
+   "title": "Foundations of Financial Regulation and Supervision",
+   "summary": "An eight-module induction for new regulatory staff covering why we regulate, the authority's powers, risk-based supervision and a first supervisory case.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 218,
+   "entryType": "programme",
+   "title": "Core Supervisory Skills: Business Models, Governance and Risk Governance Panels",
+   "summary": "A three-day workshop taking supervisors from business model analysis through governance interviews to a risk governance panel, using running case studies and role plays.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

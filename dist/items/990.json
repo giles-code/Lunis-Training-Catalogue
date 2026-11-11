@@ -1,0 +1,164 @@
+{
+ "id": 990,
+ "entryType": "module",
+ "title": "Banks and Deposit-Takers",
+ "summary": "How banks and deposit-takers create credit, manage maturity transformation and earn margin, and the credit, liquidity and concentration risks that most often cause failure.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Ongoing Supervision",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "New joiners & developing staff",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "banks-and-deposit-takers",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Prudential Risk (Capital & Liquidity)"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How banks and deposit-takers create credit, manage maturity transformation and earn margin, and the credit, liquidity and concentration risks that most often cause failure.",
+  "Learning Objectives": [
+   "Explain maturity transformation, credit creation and net interest margin",
+   "Identify the main credit, liquidity and interest rate risks of banks",
+   "Frame supervisory questions on lending, funding and asset quality"
+  ],
+  "Syllabus": [
+   "Deposit-taking, lending and the net interest margin",
+   "Credit risk, provisioning and non-performing exposures",
+   "Funding concentration, deposit runs and interest rate risk",
+   "Lessons from recent bank failures for supervisors"
+  ],
+  "Intended Audience": [
+   "New joiners and developing staff in supervisory, authorisation and policy functions",
+   "Supervisors and inspectors moving into a new sector or wishing to strengthen their financial analysis",
+   "Staff from legal, enforcement or support functions who need to understand firms' business and finances"
+  ],
+  "Useful Prior Knowledge and Experience": "No accounting qualification is required. Basic numeracy and some familiarity with financial services are helpful.",
+  "Core Reading": [
+   "Basel Committee on Banking Supervision (2024), Core Principles for Effective Banking Supervision",
+   "Basel Committee on Banking Supervision (2008), Principles for Sound Liquidity Risk Management and Supervision",
+   "IOSCO (2017), Objectives and Principles of Securities Regulation",
+   "FSB (2023), High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-asset Activities and Markets"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 267,
+   "module": 4,
+   "title": "How Financial Firms Work: Business Models and Financial Statements for Supervisors",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Foundation",
+   "modules": [
+    {
+     "id": 987,
+     "number": 1,
+     "title": "Business Models: How Financial Firms Make Money"
+    },
+    {
+     "id": 988,
+     "number": 2,
+     "title": "Reading Financial Statements with a Supervisory Eye"
+    },
+    {
+     "id": 989,
+     "number": 3,
+     "title": "Capital and Liquidity Basics"
+    },
+    {
+     "id": 990,
+     "number": 4,
+     "title": "Banks and Deposit-Takers"
+    },
+    {
+     "id": 991,
+     "number": 5,
+     "title": "Investment Firms and Investment Funds"
+    },
+    {
+     "id": 992,
+     "number": 6,
+     "title": "Payment Firms and Crypto-Asset Firms"
+    },
+    {
+     "id": 993,
+     "number": 7,
+     "title": "Group Structures and Intra-Group Risks"
+    },
+    {
+     "id": 994,
+     "number": 8,
+     "title": "Business Model Analysis: Case Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 218,
+   "entryType": "programme",
+   "title": "Core Supervisory Skills: Business Models, Governance and Risk Governance Panels",
+   "summary": "A three-day workshop taking supervisors from business model analysis through governance interviews to a risk governance panel, using running case studies and role plays.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 310,
+   "entryType": "programme",
+   "title": "Supervising Compliance in Practice: Masterclass Series",
+   "summary": "Ten half-day masterclasses showing supervisors how to test whether firms' compliance arrangements work in practice across core compliance areas.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 35,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

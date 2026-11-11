@@ -1,0 +1,189 @@
+{
+ "id": 86,
+ "entryType": "module",
+ "title": "Fraud Detection & Behavioural Analytics",
+ "summary": "The aim of this workshop is to build participants' understanding of how AI-enabled fraud detection systems operate across payments and banking channels, examining behavioural analytics and biometric techniques, and the supervisory considerations for assessing firms' fraud…",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Reducing Financial Crime & Delivering Market Integrity",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams",
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "fraud-detection-and-behavioural-analytics",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how AI-enabled fraud detection systems operate across payments and banking channels, examining behavioural analytics and biometric techniques, and the supervisory considerations for assessing firms' fraud control frameworks.",
+  "Intended Audience": "Mid-level supervisory and financial crime specialist staff assessing firms' financial crime controls.",
+  "Learning Objectives": [
+   "Explain how real-time fraud scoring systems operate",
+   "Describe behavioural biometric techniques used in fraud detection",
+   "Assess common payment fraud typologies",
+   "Evaluate the adequacy of a firm's fraud control framework",
+   "Identify supervisory considerations for assessing fraud detection effectiveness"
+  ],
+  "Syllabus": [
+   "How real-time fraud scoring works across payment channels",
+   "Data inputs: transaction, device, behavioural signals",
+   "Speed versus accuracy trade-offs in real-time decisioning",
+   "Regulatory expectations for fraud control frameworks",
+   "Facilitated discussion: fraud typologies observed by participants",
+   "Behavioural biometric techniques: typing patterns, device handling",
+   "Common payment fraud typologies: APP fraud, account takeover, card fraud",
+   "Strengths and limitations of biometric fraud detection",
+   "Privacy considerations in behavioural biometrics",
+   "Group exercise: map fraud typologies to appropriate detection techniques",
+   "Criteria for assessing fraud control framework adequacy",
+   "Case study: a firm's fraud control framework under review",
+   "Case study: evaluate a firm's fraud control framework and identify supervisory considerations",
+   "Recap: fraud scoring, biometrics, typologies, framework assessment",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Real-time fraud scoring (09:30–10:45)\n- Session 2: Behavioural biometrics and typologies (11:00–12:30)\n- Session 3: Evaluating fraud control frameworks (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Fraud detection increasingly relies on behavioural signals as much as transaction data\n- Speed and accuracy trade-offs in real-time fraud decisioning have direct consumer impact\n- A strong fraud control framework combines technology, process, and clear escalation routes",
+  "Useful Prior Knowledge and Experience": "Some familiarity with reducing financial crime & delivering market integrity is helpful but not essential.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "FATF, Guidance on Risk-Based Supervision (2021)",
+   "FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)",
+   "FATF, Guidance on Digital Identity (2020)"
+  ]
+ },
+ "inherited": [
+  "Core Reading",
+  "level"
+ ],
+ "partOf": [
+  {
+   "programme": 247,
+   "module": 7,
+   "title": "Financial Crime Supervision in the Age of AI",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 818,
+     "number": 1,
+     "title": "The AML/CFT Framework and Risk-Based Supervision"
+    },
+    {
+     "id": 819,
+     "number": 2,
+     "title": "ML/TF Typologies and Red Flags"
+    },
+    {
+     "id": 820,
+     "number": 3,
+     "title": "Supervising AML/CFT Controls in Practice"
+    },
+    {
+     "id": 821,
+     "number": 4,
+     "title": "AI and Machine Learning in Transaction Monitoring"
+    },
+    {
+     "id": 170,
+     "number": 5,
+     "title": "Supervising AI-Driven Financial Crime Systems"
+    },
+    {
+     "id": 10,
+     "number": 6,
+     "title": "AI, Sanctions Screening & Adverse Media Monitoring"
+    },
+    {
+     "id": 86,
+     "number": 7,
+     "title": "Fraud Detection & Behavioural Analytics"
+    },
+    {
+     "id": 822,
+     "number": 8,
+     "title": "Generative AI and Emerging Financial Crime Typologies"
+    },
+    {
+     "id": 121,
+     "number": 9,
+     "title": "Market Abuse Detection & Surveillance"
+    },
+    {
+     "id": 823,
+     "number": 10,
+     "title": "Bias, Accountability and the Authority's Own SupTech"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 225,
+   "entryType": "programme",
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 245,
+   "entryType": "programme",
+   "title": "Financial Crime Foundations for Regulatory Staff",
+   "summary": "An eight-module foundation programme giving regulatory staff a grounding in AML/CFT, sanctions and fraud, firms' controls and financial crime red flags.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 326,
+   "entryType": "programme",
+   "title": "The EU AML Package: AMLR, AMLD6 and AMLA (EU Edition)",
+   "summary": "An eight-module programme on the EU AML package for supervisors and firms: the AML Regulation single rulebook, AMLD6, AMLA's supervisory model, crypto-asset transfers and transition planning.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

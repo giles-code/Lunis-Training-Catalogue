@@ -1,0 +1,115 @@
+{
+ "id": 19,
+ "entryType": "module",
+ "title": "Assessing Firms' Cyber Governance and Controls",
+ "summary": "The aim of this workshop is to build participants' skills in evaluating a firm's IT governance, board-level oversight of cyber risk, and the adequacy of its security policies and data integrity controls.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Cybersecurity & Operational Resilience",
+ "tags": [
+  "Operational resilience & cyber"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "assessing-firms-cyber-governance-and-controls",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in evaluating a firm's IT governance, board-level oversight of cyber risk, and the adequacy of its security policies and data integrity controls.",
+  "Intended Audience": "Mid-level supervisory staff building capability in cyber and operational resilience supervision.",
+  "Learning Objectives": [
+   "Explain the components of good IT governance for cyber risk",
+   "Describe board-level oversight expectations for cyber risk",
+   "Assess the adequacy of a firm's security policies",
+   "Evaluate data integrity controls within a firm's IT environment",
+   "Formulate a supervisory assessment of a firm's cyber governance"
+  ],
+  "Syllabus": [
+   "Components of good IT governance: ownership, policy, risk reporting",
+   "The three lines of defence applied to cyber risk",
+   "Board-level oversight expectations for cyber risk",
+   "Common governance weaknesses in firms of varying size",
+   "Facilitated discussion: cyber governance structures participants have reviewed",
+   "Assessing the adequacy of security policies against firm-specific risk",
+   "Data integrity controls: access management, encryption, change control",
+   "Common gaps between stated policy and operational practice",
+   "Techniques for testing whether policy is actually followed",
+   "Group exercise: assess a sample firm's security policy and data integrity controls",
+   "Bringing governance, policy, and control assessment together",
+   "Case study: a firm's cyber governance under supervisory review",
+   "Case study: formulate a supervisory assessment of a firm's cyber governance",
+   "Recap: governance components, board oversight, policy and control assessment",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: IT governance fundamentals (09:30–10:45)\n- Session 2: Security policies and data integrity (11:00–12:30)\n- Session 3: Application to a case study (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Board-level engagement with cyber risk is a strong indicator of a firm's overall cyber governance maturity\n- Policy documents mean little without evidence that they are followed in operational practice\n- Data integrity controls deserve as much supervisory attention as perimeter security controls",
+  "Useful Prior Knowledge and Experience": "Some familiarity with cybersecurity & operational resilience is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 234,
+   "entryType": "programme",
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "summary": "An eight-module programme on DORA for supervisors and financial entities: ICT risk management, incident reporting, resilience testing and TLPT, ICT third-party risk and critical provider oversight.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 287,
+   "entryType": "programme",
+   "title": "Operational Resilience, Cyber and Critical Third Parties",
+   "summary": "A ten-module programme equipping supervisors to assess firms' operational resilience, cyber risk, incident response and third-party dependencies, and to shape the authority's resilience strategy.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

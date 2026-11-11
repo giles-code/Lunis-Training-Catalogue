@@ -1,0 +1,187 @@
+{
+ "id": 616,
+ "entryType": "module",
+ "title": "The Laundering Lifecycle and Anonymity-Enhancing Techniques",
+ "summary": "How illicit proceeds are placed, layered and integrated using crypto-assets, how mixers, privacy coins, bridges and chain-hopping obscure the trail, and what the firm can still see and control.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Control Functions Academy",
+  "payments": "Control Functions Academy",
+  "crypto": "Control Functions Academy"
+ },
+ "topic": "Control Functions Academy",
+ "tags": [
+  "Crypto & digital assets",
+  "Financial crime",
+  "Payments"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Control function holders",
+  "Senior leaders & managers"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money",
+  "Payments & E-Money",
+  "FinTech & Big Tech"
+ ],
+ "slug": "the-laundering-lifecycle-and-anonymity-enhancing-techniques",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How illicit proceeds are placed, layered and integrated using crypto-assets, how mixers, privacy coins, bridges and chain-hopping obscure the trail, and what the firm can still see and control.",
+  "Learning Objectives": [
+   "Map placement, layering and integration to the firm's own services",
+   "Explain how mixers, privacy coins, bridges and decentralised protocols break transaction links",
+   "Set policy on anonymity-enhanced transfers and exposure to high-risk services"
+  ],
+  "Syllabus": [
+   "Placement: cash-to-crypto, kiosks, peer-to-peer and over-the-counter trading",
+   "Layering: rapid hops, chain-hopping, bridges, swaps and decentralised protocols",
+   "Mixers, tumblers and privacy coins: what remains visible to the firm",
+   "Integration and off-ramps: where the firm is the exit point"
+  ],
+  "Intended Audience": [
+   "MLROs, compliance officers and financial crime analysts at crypto-asset service providers",
+   "Financial crime teams at payment, e-money and fintech firms with crypto-asset exposure or crypto-asset business customers",
+   "Product, operations and risk managers responsible for onboarding, wallets, withdrawals and monitoring tools"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of AML/CFT compliance or financial crime operations is helpful. No technical background in blockchain is required.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "FATF, Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (2021)",
+   "FATF, Virtual Assets Red Flag Indicators of Money Laundering and Terrorist Financing (2020)",
+   "FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 224,
+   "module": 3,
+   "title": "Crypto-Asset Financial Crime: Tracing and Controls for Compliance Teams",
+   "moduleCount": 9,
+   "durationValue": 27,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 614,
+     "number": 1,
+     "title": "The Firm's Crypto-Asset Financial Crime Exposure"
+    },
+    {
+     "id": 615,
+     "number": 2,
+     "title": "Typologies and Red Flags for Compliance Teams"
+    },
+    {
+     "id": 616,
+     "number": 3,
+     "title": "The Laundering Lifecycle and Anonymity-Enhancing Techniques"
+    },
+    {
+     "id": 617,
+     "number": 4,
+     "title": "Customer and Wallet Due Diligence"
+    },
+    {
+     "id": 618,
+     "number": 5,
+     "title": "Blockchain Analytics in Transaction Monitoring"
+    },
+    {
+     "id": 619,
+     "number": 6,
+     "title": "The Travel Rule and Counterparty Due Diligence"
+    },
+    {
+     "id": 620,
+     "number": 7,
+     "title": "Sanctions Exposure in Crypto-Asset Activity"
+    },
+    {
+     "id": 621,
+     "number": 8,
+     "title": "Investigating Alerts and Reporting Suspicion"
+    },
+    {
+     "id": 622,
+     "number": 9,
+     "title": "Responding to Law Enforcement and Capstone Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 243,
+   "entryType": "programme",
+   "title": "Financial Crime Compliance in the Age of AI",
+   "summary": "A ten-module programme for MLROs and financial crime teams on the risk-based approach, AI-driven detection, AI-enabled threats and evidencing effectiveness to supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 259,
+   "entryType": "programme",
+   "title": "Fraud and Scams: Prevention, Detection and Response",
+   "summary": "An eight-module practitioner programme on preventing, detecting and responding to fraud and scams, from authorised push payment scams and deepfakes to reimbursement and board reporting.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 283,
+   "entryType": "programme",
+   "title": "MLRO and Financial Crime Leadership",
+   "summary": "An eight-module programme giving MLROs and deputies the tools to lead the firm's financial crime framework, report to the board and handle supervisory inspections.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

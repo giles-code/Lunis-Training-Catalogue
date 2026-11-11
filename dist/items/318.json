@@ -1,0 +1,334 @@
+{
+ "id": 318,
+ "entryType": "programme",
+ "title": "Sustainable Finance and ESG Supervision",
+ "summary": "A ten-module programme equipping supervisors to assess ESG and climate risk, sustainability disclosures and product claims, and to integrate sustainable finance into day-to-day supervision.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Sustainable Finance in Practice",
+ "tags": [
+  "Sustainable finance"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "sustainable-finance-and-esg-supervision",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisory staff to integrate sustainability risk into day-to-day supervision: assessing how firms identify and manage ESG and climate risk, testing disclosures and product claims, and telling genuine integration apart from greenwashing.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Sustainable Finance & ESG"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors a practical understanding of environmental, social and governance risks, the disclosure and reporting frameworks that apply to them, and the tools to assess whether firms' claims match reality. Participants leave able to review sustainability risk assessments, challenge governance, product design and disclosures, identify greenwashing and embed sustainability in routine supervisory work.",
+  "What It Covers": "Sustainable finance and ESG risk foundations, climate and nature-related financial risk, the regulatory and disclosure landscape, sustainability reporting standards and ESG data, sustainability risk assessment, governance and risk management, product governance and labelling, greenwashing and greenbleaching, climate scenario analysis, and integrating sustainability into supervision.",
+  "Intended Audience": [
+   "Supervisors and inspectors in banking, insurance, investment funds, investment services and pensions",
+   "Sustainable finance, policy and risk specialists supporting supervisory teams",
+   "Authorisation and product teams reviewing sustainability-related products and disclosures"
+  ],
+  "Learning Objectives": [
+   "Explain the key environmental, social and governance risks and how they affect financial products and services",
+   "Describe the main sustainable finance disclosure, taxonomy and reporting frameworks and how they interact",
+   "Assess a firm's sustainability risk assessment, governance and risk management",
+   "Evaluate product governance, labelling and disclosures for substance and consistency",
+   "Identify greenwashing and greenbleaching and select a proportionate supervisory response",
+   "Design an approach for integrating sustainable finance into day-to-day supervision"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day workshops. Each module combines a technical briefing with class discussion, case studies and supervisory question exercises, and modules can be selected or tailored to the authority's sectors and needs.",
+  "Useful Prior Knowledge and Experience": "Some experience of financial supervision or risk assessment is helpful. No prior knowledge of sustainable finance or ESG is required.",
+  "Core Reading": [
+   "Basel Committee, Principles for the Effective Management and Supervision of Climate-related Financial Risks (2022)",
+   "NGFS, Guide for Supervisors: Integrating Climate-related and Environmental Risks into Prudential Supervision (2020)",
+   "ISSB, IFRS S1 General Requirements and IFRS S2 Climate-related Disclosures (2023)",
+   "IOSCO, Recommendations on Sustainability-Related Practices, Policies, Procedures and Disclosure in Asset Management (2021)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1438,
+   "number": 1,
+   "title": "Sustainable Finance and ESG Risk Foundations",
+   "summary": "An introduction to sustainable finance, the environmental, social and governance risks that affect financial products and services, and why sustainability has become a supervisory concern.",
+   "objectives": [
+    "Explain the scope of sustainable finance and the main ESG risk categories",
+    "Distinguish sustainability risks to firms from firms' impacts on sustainability factors",
+    "Identify how ESG risks translate into credit, market, liquidity, operational and conduct risk"
+   ],
+   "syllabus": [
+    "Sustainable finance, ESG integration and impact investing: key terms",
+    "Environmental, social and governance risk categories with examples",
+    "Single and double materiality",
+    "Green, social and sustainability-linked bonds and loans"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1439,
+   "number": 2,
+   "title": "Climate and Nature-Related Financial Risks",
+   "summary": "How physical and transition risks arising from climate change and nature loss reach firms' balance sheets and business models, and the transmission channels supervisors need to understand.",
+   "objectives": [
+    "Explain physical and transition risk and their transmission channels",
+    "Analyse sector and portfolio exposures to climate and nature-related risk",
+    "Assess the time horizon and uncertainty challenges in measuring these risks"
+   ],
+   "syllabus": [
+    "Physical risk: acute and chronic hazards",
+    "Transition risk: policy, technology, market and litigation drivers",
+    "Nature-related risks and biodiversity loss",
+    "NGFS, Basel Committee and IAIS work on climate-related financial risk"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1440,
+   "number": 3,
+   "title": "The Sustainable Finance Regulatory Landscape",
+   "summary": "The building blocks of sustainable finance regulation, from taxonomies and disclosure regimes to corporate due diligence, and how international standards shape national and regional approaches.",
+   "objectives": [
+    "Describe the main types of sustainable finance regulation and their objectives",
+    "Explain how taxonomies, product disclosure and corporate reporting regimes interact",
+    "Analyse the direction of travel in sustainable finance regulation"
+   ],
+   "syllabus": [
+    "Sustainable finance taxonomies and their use in classification",
+    "Product-level and entity-level sustainability disclosure regimes",
+    "Corporate sustainability reporting and due diligence obligations",
+    "International coordination: FSB, IOSCO, NGFS and G20 roadmaps"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1441,
+   "number": 4,
+   "title": "Sustainability Reporting Standards and ESG Data",
+   "summary": "How corporate sustainability reporting standards compare, the quality and limits of ESG data, ratings and scores, and what this means for firms relying on them.",
+   "objectives": [
+    "Compare the ISSB standards with other international sustainability reporting frameworks",
+    "Evaluate the reliability and limits of ESG data, ratings and scoring methodologies",
+    "Assess how firms govern their use of third-party ESG data"
+   ],
+   "syllabus": [
+    "ISSB standards and their foundations in TCFD",
+    "Regional reporting standards and interoperability",
+    "ESG ratings and scores: methodologies, divergence and conflicts",
+    "Data gaps, estimates and assurance of sustainability information"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1442,
+   "number": 5,
+   "title": "Sustainability Risk Assessment in Supervised Entities",
+   "summary": "How firms should identify, measure and assess sustainability risks, and how supervisors review the quality of a sustainability risk assessment and its links to the firm's business model.",
+   "objectives": [
+    "Describe the process of undertaking a sustainability risk assessment",
+    "Assess whether a firm's materiality assessment is complete and evidence-based",
+    "Identify the implications of sustainability risk for different types of supervised entity"
+   ],
+   "syllabus": [
+    "Risk identification, materiality assessment and heatmaps",
+    "Linking sustainability risk to the business model and strategy",
+    "Sector differences: banks, insurers, asset managers and pension schemes",
+    "Case study: reviewing a firm's sustainability risk assessment"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1443,
+   "number": 6,
+   "title": "ESG Governance and Risk Management in Firms",
+   "summary": "How boards and management should govern sustainability risk, embed it in risk appetite and the three lines of defence, and develop credible transition plans.",
+   "objectives": [
+    "Assess board oversight and accountability for sustainability risk",
+    "Evaluate how sustainability risk is embedded in risk appetite, policies and controls",
+    "Challenge the credibility of a firm's transition plan and targets"
+   ],
+   "syllabus": [
+    "Board skills, accountability and remuneration links",
+    "Risk appetite, limits and integration into the three lines of defence",
+    "Transition plans: targets, interim milestones and implementation",
+    "Red flags and supervisory questions on ESG governance"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1444,
+   "number": 7,
+   "title": "Product Governance, Labelling and Disclosure",
+   "summary": "How sustainability features are designed into products, labelled and disclosed to investors and customers, and how supervisors test whether product claims are substantiated.",
+   "objectives": [
+    "Explain sustainability product categories, labels and disclosure expectations",
+    "Assess product governance, target market and investment process for sustainability claims",
+    "Evaluate consistency between pre-contractual, periodic and marketing disclosures"
+   ],
+   "syllabus": [
+    "Sustainability product categories and labelling regimes",
+    "Investment process evidence: exclusions, stewardship and engagement",
+    "Sustainability preferences in suitability and distribution",
+    "Exercise: reviewing a fund's sustainability disclosures"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1445,
+   "number": 8,
+   "title": "Greenwashing and Greenbleaching",
+   "summary": "How misleading sustainability claims arise at entity, product and marketing level, why some firms understate their credentials, and the supervisory and enforcement tools for addressing both.",
+   "objectives": [
+    "Identify common forms of greenwashing and greenbleaching",
+    "Apply red-flag indicators to disclosures, names and marketing materials",
+    "Evaluate proportionate supervisory and enforcement responses"
+   ],
+   "syllabus": [
+    "Definitions and typologies of greenwashing across the investment chain",
+    "Greenbleaching and the incentives to understate sustainability features",
+    "Fund names, marketing claims and social media",
+    "Case studies: supervisory findings and enforcement outcomes"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1446,
+   "number": 9,
+   "title": "Climate Scenario Analysis and Stress Testing",
+   "summary": "How firms and authorities use climate scenarios and stress tests to explore long-horizon risks, and how supervisors judge the quality and use of firms' scenario analysis.",
+   "objectives": [
+    "Explain the design and purpose of climate scenario analysis and stress testing",
+    "Assess the assumptions, data and limitations of a firm's scenario analysis",
+    "Evaluate how scenario results feed into strategy, capital and risk management"
+   ],
+   "syllabus": [
+    "NGFS scenarios and their use by firms and authorities",
+    "Top-down and bottom-up exercises: design choices and lessons learned",
+    "Model limitations, data gaps and proportionality for smaller firms",
+    "Using results in capital planning and risk appetite"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1447,
+   "number": 10,
+   "title": "Integrating Sustainable Finance into Day-to-Day Supervision",
+   "summary": "Brings the programme together into a practical approach for embedding sustainability in risk assessment, reviews, inspections and authorisation, and anticipates future changes to the regulatory framework.",
+   "objectives": [
+    "Apply sustainability considerations to routine supervisory activity across sectors",
+    "Prioritise sustainability supervision using a risk-based approach",
+    "Design an action plan for the authority's sustainable finance supervision"
+   ],
+   "syllabus": [
+    "Sustainability in risk assessment frameworks, reviews and inspections",
+    "Thematic reviews, data requests and supervisory expectations",
+    "Future developments in sustainable finance regulation",
+    "Workshop: the authority's sustainable finance supervision action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 209,
+   "entryType": "programme",
+   "title": "Capital Markets and Investment Services Supervision",
+   "summary": "A ten-module programme equipping supervisors to oversee investment firms, trading venues and issuers, from client conduct and client assets to algorithmic trading and market abuse.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 221,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals",
+   "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

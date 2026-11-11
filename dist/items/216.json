@@ -1,0 +1,353 @@
+{
+ "id": 216,
+ "entryType": "programme",
+ "title": "Consumer Protection and Financial Inclusion",
+ "summary": "A ten-module programme equipping supervisors to assess product governance, fair value, disclosure, vulnerable customer treatment, complaints and financial inclusion.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Cross-Cutting Themes"
+ },
+ "topic": "Consumer Protection & Financial Inclusion",
+ "tags": [
+  "Consumer protection & conduct"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "consumer-protection-and-financial-inclusion",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisory staff to protect consumers and investors across all financial sectors: assessing product governance and fair value, disclosure, vulnerable customer treatment, complaints and access to financial services.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Consumer Protection",
+  "Supervision"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors a structured, outcomes-focused approach to consumer and investor protection that applies across banking, insurance, investment and payments. Participants leave able to assess whether firms deliver fair outcomes in practice, recognise signs of consumer harm and exclusion, and turn analysis into proportionate supervisory action.",
+  "What It Covers": "Consumer protection principles, product governance, fair value, disclosure and consumer understanding, vulnerable customers, complaints handling and redress, issuer disclosure, financial inclusion and de-risking, outcomes monitoring, and emerging digital harms.",
+  "Intended Audience": [
+   "Conduct and consumer protection supervisors and inspectors across all sectors",
+   "Policy staff working on consumer protection, disclosure or financial inclusion",
+   "Senior managers setting the authority's consumer protection priorities"
+  ],
+  "Learning Objectives": [
+   "Explain the principles and international standards underpinning consumer and investor protection",
+   "Assess product governance, fair value and disclosure from the consumer's perspective",
+   "Evaluate how firms identify and treat vulnerable customers and handle complaints",
+   "Apply the principles of full, accurate and timely issuer disclosure to supervisory review",
+   "Balance financial inclusion against financial crime and prudential objectives",
+   "Use consumer outcomes data to prioritise and justify supervisory intervention"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines a practical briefing with case studies, red flags and supervisory question exercises, and modules can be selected or tailored to the authority's needs.",
+  "Useful Prior Knowledge and Experience": "Some experience of conduct or consumer-facing supervision is helpful. No specialist background is required.",
+  "Core Reading": [
+   "G20/OECD High-Level Principles on Financial Consumer Protection (2022)",
+   "World Bank, Good Practices for Financial Consumer Protection (2017)",
+   "CPMI and World Bank, Payment Aspects of Financial Inclusion (2016)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 545,
+   "number": 1,
+   "title": "Foundations of Consumer Protection Supervision",
+   "summary": "Why consumer and investor protection matters to supervisors, the international principles that underpin it, and how outcomes-based supervision differs from rules-based compliance checking.",
+   "objectives": [
+    "Explain the rationale for consumer and investor protection",
+    "Describe the relevant international principles and standards",
+    "Distinguish outcomes-based from rules-based consumer supervision"
+   ],
+   "syllabus": [
+    "Information asymmetry, behavioural biases and consumer harm",
+    "IOSCO investor protection objective and G20/OECD consumer protection principles",
+    "Links between consumer outcomes, conduct risk and firm culture",
+    "The customer journey as a supervisory lens"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 546,
+   "number": 2,
+   "title": "Product Governance and Target Markets",
+   "summary": "How firms should design, distribute and review products for a defined target market, and how supervisors test whether product governance works in practice.",
+   "objectives": [
+    "Explain the product governance lifecycle from design to review",
+    "Assess target market definition and distribution strategy",
+    "Identify common product governance failures"
+   ],
+   "syllabus": [
+    "Product approval, target market and negative target market",
+    "Distribution chains and manufacturer versus distributor responsibilities",
+    "Ongoing product review and management information",
+    "Red flags in product governance files"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 547,
+   "number": 3,
+   "title": "Fair Value Assessment",
+   "summary": "How to assess whether the price consumers pay is reasonable relative to the benefits, costs and quality they receive, and how to challenge firms' value assessments.",
+   "objectives": [
+    "Apply a fair value framework to a financial product",
+    "Challenge the evidence behind a firm's value assessment",
+    "Identify pricing practices that cause foreseeable harm"
+   ],
+   "syllabus": [
+    "Price, benefits, costs and quality as value components",
+    "Price walking, cross-subsidy and hidden charges",
+    "Value across distribution chains and add-on products",
+    "Exercise: testing a firm's fair value assessment"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 548,
+   "number": 4,
+   "title": "Disclosure, Communications and Consumer Understanding",
+   "summary": "How to evaluate whether disclosures and communications are clear, fair and not misleading, drawing on behavioural insights into how consumers actually process information.",
+   "objectives": [
+    "Evaluate disclosure documents for consumer understanding",
+    "Apply behavioural insights to communications and choice architecture",
+    "Assess how firms test and monitor communication effectiveness"
+   ],
+   "syllabus": [
+    "Clear, fair and not misleading communications",
+    "Behavioural insights: framing, defaults and information overload",
+    "Digital journeys, dark patterns and financial promotions",
+    "Consumer testing and monitoring of disclosure effectiveness"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 99,
+   "number": 5,
+   "title": "Identifying and Protecting Vulnerable Customers",
+   "summary": "The aim of this workshop is to build supervisors' ability to assess how firms identify and respond to customer vulnerability. Participants will learn the drivers of vulnerability, how firms should adapt products, communications and service for vulnerable customers, and how to…",
+   "objectives": [
+    "Explain the drivers and dimensions of customer vulnerability",
+    "Describe regulatory expectations for identifying vulnerable customers",
+    "Assess the adequacy of a firm's vulnerable-customer policy",
+    "Evaluate whether frontline staff are equipped to identify vulnerability",
+    "Analyse case examples of tailored treatment for vulnerable customers",
+    "Identify gaps between a firm's stated policy and its practical delivery",
+    "Formulate supervisory conclusions on vulnerable-customer treatment"
+   ],
+   "syllabus": [
+    "Drivers of vulnerability: health, life events, resilience, capability",
+    "Vulnerability as a spectrum, not a fixed category",
+    "Regulatory expectations for identifying vulnerable customers",
+    "The business case for good vulnerable-customer practice",
+    "Facilitated discussion: how vulnerability shows up in different sectors",
+    "Exercise: map vulnerability drivers to customer scenarios",
+    "What a good vulnerable-customer policy contains",
+    "Frontline identification: training, tools, escalation routes",
+    "Tailoring products, communications and service",
+    "Common weaknesses in practice versus policy",
+    "Group exercise: review a sample vulnerable-customer policy",
+    "Role-play: a frontline interaction with a vulnerable customer",
+    "Case examples of good and poor tailored treatment",
+    "Identifying the gap between stated policy and delivery",
+    "Supervisory tools for assessing vulnerable-customer outcomes",
+    "Escalation and intervention where practice falls short",
+    "Case study: assess a firm's vulnerable-customer framework and produce supervisory conclusions",
+    "Recap: vulnerability drivers, policy assessment, practical delivery",
+    "Reinforcing the spectrum view of vulnerability",
+    "Reflection and discussion",
+    "Q&A"
+   ],
+   "durationValue": 3.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 549,
+   "number": 6,
+   "title": "Supervising Complaints Handling and Redress",
+   "summary": "How to supervise firms' complaints handling and root-cause analysis, how redress schemes operate, and how complaints data can serve as an early warning of wider harm.",
+   "objectives": [
+    "Explain expectations for timely, fair complaints handling",
+    "Assess root-cause analysis and its use in remediation",
+    "Use complaints and redress data as supervisory intelligence"
+   ],
+   "syllabus": [
+    "The complaints process end to end and governance oversight",
+    "Root-cause analysis: from individual complaints to systemic issues",
+    "Ombudsman, statutory and voluntary redress schemes",
+    "Complaints data as an early warning indicator"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 109,
+   "number": 7,
+   "title": "Issuer Disclosure as Investor Protection",
+   "summary": "The aim of this workshop is to deepen participants' understanding of issuer disclosure as a core investor-protection mechanism, drawing on IOSCO's Principles for Issuers, and to build practical skills in assessing whether disclosure practices are full, accurate, and timely.",
+   "objectives": [
+    "Explain the role of disclosure in protecting investors",
+    "Describe IOSCO's Principles for Issuers and their disclosure requirements",
+    "Assess whether disclosure is full, accurate and timely",
+    "Evaluate the quality of financial and non-financial disclosures",
+    "Identify red flags in issuer disclosure practices",
+    "Formulate supervisory conclusions on disclosure adequacy"
+   ],
+   "syllabus": [
+    "IOSCO's investor-protection objective and the role of disclosure",
+    "The Principles for Issuers: full, accurate and timely disclosure",
+    "Financial versus non-financial disclosure",
+    "Consequences of disclosure failures for investors and markets",
+    "Facilitated discussion: notable disclosure failures and their investor impact",
+    "Frameworks for assessing disclosure completeness and accuracy",
+    "Timeliness expectations and common failure points",
+    "Assessing narrative versus quantitative disclosure",
+    "The role of auditors and gatekeepers",
+    "Group exercise: review a sample issuer disclosure against the full/accurate/timely standard",
+    "Common red flags in issuer disclosure",
+    "Linking disclosure weaknesses to wider governance or business model risk",
+    "Supervisory tools for challenging inadequate disclosure",
+    "Case study: a disclosure red flag scenario",
+    "Case study: analyse an issuer's disclosure and produce a supervisory assessment",
+    "Recap: disclosure as protection, quality assessment, red flags",
+    "Reflection and discussion",
+    "Q&A"
+   ],
+   "durationValue": 3.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 75,
+   "number": 8,
+   "title": "Financial Inclusion and Access to Services",
+   "summary": "The aim of this workshop is to introduce participants to financial inclusion as a policy and supervisory concern, exploring the barriers that prevent access to financial services and the regulatory tools available to promote inclusive access without compromising other…",
+   "objectives": [
+    "Explain the concept and measurement of financial inclusion",
+    "Identify common barriers to accessing financial services",
+    "Discuss the tension between financial inclusion and financial crime controls",
+    "Evaluate inclusive product design practices",
+    "Assess the role of regulation in promoting or hindering inclusion",
+    "Identify policy options to improve financial inclusion outcomes"
+   ],
+   "syllabus": [
+    "Defining and measuring financial inclusion",
+    "Barriers: cost, access, documentation, trust, digital literacy",
+    "Financial inclusion as a supervisory and policy concern",
+    "Global perspectives on inclusion initiatives",
+    "Facilitated discussion: barriers to access in participants' own markets",
+    "The 'de-risking' problem: how AML/CFT controls can restrict access",
+    "Balancing proportionate financial crime controls with inclusion",
+    "Inclusive product design: simplified accounts, tiered KYC",
+    "International examples of proportionate approaches",
+    "Group discussion: designing a proportionate KYC regime for a basic account product",
+    "The supervisor's role in promoting inclusion",
+    "Policy levers: proportionality, guidance, innovation hubs",
+    "Measuring progress on financial inclusion",
+    "Case study: an inclusion initiative and its outcomes",
+    "Case study exercise: assess an inclusion initiative and propose improvements",
+    "Recap: barriers, tensions, policy options",
+    "Reflection and discussion",
+    "Q&A"
+   ],
+   "durationValue": 3.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 550,
+   "number": 9,
+   "title": "Consumer Outcomes Monitoring and Supervisory Judgement",
+   "summary": "How to use firm data, complaints, market intelligence and thematic work to identify poor consumer outcomes, prioritise follow-up and communicate findings to firms.",
+   "objectives": [
+    "Identify indicators of poor consumer outcomes in firm and market data",
+    "Prioritise supervisory follow-up proportionately",
+    "Communicate findings and required remediation to firms"
+   ],
+   "syllabus": [
+    "Outcome indicators: claims, cancellations, persistency and switching",
+    "Thematic reviews, mystery shopping and consumer research",
+    "Linking weak controls to wider conduct risk",
+    "Remediation, redress exercises and enforcement referral"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 551,
+   "number": 10,
+   "title": "Emerging Consumer Harms and the Authority's Response",
+   "summary": "Brings the programme together by examining new sources of consumer harm, from digital distribution to AI-driven pricing, and building the authority's consumer protection plan.",
+   "objectives": [
+    "Anticipate consumer harms from digital and AI-driven business models",
+    "Evaluate the authority's consumer protection tools and gaps",
+    "Produce a prioritised consumer protection action plan"
+   ],
+   "syllabus": [
+    "Digital distribution, buy-now-pay-later and finfluencers",
+    "AI-driven pricing, personalisation and fairness",
+    "Scams, fraud and the shifting boundary of firm responsibility",
+    "Workshop: the authority's consumer protection priorities"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 212,
+   "entryType": "programme",
+   "title": "Conduct, Culture and Behavioural Supervision",
+   "summary": "An eight-module programme on assessing conduct risk and culture in firms, using behavioural insights, data and targeted supervisory interventions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 220,
+   "entryType": "programme",
+   "title": "Cross-Border and Group Supervision",
+   "summary": "An eight-module programme on home-host supervision, consolidated group oversight, MoUs, supervisory colleges, third-country firms and cross-border crisis cooperation.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 253,
+   "entryType": "programme",
+   "title": "FinTech Business Models: Understanding and Supervising Innovation",
+   "summary": "A ten-module programme equipping supervisors and firm compliance teams to understand how FinTech business models make money, grow and fail, and to assess their risks.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

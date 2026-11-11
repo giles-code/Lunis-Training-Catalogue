@@ -1,0 +1,114 @@
+{
+ "id": 103,
+ "entryType": "module",
+ "title": "International Cooperation for Supervisors",
+ "summary": "The aim of this workshop is to build participants' understanding of how supervisory authorities engage in cross-border cooperation and international standard-setting, and how to participate effectively in supervisory colleges and MoU frameworks.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Governance, Strategy & Leadership",
+ "tags": [
+  "Leadership & strategy"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Leadership & senior management"
+ ],
+ "firmType": [],
+ "slug": "international-cooperation-for-supervisors",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Governance & Company Secretarial",
+  "Strategy"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how supervisory authorities engage in cross-border cooperation and international standard-setting, and how to participate effectively in supervisory colleges and MoU frameworks.",
+  "Intended Audience": "Mid-to-senior supervisory staff involved in setting or reviewing their authority's strategy, governance, or resourcing decisions.",
+  "Learning Objectives": [
+   "Explain the main channels of international supervisory cooperation",
+   "Describe the role of standard-setting bodies such as IOSCO, BCBS and the FSB",
+   "Assess the purpose and structure of memoranda of understanding",
+   "Evaluate the benefits and limitations of international cooperation frameworks",
+   "Identify practical steps to strengthen an authority's international engagement"
+  ],
+  "Syllabus": [
+   "Bilateral MoUs, supervisory colleges, and multilateral fora",
+   "The role of IOSCO, BCBS and the FSB in setting international standards",
+   "How international standards translate into domestic practice",
+   "Benefits of international engagement for a smaller authority",
+   "Facilitated discussion: participants' own authority's international engagements",
+   "What a good MoU contains",
+   "Multilateral versus bilateral MoU frameworks",
+   "Limitations of cooperation frameworks in practice",
+   "Case examples of effective and ineffective cooperation",
+   "Group exercise: review a sample MoU and identify strengths and gaps",
+   "Building relationships with international standard-setters",
+   "Resourcing international engagement within a small authority",
+   "Case study: an authority strengthening its international profile",
+   "Case study: propose a plan to strengthen an authority's international cooperation",
+   "Recap: channels, standard-setters, MoUs, strengthening engagement",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Channels of international cooperation (09:30–10:45)\n- Session 2: MoUs and cooperation frameworks (11:00–12:30)\n- Session 3: Strengthening international engagement (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- International cooperation channels range from informal bilateral contact to formal multilateral standard-setting\n- A good MoU is only as useful as the working relationship behind it\n- Even smaller authorities benefit significantly from active international engagement",
+  "Useful Prior Knowledge and Experience": "Some familiarity with governance, strategy & leadership is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 302,
+   "entryType": "programme",
+   "title": "Regulatory Leadership and Strategy",
+   "summary": "An eight-module programme for the authority's leaders on mandate, governance, independence, risk appetite, growth objectives, effectiveness and leading change.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 280,
+   "entryType": "programme",
+   "title": "Management and Leadership for Supervisors",
+   "summary": "A ten-module programme giving new and developing managers in supervisory authorities the practical skills to lead teams and make sound decisions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

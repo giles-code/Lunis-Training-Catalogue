@@ -1,0 +1,180 @@
+{
+ "id": 629,
+ "entryType": "module",
+ "title": "From Intelligence to Action: Reporting, Seizure and Cooperation",
+ "summary": "How suspicious transaction reports become usable intelligence, how crypto-assets are frozen, seized and safely held, and how authorities cooperate across borders and with the private sector.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Reducing Financial Crime & Delivering Market Integrity",
+ "tags": [
+  "Financial crime",
+  "Crypto & digital assets"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Enforcement & investigations",
+  "Policy & specialist teams",
+  "Supervisors & inspectors",
+  "FIU analysts",
+  "Financial investigators & police",
+  "Prosecutors & judiciary",
+  "Asset recovery, customs & tax"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "from-intelligence-to-action-reporting-seizure-and-cooperation",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How suspicious transaction reports become usable intelligence, how crypto-assets are frozen, seized and safely held, and how authorities cooperate across borders and with the private sector.",
+  "Learning Objectives": [
+   "Evaluate the quality of crypto-related suspicious transaction reports",
+   "Explain the practicalities of freezing, seizing and managing crypto-assets",
+   "Use domestic and international cooperation channels effectively"
+  ],
+  "Syllabus": [
+   "Suspicious transaction reporting: content, quality and FIU analysis",
+   "Freezing and seizure: private keys, service provider cooperation and custody",
+   "Asset management, valuation and return of seized crypto-assets",
+   "International cooperation, information sharing and public-private partnerships"
+  ],
+  "Intended Audience": [
+   "AML/CFT supervisors and inspectors responsible for crypto-asset service providers",
+   "FIU analysts handling crypto-related suspicious transaction reports and intelligence",
+   "Law-enforcement and financial crime investigators working on cases involving crypto-assets"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of AML/CFT supervision, financial intelligence or financial crime investigation is helpful. No technical background in blockchain is required.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "FATF, Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (2021)",
+   "FATF, Guidance on Risk-Based Supervision (2021)",
+   "FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 225,
+   "module": 7,
+   "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 623,
+     "number": 1,
+     "title": "Crypto-Assets and Financial Crime Risk: Foundations"
+    },
+    {
+     "id": 624,
+     "number": 2,
+     "title": "Typologies: How Criminals Use Crypto-Assets"
+    },
+    {
+     "id": 625,
+     "number": 3,
+     "title": "The Laundering Lifecycle On-Chain"
+    },
+    {
+     "id": 626,
+     "number": 4,
+     "title": "Anonymity-Enhancing Tools: Mixers, Privacy Coins and Unhosted Wallets"
+    },
+    {
+     "id": 627,
+     "number": 5,
+     "title": "Tracing and Attribution: Blockchain Analytics in Practice"
+    },
+    {
+     "id": 628,
+     "number": 6,
+     "title": "Customer Due Diligence and Controls at Service Providers"
+    },
+    {
+     "id": 629,
+     "number": 7,
+     "title": "From Intelligence to Action: Reporting, Seizure and Cooperation"
+    },
+    {
+     "id": 630,
+     "number": 8,
+     "title": "Investigation Workshop: Following the Funds"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 326,
+   "entryType": "programme",
+   "title": "The EU AML Package: AMLR, AMLD6 and AMLA (EU Edition)",
+   "summary": "An eight-module programme on the EU AML package for supervisors and firms: the AML Regulation single rulebook, AMLD6, AMLA's supervisory model, crypto-asset transfers and transition planning.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 245,
+   "entryType": "programme",
+   "title": "Financial Crime Foundations for Regulatory Staff",
+   "summary": "An eight-module foundation programme giving regulatory staff a grounding in AML/CFT, sanctions and fraud, firms' controls and financial crime red flags.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

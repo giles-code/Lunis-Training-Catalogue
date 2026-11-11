@@ -1,0 +1,114 @@
+{
+ "id": 17,
+ "entryType": "module",
+ "title": "Assessing Authorisation Applications",
+ "summary": "The aim of this workshop is to build a structured methodology for assessing new licence applications, including scrutinising business plans, financial projections, and organisational readiness.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Authorisation & Licensing",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Authorisation & licensing"
+ ],
+ "firmType": [],
+ "slug": "assessing-authorisation-applications",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Authorisations",
+  "Registration & Licensing"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build a structured methodology for assessing new licence applications, including scrutinising business plans, financial projections, and organisational readiness.",
+  "Intended Audience": "Junior to mid-level authorisations/licensing caseworkers assessing new-entrant applications.",
+  "Learning Objectives": [
+   "Explain the purpose and standard of assessment for authorisation applications",
+   "Apply a structured framework for reviewing a business plan",
+   "Assess the credibility of financial projections",
+   "Evaluate organisational readiness, including systems and controls",
+   "Formulate an authorisation recommendation based on assessed evidence"
+  ],
+  "Syllabus": [
+   "The threshold conditions for authorisation",
+   "Assessment as gatekeeping: balancing market access and risk",
+   "Sources of evidence in an application",
+   "Common application weaknesses",
+   "Facilitated discussion: authorisation assessment experiences",
+   "Structured business plan review: market, model, viability",
+   "Assessing the credibility of financial projections",
+   "Common red flags in projections",
+   "Stress-testing an applicant's growth assumptions",
+   "Group exercise: review a sample business plan and financial projections",
+   "Assessing systems, controls and staffing readiness",
+   "Weighing readiness gaps against conditions or phased authorisation",
+   "Case study: a marginal authorisation application",
+   "Case study: assess a sample application and formulate an authorisation recommendation",
+   "Recap: assessment standard, business plan review, readiness",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: The authorisation assessment standard (09:30–10:45)\n- Session 2: Business plan and financial projections (11:00–12:30)\n- Session 3: Organisational readiness and recommendation (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Authorisation assessment is a gatekeeping function that shapes the risk profile of the whole regulated population\n- Financial projections should be stress-tested, not simply accepted at face value\n- Organisational readiness gaps can sometimes be addressed through conditions rather than outright refusal",
+  "Useful Prior Knowledge and Experience": "Some familiarity with authorisation & licensing is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 254,
+   "entryType": "programme",
+   "title": "Fit and Proper Assessments: Approving Owners, Directors and Key Function Holders",
+   "summary": "An eight-module practitioner programme on assessing owners, controllers, directors and key function holders, from evidence gathering and interviews to defensible decisions.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

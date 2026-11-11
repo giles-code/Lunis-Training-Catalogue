@@ -1,0 +1,312 @@
+{
+ "id": 317,
+ "entryType": "programme",
+ "title": "Sustainable Finance and ESG for Firms",
+ "summary": "An eight-module programme giving firms the tools to manage climate and ESG risks, prepare credible disclosures and transition plans, and avoid greenwashing.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "Emerging Risks & Technology",
+  "payments": "Emerging Risks & Technology",
+  "crypto": "Emerging Risks & Technology"
+ },
+ "topic": "Emerging Risks & Technology",
+ "tags": [
+  "Sustainable finance"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "Senior leaders & managers",
+  "Control function holders"
+ ],
+ "firmType": [],
+ "slug": "sustainable-finance-and-esg-for-firms",
+ "moduleCount": 8,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips risk, compliance, investment and sustainability staff to manage climate and ESG risks, make credible sustainability claims and evidence their approach, seeing the firm the way a supervisor does.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Sustainable Finance & ESG",
+  "Risk Management"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To equip firms with a practical understanding of how climate and wider ESG risks affect their business and customers, and how supervisors expect those risks to be governed, managed and disclosed. Participants leave able to integrate climate risk into risk management, prepare credible disclosures and transition plans, and avoid greenwashing.",
+  "What It Covers": "Climate risk management, scenario analysis, transition plans, ISSB-style disclosures, product labelling and greenwashing, ESG data, stewardship, and governance of sustainability risks.",
+  "Intended Audience": [
+   "Risk, compliance and sustainability professionals in regulated firms",
+   "Portfolio managers, product developers and stewardship teams",
+   "Finance, reporting and senior management staff responsible for sustainability disclosures"
+  ],
+  "Learning Objectives": [
+   "Explain how climate and ESG risks translate into financial and prudential risks for the firm",
+   "Apply climate scenario analysis and integrate results into risk management",
+   "Design a credible transition plan with targets, metrics and governance",
+   "Prepare sustainability disclosures aligned with ISSB and TCFD frameworks",
+   "Identify and prevent greenwashing in products, labels and marketing",
+   "Evaluate ESG data, stewardship and governance arrangements and agree an action plan for the firm"
+  ],
+  "Structure and Format": "Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines practical frameworks with case studies, group exercises and templates, and modules can be selected or tailored to the firm's business model.",
+  "Useful Prior Knowledge and Experience": "Some experience of risk, compliance, investment or reporting in a regulated firm is helpful. No specialist sustainability background is required.",
+  "Core Reading": [
+   "ISSB, IFRS S1 General Requirements and IFRS S2 Climate-related Disclosures (2023)",
+   "TCFD, Recommendations of the Task Force on Climate-related Financial Disclosures (2017)",
+   "IOSCO, Recommendations on Sustainability-Related Practices, Policies, Procedures and Disclosure in Asset Management (2021)",
+   "TNFD, Recommendations of the Taskforce on Nature-related Financial Disclosures (2023)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1430,
+   "number": 1,
+   "title": "Climate and ESG Risk Management",
+   "summary": "How physical and transition risks and wider ESG factors become credit, market, operational, liquidity and reputational risks, and how to integrate them into the firm's risk framework.",
+   "objectives": [
+    "Explain physical and transition risk transmission channels",
+    "Integrate climate and ESG risks into the risk taxonomy and appetite",
+    "Assess materiality of climate risk for the firm's business model"
+   ],
+   "syllabus": [
+    "Physical and transition risks and their transmission channels",
+    "Climate risk in credit, market, operational and liquidity risk",
+    "Materiality assessment and risk appetite",
+    "Basel Committee and IAIS expectations for climate risk"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1431,
+   "number": 2,
+   "title": "Climate Scenario Analysis and Stress Testing",
+   "summary": "Using climate scenarios to explore the resilience of the firm's business model and portfolios, and turning results into decisions.",
+   "objectives": [
+    "Explain the design and use of NGFS climate scenarios",
+    "Apply scenario analysis to portfolios and the business model",
+    "Translate scenario results into risk management and strategy"
+   ],
+   "syllabus": [
+    "NGFS scenarios: orderly, disorderly and hot house world",
+    "Time horizons, data gaps and modelling limitations",
+    "Portfolio and business model scenario analysis",
+    "Using results in capital planning and strategy"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1432,
+   "number": 3,
+   "title": "Transition Plans",
+   "summary": "Designing a transition plan that sets credible targets, links them to business strategy and capital allocation, and can be monitored and evidenced.",
+   "objectives": [
+    "Explain the components of a credible transition plan",
+    "Design targets, metrics and interim milestones",
+    "Assess the plan's credibility from a supervisor's and investor's perspective"
+   ],
+   "syllabus": [
+    "Transition plan frameworks and elements",
+    "Financed emissions, targets and interim milestones",
+    "Linking plans to strategy, products and capital allocation",
+    "Red flags of a non-credible transition plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1433,
+   "number": 4,
+   "title": "Sustainability Disclosures",
+   "summary": "Preparing climate and sustainability disclosures aligned with ISSB standards and the TCFD architecture of governance, strategy, risk management and metrics.",
+   "objectives": [
+    "Explain the structure of ISSB-style sustainability disclosures",
+    "Apply governance, strategy, risk management and metrics and targets requirements",
+    "Design controls and assurance over sustainability reporting"
+   ],
+   "syllabus": [
+    "The ISSB standards and the TCFD four-pillar architecture",
+    "Scope 1, 2 and 3 and financed emissions",
+    "Connectivity with financial statements",
+    "Controls, data lineage and external assurance"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1434,
+   "number": 5,
+   "title": "Product Labelling and Greenwashing",
+   "summary": "Making sustainability claims about products and the firm that are clear, fair and substantiated, and meeting product labelling and disclosure regimes.",
+   "objectives": [
+    "Identify the forms of greenwashing and how supervisors detect them",
+    "Apply substantiation standards to sustainability claims and labels",
+    "Design product governance controls for sustainability-related products"
+   ],
+   "syllabus": [
+    "Greenwashing, greenhushing and misleading claims",
+    "Sustainable product labels and disclosure regimes",
+    "Substantiation, evidence and marketing review",
+    "Case studies of greenwashing enforcement"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1435,
+   "number": 6,
+   "title": "ESG Data, Ratings and Methodologies",
+   "summary": "Understanding the limits of ESG data and ratings, assessing providers and building data governance fit for risk management and disclosure.",
+   "objectives": [
+    "Assess the quality, coverage and comparability of ESG data",
+    "Evaluate ESG ratings methodologies and their limitations",
+    "Design data governance for sustainability data"
+   ],
+   "syllabus": [
+    "ESG data sources, gaps and estimation",
+    "Ratings divergence and methodology transparency",
+    "Due diligence on ESG data and ratings providers",
+    "IOSCO recommendations on ESG ratings and data providers"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1436,
+   "number": 7,
+   "title": "Stewardship and Engagement",
+   "summary": "Using stewardship, engagement and voting to manage ESG risks and deliver sustainability commitments, and evidencing the outcomes achieved.",
+   "objectives": [
+    "Design a stewardship policy aligned with the firm's sustainability commitments",
+    "Apply engagement, escalation and voting strategies",
+    "Evidence stewardship outcomes credibly"
+   ],
+   "syllabus": [
+    "Stewardship principles and policy design",
+    "Engagement priorities, escalation and collaborative engagement",
+    "Proxy voting and voting disclosure",
+    "Reporting stewardship activities and outcomes"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1437,
+   "number": 8,
+   "title": "Governance of Sustainability and Capstone Workshop",
+   "summary": "Brings the programme together around board oversight, accountability, remuneration and capability for sustainability, with a workshop in which participants assess their own firm.",
+   "objectives": [
+    "Design governance and accountability for sustainability risks and commitments",
+    "Assess the board's capability to oversee sustainability matters",
+    "Produce a prioritised action plan for the firm's sustainability approach"
+   ],
+   "syllabus": [
+    "Board oversight, committees and management accountability",
+    "Remuneration links and sustainability capability",
+    "Seeing the firm the way a supervisor does: a sustainability self-assessment",
+    "Workshop: the firm's twelve-month sustainability action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 192,
+   "entryType": "programme",
+   "title": "Agentic AI and Autonomous Finance for Firms",
+   "summary": "An eight-module programme helping firms deploy AI agents that act and transact with sound authority, controls, governance and customer protection.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 196,
+   "entryType": "programme",
+   "title": "AI Governance for Firms",
+   "summary": "A ten-module programme giving compliance, risk, model risk and technology staff the tools to design, run and evidence robust AI governance across the firm.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 232,
+   "entryType": "programme",
+   "title": "Digital Money and Tokenisation for Firms",
+   "summary": "A ten-module programme helping banks, payment firms, asset managers and infrastructures decide whether and how to participate in digital money and tokenisation.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 286,
+   "entryType": "programme",
+   "title": "Operational Resilience and Cyber Risk for Firms",
+   "summary": "A ten-module programme giving firms the tools to identify, map, test and evidence operational resilience and manage ICT, cyber and third-party risk.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 298,
+   "entryType": "programme",
+   "title": "Quantum and Cryptographic Resilience for Firms",
+   "summary": "An eight-module programme helping firms understand the quantum threat, build a cryptographic inventory, plan post-quantum migration and report readiness to the board and supervisors.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 222,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals for Industry",
+   "summary": "A ten-module foundation programme giving industry professionals and their advisers a practical understanding of blockchain, crypto-asset markets and service providers, and the risks and controls that matter.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

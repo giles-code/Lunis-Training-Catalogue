@@ -1,0 +1,113 @@
+{
+ "id": 47,
+ "entryType": "module",
+ "title": "Cross-Cultural Communication for International Supervisors",
+ "summary": "The aim of this workshop is to build participants' skills in communicating effectively in cross-border supervisory contexts, including supervisory colleges and international cooperation frameworks, recognising cultural differences in communication style and expectations.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Generic Supervisory Skills"
+ },
+ "topic": "Supervisory Judgement & Professional Practice",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "cross-cultural-communication-for-international-supervisors",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in communicating effectively in cross-border supervisory contexts, including supervisory colleges and international cooperation frameworks, recognising cultural differences in communication style and expectations.",
+  "Intended Audience": "Junior to mid-level supervisory staff developing core professional judgement skills.",
+  "Learning Objectives": [
+   "Explain how cultural differences affect cross-border supervisory communication",
+   "Identify communication style differences relevant to supervisory colleges",
+   "Apply techniques for clear communication across language and cultural barriers",
+   "Assess the risk of miscommunication in international cooperation",
+   "Practise cross-cultural communication in a simulated scenario"
+  ],
+  "Syllabus": [
+   "How cultural norms shape communication style: directness, hierarchy, formality",
+   "Why cross-border supervisory communication carries particular risk",
+   "Common misunderstandings in international supervisory settings",
+   "Building cultural awareness without stereotyping",
+   "Facilitated discussion: cross-cultural communication experiences from participants' own international work",
+   "Communication style differences relevant to supervisory colleges",
+   "Techniques for clarity across language barriers",
+   "Using structured communication to reduce ambiguity",
+   "Written versus spoken communication considerations",
+   "Group exercise: identify communication risks in a sample multinational college discussion",
+   "Assessing where miscommunication risk is highest in international cooperation",
+   "Checking understanding without causing offence",
+   "Case study: a cross-border miscommunication and its consequences",
+   "Role-play: a cross-cultural supervisory college discussion",
+   "Recap: cultural effects, style differences, managing risk",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Culture and communication in supervision (09:30–10:45)\n- Session 2: Communication styles in practice (11:00–12:30)\n- Session 3: Managing miscommunication risk and practice (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Cultural differences in communication style are a real source of risk in cross-border supervisory work, not a minor courtesy issue\n- Checking understanding explicitly is more effective than assuming shared meaning across cultures\n- Awareness of cultural difference should inform communication technique without lapsing into stereotyping",
+  "Useful Prior Knowledge and Experience": "Some familiarity with supervisory judgement & professional practice is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 273,
+   "entryType": "programme",
+   "title": "Investigative and Interviewing Skills for Supervisors",
+   "summary": "An eight-module practical programme on planning and conducting supervisory interviews and turning interview evidence into sound findings.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 314,
+   "entryType": "programme",
+   "title": "Supervisory Judgement and Professional Practice",
+   "summary": "A ten-module programme on forming, documenting and defending supervisory judgements, and turning them into clear findings, letters and interventions.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 217,
+   "entryType": "programme",
+   "title": "Core Professional Skills for Regulatory Staff",
+   "summary": "An eight-module practical programme building the core writing, analysis, meeting, challenge, presentation and data skills that regulatory staff need every day.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

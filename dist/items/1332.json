@@ -1,0 +1,165 @@
+{
+ "id": 1332,
+ "entryType": "module",
+ "title": "Investment Risk: Market, Liquidity, Counterparty and Leverage",
+ "summary": "The main investment risks a fund runs, how each is measured and limited, and the questions directors should ask when a strategy, instrument or market environment changes.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 2,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "investment-risk-market-liquidity-counterparty-and-leverage",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The main investment risks a fund runs, how each is measured and limited, and the questions directors should ask when a strategy, instrument or market environment changes.",
+  "Learning Objectives": [
+   "Explain the main measures of market, liquidity, counterparty and leverage risk",
+   "Assess whether limits fit each fund's strategy, investors and dealing terms",
+   "Challenge management on concentration, correlation and liquidity mismatch"
+  ],
+  "Syllabus": [
+   "Market risk measures: volatility, tracking error, value at risk and their limits",
+   "Liquidity risk: asset liquidity, investor profile, dealing terms and management tools",
+   "Counterparty and collateral risk in derivatives, financing and securities lending",
+   "Leverage measures, internal limits that trigger before a breach and escalation"
+  ],
+  "Intended Audience": [
+   "Independent and non-executive directors of investment funds and fund management companies",
+   "Executive directors, conducting officers and designated persons responsible for risk management",
+   "Chief risk officers, heads of compliance and company secretaries supporting fund boards"
+  ],
+  "Useful Prior Knowledge and Experience": "Experience as a fund director or in fund management, administration or risk is helpful. No quantitative or technical risk background is required.",
+  "Core Reading": [
+   "FSB, Principles for an Effective Risk Appetite Framework (2013)",
+   "IOSCO, Recommendations for Liquidity Risk Management for Collective Investment Schemes (2018)",
+   "FSB, Revised Policy Recommendations to Address Structural Vulnerabilities from Liquidity Mismatch in Open-Ended Funds (2023)",
+   "Basel Committee, Stress Testing Principles (2018)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 306,
+   "module": 3,
+   "title": "Risk Oversight for Fund and Management Company Boards",
+   "moduleCount": 8,
+   "durationValue": 16,
+   "durationUnit": "hours",
+   "level": "Board level",
+   "modules": [
+    {
+     "id": 1330,
+     "number": 1,
+     "title": "Risk Concepts for Fund Directors"
+    },
+    {
+     "id": 1331,
+     "number": 2,
+     "title": "The Risk Function in a Management Company"
+    },
+    {
+     "id": 1332,
+     "number": 3,
+     "title": "Investment Risk: Market, Liquidity, Counterparty and Leverage"
+    },
+    {
+     "id": 1333,
+     "number": 4,
+     "title": "Operational and Outsourcing Risk"
+    },
+    {
+     "id": 1334,
+     "number": 5,
+     "title": "Risk MI and Key Risk Indicators for Boards"
+    },
+    {
+     "id": 1335,
+     "number": 6,
+     "title": "Stress Testing and Scenario Analysis for Funds"
+    },
+    {
+     "id": 1336,
+     "number": 7,
+     "title": "Emerging Risks: AI, Cyber, Climate and Digital Assets"
+    },
+    {
+     "id": 1337,
+     "number": 8,
+     "title": "Workshop: The Board Risk Dashboard"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 199,
+   "entryType": "programme",
+   "title": "Alternative Investments for Fund Directors",
+   "summary": "An eight-module programme explaining hedge fund, private markets, real asset, structured and digital asset strategies to fund directors, with board questions on valuation, liquidity and fees.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 207,
+   "entryType": "programme",
+   "title": "Board Oversight of Fund Operations and Service Providers",
+   "summary": "A ten-module programme giving fund directors the tools to oversee fund operations and service providers, from NAV production and custody to errors and resilience.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 260,
+   "entryType": "programme",
+   "title": "Fund Board Governance Toolkit: A Risk-Based Oversight Workshop",
+   "summary": "A six-module practical workshop giving fund directors a risk-based governance toolkit, from skills matrices to escalation triggers, and a draft oversight plan for their own board.",
+   "level": "Board level",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  }
+ ]
+}

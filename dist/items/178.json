@@ -1,0 +1,116 @@
+{
+ "id": 178,
+ "entryType": "module",
+ "title": "The Cyber Threat Landscape for Supervised Firms",
+ "summary": "The aim of this workshop is to build participants' understanding of the cyber threat landscape facing regulated firms, including internal and external threat actors and their likely targets within financial market infrastructure.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Cybersecurity & Operational Resilience",
+ "tags": [
+  "Operational resilience & cyber"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "the-cyber-threat-landscape-for-supervised-firms",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of the cyber threat landscape facing regulated firms, including internal and external threat actors and their likely targets within financial market infrastructure.",
+  "Intended Audience": "Mid-level supervisory staff building capability in cyber and operational resilience supervision.",
+  "Learning Objectives": [
+   "Explain the categories of cyber threat actor relevant to financial services",
+   "Describe common attack vectors used against regulated firms",
+   "Identify sector-specific vulnerabilities within financial market infrastructure",
+   "Assess how threat intelligence should inform supervisory priorities",
+   "Evaluate a sample threat landscape assessment for a supervised firm"
+  ],
+  "Syllabus": [
+   "Categories of threat actor: nation-state, organised crime, insider, opportunistic",
+   "Common attack vectors: phishing, ransomware, supply chain compromise",
+   "Why financial services is a persistently high-value target",
+   "The evolving sophistication of cyber threats",
+   "Facilitated discussion: cyber incidents participants are aware of in their own sector",
+   "Vulnerabilities specific to payment systems, trading infrastructure, custody",
+   "Legacy systems and technical debt as a vulnerability driver",
+   "Third-party and supply chain vulnerabilities",
+   "Mapping vulnerabilities to likely threat actor targeting",
+   "Group exercise: map vulnerabilities for a sample financial market infrastructure entity",
+   "Using threat intelligence to inform supervisory priorities",
+   "Sources of threat intelligence available to supervisors",
+   "Case study: a sample threat landscape assessment",
+   "Case study: evaluate a sample threat landscape assessment for a supervised firm",
+   "Recap: threat actors, attack vectors, vulnerabilities, threat intelligence",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Threat actors and attack vectors (09:30–10:45)\n- Session 2: Sector-specific vulnerabilities (11:00–12:30)\n- Session 3: Threat intelligence and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Understanding threat actor motivation helps supervisors anticipate where attacks are most likely to target\n- Legacy systems and third-party dependencies are persistent, often underestimated vulnerabilities\n- Threat intelligence should actively shape supervisory priorities, not just inform after-the-fact analysis",
+  "Useful Prior Knowledge and Experience": "Some familiarity with cybersecurity & operational resilience is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 205,
+   "entryType": "programme",
+   "title": "Big Tech, Embedded Finance and Open Finance",
+   "summary": "An eight-module programme equipping supervisors to assess big tech, embedded finance and open finance models, and their concentration, conduct and operational risks.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 234,
+   "entryType": "programme",
+   "title": "Digital Operational Resilience under DORA (EU Edition)",
+   "summary": "An eight-module programme on DORA for supervisors and financial entities: ICT risk management, incident reporting, resilience testing and TLPT, ICT third-party risk and critical provider oversight.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 287,
+   "entryType": "programme",
+   "title": "Operational Resilience, Cyber and Critical Third Parties",
+   "summary": "A ten-module programme equipping supervisors to assess firms' operational resilience, cyber risk, incident response and third-party dependencies, and to shape the authority's resilience strategy.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

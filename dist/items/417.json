@@ -1,0 +1,163 @@
+{
+ "id": 417,
+ "entryType": "module",
+ "title": "Keeping the Board Effective: Evaluation, Succession, Skills and AI",
+ "summary": "The mechanisms a board uses to stay effective over time, what good practice looks like in each, and the emerging question of how AI is used in matters that come to the board.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Ongoing Supervision",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "keeping-the-board-effective-evaluation-succession-skills-and-ai",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Governance & Company Secretarial"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "The mechanisms a board uses to stay effective over time, what good practice looks like in each, and the emerging question of how AI is used in matters that come to the board.",
+  "Learning Objectives": [
+   "Assess the quality and follow-through of board evaluations",
+   "Evaluate succession planning and the use of a skills matrix",
+   "Identify how reliance on AI in board decision-making is governed and assured"
+  ],
+  "Syllabus": [
+   "Internal and external board evaluation and tracking actions to completion",
+   "Succession for the chair, independent directors and key executives",
+   "Skills matrices, capability gaps and appointments on relationships",
+   "AI in the boardroom: validation, accountability and model limits"
+  ],
+  "Intended Audience": [
+   "Supervisors and governance specialists who assess boards and senior management of regulated firms",
+   "Staff conducting fit and proper, governance or culture reviews and interviewing chairs and directors",
+   "Senior supervisors and team leaders who review governance assessments and decide the supervisory response"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of governance assessment or supervisory interviews is helpful. No board experience is required.",
+  "Core Reading": [
+   "Basel Committee, Corporate Governance Principles for Banks (2015)",
+   "G20/OECD Principles of Corporate Governance (2023)",
+   "FSB, Guidance on Supervisory Interaction with Financial Institutions on Risk Culture (2014)",
+   "Amy C. Edmondson, The Fearless Organization: Creating Psychological Safety in the Workplace (2018)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 201,
+   "module": 7,
+   "title": "Assessing Board Effectiveness",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 411,
+     "number": 1,
+     "title": "Beyond Structures: Why Board Dynamics Matter"
+    },
+    {
+     "id": 412,
+     "number": 2,
+     "title": "Agendas, Board Papers and Information Quality"
+    },
+    {
+     "id": 413,
+     "number": 3,
+     "title": "Information Asymmetry and the Line Between Oversight and Management"
+    },
+    {
+     "id": 414,
+     "number": 4,
+     "title": "Judging the Quality of Board Decisions"
+    },
+    {
+     "id": 415,
+     "number": 5,
+     "title": "Culture, Challenge and Psychological Safety"
+    },
+    {
+     "id": 416,
+     "number": 6,
+     "title": "Groupthink and Board Personalities"
+    },
+    {
+     "id": 417,
+     "number": 7,
+     "title": "Keeping the Board Effective: Evaluation, Succession, Skills and AI"
+    },
+    {
+     "id": 418,
+     "number": 8,
+     "title": "Case-Study Interview Workshop"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 218,
+   "entryType": "programme",
+   "title": "Core Supervisory Skills: Business Models, Governance and Risk Governance Panels",
+   "summary": "A three-day workshop taking supervisors from business model analysis through governance interviews to a risk governance panel, using running case studies and role plays.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 267,
+   "entryType": "programme",
+   "title": "How Financial Firms Work: Business Models and Financial Statements for Supervisors",
+   "summary": "An eight-module programme helping supervisors understand how financial firms make money, read their accounts and identify capital, liquidity and business model risks.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 310,
+   "entryType": "programme",
+   "title": "Supervising Compliance in Practice: Masterclass Series",
+   "summary": "Ten half-day masterclasses showing supervisors how to test whether firms' compliance arrangements work in practice across core compliance areas.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 35,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

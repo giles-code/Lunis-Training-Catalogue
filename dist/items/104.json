@@ -1,0 +1,173 @@
+{
+ "id": 104,
+ "entryType": "module",
+ "title": "Interrogating Regulatory Returns",
+ "summary": "Learn how to interrogate regulatory returns data critically, applying trend analysis and peer comparison rather than accepting figures at face value.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "SupTech, Data & Supervisory Analytics",
+ "tags": [
+  "AI & technology"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 1,
+ "durationUnit": "days",
+ "role": [
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "interrogating-regulatory-returns",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Data & Supervisory Analytics"
+ ],
+ "contentGaps": [
+  "aimAndPurpose: expanded from a one-line catalogue summary only",
+  "structureAndFormat: not specified in source catalogue",
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "duration: not stated in source catalogue; defaulted to a single full day pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "Learn how to interrogate regulatory returns data critically, applying trend analysis and peer comparison rather than accepting figures at face value.",
+  "Intended Audience": "Mid-to-senior staff involved in building or using the authority's data/SupTech infrastructure.",
+  "Learning Objectives": [
+   "Apply trend, ratio and peer analysis to regulatory returns",
+   "Identify inconsistencies between returns, financial statements and firm narratives",
+   "Formulate targeted supervisory questions from return analysis"
+  ],
+  "Syllabus": [
+   "Reading returns critically: what the numbers should and should not show",
+   "Trend analysis, ratios and peer group construction",
+   "Cross-checking returns against accounts, disclosures and other sources",
+   "Exercise: analysing a sample firm's returns and drafting follow-up questions"
+  ],
+  "Useful Prior Knowledge and Experience": "Some familiarity with suptech, data & supervisory analytics is helpful but not essential.",
+  "Core Reading": [
+   "BIS Financial Stability Institute, Innovative Technology in Financial Supervision (Suptech): The Experience of Early Users (FSI Insights No 9, 2018)",
+   "FSB, The Use of Supervisory and Regulatory Technology by Authorities and Regulated Institutions (2020)",
+   "Basel Committee, Principles for Effective Risk Data Aggregation and Risk Reporting (BCBS 239) (2013)"
+  ]
+ },
+ "inherited": [
+  "Core Reading",
+  "level"
+ ],
+ "partOf": [
+  {
+   "programme": 316,
+   "module": 5,
+   "title": "SupTech, Data and Supervisory Analytics",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1423,
+     "number": 1,
+     "title": "SupTech, RegTech and the Data-Driven Authority"
+    },
+    {
+     "id": 29,
+     "number": 2,
+     "title": "Building Supervisory Data Infrastructure"
+    },
+    {
+     "id": 52,
+     "number": 3,
+     "title": "Data Governance for Supervisory Decision-Making"
+    },
+    {
+     "id": 1424,
+     "number": 4,
+     "title": "Regulatory Reporting and Data Collection"
+    },
+    {
+     "id": 104,
+     "number": 5,
+     "title": "Interrogating Regulatory Returns"
+    },
+    {
+     "id": 1425,
+     "number": 6,
+     "title": "Anomaly Detection, Risk Scoring and Dashboards"
+    },
+    {
+     "id": 1426,
+     "number": 7,
+     "title": "Advanced Analytics and AI in Supervision"
+    },
+    {
+     "id": 1427,
+     "number": 8,
+     "title": "SupTech Use Cases Across Supervisory Functions"
+    },
+    {
+     "id": 1428,
+     "number": 9,
+     "title": "Building the Authority's SupTech Capability"
+    },
+    {
+     "id": 1429,
+     "number": 10,
+     "title": "Governing Supervisory Analytics and the SupTech Roadmap"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 197,
+   "entryType": "programme",
+   "title": "AI Governance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to assess firms' AI governance, model and fairness risk, and to shape the authority's approach to AI supervision.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 325,
+   "entryType": "programme",
+   "title": "The EU AI Act and Financial Services (EU Edition)",
+   "summary": "An eight-module programme on the EU AI Act for supervisors and financial firms: risk classification, high-risk credit and insurance uses, provider and deployer duties, supervision and compliance programmes.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

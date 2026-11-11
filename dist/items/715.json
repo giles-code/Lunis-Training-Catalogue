@@ -1,0 +1,164 @@
+{
+ "id": 715,
+ "entryType": "module",
+ "title": "Licensing and Authorisation Provisions",
+ "summary": "How to draft the authorisation regime: the general prohibition, threshold conditions, fit and proper tests, conditions and variations, and the powers to refuse, suspend and withdraw a licence.",
+ "clientType": [
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Services Policy for Government",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Policy officials & legislative drafters",
+  "Parliamentarians & committee staff"
+ ],
+ "firmType": [],
+ "slug": "licensing-and-authorisation-provisions",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Policy",
+  "Enforcement"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How to draft the authorisation regime: the general prohibition, threshold conditions, fit and proper tests, conditions and variations, and the powers to refuse, suspend and withdraw a licence.",
+  "Learning Objectives": [
+   "Draft a general prohibition and its criminal and civil consequences",
+   "Specify threshold conditions and fitness and propriety requirements",
+   "Provide for conditions, variation, suspension and withdrawal of licences"
+  ],
+  "Syllabus": [
+   "The general prohibition and unenforceability of agreements",
+   "Threshold conditions, controllers and change of control",
+   "Fit and proper requirements and senior manager accountability regimes",
+   "Licence conditions, variation, suspension and cancellation"
+  ],
+  "Intended Audience": [
+   "Legislative drafters and parliamentary counsel working on financial services, payments and digital asset legislation",
+   "Legal advisers in finance ministries, central banks and other public bodies who instruct drafters or review bills",
+   "Policy officials who prepare drafting instructions and impact assessments for financial legislation"
+  ],
+  "Useful Prior Knowledge and Experience": "Experience of legislative drafting or legal advice in government is helpful. No specialist knowledge of financial services is required.",
+  "Core Reading": [
+   "OECD (2012), Recommendation of the Council on Regulatory Policy and Governance",
+   "OECD (2014), The Governance of Regulators, OECD Best Practice Principles for Regulatory Policy",
+   "IOSCO (2017), Objectives and Principles of Securities Regulation",
+   "FSB (2014), Key Attributes of Effective Resolution Regimes for Financial Institutions"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 235,
+   "module": 5,
+   "title": "Drafting Financial Services Legislation",
+   "moduleCount": 8,
+   "durationValue": 24,
+   "durationUnit": "hours",
+   "level": "Advanced",
+   "modules": [
+    {
+     "id": 711,
+     "number": 1,
+     "title": "The Architecture of Financial Services Law"
+    },
+    {
+     "id": 712,
+     "number": 2,
+     "title": "Principles, Rules and Outcomes"
+    },
+    {
+     "id": 713,
+     "number": 3,
+     "title": "Primary Legislation, Secondary Legislation and Rule-Making Powers"
+    },
+    {
+     "id": 714,
+     "number": 4,
+     "title": "Defining the Regulatory Perimeter"
+    },
+    {
+     "id": 715,
+     "number": 5,
+     "title": "Licensing and Authorisation Provisions"
+    },
+    {
+     "id": 716,
+     "number": 6,
+     "title": "Supervisory and Enforcement Powers and Sanctions"
+    },
+    {
+     "id": 717,
+     "number": 7,
+     "title": "Transitional Provisions, Consultation and Impact Assessment"
+    },
+    {
+     "id": 718,
+     "number": 8,
+     "title": "Technology-Neutral and Future-Proof Drafting"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 208,
+   "entryType": "programme",
+   "title": "Building a Competitive Financial Centre: Strategy, Regulation and Investment Promotion",
+   "summary": "An eight-module programme helping ministries and investment promotion agencies build a competitive, reputable financial centre and measure the results.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 248,
+   "entryType": "programme",
+   "title": "Financial Crises and Public Finances: Crisis Preparedness for Government",
+   "summary": "An eight-module advanced programme preparing finance ministries and senior officials to manage financial crises, protect public finances and coordinate resolution.",
+   "level": "Advanced",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 251,
+   "entryType": "programme",
+   "title": "Financial Services Policy Essentials for Government",
+   "summary": "A ten-module programme giving government officials a clear grounding in the financial system, regulatory architecture, international standards and the policy levers government holds.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": 11,
+ "entryType": "module",
+ "title": "Algorithmic and High-Frequency Trading Oversight",
+ "summary": "The aim of this workshop is to build participants' skills in supervising firms' algorithmic and high-frequency trading controls, including pre-trade risk controls and market-making obligations.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Services & Capital Markets",
+ "tags": [
+  "Investment services & markets"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Firms & Wealth Management",
+  "Market Infrastructure & Trading Venues"
+ ],
+ "slug": "algorithmic-and-high-frequency-trading-oversight",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' skills in supervising firms' algorithmic and high-frequency trading controls, including pre-trade risk controls and market-making obligations.",
+  "Intended Audience": "Junior to mid-level supervisors working in investment services/capital markets supervision.",
+  "Learning Objectives": [
+   "Explain algorithmic and high-frequency trading and their market role",
+   "Describe pre-trade risk control requirements",
+   "Assess a firm's algorithmic trading governance and testing framework",
+   "Evaluate market-making obligations and their supervision",
+   "Formulate a supervisory assessment of an algorithmic trading control framework"
+  ],
+  "Syllabus": [
+   "How algorithmic and high-frequency trading strategies operate",
+   "Benefits and risks: liquidity provision versus flash-crash risk",
+   "Regulatory concerns specific to algorithmic trading",
+   "The evolving market share of algorithmic trading",
+   "Facilitated discussion: algorithmic trading incidents participants are aware of",
+   "Pre-trade risk control requirements: limits, kill switches, circuit breakers",
+   "Algorithm testing and approval governance",
+   "Assessing whether controls are genuinely effective, not just present",
+   "Common control failures in algorithmic trading",
+   "Group exercise: assess a sample firm's algorithmic trading governance framework",
+   "Market-making obligations and their supervision",
+   "Assessing genuine liquidity provision versus opportunistic behaviour",
+   "Case study: an algorithmic trading control framework under review",
+   "Case study: formulate a supervisory assessment of an algorithmic trading control framework",
+   "Recap: algo/HFT role, pre-trade controls, market-making obligations",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Algorithmic and HFT fundamentals (09:30–10:45)\n- Session 2: Pre-trade controls and governance (11:00–12:30)\n- Session 3: Market-making obligations and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Algorithmic trading controls must be tested for genuine effectiveness, not merely confirmed to exist\n- Pre-trade risk controls are the first line of defence against algorithmic trading incidents\n- Market-making obligations should be assessed against actual liquidity provision behaviour, not just formal commitments",
+  "Useful Prior Knowledge and Experience": "Some familiarity with investment services & capital markets is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 209,
+   "entryType": "programme",
+   "title": "Capital Markets and Investment Services Supervision",
+   "summary": "A ten-module programme equipping supervisors to oversee investment firms, trading venues and issuers, from client conduct and client assets to algorithmic trading and market abuse.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 312,
+   "entryType": "programme",
+   "title": "Supervising Financial Market Infrastructures",
+   "summary": "An advanced ten-module programme equipping supervisors and overseers to apply the PFMI to trading venues, CCPs, CSDs, payment systems and trade repositories.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

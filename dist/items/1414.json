@@ -1,0 +1,173 @@
+{
+ "id": 1414,
+ "entryType": "module",
+ "title": "Prioritisation, Supervisory Intensity and Resource Allocation",
+ "summary": "How an authority sets its own risk appetite, varies supervisory intensity across the regulated population and makes explicit, defensible trade-offs when resources are limited.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Ongoing Supervision",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 3,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "prioritisation-supervisory-intensity-and-resource-allocation",
+ "intro": "",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Supervision",
+  "Risk Management"
+ ],
+ "contentGaps": [
+  "Written as part of a programme: Aim and Purpose is the module's one-line description; audience, prior knowledge and core reading come from the programme"
+ ],
+ "sections": {
+  "Aim and Purpose": "How an authority sets its own risk appetite, varies supervisory intensity across the regulated population and makes explicit, defensible trade-offs when resources are limited.",
+  "Learning Objectives": [
+   "Apply a supervisory risk appetite to prioritise firms and issues",
+   "Assess intensity models and the trade-off between breadth and depth",
+   "Formulate a risk-based work plan that can be reprioritised as risks change"
+  ],
+  "Syllabus": [
+   "The authority's risk appetite and tolerance for firm failure",
+   "Supervisory intensity tiers and minimum engagement models",
+   "Allocating scarce resource and explaining the trade-offs",
+   "Exercise: reprioritising a work plan mid-year"
+  ],
+  "Intended Audience": [
+   "Line supervisors and supervisory analysts responsible for assessing individual firms",
+   "Senior supervisors and team leaders who review assessments, chair or sit on panels and sign off risk ratings",
+   "Risk, methodology and quality assurance staff who design or calibrate the authority's supervisory framework"
+  ],
+  "Useful Prior Knowledge and Experience": "Some experience of supervising regulated firms is helpful. No specialist financial or analytical background is required.",
+  "Core Reading": [
+   "Basel Committee, Core Principles for Effective Banking Supervision (2024)",
+   "IMF, Good Supervision: Lessons from the Field (Working Paper WP/23/181, 2023)",
+   "IMF, The Making of Good Supervision: Learning to Say \"No\" (Staff Position Note SPN/10/08, 2010)",
+   "IOSCO, Objectives and Principles of Securities Regulation (2017)"
+  ]
+ },
+ "inherited": [
+  "Intended Audience",
+  "Useful Prior Knowledge and Experience",
+  "Core Reading"
+ ],
+ "partOf": [
+  {
+   "programme": 315,
+   "module": 2,
+   "title": "Supervisory Risk Assessment Toolkit",
+   "moduleCount": 10,
+   "durationValue": 30,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 1413,
+     "number": 1,
+     "title": "Risk-Based Supervision: Principles and Frameworks"
+    },
+    {
+     "id": 1414,
+     "number": 2,
+     "title": "Prioritisation, Supervisory Intensity and Resource Allocation"
+    },
+    {
+     "id": 1415,
+     "number": 3,
+     "title": "Business Model and Strategy Analysis"
+    },
+    {
+     "id": 1416,
+     "number": 4,
+     "title": "Financial Analysis for Supervisors"
+    },
+    {
+     "id": 1417,
+     "number": 5,
+     "title": "Assessing Governance Risk"
+    },
+    {
+     "id": 1418,
+     "number": 6,
+     "title": "Assessing Risk Management and Internal Controls"
+    },
+    {
+     "id": 1419,
+     "number": 7,
+     "title": "Supervisory Interviews and Evidence Gathering"
+    },
+    {
+     "id": 1420,
+     "number": 8,
+     "title": "Thematic Reviews and Cross-Firm Analysis"
+    },
+    {
+     "id": 1421,
+     "number": 9,
+     "title": "Risk Governance Panels and Calibrating Risk Ratings"
+    },
+    {
+     "id": 1422,
+     "number": 10,
+     "title": "From Assessment to Action: Findings, Plans and Follow-Up"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 218,
+   "entryType": "programme",
+   "title": "Core Supervisory Skills: Business Models, Governance and Risk Governance Panels",
+   "summary": "A three-day workshop taking supervisors from business model analysis through governance interviews to a risk governance panel, using running case studies and role plays.",
+   "level": "Intermediate",
+   "moduleCount": 9,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 267,
+   "entryType": "programme",
+   "title": "How Financial Firms Work: Business Models and Financial Statements for Supervisors",
+   "summary": "An eight-module programme helping supervisors understand how financial firms make money, read their accounts and identify capital, liquidity and business model risks.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

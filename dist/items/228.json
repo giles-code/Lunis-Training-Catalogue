@@ -1,0 +1,274 @@
+{
+ "id": 228,
+ "entryType": "programme",
+ "title": "Cyber, Data and Resilience Essentials",
+ "summary": "A six-module foundation programme giving all staff the practical habits to resist cyber attacks, protect data, use AI tools safely and report incidents.",
+ "clientType": [
+  "firms",
+  "payments",
+  "crypto"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms",
+  "Payments and EMIs",
+  "Crypto and Web3"
+ ],
+ "pillar": {
+  "firms": "All-Staff Essentials",
+  "payments": "All-Staff Essentials",
+  "crypto": "All-Staff Essentials"
+ },
+ "topic": "All-Staff Essentials",
+ "tags": [
+  "Operational resilience & cyber"
+ ],
+ "level": "Foundation",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 9,
+ "durationUnit": "hours",
+ "role": [
+  "All staff"
+ ],
+ "firmType": [],
+ "slug": "cyber-data-and-resilience-essentials-for-all-staff",
+ "moduleCount": 6,
+ "hoursPerModule": 1.5,
+ "intro": "This training programme equips all staff in a regulated firm to protect the firm's systems and data, recognise phishing and social engineering, use AI tools safely and respond effectively when incidents and disruptions occur.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Operational Resilience & Technology/Cyber",
+  "Compliance"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give staff at every level the practical habits that keep the firm, its customers and its data secure and its services running. Participants leave able to spot attacks, handle information safely, report incidents quickly and play their part when the firm is disrupted.",
+  "What It Covers": "The threat landscape, phishing and social engineering, passwords, authentication and devices, data protection and confidentiality, incident reporting, business continuity and operational resilience, and safe use of AI tools and third-party apps.",
+  "Intended Audience": [
+   "All staff in regulated firms, including new joiners, contractors and temporary staff with access to the firm's systems",
+   "Front-office, operations, technology, HR, finance and support staff who handle customer data or critical processes",
+   "Line managers responsible for secure working practices and continuity arrangements in their teams"
+  ],
+  "Learning Objectives": [
+   "Explain the main cyber threats facing financial firms and why staff are a primary target",
+   "Recognise phishing, social engineering and impersonation attempts, including AI-enabled attacks",
+   "Apply secure practices for passwords, authentication, devices and remote working",
+   "Handle personal and confidential data lawfully, securely and on a need-to-know basis",
+   "Report security incidents and data breaches promptly and play their part in business continuity",
+   "Use AI tools and third-party apps safely within the firm's policies"
+  ],
+  "Structure and Format": "Six modules of about ninety minutes each, delivered in person, virtually or in a hybrid format, either as a one- to two-day programme or as a series of short live sessions, and well suited to conversion into e-learning. Modules combine short briefings with real-world examples and scenario questions, work well as annual refresher training, and can be selected or tailored to the firm's policies and business.",
+  "Useful Prior Knowledge and Experience": "No technical background is required. The programme is suitable for new joiners and as annual refresher training.",
+  "Core Reading": [
+   "NIST (2024), The NIST Cybersecurity Framework (CSF) 2.0",
+   "ISO/IEC (2022), ISO/IEC 27001:2022 Information Security, Cybersecurity and Privacy Protection – Information Security Management Systems – Requirements",
+   "ISO (2019), ISO 22301:2019 Security and Resilience – Business Continuity Management Systems – Requirements",
+   "BCBS (2021), Principles for Operational Resilience"
+  ]
+ },
+ "modules": [
+  {
+   "id": 651,
+   "number": 1,
+   "title": "The Threat Landscape and Your Role",
+   "summary": "Who attacks financial firms and why, how attacks usually succeed through people rather than technology, and why every member of staff is part of the firm's defences.",
+   "objectives": [
+    "Explain the main cyber threats and threat actors facing financial firms",
+    "Recognise why staff are often both the first target and the first line of defence",
+    "Describe the impact of cyber incidents on customers, the firm and the wider system"
+   ],
+   "syllabus": [
+    "Threat actors: criminals, insiders, hacktivists and state-linked groups",
+    "Ransomware, data theft, fraud and service disruption",
+    "How attacks unfold: from first contact to impact",
+    "Why supervisors and boards treat cyber and resilience as top risks"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 652,
+   "number": 2,
+   "title": "Phishing, Social Engineering and Impersonation",
+   "summary": "How attackers manipulate people through email, phone, text, messaging apps and fake websites, including AI-generated voices and video, and the habits that stop them.",
+   "objectives": [
+    "Recognise the signs of phishing, vishing, smishing and business email compromise",
+    "Identify deepfake and other AI-enabled impersonation attempts",
+    "Apply verification steps before acting on unusual or urgent requests"
+   ],
+   "syllabus": [
+    "Phishing, vishing, smishing and QR-code attacks",
+    "Business email compromise and payment diversion",
+    "Deepfake voices and video: impersonating executives and customers",
+    "Pause, verify, report: call-back and dual-control habits"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 653,
+   "number": 3,
+   "title": "Passwords, Authentication and Secure Devices",
+   "summary": "Practical security habits for accounts, devices and remote working that protect the firm's systems and data wherever staff work.",
+   "objectives": [
+    "Apply strong password and multi-factor authentication practices",
+    "Secure laptops, mobile devices and removable media",
+    "Work securely from home, while travelling and on public networks"
+   ],
+   "syllabus": [
+    "Passphrases, password managers and multi-factor authentication",
+    "Software updates, approved devices and lost or stolen equipment",
+    "Remote and hybrid working, public wi-fi and screen privacy",
+    "Access rights, least privilege and joiners, movers and leavers"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 654,
+   "number": 4,
+   "title": "Data Protection and Confidentiality",
+   "summary": "How to handle personal and confidential information lawfully and securely throughout its lifecycle, from collection to sharing, retention and disposal.",
+   "objectives": [
+    "Apply data protection principles to everyday handling of information",
+    "Share, store and dispose of data securely and on a need-to-know basis",
+    "Respond correctly to requests from individuals and third parties for information"
+   ],
+   "syllabus": [
+    "Personal data, special category data and confidential information",
+    "Lawful use, minimisation, accuracy and retention",
+    "Secure sharing: email, file transfer, printing and clear desk",
+    "Individuals' rights and handling requests for information"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 655,
+   "number": 5,
+   "title": "Incident Reporting, Business Continuity and Resilience",
+   "summary": "What to do when something goes wrong, from reporting a suspected breach to supporting the firm's continuity and recovery plans during a major disruption.",
+   "objectives": [
+    "Recognise security incidents, data breaches and near misses that must be reported",
+    "Report incidents promptly through the correct channels",
+    "Explain their own role in business continuity and the firm's important business services"
+   ],
+   "syllabus": [
+    "What counts as an incident, and why speed matters",
+    "Internal reporting routes and preserving evidence",
+    "Business continuity plans, critical processes and fallback arrangements",
+    "Important business services, impact tolerances and staff roles in recovery"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 656,
+   "number": 6,
+   "title": "Safe Use of AI Tools and Third-Party Apps",
+   "summary": "How to use AI tools, cloud services and third-party apps safely within the firm's policies, avoid shadow IT and data leakage, and apply the programme to practical scenarios.",
+   "objectives": [
+    "Apply the firm's policies on AI tools, cloud services and third-party apps",
+    "Recognise the data leakage, accuracy and security risks of unapproved tools",
+    "Apply the programme to realistic cyber, data and resilience scenarios"
+   ],
+   "syllabus": [
+    "Approved versus unapproved tools: shadow IT and personal accounts",
+    "What never goes into an AI tool: customer, confidential and personal data",
+    "Browser extensions, messaging apps and file-sharing services",
+    "Workshop: what would you do? Cyber, data and disruption scenarios"
+   ],
+   "durationValue": 1.5,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 194,
+   "entryType": "programme",
+   "title": "AI for Financial Services Professionals",
+   "summary": "A six-module foundation programme giving staff the practical skills to use generative AI productively and safely, in line with the firm's AI policy.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 213,
+   "entryType": "programme",
+   "title": "Conduct, Ethics and Customer Outcomes",
+   "summary": "An eight-module foundation programme helping all staff make sound ethical judgements, deliver good customer outcomes and speak up when something is wrong.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 244,
+   "entryType": "programme",
+   "title": "Financial Crime Essentials for All Staff",
+   "summary": "An eight-module foundation programme helping all staff recognise financial crime red flags, follow the firm's controls and report suspicions without tipping off.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 281,
+   "entryType": "programme",
+   "title": "Market Conduct Essentials: Inside Information, Conflicts and Personal Dealing",
+   "summary": "A six-module foundation programme helping all staff handle inside information, personal dealing, gifts and communications correctly and avoid market abuse.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 300,
+   "entryType": "programme",
+   "title": "Regulatory Essentials for All Staff",
+   "summary": "An eight-module foundation programme giving all staff a practical understanding of regulation, conduct, financial crime awareness and their own responsibilities.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 12,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  },
+  {
+   "id": 319,
+   "entryType": "programme",
+   "title": "Sustainable Finance Essentials",
+   "summary": "A six-module foundation programme giving all staff a practical grounding in ESG, climate risk, sustainable products and avoiding greenwashing.",
+   "level": "Foundation",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

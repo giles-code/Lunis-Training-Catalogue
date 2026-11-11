@@ -1,0 +1,298 @@
+{
+ "id": 199,
+ "entryType": "programme",
+ "title": "Alternative Investments for Fund Directors",
+ "summary": "An eight-module programme explaining hedge fund, private markets, real asset, structured and digital asset strategies to fund directors, with board questions on valuation, liquidity and fees.",
+ "clientType": [
+  "firms"
+ ],
+ "clientTypeLabels": [
+  "Financial services firms"
+ ],
+ "pillar": {
+  "firms": "Board & Senior Leadership"
+ },
+ "topic": "Board & Senior Leadership",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "Board level",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 16,
+ "durationUnit": "hours",
+ "role": [
+  "Boards & directors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "alternative-investments-for-fund-directors",
+ "moduleCount": 8,
+ "hoursPerModule": 2,
+ "intro": "This training programme equips fund directors to understand the alternative strategies and assets their funds invest in, and to ask the right questions on risk, valuation, liquidity and fees.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Board & Senior Leadership",
+  "Risk Management"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give directors a clear, practical understanding of how hedge fund, private markets, real asset, commodity, structured and digital asset strategies work, how they make money and how they can go wrong. Participants leave able to oversee alternative funds with confidence and challenge managers on due diligence, valuation, liquidity and fees.",
+  "What It Covers": "The alternatives landscape, hedge fund strategies, private equity and venture capital, private credit, real estate and infrastructure, commodities and structured products, digital assets and tokenised funds, and the board's questions on due diligence, valuation, liquidity and fees.",
+  "Intended Audience": [
+   "Independent and non-executive directors of alternative investment funds and their management companies",
+   "Directors of traditional funds whose portfolios increasingly include alternative assets or strategies",
+   "Fund professionals preparing for board roles, and governance staff supporting alternative fund boards"
+  ],
+  "Learning Objectives": [
+   "Explain the main alternative asset classes and strategies, their return sources and their role in portfolios",
+   "Identify the distinctive investment, liquidity, leverage and operational risks of each strategy",
+   "Assess how alternative assets are valued and where valuation judgement is greatest",
+   "Evaluate fee structures, terms and alignment of interest between manager and investors",
+   "Challenge managers on due diligence, strategy drift and the fit between assets and dealing terms",
+   "Apply a board question set to the oversight of an alternative fund"
+  ],
+  "Structure and Format": "Eight modules of about two hours each, delivered in person, virtually or in a hybrid format, either as a two-day programme or as a series of board briefing sessions. Each module combines a strategy briefing with worked examples and board questions, ending in a case study workshop, and modules can be selected or tailored to the fund range the board oversees.",
+  "Useful Prior Knowledge and Experience": "Familiarity with investment funds and traditional asset classes is helpful. No prior experience of alternative investments is required.",
+  "Core Reading": [
+   "IOSCO, Thematic Analysis: Emerging Risks in Private Finance (2023)",
+   "IOSCO, Principles for the Valuation of Collective Investment Schemes (2013)",
+   "FSB, Global Monitoring Report on Non-Bank Financial Intermediation (annual)",
+   "FSB, The Financial Stability Implications of Tokenisation (2024)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 395,
+   "number": 1,
+   "title": "The Alternative Investments Landscape",
+   "summary": "What makes an investment alternative, why investors allocate to alternatives, and how the growth of these strategies changes the role and risks of fund boards.",
+   "objectives": [
+    "Define the main alternative asset classes and how they differ from traditional assets",
+    "Explain the return, diversification and illiquidity premium arguments for alternatives",
+    "Recognise the governance challenges common to alternative funds"
+   ],
+   "syllabus": [
+    "Hedge funds, private markets, real assets, commodities, structured products and digital assets",
+    "Return drivers, diversification claims and the illiquidity premium",
+    "Investor types, fund vehicles and the shift towards wider investor access",
+    "Why alternatives demand more of directors: opacity, leverage and judgement"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 396,
+   "number": 2,
+   "title": "Hedge Fund Strategies",
+   "summary": "How the main hedge fund strategies generate returns and where they are vulnerable, from equity long/short to macro, relative value and event-driven approaches.",
+   "objectives": [
+    "Describe the main hedge fund strategies and their sources of return",
+    "Assess the leverage, liquidity and crowding risks of each strategy",
+    "Recognise warning signs of style drift and unsustainable performance"
+   ],
+   "syllabus": [
+    "Equity long/short, global macro, managed futures and multi-strategy funds",
+    "Relative value, arbitrage and event-driven strategies",
+    "Prime brokerage, short selling, derivatives and leverage",
+    "Crowded trades, deleveraging episodes and lessons for boards"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 397,
+   "number": 3,
+   "title": "Private Equity and Venture Capital",
+   "summary": "How private equity and venture funds invest, create value and return capital, and what fund directors should understand about the closed-ended model and its economics.",
+   "objectives": [
+    "Explain the private equity fund life cycle and how value is created",
+    "Interpret internal rates of return, multiples and the J-curve",
+    "Identify the risks of leverage, concentration and long holding periods"
+   ],
+   "syllabus": [
+    "Buyout, growth and venture strategies and their risk profiles",
+    "Fund life cycle: commitments, capital calls, distributions and exits",
+    "Performance measures: IRR, multiples and their limitations",
+    "Secondaries, co-investment and continuation vehicles at a glance"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 398,
+   "number": 4,
+   "title": "Private Credit",
+   "summary": "How private lending strategies work, why they have grown so quickly, and the credit, valuation and liquidity questions directors should ask as default cycles turn.",
+   "objectives": [
+    "Describe direct lending, mezzanine, distressed and asset-based finance strategies",
+    "Assess credit quality, covenants and the effect of payment-in-kind interest",
+    "Evaluate how stressed loans are identified, valued and reported"
+   ],
+   "syllabus": [
+    "Direct lending, mezzanine, distressed debt and asset-based finance",
+    "Underwriting, covenants, seniority and recovery rates",
+    "Amendments, extensions and payment-in-kind: hidden signs of stress",
+    "Private credit's links with banks, insurers and wider markets"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 399,
+   "number": 5,
+   "title": "Real Assets: Real Estate and Infrastructure",
+   "summary": "How real estate and infrastructure funds generate income and growth, how these assets are valued, and why liquidity and leverage need close board attention.",
+   "objectives": [
+    "Explain core, value-add and opportunistic real estate and infrastructure strategies",
+    "Assess appraisal-based valuation, valuation lag and independent valuers",
+    "Challenge the fit between illiquid real assets and dealing terms"
+   ],
+   "syllabus": [
+    "Real estate strategies, sectors and income versus capital growth",
+    "Infrastructure: regulated, contracted and merchant revenue models",
+    "Appraisals, valuation lag and the role of independent valuers",
+    "Leverage, refinancing risk and open-ended property fund suspensions"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 400,
+   "number": 6,
+   "title": "Commodities and Structured Products",
+   "summary": "How investors gain exposure to commodities and how structured products package payoffs, with the counterparty, complexity and suitability risks each brings.",
+   "objectives": [
+    "Explain commodity exposure through futures, roll yield and physical holdings",
+    "Describe how structured products and notes deliver their payoffs",
+    "Identify counterparty, complexity, pricing and suitability risks"
+   ],
+   "syllabus": [
+    "Commodity futures, contango, backwardation and roll yield",
+    "Structured notes, capital protection and embedded derivatives",
+    "Issuer and counterparty risk, pricing transparency and fair value",
+    "Complex products and investor understanding: the board's product governance role"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 401,
+   "number": 7,
+   "title": "Digital Assets and Tokenised Funds",
+   "summary": "How crypto-assets, stablecoins and tokenised securities enter fund portfolios and fund structures, and the custody, valuation and resilience questions they raise for directors.",
+   "objectives": [
+    "Explain the main types of digital asset and how funds gain exposure to them",
+    "Assess custody, valuation, liquidity and counterparty risks specific to digital assets",
+    "Evaluate the opportunities and risks of tokenised fund units and distributed ledgers"
+   ],
+   "syllabus": [
+    "Crypto-assets, stablecoins and tokenised real-world assets",
+    "Custody models, private keys and segregation of client assets",
+    "Pricing sources, market fragmentation and trading venue risk",
+    "Tokenised fund units, on-chain registers and settlement"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 402,
+   "number": 8,
+   "title": "Workshop: The Board's Questions on Alternatives",
+   "summary": "Brings the programme together as participants apply a board question set on due diligence, valuation, liquidity and fees to an alternative fund case study.",
+   "objectives": [
+    "Apply operational and investment due diligence questions to an alternative manager",
+    "Challenge valuation policy, liquidity terms and fee arrangements",
+    "Produce a board question set for overseeing an alternative fund"
+   ],
+   "syllabus": [
+    "Investment and operational due diligence: what good looks like",
+    "Valuation governance, pricing sources and level three assets",
+    "Liquidity terms, gates, side pockets and side letters",
+    "Workshop: fees, alignment and the board's question set for an alternative fund"
+   ],
+   "durationValue": 2,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 207,
+   "entryType": "programme",
+   "title": "Board Oversight of Fund Operations and Service Providers",
+   "summary": "A ten-module programme giving fund directors the tools to oversee fund operations and service providers, from NAV production and custody to errors and resilience.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 260,
+   "entryType": "programme",
+   "title": "Fund Board Governance Toolkit: A Risk-Based Oversight Workshop",
+   "summary": "A six-module practical workshop giving fund directors a risk-based governance toolkit, from skills matrices to escalation triggers, and a draft oversight plan for their own board.",
+   "level": "Board level",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 274,
+   "entryType": "programme",
+   "title": "Investment Fund Governance for Directors",
+   "summary": "A ten-module programme giving fund directors the tools to oversee delegates, manage conflicts, protect investors and evidence effective governance to supervisors.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 288,
+   "entryType": "programme",
+   "title": "Overseeing Regulatory Change: Annual Update for Fund Directors",
+   "summary": "A six-module annual CPD update for fund directors on the year's regulatory developments and on overseeing regulatory change and regulatory risk.",
+   "level": "Board level",
+   "moduleCount": 6,
+   "hours": 9,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 306,
+   "entryType": "programme",
+   "title": "Risk Oversight for Fund and Management Company Boards",
+   "summary": "An eight-module programme giving fund and management company directors the tools to oversee investment, operational and emerging risks and challenge the risk function.",
+   "level": "Board level",
+   "moduleCount": 8,
+   "hours": 16,
+   "clientTypeLabels": [
+    "Financial services firms"
+   ]
+  },
+  {
+   "id": 195,
+   "entryType": "programme",
+   "title": "AI Governance for Boards",
+   "summary": "A ten-module programme giving boards and directors the understanding and tools to govern AI responsibly and evidence sound oversight to regulators.",
+   "level": "Board level",
+   "moduleCount": 10,
+   "hours": 20,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3"
+   ]
+  }
+ ]
+}

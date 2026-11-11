@@ -1,0 +1,114 @@
+{
+ "id": 80,
+ "entryType": "module",
+ "title": "Foundations of Financial Services Rule-Making",
+ "summary": "The aim of this workshop is to build participants' understanding of how a supervisory authority makes rules, covering the legal hierarchy between primary legislation, secondary rules, and guidance, and the core principles of clear, enforceable regulatory drafting.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Policy-Making & Rule-Making",
+ "tags": [
+  "Policy, authorisation & enforcement"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Policy & specialist teams"
+ ],
+ "firmType": [],
+ "slug": "foundations-of-financial-services-rule-making",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Policy"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how a supervisory authority makes rules, covering the legal hierarchy between primary legislation, secondary rules, and guidance, and the core principles of clear, enforceable regulatory drafting.",
+  "Intended Audience": "Junior to mid-level policy officers drafting or contributing to rules, guidance, and consultation papers.",
+  "Learning Objectives": [
+   "Explain the legal hierarchy of primary legislation, secondary rules and guidance",
+   "Describe the sources of rule-making power for a supervisory authority",
+   "Apply principles of clear, enforceable regulatory drafting",
+   "Distinguish between binding rules and non-binding guidance",
+   "Identify common drafting pitfalls that create ambiguity or unintended loopholes",
+   "Evaluate a draft rule against clarity and enforceability criteria"
+  ],
+  "Syllabus": [
+   "Primary legislation, secondary rules, and guidance: what each can and cannot do",
+   "Sources of a supervisory authority's rule-making power",
+   "Delegated powers and their limits",
+   "Binding rules versus non-binding guidance",
+   "Facilitated discussion: mapping the rule-making hierarchy in participants' own jurisdictions",
+   "Principles of clear, enforceable regulatory drafting",
+   "Common drafting pitfalls: ambiguity, loopholes, inconsistent definitions",
+   "Drafting for different audiences: firms, courts, the public",
+   "The role of legal review in the drafting process",
+   "Exercise: redraft a poorly worded sample rule for clarity",
+   "Criteria for assessing draft rules",
+   "Testing rules against real-world scenarios before finalisation",
+   "Case study: a rule that caused unintended consequences due to poor drafting",
+   "Case study: evaluate a draft rule and propose improvements",
+   "Recap: hierarchy, drafting principles, evaluation",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: The legal hierarchy of rule-making (09:30–10:45)\n- Session 2: Principles of clear drafting (11:00–12:30)\n- Session 3: Evaluating draft rules (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Understanding the legal hierarchy prevents rules from being drafted with the wrong legal force\n- Clear drafting is a skill that directly determines how enforceable a rule will be\n- Testing rules against real-world scenarios before finalisation catches problems that desk review misses",
+  "Useful Prior Knowledge and Experience": "No formal prerequisites — this course is designed as an introduction to policy-making & rule-making."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 292,
+   "entryType": "programme",
+   "title": "Policy-Making and Rule-Making",
+   "summary": "An eight-module programme covering the full policy cycle, from problem definition and cost-benefit analysis to drafting, standards implementation and post-implementation review.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 204,
+   "entryType": "programme",
+   "title": "Authorisation and Licensing: The Regulatory Gateway",
+   "summary": "A ten-module programme giving authorisation staff a structured, defensible methodology for assessing applications, key individuals, owners and changes at the regulatory gateway.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 214,
+   "entryType": "programme",
+   "title": "Conducting Regulatory Investigations: From Referral to Outcome",
+   "summary": "An eight-module practitioner programme taking enforcement staff through a regulatory investigation, from referral and powers to compelled interviews, findings and outcome.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

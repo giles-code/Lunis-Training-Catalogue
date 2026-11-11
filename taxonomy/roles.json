@@ -1,112 +1,152 @@
 {
-  "$comment": "Second-level groups: four roles inside each audience. Items carry `role` as a list of these names.",
-  "audiences": [
+  "$comment": "Role groups by client type (carried over from the October catalogue; pending review).",
+  "roles": [
     {
-      "audience": "Financial Supervisors",
-      "roles": [
-        {
-          "name": "Leadership & senior management",
-          "slug": "leadership",
-          "description": "Board members, commissioners, executive directors and heads of department at the authority"
-        },
-        {
-          "name": "Authorisation & licensing",
-          "slug": "authorisation-licensing",
-          "description": "Authorisation, licensing, registration and fit and proper teams assessing applicants, owners and key individuals"
-        },
-        {
-          "name": "Supervisors & inspectors",
-          "slug": "supervisors-inspectors",
-          "description": "Line supervisors, relationship managers, on-site inspectors, AML/CFT supervisors and their team leaders"
-        },
-        {
-          "name": "Enforcement & investigations",
-          "slug": "enforcement-investigations",
-          "description": "Investigators, enforcement lawyers, case managers and decision-makers taking action against misconduct"
-        },
-        {
-          "name": "Policy & specialist teams",
-          "slug": "policy-specialists",
-          "description": "Policy and rule-making, financial crime policy, international affairs, risk, data and SupTech specialists"
-        },
-        {
-          "name": "New joiners & developing staff",
-          "slug": "new-joiners",
-          "description": "Graduates, new joiners and staff building core regulatory knowledge and skills"
-        }
-      ]
-    },
-    {
-      "audience": "Firms",
+      "clientType": "firms",
+      "audience": "firms",
       "roles": [
         {
           "name": "Boards & directors",
-          "slug": "boards-directors",
           "description": "Executive and non-executive directors, fund and management company boards, board committees"
         },
         {
           "name": "Senior leaders & managers",
-          "slug": "senior-leaders-managers",
           "description": "Senior managers, heads of business and function, founders and management teams"
         },
         {
           "name": "Control function holders",
-          "slug": "control-functions",
           "description": "Compliance, MLRO and financial crime, risk and internal audit"
         },
         {
           "name": "All staff",
-          "slug": "all-staff",
           "description": "Everyone in the firm who needs a working grasp of regulation and the topics it covers"
         }
       ]
     },
     {
-      "audience": "Government & Policymakers",
+      "clientType": "payments",
+      "audience": "payments",
       "roles": [
         {
-          "name": "Ministers & senior officials",
-          "slug": "ministers-senior-officials",
-          "description": "Ministers, permanent secretaries and senior officials setting financial services strategy"
+          "name": "Boards & directors",
+          "description": "Executive and non-executive directors, fund and management company boards, board committees"
         },
         {
-          "name": "Policy officials & legislative drafters",
-          "slug": "policy-officials",
-          "description": "Finance ministry and treasury policy teams, legislative drafters and legal advisers"
+          "name": "Senior leaders & managers",
+          "description": "Senior managers, heads of business and function, founders and management teams"
         },
         {
-          "name": "Parliamentarians & committee staff",
-          "slug": "parliamentarians",
-          "description": "Members of parliament, committee members and their research and clerk staff"
+          "name": "Control function holders",
+          "description": "Compliance, MLRO and financial crime, risk and internal audit"
         },
         {
-          "name": "Public agencies & investment promotion",
-          "slug": "public-agencies",
-          "description": "Investment promotion and development agencies, public investors and other public bodies"
+          "name": "All staff",
+          "description": "Everyone in the firm who needs a working grasp of regulation and the topics it covers"
         }
       ]
     },
     {
-      "audience": "FIUs & Law Enforcement",
+      "clientType": "crypto",
+      "audience": "crypto",
       "roles": [
         {
+          "name": "Boards & directors",
+          "description": "Executive and non-executive directors, fund and management company boards, board committees"
+        },
+        {
+          "name": "Senior leaders & managers",
+          "description": "Senior managers, heads of business and function, founders and management teams"
+        },
+        {
+          "name": "Control function holders",
+          "description": "Compliance, MLRO and financial crime, risk and internal audit"
+        },
+        {
+          "name": "All staff",
+          "description": "Everyone in the firm who needs a working grasp of regulation and the topics it covers"
+        }
+      ]
+    },
+    {
+      "clientType": "regulators",
+      "audience": "regulators",
+      "roles": [
+        {
+          "name": "Leadership & senior management",
+          "description": "Board members, commissioners, executive directors and heads of department at the authority"
+        },
+        {
+          "name": "Authorisation & licensing",
+          "description": "Authorisation, licensing, registration and fit and proper teams assessing applicants, owners and key individuals"
+        },
+        {
+          "name": "Supervisors & inspectors",
+          "description": "Line supervisors, relationship managers, on-site inspectors, AML/CFT supervisors and their team leaders"
+        },
+        {
+          "name": "Enforcement & investigations",
+          "description": "Investigators, enforcement lawyers, case managers and decision-makers taking action against misconduct"
+        },
+        {
+          "name": "Policy & specialist teams",
+          "description": "Policy and rule-making, financial crime policy, international affairs, risk, data and SupTech specialists"
+        },
+        {
+          "name": "New joiners & developing staff",
+          "description": "Graduates, new joiners and staff building core regulatory knowledge and skills"
+        },
+        {
           "name": "FIU analysts",
-          "slug": "fiu-analysts",
           "description": "Operational and strategic analysts handling suspicious activity reports and intelligence"
         },
         {
           "name": "Financial investigators & police",
-          "slug": "investigators-police",
           "description": "Financial investigators, economic crime and cybercrime units"
         },
         {
           "name": "Prosecutors & judiciary",
-          "slug": "prosecutors-judiciary",
           "description": "Prosecutors, investigating magistrates and judges handling financial crime cases"
         },
         {
           "name": "Asset recovery, customs & tax",
-          "slug": "asset-recovery-customs-tax",
+          "description": "Asset recovery offices, customs and tax authorities tracing and seizing criminal proceeds"
+        }
+      ]
+    },
+    {
+      "clientType": "government",
+      "audience": "government",
+      "roles": [
+        {
+          "name": "Ministers & senior officials",
+          "description": "Ministers, permanent secretaries and senior officials setting financial services strategy"
+        },
+        {
+          "name": "Policy officials & legislative drafters",
+          "description": "Finance ministry and treasury policy teams, legislative drafters and legal advisers"
+        },
+        {
+          "name": "Parliamentarians & committee staff",
+          "description": "Members of parliament, committee members and their research and clerk staff"
+        },
+        {
+          "name": "Public agencies & investment promotion",
+          "description": "Investment promotion and development agencies, public investors and other public bodies"
+        },
+        {
+          "name": "FIU analysts",
+          "description": "Operational and strategic analysts handling suspicious activity reports and intelligence"
+        },
+        {
+          "name": "Financial investigators & police",
+          "description": "Financial investigators, economic crime and cybercrime units"
+        },
+        {
+          "name": "Prosecutors & judiciary",
+          "description": "Prosecutors, investigating magistrates and judges handling financial crime cases"
+        },
+        {
+          "name": "Asset recovery, customs & tax",
           "description": "Asset recovery offices, customs and tax authorities tracing and seizing criminal proceeds"
         }
       ]

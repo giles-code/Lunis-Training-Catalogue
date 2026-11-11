@@ -1,0 +1,339 @@
+{
+ "id": 327,
+ "entryType": "programme",
+ "title": "Tokenisation of Financial Markets",
+ "summary": "A ten-module programme equipping supervisors to assess tokenised securities, funds and collateral, DLT market infrastructure, settlement finality, custody and smart contract risk.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Digital Assets & Blockchain",
+ "tags": [
+  "Crypto & digital assets",
+  "Funds & asset management"
+ ],
+ "level": "Advanced",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 30,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors",
+  "Leadership & senior management"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money",
+  "Market Infrastructure & Trading Venues",
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "tokenisation-of-financial-markets",
+ "moduleCount": 10,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisory staff to oversee the tokenisation of securities, funds and collateral: assessing legal certainty, DLT market infrastructure, settlement finality, custody and smart contract risk, and applying familiar regulatory principles to new market structures.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Digital Assets, AI & Innovation",
+  "Supervision"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors a practical, technology-neutral understanding of how traditional financial assets are tokenised, issued, traded, settled and held on distributed ledgers, and where the risks lie. Participants leave able to assess tokenisation initiatives and DLT infrastructures against established principles, identify red flags and shape the authority's approach to pilots and wider adoption.",
+  "What It Covers": "Tokenisation and DLT foundations, the legal basis of tokenised assets, tokenised securities, tokenised funds, tokenised collateral, DLT market infrastructure, settlement finality and the PFMI, custody and segregation, interoperability and smart contract risk, and pilot regimes and supervisory strategy.",
+  "Intended Audience": [
+   "Supervisors of investment firms, trading venues, fund managers, custodians and market infrastructures",
+   "Central bank and market infrastructure oversight staff dealing with DLT-based settlement",
+   "Policy, legal and innovation teams assessing tokenisation proposals, sandboxes and pilot regimes"
+  ],
+  "Learning Objectives": [
+   "Explain how tokenisation works and how DLT-based markets differ from traditional infrastructure",
+   "Assess the legal certainty of tokenised assets, including ownership, transfer and finality",
+   "Evaluate tokenised securities, funds and collateral arrangements against existing regulatory requirements",
+   "Apply the PFMI and custody principles to DLT-based trading, settlement and safekeeping",
+   "Identify interoperability, smart contract and operational risks and the evidence to request from firms",
+   "Design a supervisory approach to tokenisation pilots, sandboxes and wider market adoption"
+  ],
+  "Structure and Format": "Ten modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines a technical briefing with case studies, red flags and supervisory question exercises, closing with a review of a tokenisation proposal, and modules can be selected or tailored to the authority's needs.",
+  "Useful Prior Knowledge and Experience": "A basic understanding of crypto-assets and blockchain is helpful, for example from a fundamentals course, together with some experience of securities, funds or market infrastructure supervision. No technical background is required.",
+  "Core Reading": [
+   "FSB, The Financial Stability Implications of Tokenisation (2024)",
+   "CPMI-IOSCO, Principles for Financial Market Infrastructures (2012)",
+   "IOSCO, Policy Recommendations for Crypto and Digital Asset Markets (2023)",
+   "BIS, Annual Economic Report 2023, Chapter III: Blueprint for the Future Monetary System"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1510,
+   "number": 1,
+   "title": "Foundations of Tokenisation and Distributed Ledgers",
+   "summary": "What tokenisation means in practice, the distributed ledger designs that support it, and the efficiency, transparency and programmability claims that drive market interest.",
+   "objectives": [
+    "Explain the process of tokenising a traditional financial asset",
+    "Distinguish permissioned and permissionless ledgers and their governance",
+    "Assess claimed benefits of tokenisation against current market practice"
+   ],
+   "syllabus": [
+    "Tokens, ledgers, nodes and consensus in plain language",
+    "Permissioned and permissionless networks: governance and access",
+    "Asset classes being tokenised: bonds, funds, equities and real assets",
+    "Claimed benefits: atomic settlement, fractionalisation and programmability"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1511,
+   "number": 2,
+   "title": "The Legal Basis of Tokenised Assets",
+   "summary": "How the law recognises ownership and transfer of tokenised assets, the difference between digitally native and digital twin structures, and why legal certainty is the first supervisory question.",
+   "objectives": [
+    "Explain how tokenised assets are characterised under securities and property law",
+    "Distinguish digitally native issuance from tokenised representations of existing assets",
+    "Assess the legal risks arising from mismatches between the ledger and the legal record"
+   ],
+   "syllabus": [
+    "Native tokens, digital twins and depositary receipt structures",
+    "Classification: when is a token a financial instrument",
+    "Ledger records, registers of ownership and conflict of laws",
+    "Insolvency, enforceability and investor rights"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1512,
+   "number": 3,
+   "title": "Tokenised Securities and Primary Markets",
+   "summary": "How tokenised bonds and equities are issued, disclosed and distributed, the roles of issuers, arrangers and platform operators, and the investor protection issues supervisors should test.",
+   "objectives": [
+    "Explain the issuance process for tokenised bonds and equities",
+    "Assess disclosure, prospectus and distribution requirements for tokenised offerings",
+    "Evaluate investor protection risks from fractionalisation and retail access"
+   ],
+   "syllabus": [
+    "Tokenised bond issuance by sovereigns, supranationals and corporates",
+    "Roles of issuers, arrangers, registrars and token platforms",
+    "Disclosure of technology, legal and operational risks",
+    "Fractionalisation, retail distribution and suitability"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1513,
+   "number": 4,
+   "title": "Tokenised Funds and Fund Distribution",
+   "summary": "How fund units, including money market fund shares, are being tokenised, the effect on transfer agency, valuation and distribution, and the supervisory questions for fund managers and depositaries.",
+   "objectives": [
+    "Explain how tokenised fund units are issued, transferred and redeemed",
+    "Assess the implications for transfer agency, valuation and investor registers",
+    "Evaluate liquidity and conduct risks of tokenised money market fund shares"
+   ],
+   "syllabus": [
+    "Tokenised share classes and on-chain transfer agency",
+    "NAV calculation, dealing cycles and redemption on a ledger",
+    "Tokenised money market fund shares as collateral and settlement assets",
+    "Responsibilities of managers, depositaries and distributors"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1514,
+   "number": 5,
+   "title": "Tokenised Collateral and Repo",
+   "summary": "How tokenisation is being used to mobilise collateral, support intraday repo and margining, and the legal, operational and liquidity risks that faster collateral movements create.",
+   "objectives": [
+    "Explain the use of tokenised assets in collateral management and repo",
+    "Assess legal enforceability of collateral arrangements on a ledger",
+    "Evaluate liquidity and procyclicality risks of faster collateral mobility"
+   ],
+   "syllabus": [
+    "Collateral mobility, intraday repo and margin calls",
+    "Collateral eligibility, haircuts and valuation of tokenised assets",
+    "Enforceability, close-out netting and default management",
+    "Interaction with central counterparties and margin frameworks"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1515,
+   "number": 6,
+   "title": "DLT Market Infrastructure: Trading, Clearing and Settlement",
+   "summary": "How DLT-based trading venues and settlement systems are structured, how the cash leg is settled, and how supervisors assess combined trading and settlement models.",
+   "objectives": [
+    "Explain DLT-based trading, clearing and settlement models",
+    "Assess cash leg options, from tokenised deposits to wholesale central bank money",
+    "Evaluate conflicts and risks in combined trading and settlement functions"
+   ],
+   "syllabus": [
+    "DLT trading venues and multilateral settlement systems",
+    "Delivery versus payment and atomic settlement",
+    "Cash leg options: central bank money, tokenised deposits and stablecoins",
+    "Disintermediation, vertical integration and conflicts of interest"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1516,
+   "number": 7,
+   "title": "Settlement Finality and the PFMI",
+   "summary": "Why settlement finality is fundamental to market stability, how it is achieved on distributed ledgers with different consensus models, and how the PFMI apply to DLT-based infrastructure.",
+   "objectives": [
+    "Explain legal and operational settlement finality",
+    "Assess probabilistic finality and rollback risk in different ledger designs",
+    "Apply the PFMI to DLT-based payment, settlement and securities systems"
+   ],
+   "syllabus": [
+    "Legal finality, operational finality and the irrevocability of transfers",
+    "Consensus mechanisms, forks and probabilistic finality",
+    "PFMI principles on governance, settlement, operational and liquidity risk",
+    "CPMI and IOSCO guidance on stablecoin and DLT arrangements"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1517,
+   "number": 8,
+   "title": "Custody, Safekeeping and Asset Segregation",
+   "summary": "How custody changes when assets are held as tokens, from private key management and wallet architecture to segregation, reconciliation and the protection of client assets on insolvency.",
+   "objectives": [
+    "Explain custody models for tokenised assets and the role of private keys",
+    "Assess segregation, reconciliation and client asset protection on a ledger",
+    "Evaluate key management controls and the risk of loss or theft"
+   ],
+   "syllabus": [
+    "Custody models: direct holding, omnibus and third-party custodians",
+    "Private key management, multi-signature and threshold signatures",
+    "Reconciliation between on-chain records and books and records",
+    "Insolvency protection and return of client assets"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1518,
+   "number": 9,
+   "title": "Interoperability, Smart Contracts and Technology Risk",
+   "summary": "The technology risks specific to tokenised markets, including fragmented ledgers, cross-chain bridges, oracles and smart contract vulnerabilities, and the evidence supervisors should request from firms.",
+   "objectives": [
+    "Assess interoperability between ledgers and with traditional infrastructure",
+    "Evaluate smart contract risk, code audits and upgrade governance",
+    "Identify operational, cyber and third-party risks in DLT arrangements"
+   ],
+   "syllabus": [
+    "Fragmentation, cross-chain bridges and messaging standards",
+    "Smart contract vulnerabilities, audits and emergency controls",
+    "Oracles, data feeds and node operator dependencies",
+    "Red flags and supervisory questions on DLT technology risk"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1519,
+   "number": 10,
+   "title": "Pilot Regimes, Sandboxes and Supervisory Strategy",
+   "summary": "Brings the programme together into a strategic view of how authorities enable and oversee tokenisation, from sandboxes and pilot regimes to permanent frameworks and international coordination.",
+   "objectives": [
+    "Compare sandbox, pilot regime and permanent framework approaches to tokenisation",
+    "Evaluate a tokenisation initiative against supervisory and financial stability criteria",
+    "Design the authority's approach to tokenised markets"
+   ],
+   "syllabus": [
+    "Pilot regimes and sandboxes: exemptions, limits and exit routes",
+    "Lessons from tokenisation pilots and central bank experiments",
+    "International work: FSB, IOSCO, CPMI and BIS on tokenisation",
+    "Workshop: supervisory review of a tokenised bond and settlement proposal"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 221,
+   "entryType": "programme",
+   "title": "Crypto and Blockchain Fundamentals",
+   "summary": "A ten-module foundation programme giving supervisors a practical understanding of blockchain, crypto-asset markets and service providers, and the risks they must supervise.",
+   "level": "Foundation",
+   "moduleCount": 10,
+   "hours": 40,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 226,
+   "entryType": "programme",
+   "title": "Crypto-Asset Regulation and Supervision",
+   "summary": "An advanced twelve-module programme equipping supervisors to authorise, supervise and take action against crypto-asset firms under comprehensive regimes and international standards.",
+   "level": "Advanced",
+   "moduleCount": 12,
+   "hours": 48,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 233,
+   "entryType": "programme",
+   "title": "Digital Money: Stablecoins, Tokenised Deposits and CBDCs",
+   "summary": "A ten-module programme equipping supervisors and central bankers to assess stablecoins, tokenised deposits and CBDCs, and their risks to payments and financial stability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 282,
+   "entryType": "programme",
+   "title": "MiCA Essentials for Supervisors (EU Edition)",
+   "summary": "A six-module essentials programme giving EU national competent authority staff a practical command of MiCA, from token regimes and CASP authorisation to supervision and enforcement.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 311,
+   "entryType": "programme",
+   "title": "Supervising Crypto-Asset Service Providers under MiCA (EU Edition)",
+   "summary": "An advanced fifteen-module programme equipping EU national competent authorities to authorise and supervise crypto-asset service providers and token issuers under MiCA.",
+   "level": "Advanced",
+   "moduleCount": 15,
+   "hours": 75,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

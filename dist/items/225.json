@@ -1,0 +1,313 @@
+{
+ "id": 225,
+ "entryType": "programme",
+ "title": "Crypto-Asset Financial Crime: Typologies, Tracing and Controls",
+ "summary": "An eight-module programme equipping supervisors, FIU analysts and investigators to recognise crypto-asset crime typologies, trace funds on-chain and assess service providers' controls.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Reducing Financial Crime & Delivering Market Integrity",
+ "tags": [
+  "Financial crime",
+  "Crypto & digital assets"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 24,
+ "durationUnit": "hours",
+ "role": [
+  "Enforcement & investigations",
+  "Policy & specialist teams",
+  "Supervisors & inspectors",
+  "FIU analysts",
+  "Financial investigators & police",
+  "Prosecutors & judiciary",
+  "Asset recovery, customs & tax"
+ ],
+ "firmType": [
+  "Crypto-Assets & Digital Money"
+ ],
+ "slug": "crypto-asset-financial-crime-investigations",
+ "moduleCount": 8,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips supervisors, FIU analysts and investigators to recognise how crypto-assets are used to launder and move criminal proceeds, trace funds on-chain, and assess the controls that service providers should have in place.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "Digital Assets, AI & Innovation"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give supervisors, FIU analysts and investigators a practical understanding of crypto-asset financial crime, from the main typologies and laundering techniques to how transactions are traced and attributed. Participants leave able to recognise red flags, test a service provider's due diligence and monitoring, interpret tracing evidence critically and decide on an effective supervisory or investigative response.",
+  "What It Covers": "Crypto-asset fundamentals for financial crime work, the FATF standards for virtual assets, criminal typologies, the laundering lifecycle on-chain, mixers and tumblers, privacy coins and unhosted wallets, blockchain tracing and attribution, customer due diligence and monitoring at service providers, the travel rule, suspicious transaction reporting, freezing and seizure, and international cooperation.",
+  "Intended Audience": [
+   "AML/CFT supervisors and inspectors responsible for crypto-asset service providers",
+   "FIU analysts handling crypto-related suspicious transaction reports and intelligence",
+   "Law-enforcement and financial crime investigators working on cases involving crypto-assets"
+  ],
+  "Learning Objectives": [
+   "Explain how crypto-asset networks, wallets and service providers work and where financial crime risk arises",
+   "Identify the main typologies and red flags of crypto-enabled crime",
+   "Analyse how proceeds are placed, layered and integrated using crypto-assets and anonymity-enhancing tools",
+   "Interpret blockchain tracing and attribution evidence and recognise its limits",
+   "Assess service providers' customer due diligence, monitoring, travel rule and sanctions controls",
+   "Apply intelligence, freezing, seizure and cooperation tools to build an effective response"
+  ],
+  "Structure and Format": "Eight modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines a technical briefing with worked cases, red-flag exercises and supervisory or investigative questions, ending in an investigation workshop, and modules can be selected or tailored to the participants' roles.",
+  "Useful Prior Knowledge and Experience": "Some experience of AML/CFT supervision, financial intelligence or financial crime investigation is helpful. No technical background in blockchain is required.",
+  "Core Reading": [
+   "FATF, International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation: The FATF Recommendations (as updated)",
+   "FATF, Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers (2021)",
+   "FATF, Guidance on Risk-Based Supervision (2021)",
+   "FATF, Opportunities and Challenges of New Technologies for AML/CFT (2021)"
+  ]
+ },
+ "modules": [
+  {
+   "id": 623,
+   "number": 1,
+   "title": "Crypto-Assets and Financial Crime Risk: Foundations",
+   "summary": "The technical and regulatory grounding for financial crime work: how public blockchains, wallets and service providers operate, why they attract criminals, and what the FATF standards require.",
+   "objectives": [
+    "Explain addresses, keys, transactions and public ledgers in plain terms",
+    "Describe the roles of exchanges, custodians, brokers and other service providers",
+    "Summarise the FATF standards and risk-based approach for virtual assets"
+   ],
+   "syllabus": [
+    "Blockchains, wallets, keys and transaction records",
+    "Service provider business models and points of fiat conversion",
+    "Pseudonymity, speed and cross-border reach as risk factors",
+    "FATF Recommendations 15 and 16 and the risk-based approach"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 624,
+   "number": 2,
+   "title": "Typologies: How Criminals Use Crypto-Assets",
+   "summary": "The principal ways crypto-assets are used in crime, from fraud and ransomware to sanctions evasion and terrorist financing, with the red flags supervisors and investigators should look for.",
+   "objectives": [
+    "Identify the main predicate offences and typologies involving crypto-assets",
+    "Recognise red flags in customer behaviour and transaction patterns",
+    "Assess emerging typologies and their implications for national risk assessments"
+   ],
+   "syllabus": [
+    "Investment and romance scams, fraud and money mule networks",
+    "Ransomware, darknet markets and cyber-enabled crime",
+    "Sanctions evasion, proliferation and terrorist financing",
+    "Red-flag indicators and feeding typologies into risk assessment"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 625,
+   "number": 3,
+   "title": "The Laundering Lifecycle On-Chain",
+   "summary": "How criminal proceeds move through placement, layering and integration using crypto-assets, and where along the chain the best opportunities for detection and disruption lie.",
+   "objectives": [
+    "Map placement, layering and integration to crypto-asset techniques",
+    "Explain chain-hopping, cross-chain bridges and decentralised finance as layering tools",
+    "Identify off-ramps and detection points where intervention is most effective"
+   ],
+   "syllabus": [
+    "Placement: cash-to-crypto, kiosks, peer-to-peer and over-the-counter brokers",
+    "Layering: rapid hops, chain-hopping, bridges, swaps and decentralised protocols",
+    "Integration: off-ramps, nested services, merchant payments and high-value assets",
+    "Detection points across the lifecycle"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 626,
+   "number": 4,
+   "title": "Anonymity-Enhancing Tools: Mixers, Privacy Coins and Unhosted Wallets",
+   "summary": "How mixers and tumblers, privacy-enhancing coins and self-hosted wallets obscure the audit trail, what can still be seen, and the controls and supervisory responses they call for.",
+   "objectives": [
+    "Explain how mixing, tumbling and coin-joining break transaction links",
+    "Describe how privacy coins and privacy features limit traceability",
+    "Assess service providers' policies on anonymity-enhanced transfers and unhosted wallets"
+   ],
+   "syllabus": [
+    "Custodial and non-custodial mixers, tumblers and coin-joining",
+    "Privacy-enhancing coins and privacy features: what remains visible",
+    "Unhosted wallets and peer-to-peer transfers: risk and controls",
+    "Red flags, enhanced due diligence and restrictions on exposure"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 627,
+   "number": 5,
+   "title": "Tracing and Attribution: Blockchain Analytics in Practice",
+   "summary": "How investigators and service providers trace funds across public ledgers, cluster and attribute addresses, and how far analytics outputs can be relied on as intelligence or evidence.",
+   "objectives": [
+    "Explain the main tracing techniques and clustering heuristics",
+    "Interpret risk scores, exposure reports and attribution data critically",
+    "Assess the evidential value and limits of analytics outputs"
+   ],
+   "syllabus": [
+    "Traceability on public ledgers: following inputs and outputs",
+    "Clustering, attribution and labelling of services and illicit actors",
+    "Risk scoring, false positives and gaps in coverage",
+    "From analytics to evidence: documentation, reproducibility and expert testimony"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 628,
+   "number": 6,
+   "title": "Customer Due Diligence and Controls at Service Providers",
+   "summary": "What effective AML/CFT controls look like at crypto-asset service providers, and how supervisors test customer due diligence, wallet screening, transaction monitoring and travel rule compliance.",
+   "objectives": [
+    "Assess customer due diligence and ongoing monitoring for crypto-asset customers",
+    "Evaluate wallet screening, transaction monitoring and sanctions controls",
+    "Test travel rule implementation and counterparty service provider due diligence"
+   ],
+   "syllabus": [
+    "Customer risk assessment, onboarding and source of funds and wealth",
+    "Wallet screening, transaction monitoring scenarios and alert handling",
+    "The travel rule: originator and beneficiary data and counterparty checks",
+    "Supervisory testing: sample selection, walk-throughs and common deficiencies"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 629,
+   "number": 7,
+   "title": "From Intelligence to Action: Reporting, Seizure and Cooperation",
+   "summary": "How suspicious transaction reports become usable intelligence, how crypto-assets are frozen, seized and safely held, and how authorities cooperate across borders and with the private sector.",
+   "objectives": [
+    "Evaluate the quality of crypto-related suspicious transaction reports",
+    "Explain the practicalities of freezing, seizing and managing crypto-assets",
+    "Use domestic and international cooperation channels effectively"
+   ],
+   "syllabus": [
+    "Suspicious transaction reporting: content, quality and FIU analysis",
+    "Freezing and seizure: private keys, service provider cooperation and custody",
+    "Asset management, valuation and return of seized crypto-assets",
+    "International cooperation, information sharing and public-private partnerships"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 630,
+   "number": 8,
+   "title": "Investigation Workshop: Following the Funds",
+   "summary": "Brings the programme together in a case exercise in which teams trace illicit funds, assess a service provider's controls and agree a coordinated supervisory, intelligence and enforcement response.",
+   "objectives": [
+    "Apply typologies, tracing and red flags to a realistic case",
+    "Assess the control failures that allowed the funds to move",
+    "Agree a coordinated response across supervisor, FIU and law enforcement"
+   ],
+   "syllabus": [
+    "Case briefing: a fraud and laundering scheme across several service providers",
+    "Tracing exercise and red-flag analysis",
+    "Control failures and supervisory findings",
+    "Workshop: the joint response and action plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 326,
+   "entryType": "programme",
+   "title": "The EU AML Package: AMLR, AMLD6 and AMLA (EU Edition)",
+   "summary": "An eight-module programme on the EU AML package for supervisors and firms: the AML Regulation single rulebook, AMLD6, AMLA's supervisory model, crypto-asset transfers and transition planning.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Payments and EMIs",
+    "Crypto and Web3",
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 245,
+   "entryType": "programme",
+   "title": "Financial Crime Foundations for Regulatory Staff",
+   "summary": "An eight-module foundation programme giving regulatory staff a grounding in AML/CFT, sanctions and fraud, firms' controls and financial crime red flags.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 247,
+   "entryType": "programme",
+   "title": "Financial Crime Supervision in the Age of AI",
+   "summary": "A ten-module programme equipping supervisors to assess financial crime controls and firms' use of AI in monitoring, screening, fraud and surveillance.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 256,
+   "entryType": "programme",
+   "title": "FIU Operational and Strategic Analysis",
+   "summary": "A ten-module programme equipping FIU analysts to prioritise and analyse reports, produce operational and strategic intelligence, and cooperate effectively at home and abroad.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

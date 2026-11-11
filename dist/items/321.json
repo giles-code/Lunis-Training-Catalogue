@@ -1,0 +1,268 @@
+{
+ "id": 321,
+ "entryType": "programme",
+ "title": "Tax Crime and Money Laundering",
+ "summary": "A six-module programme equipping tax, FIU and law-enforcement investigators to tackle tax crime and related laundering through information exchange and joint investigation.",
+ "clientType": [
+  "regulators",
+  "government"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors",
+  "Governments and policymakers"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions",
+  "government": "Public Policy Programmes"
+ },
+ "topic": "Financial Intelligence & Law Enforcement",
+ "tags": [
+  "Financial crime"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "Hybrid",
+  "In-person",
+  "Online"
+ ],
+ "durationValue": 18,
+ "durationUnit": "hours",
+ "role": [
+  "Asset recovery, customs & tax",
+  "Financial investigators & police",
+  "FIU analysts"
+ ],
+ "firmType": [],
+ "slug": "tax-crime-and-money-laundering",
+ "moduleCount": 6,
+ "hoursPerModule": 3,
+ "intro": "This training programme equips tax, FIU and law-enforcement investigators to tackle the overlap between tax crime and money laundering, from offshore structures and professional enablers to information exchange and joint investigations.",
+ "lastUpdated": "2026-10-23",
+ "businessFunction": [
+  "Financial Crime, AML & Sanctions Compliance",
+  "International & Cross-Border Affairs"
+ ],
+ "contentGaps": [],
+ "sections": {
+  "Aim and Purpose": "To give tax investigators, FIU analysts and financial investigators a shared understanding of how tax crime and money laundering intersect, and how each agency's tools can strengthen the others' cases. Participants leave able to recognise the laundering of tax crime proceeds, use international information exchange, unpick offshore structures and run effective joint investigations.",
+  "What It Covers": "Tax crimes as predicate offences for money laundering, the OECD principles for fighting tax crime, offshore structures and beneficial ownership, exchange of information on request and automatically, inter-agency cooperation and joint investigations, professional enablers, and recovering the proceeds of tax crime.",
+  "Intended Audience": [
+   "Tax crime investigators, tax auditors and revenue intelligence officers",
+   "FIU analysts and financial investigators handling tax-related intelligence",
+   "Prosecutors and asset recovery officers working on tax and laundering cases"
+  ],
+  "Learning Objectives": [
+   "Explain the links between tax crime and money laundering and the relevant international standards",
+   "Identify indicators of tax evasion and laundering in financial and tax data",
+   "Analyse offshore structures, nominee arrangements and beneficial ownership",
+   "Use exchange of information on request, automatically and spontaneously",
+   "Plan joint investigations across tax, FIU and law-enforcement agencies",
+   "Disrupt professional enablers and recover the proceeds of tax crime"
+  ],
+  "Structure and Format": "Six modules of about three hours each, delivered in person, virtually or in a hybrid format, either as a multi-day programme or as a series of half-day sessions. Each module combines a technical briefing with case studies and structure-mapping exercises, ending in a joint investigation workshop, and modules can be selected or tailored to the participating agencies.",
+  "Useful Prior Knowledge and Experience": "Some experience of tax investigation, financial intelligence or financial crime work is helpful. No specialist knowledge of international tax law is required.",
+  "Core Reading": [
+   "OECD (2021), Fighting Tax Crime – The Ten Global Principles, Second Edition",
+   "OECD (2019), Money Laundering and Terrorist Financing Awareness Handbook for Tax Examiners and Tax Auditors",
+   "OECD (2021), Ending the Shell Game: Cracking down on the Professionals who enable Tax and White Collar Crimes",
+   "OECD (2017), Standard for Automatic Exchange of Financial Account Information in Tax Matters, Second Edition",
+   "FATF (2024), Guidance on Beneficial Ownership and Transparency of Legal Arrangements"
+  ]
+ },
+ "modules": [
+  {
+   "id": 1462,
+   "number": 1,
+   "title": "Tax Crime and Money Laundering: The Links",
+   "summary": "Why tax crimes are predicate offences for money laundering, how evasion and laundering overlap, and the international standards and principles that frame a joined-up response.",
+   "objectives": [
+    "Explain tax crimes as predicate offences under the FATF standards",
+    "Distinguish evasion, avoidance and laundering of tax crime proceeds",
+    "Summarise the OECD Ten Global Principles for fighting tax crime"
+   ],
+   "syllabus": [
+    "Tax crimes as designated predicate offences",
+    "Evasion, aggressive avoidance and laundering compared",
+    "The OECD Ten Global Principles and national strategies",
+    "Common schemes: undeclared income, false invoicing and indirect tax fraud"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1463,
+   "number": 2,
+   "title": "Offshore Structures, Secrecy and Beneficial Ownership",
+   "summary": "How companies, trusts, foundations and accounts in low-transparency jurisdictions are used to hide income and assets, and how investigators identify beneficial owners and controllers.",
+   "objectives": [
+    "Recognise structures commonly used to conceal income and assets",
+    "Map ownership and control across several jurisdictions",
+    "Use beneficial ownership information while recognising its limits"
+   ],
+   "syllabus": [
+    "Offshore companies, trusts, foundations and nominee arrangements",
+    "Indicators of concealment and artificial arrangements",
+    "Beneficial ownership registers and service provider records",
+    "Mapping exercise: tracing a multi-layered structure"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1464,
+   "number": 3,
+   "title": "International Exchange of Information",
+   "summary": "How tax authorities obtain information from abroad through exchange on request, automatic and spontaneous exchange, and how that information can, where permitted, support criminal investigations and FIU work.",
+   "objectives": [
+    "Explain exchange on request, automatic exchange and spontaneous exchange",
+    "Use financial account and country-by-country data in investigations",
+    "Apply the conditions governing use of exchanged information for non-tax purposes"
+   ],
+   "syllabus": [
+    "Exchange on request and the standard of foreseeable relevance",
+    "The Common Reporting Standard and automatic exchange of financial account information",
+    "Spontaneous exchange and country-by-country reporting",
+    "Using tax information for non-tax purposes: conditions and gateways"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1465,
+   "number": 4,
+   "title": "Inter-Agency Cooperation and Joint Investigations",
+   "summary": "Models of cooperation between tax administrations, FIUs, police and prosecutors, from information-sharing gateways to joint investigation teams, and how to make them work in practice.",
+   "objectives": [
+    "Compare models of domestic inter-agency cooperation",
+    "Use the legal gateways between tax, FIU and law-enforcement agencies",
+    "Plan a joint investigation with clear governance and roles"
+   ],
+   "syllabus": [
+    "Models of cooperation: gateways, secondments and joint task forces",
+    "Tax access to FIU information and reporting of suspicions by tax officials",
+    "Joint investigation teams and international tax crime cooperation",
+    "Governance, confidentiality and case ownership"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1466,
+   "number": 5,
+   "title": "Professional Enablers",
+   "summary": "How lawyers, accountants, tax advisers, trust and company service providers and financial professionals facilitate tax crime and laundering, and the tools available to investigate and disrupt them.",
+   "objectives": [
+    "Identify the roles professional enablers play in tax and laundering schemes",
+    "Recognise indicators of complicit or negligent professional involvement",
+    "Apply criminal, civil, regulatory and disruptive responses to enablers"
+   ],
+   "syllabus": [
+    "Typologies of professional enablement",
+    "Legal professional privilege and access to professional records",
+    "Working with professional supervisors and self-regulatory bodies",
+    "Disruption strategies: prosecution, penalties and deterrence"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  },
+  {
+   "id": 1467,
+   "number": 6,
+   "title": "Recovering Proceeds and Joint Case Workshop",
+   "summary": "Brings the programme together by examining recovery of tax crime proceeds through criminal, civil and tax routes, ending with a workshop in which teams plan a joint tax and money laundering investigation.",
+   "objectives": [
+    "Compare criminal confiscation, civil recovery and tax assessment as recovery routes",
+    "Coordinate recovery across tax and law-enforcement agencies",
+    "Apply the programme to plan a realistic joint investigation"
+   ],
+   "syllabus": [
+    "Tax assessments, penalties and criminal confiscation",
+    "Civil recovery and settlements in tax crime cases",
+    "Avoiding double recovery and coordinating enforcement",
+    "Workshop: the joint tax and laundering investigation plan"
+   ],
+   "durationValue": 3,
+   "durationUnit": "hours"
+  }
+ ],
+ "related": [
+  {
+   "id": 203,
+   "entryType": "programme",
+   "title": "Asset Recovery: Tracing, Freezing and Confiscation",
+   "summary": "An eight-module programme equipping practitioners to trace, restrain, confiscate, manage and return criminal assets, including crypto-assets and assets held abroad.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 250,
+   "entryType": "programme",
+   "title": "Financial Investigation: Following the Money",
+   "summary": "A ten-module programme equipping investigators and analysts to run parallel financial investigations, trace funds through accounts and corporate vehicles, and present financial evidence.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 256,
+   "entryType": "programme",
+   "title": "FIU Operational and Strategic Analysis",
+   "summary": "A ten-module programme equipping FIU analysts to prioritise and analyse reports, produce operational and strategic intelligence, and cooperate effectively at home and abroad.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 258,
+   "entryType": "programme",
+   "title": "Fraud and Cyber-Enabled Financial Crime Investigations",
+   "summary": "An eight-module programme equipping investigators and FIU analysts to tackle fraud, money mules and ransomware proceeds, working with banks and payment firms to recover funds.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 295,
+   "entryType": "programme",
+   "title": "Prosecuting Financial Crime: Evidence, Experts and the Courtroom",
+   "summary": "An eight-module programme equipping prosecutors and judges to handle money laundering and complex financial crime cases, from charge and evidence to sentencing and confiscation.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  },
+  {
+   "id": 296,
+   "entryType": "programme",
+   "title": "Public-Private Partnerships and Financial Intelligence Sharing",
+   "summary": "A six-module programme equipping FIUs and law-enforcement agencies to design, run and evaluate public-private partnerships for sharing financial intelligence lawfully and effectively.",
+   "level": "Intermediate",
+   "moduleCount": 6,
+   "hours": 18,
+   "clientTypeLabels": [
+    "Regulators and supervisors",
+    "Governments and policymakers"
+   ]
+  }
+ ]
+}

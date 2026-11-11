@@ -1,0 +1,117 @@
+{
+ "id": 142,
+ "entryType": "module",
+ "title": "Performance Measurement and Disclosure Supervision",
+ "summary": "The aim of this workshop is to build participants' understanding of how investment performance is measured, attributed, and disclosed, and how supervisors assess the accuracy and fairness of performance claims used in marketing.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Management",
+ "tags": [
+  "Funds & asset management"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Funds & Asset Management"
+ ],
+ "slug": "performance-measurement-and-disclosure-supervision",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of how investment performance is measured, attributed, and disclosed, and how supervisors assess the accuracy and fairness of performance claims used in marketing.",
+  "Intended Audience": "Junior to mid-level supervisors working in investment management supervision.",
+  "Learning Objectives": [
+   "Explain standard performance measurement methodologies",
+   "Describe performance attribution and its role in explaining returns",
+   "Assess the accuracy of a sample performance disclosure",
+   "Evaluate marketing performance claims for fairness and compliance",
+   "Formulate a supervisory assessment of a firm's performance disclosure practice"
+  ],
+  "Syllabus": [
+   "Standard performance measurement methodologies (e.g. GIPS)",
+   "Time-weighted versus money-weighted returns",
+   "Gross versus net-of-fee performance presentation",
+   "Why standardisation matters for comparability",
+   "Facilitated discussion: performance disclosure issues participants have encountered",
+   "Performance attribution: explaining sources of return",
+   "Common inaccuracies in performance reporting",
+   "Benchmark selection and its effect on perceived performance",
+   "Verifying disclosed performance against underlying data",
+   "Group exercise: verify a sample performance disclosure against underlying portfolio data",
+   "Assessing marketing performance claims for fairness and compliance",
+   "Cherry-picking and misleading presentation techniques",
+   "Case study: a marketing claim raising fair-presentation concerns",
+   "Case study: formulate a supervisory assessment of a firm's performance disclosure practice",
+   "Recap: measurement standards, attribution, disclosure accuracy, marketing claims",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Performance measurement methodologies (09:30–10:45)\n- Session 2: Attribution and disclosure accuracy (11:00–12:30)\n- Session 3: Marketing claims and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Standardised performance measurement makes genuine comparison possible; deviations should raise questions\n- Benchmark selection can materially affect how good or bad a performance record appears\n- Marketing performance claims deserve the same scrutiny as any other investor-facing disclosure",
+  "Useful Prior Knowledge and Experience": "Some familiarity with investment management is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 277,
+   "entryType": "programme",
+   "title": "Investment Management and Private Markets Supervision",
+   "summary": "A ten-module programme equipping supervisors to oversee investment, wealth and private market managers, including private credit, leverage, valuation and non-bank systemic risk.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 202,
+   "entryType": "programme",
+   "title": "Asset Management and Investment Fund Regulation: International Edition",
+   "summary": "A ten-module programme mapping asset management and fund regulation through IOSCO and FSB standards, from fund regimes and delegation to liquidity, cross-border distribution, sustainability and resilience.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 240,
+   "entryType": "programme",
+   "title": "EU Asset Management and Investment Fund Regulation (EU Edition)",
+   "summary": "A ten-module programme mapping EU fund and asset management regulation, from UCITS, AIFMD and MiFID II to liquidity, delegation, cross-border marketing, SFDR and DORA.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Financial services firms",
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

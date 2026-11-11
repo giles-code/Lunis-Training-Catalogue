@@ -1,0 +1,161 @@
+{
+ "id": 155,
+ "entryType": "module",
+ "title": "Risk Governance & Thematic Review Panels",
+ "summary": "Prepares supervisory staff to participate effectively in risk governance panels (RGPs) and thematic review panels (TRPs) — internal governance mechanisms used to review and challenge supervisory assessments and thematic findings.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Regulatory Functions"
+ },
+ "topic": "Ongoing Supervision",
+ "tags": [
+  "Supervisory practice & skills"
+ ],
+ "level": "Intermediate",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 1,
+ "durationUnit": "days",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [],
+ "slug": "risk-governance-and-thematic-review-panels",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "Prepares supervisory staff to participate effectively in risk governance panels (RGPs) and thematic review panels (TRPs) — internal governance mechanisms used to review and challenge supervisory assessments and thematic findings.",
+  "Intended Audience": "Junior to mid-level supervisory staff conducting day-to-day risk assessment and firm engagement.",
+  "Learning Objectives": [
+   "Explain the role and purpose of thematic review panels and risk governance panels",
+   "Describe the operating procedures for both panel types, including the role of key participants",
+   "Identify the main components of the RGP and TRP report",
+   "Explain the do's and don'ts for panel members and presenters",
+   "Discuss the importance of challenging and open discussion in panels"
+  ],
+  "Syllabus": "**Morning | 09:30–13:00** — What are risk governance and thematic review panels? Purpose and types of panel within the overall supervisory risk framework, including lessons from risk assurance reviews Thematic review panels: what drives thematic reviews, types of review, how to set one up effectively, avoiding the ‘Christmas tree effect’ of over-scoping Managing moral hazard from thematic reviews; thematic governance panel composition, packs, role and reporting Risk governance panels: purpose, frequency, duration, composition, and how RGPs support supervisors\n\n**Afternoon | 14:00–16:00** — Panel operation, roles and case study The phases of an RGP: pre-panel meeting, panel discussion (preliminary issues, core issues, conclusions), post-panel actions and follow-up Selecting and preparing panel members; role of presenters, panel chair, and panel secretary; meeting minutes and observer etiquette Preparing an RGP pack: key content, supervisory narrative, supporting information, assessing materiality Case study: a firm risk assessment exercise applying the panel process end-to-end",
+  "Structure and Format": "Delivered as a single full-day workshop.",
+  "Useful Prior Knowledge and Experience": "Some familiarity with ongoing supervision is helpful but not essential.",
+  "Core Reading": [
+   "IMF, Good Supervision: Lessons from the Field (Working Paper WP/23/181, 2023)",
+   "IMF, The Making of Good Supervision: Learning to Say \"No\" (Staff Position Note SPN/10/08, 2010)",
+   "Basel Committee, Corporate Governance Principles for Banks (2015)",
+   "Rebecca Milne and Ray Bull, Investigative Interviewing: Psychology and Practice (1999)"
+  ]
+ },
+ "inherited": [
+  "Core Reading",
+  "level"
+ ],
+ "partOf": [
+  {
+   "programme": 218,
+   "module": 7,
+   "title": "Core Supervisory Skills: Business Models, Governance and Risk Governance Panels",
+   "moduleCount": 9,
+   "durationValue": 18,
+   "durationUnit": "hours",
+   "level": "Intermediate",
+   "modules": [
+    {
+     "id": 560,
+     "number": 1,
+     "title": "Strategy, Business Models and Why Supervisors Analyse Them"
+    },
+    {
+     "id": 561,
+     "number": 2,
+     "title": "Analysing the Business: Environment, Financials and Dependencies"
+    },
+    {
+     "id": 562,
+     "number": 3,
+     "title": "Case Study: Scoring the Business Model and Meeting the Management"
+    },
+    {
+     "id": 563,
+     "number": 4,
+     "title": "Assessing Governance Risk"
+    },
+    {
+     "id": 564,
+     "number": 5,
+     "title": "Supervisory Interviews: Planning, Questioning and Evidence"
+    },
+    {
+     "id": 565,
+     "number": 6,
+     "title": "Mock Interviews: The On-Site Visit"
+    },
+    {
+     "id": 155,
+     "number": 7,
+     "title": "Risk Governance & Thematic Review Panels"
+    },
+    {
+     "id": 566,
+     "number": 8,
+     "title": "Preparing the Panel Paper and Risk Mitigation Programme"
+    },
+    {
+     "id": 567,
+     "number": 9,
+     "title": "Risk Governance Panel Role Play and Delivering the Outcome"
+    }
+   ]
+  }
+ ],
+ "related": [
+  {
+   "id": 201,
+   "entryType": "programme",
+   "title": "Assessing Board Effectiveness",
+   "summary": "An eight-module programme showing supervisors how to assess how a board really works, from papers and decisions to culture and challenge, culminating in case-study interviews.",
+   "level": "Intermediate",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 267,
+   "entryType": "programme",
+   "title": "How Financial Firms Work: Business Models and Financial Statements for Supervisors",
+   "summary": "An eight-module programme helping supervisors understand how financial firms make money, read their accounts and identify capital, liquidity and business model risks.",
+   "level": "Foundation",
+   "moduleCount": 8,
+   "hours": 24,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 310,
+   "entryType": "programme",
+   "title": "Supervising Compliance in Practice: Masterclass Series",
+   "summary": "Ten half-day masterclasses showing supervisors how to test whether firms' compliance arrangements work in practice across core compliance areas.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 35,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

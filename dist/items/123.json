@@ -1,0 +1,116 @@
+{
+ "id": 123,
+ "entryType": "module",
+ "title": "Market Infrastructure Supervision: CCPs, CSDs and Trading Venues",
+ "summary": "The aim of this workshop is to build participants' understanding of the regulatory framework for central counterparties, central securities depositories, and trading venues, and the supervisory considerations specific to critical market infrastructure.",
+ "clientType": [
+  "regulators"
+ ],
+ "clientTypeLabels": [
+  "Regulators and supervisors"
+ ],
+ "pillar": {
+  "regulators": "Sector Programmes"
+ },
+ "topic": "Investment Services & Capital Markets",
+ "tags": [
+  "Investment services & markets"
+ ],
+ "level": "",
+ "deliveryFormat": [
+  "In-person"
+ ],
+ "durationValue": 3.5,
+ "durationUnit": "hours",
+ "role": [
+  "Supervisors & inspectors"
+ ],
+ "firmType": [
+  "Investment Firms & Wealth Management",
+  "Market Infrastructure & Trading Venues"
+ ],
+ "slug": "market-infrastructure-supervision-ccps-csds-and-trading-venues",
+ "intro": "",
+ "lastUpdated": "",
+ "businessFunction": [
+  "Supervision"
+ ],
+ "contentGaps": [
+  "deliveryFormat: not stated in source catalogue; defaulted to In-person pending confirmation",
+  "intendedAudience: generic per-track guidance, not individually sourced",
+  "priorKnowledge: inferred from course title/track, not stated in source",
+  "level: not yet set"
+ ],
+ "sections": {
+  "Aim and Purpose": "The aim of this workshop is to build participants' understanding of the regulatory framework for central counterparties, central securities depositories, and trading venues, and the supervisory considerations specific to critical market infrastructure.",
+  "Intended Audience": "Junior to mid-level supervisors working in investment services/capital markets supervision.",
+  "Learning Objectives": [
+   "Explain the role of CCPs, CSDs and trading venues in market infrastructure",
+   "Describe the key regulatory requirements for CCPs and CSDs",
+   "Assess the systemic importance of market infrastructure entities",
+   "Evaluate risk management arrangements at a sample market infrastructure entity",
+   "Formulate a supervisory risk assessment for market infrastructure"
+  ],
+  "Syllabus": [
+   "The role of CCPs in central clearing and counterparty risk mitigation",
+   "CSDs and securities settlement",
+   "Trading venues: regulated markets, MTFs, OTFs",
+   "Why market infrastructure requires distinct regulatory treatment",
+   "Facilitated discussion: market infrastructure risk episodes participants are aware of",
+   "Key regulatory requirements for CCPs: margining, default management, capital",
+   "Key regulatory requirements for CSDs: settlement discipline, capital",
+   "Why market infrastructure entities are considered systemically critical",
+   "Interconnectedness risk between infrastructure entities",
+   "Group exercise: map the systemic importance of a sample market infrastructure entity",
+   "Assessing default management and margining arrangements",
+   "Operational resilience considerations for market infrastructure",
+   "Case study: a market infrastructure entity under supervisory review",
+   "Case study: formulate a supervisory risk assessment for a sample market infrastructure entity",
+   "Recap: infrastructure roles, CCP and CSD requirements, systemic importance, risk management",
+   "Reflection and discussion",
+   "Q&A"
+  ],
+  "Structure and Format": "Proposed as a half-day workshop (approx. 3.5 hours substantive content), comprising 4 sessions:\n- Session 1: Market infrastructure fundamentals (09:30–10:45)\n- Session 2: CCP and CSD requirements and systemic importance (11:00–12:30)\n- Session 3: Risk management and application (13:30–14:45)\n- Session 4: Wrap-up and key takeaways (14:45–15:00)\n\n**Key Takeaways**\n- Market infrastructure entities require a systemic risk lens, not just an entity-level supervisory approach\n- Default management and margining arrangements are the core of CCP risk management and deserve close scrutiny\n- Interconnectedness between infrastructure entities can transmit risk quickly across the whole market system",
+  "Useful Prior Knowledge and Experience": "Some familiarity with investment services & capital markets is helpful but not essential."
+ },
+ "inherited": [],
+ "partOf": [],
+ "related": [
+  {
+   "id": 209,
+   "entryType": "programme",
+   "title": "Capital Markets and Investment Services Supervision",
+   "summary": "A ten-module programme equipping supervisors to oversee investment firms, trading venues and issuers, from client conduct and client assets to algorithmic trading and market abuse.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 312,
+   "entryType": "programme",
+   "title": "Supervising Financial Market Infrastructures",
+   "summary": "An advanced ten-module programme equipping supervisors and overseers to apply the PFMI to trading venues, CCPs, CSDs, payment systems and trade repositories.",
+   "level": "Advanced",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  },
+  {
+   "id": 193,
+   "entryType": "programme",
+   "title": "Agentic Finance for Supervisors",
+   "summary": "A ten-module programme equipping supervisors to understand and supervise AI agents that transact and make financial decisions, from agent identity to payments and liability.",
+   "level": "Intermediate",
+   "moduleCount": 10,
+   "hours": 30,
+   "clientTypeLabels": [
+    "Regulators and supervisors"
+   ]
+  }
+ ]
+}

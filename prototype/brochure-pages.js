@@ -191,7 +191,7 @@
       sec("delivery", "Delivery", "How the module runs",
         para(s["Structure and Format"] || (hrs ? "About " + hrs.replace("c. ", "") + " of teaching, combining short input with case studies, group exercises and practical tools. Available on its own or as part of the full programme." : "")) +
         para(s["Useful Prior Knowledge and Experience"] || ps["Useful Prior Knowledge and Experience"]) + delivCards(e, false)) +
-      (prog ? sec("programme", "Part of a programme", prog.title,
+      (prog ? sec("programme", "Part of a programme", "The full programme",
         '<div class="partof"><a class="pt" href="' + esc(ctx.pageUrl(prog.id)) + '">' + esc(prog.title) + "</a>" +
         '<div class="mod-meta">' + esc([mods.length + " modules", prog.durationValue ? prog.durationValue + " hrs in total" : "", prog.level].filter(Boolean).join(" · ")) + "</div>" +
         "<ol>" + mods.map(function (x) {

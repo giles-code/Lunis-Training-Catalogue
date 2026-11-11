@@ -1,0 +1,50 @@
+{
+  "$comment": "Full track list from the Lunis Training Supervisory Training Framework & Master Catalogue (Layers 0-3), plus the Business Functions tracks for the Firms audience (no course content yet). Each track sits under exactly one pillar. Used to validate the course frontmatter's `track` field and check it agrees with the course's `pillar`. X1 and X2 have no courses of their own in the current catalogue — their content lives entirely within U4 and U3 respectively, per the source document.",
+  "tracks": [
+    { "name": "X1. Operational Resilience & Cybersecurity", "pillar": "Cross-Cutting Themes" },
+    { "name": "X2. Sustainable Finance & ESG", "pillar": "Cross-Cutting Themes" },
+    { "name": "X3. Consumer Protection & Financial Inclusion", "pillar": "Cross-Cutting Themes" },
+    { "name": "X4. Cross-Border & Group Supervision", "pillar": "Cross-Cutting Themes" },
+    { "name": "X5. Data & Technology as Supervisory Infrastructure", "pillar": "Cross-Cutting Themes" },
+
+    { "name": "Pillar A: Governance, Strategy & Leadership", "pillar": "Regulatory Functions" },
+    { "name": "Pillar B: Policy-Making & Rule-Making", "pillar": "Regulatory Functions" },
+    { "name": "Pillar C: Authorisation & Licensing", "pillar": "Regulatory Functions" },
+    { "name": "Pillar D: Ongoing Supervision", "pillar": "Regulatory Functions" },
+    { "name": "Pillar E: Enforcement & Sanctions", "pillar": "Regulatory Functions" },
+    { "name": "Pillar F: Reducing Financial Crime & Delivering Market Integrity", "pillar": "Regulatory Functions" },
+    { "name": "Pillar G: Crisis Management & Resolution", "pillar": "Regulatory Functions" },
+    { "name": "Pillar H: Capability & Capacity Building", "pillar": "Regulatory Functions" },
+
+    { "name": "Compliance", "pillar": "Business Functions" },
+    { "name": "Risk Management", "pillar": "Business Functions" },
+    { "name": "Legal", "pillar": "Business Functions" },
+    { "name": "Treasury", "pillar": "Business Functions" },
+    { "name": "Governance & Company Secretarial", "pillar": "Business Functions" },
+    { "name": "Client Money & Assets (CASS)", "pillar": "Business Functions" },
+    { "name": "Product Governance", "pillar": "Business Functions" },
+    { "name": "Trading & Markets / Front Office", "pillar": "Business Functions" },
+    { "name": "Third-Party & Outsourcing Oversight", "pillar": "Business Functions" },
+    { "name": "Actuarial", "pillar": "Business Functions" },
+
+    { "name": "S1. Management & Leadership Fundamentals", "pillar": "Generic Supervisory Skills" },
+    { "name": "S2. People & Communication Fundamentals", "pillar": "Generic Supervisory Skills" },
+    { "name": "S3. Supervisory Judgement & Professional Practice", "pillar": "Generic Supervisory Skills" },
+    { "name": "S4. Supervisory Data Analytics & AI Skills", "pillar": "Generic Supervisory Skills" },
+    { "name": "S5. Senior Leadership Development", "pillar": "Generic Supervisory Skills" },
+    { "name": "S6. Internal Operations & Mandatory Training", "pillar": "Generic Supervisory Skills" },
+
+    { "name": "T1. Banking & Prudential Supervision", "pillar": "Sector Programmes" },
+    { "name": "T2. Insurance Supervision", "pillar": "Sector Programmes" },
+    { "name": "T3. Investment Funds", "pillar": "Sector Programmes" },
+    { "name": "T4. Investment Services & Capital Markets", "pillar": "Sector Programmes" },
+    { "name": "T5. Investment Management", "pillar": "Sector Programmes" },
+    { "name": "T6. Payment Services", "pillar": "Sector Programmes" },
+    { "name": "T7. Pensions & Retirement Supervision", "pillar": "Sector Programmes" },
+    { "name": "U1. Digital Assets & Blockchain", "pillar": "Sector Programmes" },
+    { "name": "U2. Artificial Intelligence", "pillar": "Sector Programmes" },
+    { "name": "U3. Sustainable Finance in Practice", "pillar": "Sector Programmes" },
+    { "name": "U4. Cybersecurity, DORA & Operational Resilience", "pillar": "Sector Programmes" },
+    { "name": "U5. SupTech, Data & Supervisory Analytics", "pillar": "Sector Programmes" }
+  ]
+}

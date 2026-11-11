@@ -41,9 +41,9 @@
     var s = words.length > 1 ? words.slice(0, -1).join(", ") + " or " + words[words.length - 1] : words[0];
     return s.charAt(0).toUpperCase() + s.slice(1);
   }
-  function sec(id, kicker, title, body) {
+  function sec(id, kicker, title, body, tocLabel) {
     if (!body || !body.replace(/<[^>]+>/g, "").trim()) return "";
-    return '<section class="dsec" id="' + id + '" data-toc="' + esc(title) + '">' +
+    return '<section class="dsec" id="' + id + '" data-toc="' + esc(tocLabel || title) + '">' +
       (kicker ? '<p class="kicker">' + esc(kicker) + "</p>" : "") + "<h2>" + esc(title) + "</h2>" + body + "</section>";
   }
   function toc(html) {
@@ -199,7 +199,7 @@
           return x.number === m.number ? '<li class="here"><span>' + inner + "</span></li>" : '<li><a href="' + esc(ctx.pageUrl(x.id)) + '">' + inner + "</a></li>";
         }).join("") + "</ol>" +
         '<div class="pn">' + (prev ? '<a href="' + esc(ctx.pageUrl(prev.id)) + '">&larr; Module ' + prev.number + "</a>" : "<span></span>") +
-        (next ? '<a href="' + esc(ctx.pageUrl(next.id)) + '">Module ' + next.number + " &rarr;</a>" : "<span></span>") + "</div></div>") : "") +
+        (next ? '<a href="' + esc(ctx.pageUrl(next.id)) + '">Module ' + next.number + " &rarr;</a>" : "<span></span>") + "</div></div>", "Part of programme") : "") +
       sec("reading", "", "Core reading", ul(s["Core Reading"] || ps["Core Reading"], "reading"));
 
     var rows = [

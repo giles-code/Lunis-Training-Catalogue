@@ -38,3 +38,11 @@ Unresolved: none. Retired: none.
 Their images are stored, but they are not in the feed until the module is switched back on.
 
 Programmes and modules from ID 192 onwards have no picture yet. The website keeps its existing fallback for them.
+
+## Programme illustrations 192–331 (added 22 November 2026)
+
+- 140 pictures from ChatGPT batches 01–07 (`Lunis-pictures-batch-NN-webp.zip`), 1536 × 1024, WebP quality about 88.
+  Batches 01 and 02 are the revised versions, with more varied people.
+- File name = catalogue ID. All 140 IDs are active programmes, and each title was checked against the work list
+  `Lunis-pictures-to-make.xlsx`. No existing file was replaced.
+- Batch 08 (IDs 332–351) is not included yet because it is incomplete. Later batches follow the same naming.

@@ -37,6 +37,7 @@
  ],
  "firmType": [],
  "slug": "quantum-and-cryptographic-resilience-for-firms",
+ "image": "images/298.webp",
  "moduleCount": 8,
  "hoursPerModule": 3,
  "intro": "This training programme equips firms to prepare for quantum computing: understanding the threat to today's cryptography, building a cryptographic inventory, planning post-quantum migration with vendors and infrastructures, and reporting progress to the board and supervisors.",

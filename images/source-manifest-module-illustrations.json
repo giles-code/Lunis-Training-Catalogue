@@ -1,0 +1,1728 @@
+{
+  "count": 191,
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "images": [
+    {
+      "id": 1,
+      "title": "Adaptability and Flexibility: Leading and Thriving in Change",
+      "source_brief": "Adaptability and Flexibility: Leading and Thriving in Change (People & Communication Fundamentals): Learn strategies to build resilience, adapt to change, and maintain productivity in dynamic environments.",
+      "png": "1.png",
+      "website_image": "images/1.webp",
+      "png_sha256": "fe3143e7e79f179056a65944d3181af3a93ab1eda28745ad47661c4751fdfe93",
+      "webp_sha256": "6479b4c2be46e65fa3e592823d2b41f295645ef6161dbefbfae71d97f44f4aca"
+    },
+    {
+      "id": 2,
+      "title": "Advanced PowerPoint Techniques",
+      "source_brief": "Advanced PowerPoint Techniques (Internal Operations & Mandatory Training): Create impactful presentations using advanced PowerPoint features.",
+      "png": "2.png",
+      "website_image": "images/2.webp",
+      "png_sha256": "eb21ac0c48b43bff7d90f9ff21bc06ebfed64bf4d965b2dcd72153adc4d70d62",
+      "webp_sha256": "0d3c8d94311b910619751aba21b6645174fe1c5f4a320fd6082ac5a6a0dc1078"
+    },
+    {
+      "id": 3,
+      "title": "AI & Machine Learning in AML/CFT Detection",
+      "source_brief": "AI & Machine Learning in AML/CFT Detection (Reducing Financial Crime & Delivering Market Integrity): Understanding of how regulated entities use AI and machine learning to strengthen transaction monitoring and suspicious activity…",
+      "png": "3.png",
+      "website_image": "images/3.webp",
+      "png_sha256": "2a43c7a9ecce41ebaa5393c3ab608b4062c7193e581234722e3b109fadddd253",
+      "webp_sha256": "66174e6f2e176909cea879bc5f76f3506d61b9dcce5a6247213658472e4e6932"
+    },
+    {
+      "id": 4,
+      "title": "AI Basics & Generative AI",
+      "source_brief": "AI Basics & Generative AI (Supervisory Data Analytics & AI Skills): Learn foundational AI concepts and how generative AI can be applied responsibly within daily work.",
+      "png": "4.png",
+      "website_image": "images/4.webp",
+      "png_sha256": "50e6bee92c4515bbce16562131ea7f0834befe72b62410bf37692da3faea7740",
+      "webp_sha256": "079876126a0aa28556376935498ea308bc728dbf843b4175701f2a6814cc09d6"
+    },
+    {
+      "id": 5,
+      "title": "AI Governance & Sector Risks",
+      "source_brief": "AI Governance & Sector Risks (Artificial Intelligence): Learn how to assess AI governance frameworks and identify risks associated with AI models used by supervised entities.",
+      "png": "5.png",
+      "website_image": "images/5.webp",
+      "png_sha256": "5f91f2065ea8819682ec7124ffa92ec32c916b0e0cfab3bf14d174ed5eafa50e",
+      "webp_sha256": "d3c6f40b0a8e9cd5c02e89ed7d3b705d7a546dc92e2414fe08875d195781d5ea"
+    },
+    {
+      "id": 6,
+      "title": "AI in Action: RegTech & SupTech Case Studies",
+      "source_brief": "AI in Action: RegTech & SupTech Case Studies (Artificial Intelligence): Learn from real-world case studies how regulators use AI to strengthen oversight and efficiency.",
+      "png": "6.png",
+      "website_image": "images/6.webp",
+      "png_sha256": "52ca52b89b2195f10144aec68899268ffed6383136c7592e78bc12da6694a40a",
+      "webp_sha256": "d1f0f009549b64808c484a44165e223f08b619d724b4cc81479f7001a9405801"
+    },
+    {
+      "id": 7,
+      "title": "AI in Trading & Operational Systems",
+      "source_brief": "AI in Trading & Operational Systems (Artificial Intelligence): Learn how AI is applied in algorithmic trading, market infrastructures, and operational processes.",
+      "png": "7.png",
+      "website_image": "images/7.webp",
+      "png_sha256": "d315fd658db54ae116119a51abbedf83856c1e3ae0c1c32db56d3b2b110c4d72",
+      "webp_sha256": "923cc3de3cc896c01345c6dd23cb1845bcd898d71d1f54a195d60c86ae6c6672"
+    },
+    {
+      "id": 8,
+      "title": "AI in Wealth Management and Digital Advice",
+      "source_brief": "AI in Wealth Management and Digital Advice (Artificial Intelligence): Understanding of how AI-driven digital advisory and wealth management platforms operate, and the supervisory considerations…",
+      "png": "8.png",
+      "website_image": "images/8.webp",
+      "png_sha256": "001fa45daa3c299dfc4f6ccf105948a24f4ff02ed2de5caedd63172bbbfe9e95",
+      "webp_sha256": "749814cd135f166aea4beb98a7aaa42fc9051015733559be789f53e6c912d4fe"
+    },
+    {
+      "id": 9,
+      "title": "AI Model Explainability for Supervisors",
+      "source_brief": "AI Model Explainability for Supervisors (Artificial Intelligence): Practical skills in explainability techniques such as LIME and SHAP, which supervisors can use to assess whether firms' AI models…",
+      "png": "9.png",
+      "website_image": "images/9.webp",
+      "png_sha256": "264ff9c5b4424eb53a21381bdd09a26f54a57f3700fe597545efd5a922f40aaa",
+      "webp_sha256": "40a31f43232d34cf985ab2027dda8f264626fe50eb3d2c7d93986d254b2785c6"
+    },
+    {
+      "id": 10,
+      "title": "AI, Sanctions Screening & Adverse Media Monitoring",
+      "source_brief": "AI, Sanctions Screening & Adverse Media Monitoring (Reducing Financial Crime & Delivering Market Integrity): Understanding of how AI and natural language processing are applied to sanctions screening, PEP identification, and adverse media…",
+      "png": "10.png",
+      "website_image": "images/10.webp",
+      "png_sha256": "0236f901d073aa5500996592a4b213b2db1ed7f2c92202cb0eaeffa3e33abf59",
+      "webp_sha256": "b9de5a1dcb59d02e03dd361a5cf6939c950758b8192bdc5b06a5d4fb9dcf9d18"
+    },
+    {
+      "id": 11,
+      "title": "Algorithmic and High-Frequency Trading Oversight",
+      "source_brief": "Algorithmic and High-Frequency Trading Oversight (Investment Services & Capital Markets): Skills in supervising firms' algorithmic and high-frequency trading controls, including pre-trade risk controls and market-making…",
+      "png": "11.png",
+      "website_image": "images/11.webp",
+      "png_sha256": "9f090780ce3c1c7adc0fb639618daec3e5564fed27a55de413586a6fc4fea987",
+      "webp_sha256": "df677b2644b08cb0356a6fbd42967bea9cb9ac9570d2aabfe6b0d918e9eac6f3"
+    },
+    {
+      "id": 12,
+      "title": "AML Package and Its Implications for Supervisors",
+      "source_brief": "AML Package and Its Implications for Supervisors (Reducing Financial Crime & Delivering Market Integrity): Provide a comprehensive understanding of AML requirements and their integration into supervisory practices.",
+      "png": "12.png",
+      "website_image": "images/12.webp",
+      "png_sha256": "5388ed45c36482debb3ae0b21e945a9f5d90e1668cfef792a9062c811ca6ff25",
+      "webp_sha256": "9fcffa40a1d7e4e89f4a68481ae0b8b8a8a8c7983632521ea4144699ceb211f6"
+    },
+    {
+      "id": 13,
+      "title": "AML/CFT Framework & EU AML Package",
+      "source_brief": "AML/CFT Framework & EU AML Package (Reducing Financial Crime & Delivering Market Integrity): Learn the core regulatory foundations of AML/CFT supervision in line with EU reforms and international standards.",
+      "png": "13.png",
+      "website_image": "images/13.webp",
+      "png_sha256": "b0bfc4a8f6781bda683bc48603a7017974d4f11911a05eb4466a974a352eb591",
+      "webp_sha256": "6d86a1f19b9b018fad9092b8eaff62a67ae2824b281ac9ec554670fe8ca3a643"
+    },
+    {
+      "id": 14,
+      "title": "Anomaly Detection and Supervisory Dashboards",
+      "source_brief": "Anomaly Detection and Supervisory Dashboards (SupTech, Data & Supervisory Analytics): Learn how to build and interpret supervisory dashboards that surface anomalies for further investigation.",
+      "png": "14.png",
+      "website_image": "images/14.webp",
+      "png_sha256": "e153b8b2d76cc8a41a471b12d5be90e79479dca75f5d198a72c3100525c264a3",
+      "webp_sha256": "52ce815da4ba3b133e85fc9f76f5cd33cb72af5e3b20d4e13b01433382c51138"
+    },
+    {
+      "id": 15,
+      "title": "Anti-Money Laundering Courses (e.g. Thomson Reuters)",
+      "source_brief": "Anti-Money Laundering Courses (e.g. Thomson Reuters) (Internal Operations & Mandatory Training): Provide structured AML training to new joiners via established e-learning modules.",
+      "png": "15.png",
+      "website_image": "images/15.webp",
+      "png_sha256": "76e581bc3946a2b899501b39ee07d985b0d9bd28e73714261601e6b9d9777739",
+      "webp_sha256": "c19ea730208f41b0b1c5041ee2c62917fbed7768e00a2920d047e914a5e02a4c"
+    },
+    {
+      "id": 16,
+      "title": "Applying the Right Supervisory Tools",
+      "source_brief": "Applying the Right Supervisory Tools (Ongoing Supervision): Enhance decision-making skills for selecting and applying the appropriate supervisory tools in real-life scenarios.",
+      "png": "16.png",
+      "website_image": "images/16.webp",
+      "png_sha256": "5f5e64d285be62012378e3c98174452d15467f5d2d3992f2f42c8c31f2017300",
+      "webp_sha256": "9718ad04815323a1e167ddfa2d4b5e1ddf558f6e2239abf5f546f616cf0e1955"
+    },
+    {
+      "id": 17,
+      "title": "Assessing Authorisation Applications",
+      "source_brief": "Assessing Authorisation Applications (Authorisation & Licensing): The aim of this workshop is to build a structured methodology for assessing new licence applications, including scrutinising…",
+      "png": "17.png",
+      "website_image": "images/17.webp",
+      "png_sha256": "055f44acc2fe9fc9db7267b7c7a9877810e1bfef4483480732b488310b2c62d8",
+      "webp_sha256": "54018804e72cc31281aee23eca9396df6d2dd06f1a500eaed191ff64e62b0828"
+    },
+    {
+      "id": 18,
+      "title": "Assessing Capital Adequacy: ICAAP in Practice (Banking & Prudential Supervision): Learn how to review a bank's Internal Capital Adequacy Assessment Process",
+      "source_brief": "Assessing Capital Adequacy: ICAAP in Practice (Banking & Prudential Supervision): Learn how to review a bank's Internal Capital Adequacy Assessment Process (ICAAP) and form a supervisory view on its capital…",
+      "png": "18.png",
+      "website_image": "images/18.webp",
+      "png_sha256": "f6de4e2564ce5b3cccc288dffcda99d32878037646264b2bad524443cb44e1d3",
+      "webp_sha256": "f6684e7eafddd67627061f2d63ab23ac45d61e255b96de6f97af94fdc76881d1"
+    },
+    {
+      "id": 19,
+      "title": "Assessing Firms' Cyber Governance and Controls",
+      "source_brief": "Assessing Firms' Cyber Governance and Controls (Cybersecurity, DORA & Operational Resilience): Skills in evaluating a firm's IT governance, board-level oversight of cyber risk, and the adequacy of its security policies and…",
+      "png": "19.png",
+      "website_image": "images/19.webp",
+      "png_sha256": "d31a0365811fc8709c18b50f56314ab59dafcb4eb1f0561b1a1d352f26b2420d",
+      "webp_sha256": "23e72dfbd538d125fd00e17f173a1c1f209d066a2b1be8aea1b5403cfb58ded9"
+    },
+    {
+      "id": 20,
+      "title": "Assessing Liquidity Adequacy: ILAAP in Practice (Banking & Prudential Supervision): Learn how to review a bank's Internal Liquidity Adequacy Assessment Process",
+      "source_brief": "Assessing Liquidity Adequacy: ILAAP in Practice (Banking & Prudential Supervision): Learn how to review a bank's Internal Liquidity Adequacy Assessment Process (ILAAP), including funding risk and liquidity stress…",
+      "png": "20.png",
+      "website_image": "images/20.webp",
+      "png_sha256": "8705fff91bc24d252c9f64b6e13ce3b4719dadc0fbc62bf80abfc0b14dc1c9eb",
+      "webp_sha256": "fedd6c5347af0dd95baf893995194bed67d984fdd32a77796208831167cd458d"
+    },
+    {
+      "id": 21,
+      "title": "Asset Management Regulatory Landscape",
+      "source_brief": "Asset Management Regulatory Landscape (Investment Funds): Focus: AIFMD, UCITS and Cross-Border Regulation in Asset Management. Objective: exploring the complexities of asset management…",
+      "png": "21.png",
+      "website_image": "images/21.webp",
+      "png_sha256": "3351c7a35874b9d7b347783390859ed0033a0dd60ebf60f98a2a421a117dab0d",
+      "webp_sha256": "74d5739b431e609b51f56a3c8104c5ef056fc2ddb5cebbda479c19b3db6b8c4f"
+    },
+    {
+      "id": 22,
+      "title": "Bank Governance and the SREP (Banking & Prudential Supervision): Learn how the Supervisory Review and Evaluation Process",
+      "source_brief": "Bank Governance and the SREP (Banking & Prudential Supervision): Learn how the Supervisory Review and Evaluation Process (SREP) brings together governance, risk, capital, and liquidity…",
+      "png": "22.png",
+      "website_image": "images/22.webp",
+      "png_sha256": "03afa55ede6a0c79a67bc510bc0c7a30f6d3285225e91882c1acba59a83056cc",
+      "webp_sha256": "c2fdc41289c475a72ecfb1a8ddc48528a10095996a8d6b679a1aefb1b7fb7df6"
+    },
+    {
+      "id": 23,
+      "title": "Bank Recovery and Resolution Planning (Banking & Prudential Supervision): Learn how to assess a bank's recovery plan and understand the resolvability considerations that link to crisis management",
+      "source_brief": "Bank Recovery and Resolution Planning (Banking & Prudential Supervision): Learn how to assess a bank's recovery plan and understand the resolvability considerations that link to crisis management (Layer…",
+      "png": "23.png",
+      "website_image": "images/23.webp",
+      "png_sha256": "de644aca2cb03261573eda0747a833b1afdc348811e99dc6243aef060e5f7bb4",
+      "webp_sha256": "424c3c1fc404a264730c0db70cdca205f4e4c8271b4f2fdd5d3da54d4dba8367"
+    },
+    {
+      "id": 24,
+      "title": "Best Execution and Client Order Handling Supervision",
+      "source_brief": "Best Execution and Client Order Handling Supervision (Investment Services & Capital Markets): Skills in supervising firms' best execution and client order handling practices, including assessing execution quality monitoring…",
+      "png": "24.png",
+      "website_image": "images/24.webp",
+      "png_sha256": "625e59ddbf6152feced7e87a5769fe59b419a4d3e825b8841c96c607728341ec",
+      "webp_sha256": "089032a8c46cf8356e12c18f31b625c7584582b12bfec82b81aad0769fa07d08"
+    },
+    {
+      "id": 25,
+      "title": "Bias and Fairness Assessment in Financial AI Systems",
+      "source_brief": "Bias and Fairness Assessment in Financial AI Systems (Artificial Intelligence): Skills in assessing AI systems used in credit decisioning, insurance underwriting, and other financial services for bias and…",
+      "png": "25.png",
+      "website_image": "images/25.webp",
+      "png_sha256": "4b8f32accb01446e7e391551fd36a49d8878d3667c5792220615904b0df0df19",
+      "webp_sha256": "659c2c09892c071339e4fde85c342d7ee41b009f82d7b17ac0cec714f5d6f36b"
+    },
+    {
+      "id": 26,
+      "title": "Budgeting Process",
+      "source_brief": "Budgeting Process (Internal Operations & Mandatory Training): Build understanding of the organisation’s budgeting process.",
+      "png": "26.png",
+      "website_image": "images/26.webp",
+      "png_sha256": "14a3a4e70a2927f438ca57ed04ccde017e25022b9c61c1d1dc546539ef456471",
+      "webp_sha256": "61a9e275751c3590bd9142be2011f0b51bbf87c282e43a2cdd8179d6f695c92a"
+    },
+    {
+      "id": 27,
+      "title": "Building an Authority's Own SupTech Capability",
+      "source_brief": "Building an Authority's Own SupTech Capability (Data & Technology as Supervisory Infrastructure): The aim of this workshop is to help participants think through the practical considerations in building a supervisory authority's…",
+      "png": "27.png",
+      "website_image": "images/27.webp",
+      "png_sha256": "85148fd9be895ba0a7204f3929aa2cd406dc732c704b0e2d7f18086793a7f5d5",
+      "webp_sha256": "65f58469b32aff7b57d6ae6ecb02f9a9db774752780738112acedd064c3fda50"
+    },
+    {
+      "id": 28,
+      "title": "Building Resilience in High-Pressure Supervisory Roles",
+      "source_brief": "Building Resilience in High-Pressure Supervisory Roles (Supervisory Judgement & Professional Practice): Practical techniques for managing the unique pressures of supervisory work, including high-profile casework, public scrutiny, and…",
+      "png": "28.png",
+      "website_image": "images/28.webp",
+      "png_sha256": "fed1aca725693590283b3df956e8f537dbe66c208642a4b664a95df8afb310a6",
+      "webp_sha256": "ecb4e6dce4c68b510aad54f7e33f30c8c8f184d666b8c7f88159a5fd47b61dca"
+    },
+    {
+      "id": 29,
+      "title": "Building Supervisory Data Infrastructure",
+      "source_brief": "Building Supervisory Data Infrastructure (Data & Technology as Supervisory Infrastructure): Understanding of the data and case-management infrastructure that underpins risk-based supervision, and to develop practical…",
+      "png": "29.png",
+      "website_image": "images/29.webp",
+      "png_sha256": "4b4d0e32725876f21d3856536282226540369e504f016d851fb4bb43091527f4",
+      "webp_sha256": "c0115d4ee5566fa517ef89964a41ae544c4a441d228c09bb991937e5622d4715"
+    },
+    {
+      "id": 30,
+      "title": "Building Team Cohesion for High Performance",
+      "source_brief": "Building Team Cohesion for High Performance (Management & Leadership Fundamentals): Learn how to design structures, routines, and team practices that build cohesion and support sustained high performance.",
+      "png": "30.png",
+      "website_image": "images/30.webp",
+      "png_sha256": "19a7d097a2b3675b7318e9531d1962bf1ba27457f842a3feb46195e6218d10a8",
+      "webp_sha256": "2dd1d4e82b9e803f6ec6954ab0ba1bc24aa86bc6f8388abcede5a576769a72f6"
+    },
+    {
+      "id": 31,
+      "title": "Business Model Analysis (Ongoing Supervision): Equips supervisors to conduct business model analysis",
+      "source_brief": "Business Model Analysis (Ongoing Supervision): Equips supervisors to conduct business model analysis (BMA) as a core part of supervisory risk assessment: how firms develop…",
+      "png": "31.png",
+      "website_image": "images/31.webp",
+      "png_sha256": "a51366df67cfa1964db2f4dabd2677acccca61c04da4e54d283de8f0104841b3",
+      "webp_sha256": "356d2697d815729aefbad57a35740d3f1af064ef25b530a30eed41718a3beead"
+    },
+    {
+      "id": 32,
+      "title": "Change of Control and Ownership Assessment",
+      "source_brief": "Change of Control and Ownership Assessment (Authorisation & Licensing): Skills in assessing proposed changes of control and complex ownership structures, including cross-border and beneficial ownership…",
+      "png": "32.png",
+      "website_image": "images/32.webp",
+      "png_sha256": "17d05451cf21ec8cf175e777dd2c443d39eb781e4de344eb4c17c0a9a6462f48",
+      "webp_sha256": "72093d7a6bf6b76d0dc0100099425cc348dd99cb78c6402633c48566131a50db"
+    },
+    {
+      "id": 33,
+      "title": "Climate Change Considerations in Corporate Strategy",
+      "source_brief": "Climate Change Considerations in Corporate Strategy (Sustainable Finance in Practice): Examine how climate change impacts business and the integration of climate considerations into strategy.",
+      "png": "33.png",
+      "website_image": "images/33.webp",
+      "png_sha256": "47b6b3343db50f4bbe67c44d611ad7359c9d9c3ec5a40fc9ea6022fab7c33925",
+      "webp_sha256": "34ecfd3e3cf1fe7bd5c74ed4b52bb7d51499b9dbcd8bb40188e01969a12e3185"
+    },
+    {
+      "id": 34,
+      "title": "Coaching and Mentoring: Leading and Empowering Others",
+      "source_brief": "Coaching and Mentoring: Leading and Empowering Others (People & Communication Fundamentals): Master coaching and mentoring skills to guide colleagues and support team development.",
+      "png": "34.png",
+      "website_image": "images/34.webp",
+      "png_sha256": "8ada530bb830b459c0b33f3d243c0e9230bc56228f1b640d2857bb80592dcb31",
+      "webp_sha256": "836eee97e0ca5b379364799416acda8b97e7dbe16561bd86c7cc59ca7615af87"
+    },
+    {
+      "id": 35,
+      "title": "Collaborative Decision-Making Skills",
+      "source_brief": "Collaborative Decision-Making Skills (Management & Leadership Fundamentals): Learn how to use empathy, perspective-taking, and cognitive diversity to improve collaborative problem-solving and team…",
+      "png": "35.png",
+      "website_image": "images/35.webp",
+      "png_sha256": "dc519748d2f0a98bae852b39451e7b1e98d97c13c71fcc10faaf98a7cee67dab",
+      "webp_sha256": "0388eebf04ac5a320595ad33264c66aa0ddf47dd871fdfad98ace2728678026a"
+    },
+    {
+      "id": 36,
+      "title": "Communicating with Impact",
+      "source_brief": "Communicating with Impact (People & Communication Fundamentals): Learn how to communicate clearly, manage difficult conversations, and apply emotional intelligence in professional interactions.",
+      "png": "36.png",
+      "website_image": "images/36.webp",
+      "png_sha256": "f7f3559aa2e8df3821ae063abc034e26a2d1cccae10dbdb89a73d54cd0db6ed7",
+      "webp_sha256": "caf8b1826df01ffc21b90c940ea2c3724fe6376aa2c8993779e4f0cf5406b37c"
+    },
+    {
+      "id": 37,
+      "title": "Compliance Outcomes-Based Supervision (COBS)",
+      "source_brief": "Compliance Outcomes-Based Supervision (COBS) (Ongoing Supervision): Introduce the COBS methodology and its role in effective, efficient supervision.",
+      "png": "37.png",
+      "website_image": "images/37.webp",
+      "png_sha256": "291bf064130e906bd0e617f443885d47963485276e4d3edbe2ac3cda45cd224f",
+      "webp_sha256": "04241918b12b96d20a99ad415e4c3f013990602bb385cd5db55b422df6ebeaa0"
+    },
+    {
+      "id": 38,
+      "title": "Consumer Protection Supervision: Foundations",
+      "source_brief": "Consumer Protection Supervision: Foundations (Consumer Protection & Financial Inclusion): The aim of this workshop is to equip supervisors with the foundational knowledge needed to assess consumer protection outcomes in…",
+      "png": "38.png",
+      "website_image": "images/38.webp",
+      "png_sha256": "8faed92337f02ed2759c978b65060a17e243bc9ac824fc408171f4232f5df251",
+      "webp_sha256": "eb995d2473507686d51318e4019867b9492e317b61cd3960c75daf81c872a84a"
+    },
+    {
+      "id": 39,
+      "title": "Cooperating with Prosecutors and Other Authorities",
+      "source_brief": "Cooperating with Prosecutors and Other Authorities (Enforcement & Sanctions): Understanding of how supervisory authorities cooperate with criminal prosecutors and other enforcement bodies, including managing…",
+      "png": "39.png",
+      "website_image": "images/39.webp",
+      "png_sha256": "03ca7f6bb583987fed572bdfb115d03d57b7841849d08c1ddb4c9b9b704dd29a",
+      "webp_sha256": "e8abb373b0bee554cc4e1fe9eb5985fc9c0799974d97ea067667375383c7db80"
+    },
+    {
+      "id": 40,
+      "title": "Countercyclical Buffers and Macroprudential Tools",
+      "source_brief": "Countercyclical Buffers and Macroprudential Tools (Crisis Management & Resolution): Learn about the macroprudential toolkit — countercyclical capital buffers, sectoral capital requirements, and borrower-based…",
+      "png": "40.png",
+      "website_image": "images/40.webp",
+      "png_sha256": "a5b14bc8e8e4129793be9c0fa39e8953149bee7ef3b39daaf67b9e834e31466d",
+      "webp_sha256": "cc47935b18e9d17dc4fe556e6afd03538d1b48b8553f45020f8d7f562d173c6b"
+    },
+    {
+      "id": 41,
+      "title": "Credit Risk Supervision",
+      "source_brief": "Credit Risk Supervision (Banking & Prudential Supervision): Learn how to assess credit risk, provisioning adequacy, and conduct an asset quality review of a bank's loan book.",
+      "png": "41.png",
+      "website_image": "images/41.webp",
+      "png_sha256": "0e69cf053db59baf0e901248ebd8bd238c4315688666fbec0629a4db39cce57d",
+      "webp_sha256": "ca0bad5c60b2f5158ae3a13f268542fcb41b4f923c9e4233909cea68338b1467"
+    },
+    {
+      "id": 42,
+      "title": "Crisis Communication for Supervisory Authorities",
+      "source_brief": "Crisis Communication for Supervisory Authorities (Crisis Management & Resolution): Skills in communicating effectively with the public, industry, and government during a financial crisis or firm failure, building…",
+      "png": "42.png",
+      "website_image": "images/42.webp",
+      "png_sha256": "ff76feb9d9e7c8d9ffdaf88f9de64e9a3bc598d3ff99cc4aa84c15ef7548fb12",
+      "webp_sha256": "1ecac7d174dfa5cfc47ddb0eb1ef2cf41a199b6369004b5a4d9ee0230770a433"
+    },
+    {
+      "id": 43,
+      "title": "Crisis Simulation Exercise: Firm-Specific Distress",
+      "source_brief": "Crisis Simulation Exercise: Firm-Specific Distress (Crisis Management & Resolution): The aim of this workshop is to give participants hands-on practice in supervisory decision-making, escalation, and coordination…",
+      "png": "43.png",
+      "website_image": "images/43.webp",
+      "png_sha256": "aa9d572df1a51925c8837712e9bc158e14940d68d3f3861ff7de777a3097f28a",
+      "webp_sha256": "d11575d1726fe9461c0973c6e68c7981a108372683b478a83918cd6d10ba5d11"
+    },
+    {
+      "id": 44,
+      "title": "Critical Thinking for Problem-Solving",
+      "source_brief": "Critical Thinking for Problem-Solving (People & Communication Fundamentals): Develop critical thinking skills to analyse problems, evaluate solutions, and make strategic decisions.",
+      "png": "44.png",
+      "website_image": "images/44.webp",
+      "png_sha256": "c049505b9762240d5743bbda0cd30919a96a9bfe5fed452fc7e80c19cabf80cf",
+      "webp_sha256": "64df892fc735bdcaa1d3287b48c78849f0589ce217c69e7555bb001f47ccd2f0"
+    },
+    {
+      "id": 45,
+      "title": "Cross-Border Crypto Supervision & Cooperation",
+      "source_brief": "Cross-Border Crypto Supervision & Cooperation (Digital Assets & Blockchain): Understanding of how crypto-asset firms operate across borders, the risks of regulatory arbitrage, and the cooperation mechanisms…",
+      "png": "45.png",
+      "website_image": "images/45.webp",
+      "png_sha256": "8421c2f3c6558972fa307e88b2b3e8e66657d42289a2d2207e658758eea40903",
+      "webp_sha256": "f03fe65f9e5f3ac5c1e7de43657ff188349f6af2f6594af1923aad8582e58df5"
+    },
+    {
+      "id": 46,
+      "title": "Cross-Border Management Structures and Delegation",
+      "source_brief": "Cross-Border Management Structures and Delegation (Investment Management): Understanding of how cross-border management structures and delegation arrangements operate, and how supervisors assess substance…",
+      "png": "46.png",
+      "website_image": "images/46.webp",
+      "png_sha256": "bb26a402ab68a8912b78256ed991b7208e3342fe134562192c5003e2ef7036db",
+      "webp_sha256": "7de3d3baf35fca731945adf0f1b2c86ee2cfcb43a43c001085466a7406407fd8"
+    },
+    {
+      "id": 47,
+      "title": "Cross-Cultural Communication for International Supervisors",
+      "source_brief": "Cross-Cultural Communication for International Supervisors (Supervisory Judgement & Professional Practice): Skills in communicating effectively in cross-border supervisory contexts, including supervisory colleges and international…",
+      "png": "47.png",
+      "website_image": "images/47.webp",
+      "png_sha256": "2df9eef17d739dcd371904f359fac836abad2c09accdf1a6af47d1c7f5db3f52",
+      "webp_sha256": "4decd9d8dd8301c75374154fd2ffdbe4b0ce46bb975517efcc315f2afb383866"
+    },
+    {
+      "id": 48,
+      "title": "Crypto & Blockchain Fundamentals",
+      "source_brief": "Crypto & Blockchain Fundamentals (Digital Assets & Blockchain): Learn the foundational concepts behind crypto-asset markets and blockchain technology.",
+      "png": "48.png",
+      "website_image": "images/48.webp",
+      "png_sha256": "46983e7e55593796488df59f4d71896a4a9bbdb315414c4db9a51d8dcc593ca3",
+      "webp_sha256": "5c2554974a6856e2f3a1800207effac94c1da6a5d59f9cfe79bd01956d388994"
+    },
+    {
+      "id": 49,
+      "title": "Crypto Custody & Wallet Security",
+      "source_brief": "Crypto Custody & Wallet Security (Digital Assets & Blockchain): Understanding of the technical and operational considerations in crypto-asset custody, including private key management, storage…",
+      "png": "49.png",
+      "website_image": "images/49.webp",
+      "png_sha256": "175b0ff84b38e8b42f81273326a652a0669bc8bae4e32276513c317219c313b7",
+      "webp_sha256": "c83c3f63f188ede872e261459b1fc34a54e9350d1f78ad9ff1a9481af3b2810d"
+    },
+    {
+      "id": 50,
+      "title": "Cyber Incident Management and Supervisory Intervention",
+      "source_brief": "Cyber Incident Management and Supervisory Intervention (Cybersecurity, DORA & Operational Resilience): Skills in assessing a firm's cyber incident recovery procedures and disclosure protocols, and understanding the supervisory…",
+      "png": "50.png",
+      "website_image": "images/50.webp",
+      "png_sha256": "263371c97c6697c7999a8d1ae9861699e3ab5b53521e1cd817570ac585d22ae5",
+      "webp_sha256": "1ed10d4a8f523ec342894b0c58e05d7258f411b385b2670a2c3b2a3856eae0dc"
+    },
+    {
+      "id": 51,
+      "title": "Cybersecurity and Business Continuity",
+      "source_brief": "Cybersecurity and Business Continuity (Internal Operations & Mandatory Training): Build staff awareness of current cybersecurity trends and business continuity responsibilities. Typical audience…",
+      "png": "51.png",
+      "website_image": "images/51.webp",
+      "png_sha256": "f334a8ea22d04617d2d3e4f03bcdbaba570afd07aa09c7a94344809cb3e9d577",
+      "webp_sha256": "dae38c654f95f38771057b8fc249facb474af09d7475bec609d3e2f78b226663"
+    },
+    {
+      "id": 52,
+      "title": "Data Governance for Supervisory Decision-Making",
+      "source_brief": "Data Governance for Supervisory Decision-Making (Data & Technology as Supervisory Infrastructure): Understanding of data governance principles and their application to supervisory decision-making, ensuring that decisions are…",
+      "png": "52.png",
+      "website_image": "images/52.webp",
+      "png_sha256": "777b5a9b246a86f505f7b911f19bfc2f68aad027b765208ea1ed4a0d369be2e3",
+      "webp_sha256": "11fae0985144c154cb1e82358e2ff80d87083d0757b066a9bbd25c0bdcf671ff"
+    },
+    {
+      "id": 53,
+      "title": "Data Protection",
+      "source_brief": "Data Protection (Internal Operations & Mandatory Training): Build understanding of data protection obligations and best practice.",
+      "png": "53.png",
+      "website_image": "images/53.webp",
+      "png_sha256": "8ead32d0f30c8fd0b1c4d2f6f061e2f505d262bfcad42d90b23c1d3dbd44d74a",
+      "webp_sha256": "adfb4a79d71afabf270975db8d107341a85543f6819b145ac3862d6df869ccd6"
+    },
+    {
+      "id": 54,
+      "title": "Decentralised Finance (DeFi): Supervisory Challenges",
+      "source_brief": "Decentralised Finance (DeFi): Supervisory Challenges (Digital Assets & Blockchain): Understanding of how DeFi protocols operate outside traditional intermediated structures, examining the supervisory and…",
+      "png": "54.png",
+      "website_image": "images/54.webp",
+      "png_sha256": "fecedf73b55f1e20bd40bba53bddfe438480d155c3de18efe68f886835d87bd9",
+      "webp_sha256": "507b48b1158439351b2912a269fd5b48e1cd732e14d84ffc21bb0dd7c99492c9"
+    },
+    {
+      "id": 55,
+      "title": "Designing a Competency Framework for Supervisors",
+      "source_brief": "Designing a Competency Framework for Supervisors (Capability & Capacity Building): Skills in designing a structured competency framework and certification pathway for supervisory staff, drawing on models such as…",
+      "png": "55.png",
+      "website_image": "images/55.webp",
+      "png_sha256": "b6b16ceaca59253dbacab22718d48bc5beecdc05cbba2abae47d45c74187bc2f",
+      "webp_sha256": "ad8cd7ddda40ecf7be4392ef0bc3a193b0906d259b718d4fa4f5dc192e4c86c3"
+    },
+    {
+      "id": 56,
+      "title": "Detecting Crypto Market Risks",
+      "source_brief": "Detecting Crypto Market Risks (Digital Assets & Blockchain): Learn how to identify market abuse, sector vulnerabilities, and misconduct risks in crypto markets.",
+      "png": "56.png",
+      "website_image": "images/56.webp",
+      "png_sha256": "2dfe74499322605e818c56d8e2449d829072bf44f60e480e4567051bbc2f60d3",
+      "webp_sha256": "341f0afc6cdf69220d8a898b16a524dde270e0f55f08ab7acfcb1d3cab2608e1"
+    },
+    {
+      "id": 57,
+      "title": "Determining Proportionate Sanctions",
+      "source_brief": "Determining Proportionate Sanctions (Enforcement & Sanctions): Skills in applying a sanctioning framework consistently, weighing aggravating and mitigating factors and maintaining consistency…",
+      "png": "57.png",
+      "website_image": "images/57.webp",
+      "png_sha256": "7db1d857ae2bada6446fb332bf9072d9bca7c35e44fe980ba7ab3145cbe45e56",
+      "webp_sha256": "c3f869a396e3cae20f69a8a3d8a4568a99fe7268789990a70f0c384b694519b2"
+    },
+    {
+      "id": 58,
+      "title": "Digital Influencers in Finance: Risks and Regulatory Implications",
+      "source_brief": "Digital Influencers in Finance: Risks and Regulatory Implications (Digital Assets & Blockchain): Examine the role of digital influencers in finance, focusing on compliance challenges and consumer protection risks.",
+      "png": "58.png",
+      "website_image": "images/58.webp",
+      "png_sha256": "a97e0cbc8fc922e9c0183af55ee0503237821a8a23803ddd8a552c8ed39f7ba6",
+      "webp_sha256": "90714bcaa397a29f60cf64314d628d9466d2ec5727f5f6097a81427109470166"
+    },
+    {
+      "id": 59,
+      "title": "Digital Operational Resilience",
+      "source_brief": "Digital Operational Resilience (Cybersecurity, DORA & Operational Resilience): Learn how to assess digital operational resilience under DORA, applying supervisory judgement to ICT risk management and incident…",
+      "png": "59.png",
+      "website_image": "images/59.webp",
+      "png_sha256": "eb8f3e88402a845483baf50050f60ec95c4d74b10f99fb7048636f796c288358",
+      "webp_sha256": "4705456bdca290d4c4a80529fa24b7a2f2661238e1be2f27cb71c2424c627747"
+    },
+    {
+      "id": 60,
+      "title": "Digital Tools & Workplace Technology",
+      "source_brief": "Digital Tools & Workplace Technology (Internal Operations & Mandatory Training): Build familiarity and confidence with the organisation’s digital tools and workplace technology platforms.",
+      "png": "60.png",
+      "website_image": "images/60.webp",
+      "png_sha256": "4f3166860d831c66970a8d3855b29933a9d97c5e76d499ec4678cbb1479c4ca8",
+      "webp_sha256": "15205792e443aacdb39f1ffef94e7dc1742c7d5b198d30cdf2bce1f36dfc98f1"
+    },
+    {
+      "id": 61,
+      "title": "Distributed Ledger Technology in Practice",
+      "source_brief": "Distributed Ledger Technology in Practice (Digital Assets & Blockchain): Learn how DLT-based systems and tokenised market infrastructures operate under the DLT Pilot Regime.",
+      "png": "61.png",
+      "website_image": "images/61.webp",
+      "png_sha256": "5d2cb94a7398c9b824b9b954657106c33e2fece0b1700a686983b8455e72760c",
+      "webp_sha256": "4f9c4fcec639019b684b1582c4549f5ae28446a61a72da4f9b9d4a469f1cc323"
+    },
+    {
+      "id": 62,
+      "title": "E-Security: Anti-Malware and eID Signing",
+      "source_brief": "E-Security: Anti-Malware and eID Signing (Internal Operations & Mandatory Training): Understand and implement e-security measures including anti-malware strategies and eID signing.",
+      "png": "62.png",
+      "website_image": "images/62.webp",
+      "png_sha256": "72998d09a87a96a823ee5f24e7418c2f4c3c59fd17ebecc40c861a76097447c4",
+      "webp_sha256": "f0cfdf4fd4e1e0eb6290f2a1a50791bb01052d432bff0796f4d47616c5ec76c9"
+    },
+    {
+      "id": 63,
+      "title": "Early Intervention: Recognising and Acting on Warning Signs",
+      "source_brief": "Early Intervention: Recognising and Acting on Warning Signs (Crisis Management & Resolution): Ability to recognise early warning signs of firm distress and apply a structured intervention ladder before problems become…",
+      "png": "63.png",
+      "website_image": "images/63.webp",
+      "png_sha256": "717690a4362cb824db2d6ddbfa4ae375aa02beeabda7be9754f195d6eb34dbac",
+      "webp_sha256": "e0c7b91b7cad37536eb1d8285838011e19cbc2eb82d0704a210b148860ade232"
+    },
+    {
+      "id": 64,
+      "title": "Effective Media Communication",
+      "source_brief": "Effective Media Communication (Internal Operations & Mandatory Training): Develop skills for effective and confident communication with media and external stakeholders.",
+      "png": "64.png",
+      "website_image": "images/64.webp",
+      "png_sha256": "86e485bb8a758b1bfe0fce5064bfee5c20c240e486569c2aff2bdb2674910355",
+      "webp_sha256": "39017900157b34e0847144cc49e88b16a767f7e311477efe4be9bdc8f3e14f58"
+    },
+    {
+      "id": 65,
+      "title": "Effective Participation in Supervisory Colleges",
+      "source_brief": "Effective Participation in Supervisory Colleges (Cross-Border & Group Supervision): The aim of this workshop is to prepare participants to participate effectively in supervisory colleges, building skills in joint…",
+      "png": "65.png",
+      "website_image": "images/65.webp",
+      "png_sha256": "c3bd1fecf2203a9e4871bd03fba490bc184e1067a89236f1766dd5059b2b0c11",
+      "webp_sha256": "854bfe5671e4e09c452510805b7decffe0f0baf7ac696ff853b7dcecd15b60c7"
+    },
+    {
+      "id": 66,
+      "title": "Effective Teamwork and Delegation",
+      "source_brief": "Effective Teamwork and Delegation (People & Communication Fundamentals): Learn how to work effectively as a team while delegating tasks clearly and maintaining accountability.",
+      "png": "66.png",
+      "website_image": "images/66.webp",
+      "png_sha256": "b143b66cb9a164a95ed5c23c053169b7d7d77de9eeb8efa936841669cb32eb5a",
+      "webp_sha256": "24db9eb45411ad24037aac2d202bb017aeb828cdedd74a3ba86aa3c549e88d8a"
+    },
+    {
+      "id": 67,
+      "title": "Entry-Level AML/CFT Knowledge",
+      "source_brief": "Entry-Level AML/CFT Knowledge (Internal Operations & Mandatory Training): Provide new joiners with foundational AML/CFT knowledge. Typical audience: new joiners.",
+      "png": "67.png",
+      "website_image": "images/67.webp",
+      "png_sha256": "011603ba1c9c5ebc22564f3e1fca188626f82403e920ffa31f3f3ecb4e417a00",
+      "webp_sha256": "34ca7779396e2c6a1e2276c56b45b9ea246d58c1a415287f91bbe02daccaf8ce"
+    },
+    {
+      "id": 68,
+      "title": "ESG Scoring and Sustainability Reporting Standards",
+      "source_brief": "ESG Scoring and Sustainability Reporting Standards (Sustainable Finance in Practice): Explore the methodologies behind ESG scoring and corporate sustainability reporting best practice.",
+      "png": "68.png",
+      "website_image": "images/68.webp",
+      "png_sha256": "86f4100e9282607e44fb24ec18c3a72995b56242c6ea9ec3125e139034008f78",
+      "webp_sha256": "243275f536db80beed704072c4e1e6e59e375dfbb51a1432172dc963e1dcf058"
+    },
+    {
+      "id": 69,
+      "title": "Ethics Policy",
+      "source_brief": "Ethics Policy (Internal Operations & Mandatory Training): Build awareness and understanding of the organisation’s ethics policy and expected standards of conduct.",
+      "png": "69.png",
+      "website_image": "images/69.webp",
+      "png_sha256": "ff00ba72e6c2319d36b97f0bfdd5703b62e17c23e016dad96d9dea642d8ac2ff",
+      "webp_sha256": "aa8141b0d41936d62bea276a839a51ed9ff95550a46dbb0f77d802251925c39f"
+    },
+    {
+      "id": 70,
+      "title": "Ethics, Bias & Accountability in Financial Crime AI",
+      "source_brief": "Ethics, Bias & Accountability in Financial Crime AI (Reducing Financial Crime & Delivering Market Integrity): Skills in identifying and assessing bias and discriminatory outcomes in AI-driven financial crime systems, and the…",
+      "png": "70.png",
+      "website_image": "images/70.webp",
+      "png_sha256": "602ab918e704ec6787583174a0a97a91751c0751ce25f79cbd41a9c504e972ce",
+      "webp_sha256": "99b07a35f5bbe5a83ac55cb8608116f2e4ef2af3232daa69417d426513c4a785"
+    },
+    {
+      "id": 71,
+      "title": "Evidence-Gathering to an Enforcement Standard",
+      "source_brief": "Evidence-Gathering to an Enforcement Standard (Enforcement & Sanctions): Skills in gathering and preserving evidence to a standard suitable for enforcement or court proceedings, including disclosure…",
+      "png": "71.png",
+      "website_image": "images/71.webp",
+      "png_sha256": "f2b2982841fc0f1cb8872face025ef8fff42eb6c142c3787ae791b2f7c30cb4e",
+      "webp_sha256": "bb63882e2d49b98904ccf7116926b77de370f24577104e228f0fa0b2e081fda0"
+    },
+    {
+      "id": 72,
+      "title": "Excel and Power BI for Supervisory Data Analysis",
+      "source_brief": "Excel and Power BI for Supervisory Data Analysis (Supervisory Data Analytics & AI Skills): Leverage Excel for data management and use Power BI for advanced data analysis and visualisation techniques for supervisory use…",
+      "png": "72.png",
+      "website_image": "images/72.webp",
+      "png_sha256": "f2676550f1bc3d8bfeae4d073838e989effa93e324aa09134cc4abadfec78b0f",
+      "webp_sha256": "ecd734cef40050536648e2bf4811b5f7667e552d7effdfd0cfca15b85a040b7d"
+    },
+    {
+      "id": 73,
+      "title": "Executive Coaching",
+      "source_brief": "Executive Coaching (Senior Leadership Development): Provide tailored, on-demand coaching interventions to support individual leadership development needs.",
+      "png": "73.png",
+      "website_image": "images/73.webp",
+      "png_sha256": "b6777c81cd08e1ca2b9e4d8df4cbf86e5de4be1d402f6922280722eaf275059d",
+      "webp_sha256": "a0b702da2f35bc7135b455615df7fcb0365c84649cb18acd68793f1bf8866dd6"
+    },
+    {
+      "id": 74,
+      "title": "Exercising Supervisory Judgement Under Uncertainty",
+      "source_brief": "Exercising Supervisory Judgement Under Uncertainty (Supervisory Judgement & Professional Practice): Skills in exercising supervisory judgement when information is incomplete or ambiguous, recognising common cognitive biases and…",
+      "png": "74.png",
+      "website_image": "images/74.webp",
+      "png_sha256": "56ff31a0d9641fcd826ab6b997158af4c5bd0303b83ec11c9aeae7950d1bd83b",
+      "webp_sha256": "b912883a277b43e34d7c80fb0538f4066cc1ded713ba67bc19a0ee1e3d7c4025"
+    },
+    {
+      "id": 75,
+      "title": "Financial Inclusion and Access to Services",
+      "source_brief": "Financial Inclusion and Access to Services (Consumer Protection & Financial Inclusion): The aim of this workshop is to introduce participants to financial inclusion as a policy and supervisory concern, exploring the…",
+      "png": "75.png",
+      "website_image": "images/75.webp",
+      "png_sha256": "2fd5d0c575b052d31f301188fdd2508251b124f7481ac7b85f89eddb0ab697f0",
+      "webp_sha256": "a03744e835f4d604241f4a22958bd7f721c198b79c18a682eb603fbb7a60f0e8"
+    },
+    {
+      "id": 76,
+      "title": "Financial Supervision Independence",
+      "source_brief": "Financial Supervision Independence (Ongoing Supervision): Identifying and addressing main pitfalls in financial supervision.",
+      "png": "76.png",
+      "website_image": "images/76.webp",
+      "png_sha256": "3459a98a2709f135f2a4c13cf0ac277499c9ec39e3ada47b4d073e5792a17f5d",
+      "webp_sha256": "47444860223447fb2e04cbddace3d38cd12e1921ff227c67e6821b28ecb4645e"
+    },
+    {
+      "id": 77,
+      "title": "First Impressions Count: Elevating Employee Onboarding Experience",
+      "source_brief": "First Impressions Count: Elevating Employee Onboarding Experience (People & Communication Fundamentals): Learn strategies for an impactful and effective onboarding process.",
+      "png": "77.png",
+      "website_image": "images/77.webp",
+      "png_sha256": "9ad7db1616cdc0fea1b94e731f29c2d5dfc2b2742fca88d49af798401c6286fc",
+      "webp_sha256": "ac02368abc9fa449c43a9ea203c09110ca94c8f03ef6ec99b7d2a0523fde12b0"
+    },
+    {
+      "id": 78,
+      "title": "Fit and Proper Assessment in Practice",
+      "source_brief": "Fit and Proper Assessment in Practice (Authorisation & Licensing): Skills in assessing the fitness and propriety of controllers, directors, and senior managers, both at authorisation and on an…",
+      "png": "78.png",
+      "website_image": "images/78.webp",
+      "png_sha256": "ba2332704e7bd70c7820cc5828300894ad894a8f78adbae01f31ffcbffe87b99",
+      "webp_sha256": "a8ff24f2e8dda227ea95b5151a2725c125c09afbbed91807f5b6c15d7b2843a5"
+    },
+    {
+      "id": 79,
+      "title": "Fostering a High-Performance Culture",
+      "source_brief": "Fostering a High-Performance Culture (Management & Leadership Fundamentals): Learn how to establish the behavioural foundations that enable teams to collaborate openly, safely, and proactively.",
+      "png": "79.png",
+      "website_image": "images/79.webp",
+      "png_sha256": "bd027733dd20f54edc1dc5cfd8e2a5e34cd2d5eac5429ae2856e5a6690771815",
+      "webp_sha256": "787c129681333ea0293739fbfcb97f4d6dc8b63fb1df0129bf60f67c044e039d"
+    },
+    {
+      "id": 80,
+      "title": "Foundations of Financial Services Rule-Making",
+      "source_brief": "Foundations of Financial Services Rule-Making (Policy-Making & Rule-Making): Understanding of how a supervisory authority makes rules, covering the legal hierarchy between primary legislation, secondary…",
+      "png": "80.png",
+      "website_image": "images/80.webp",
+      "png_sha256": "5c4c97a8f66b2c8e77257c1c7521ad0439bd2574c1e1cdee68ad7da578a07cd9",
+      "webp_sha256": "20e07a06188a3e29e523505b903422c7a4d502e01eba26cc90a67fa56b267b68"
+    },
+    {
+      "id": 81,
+      "title": "Foundations of Insurance Supervision",
+      "source_brief": "Foundations of Insurance Supervision (Insurance Supervision): Learn the foundations of insurance business models and the distinction between prudential and conduct supervision of insurers.",
+      "png": "81.png",
+      "website_image": "images/81.webp",
+      "png_sha256": "5cc3044cb92e1236700ef317ea1ae01597b60a825c73c38eb34f51a2ee544425",
+      "webp_sha256": "273766cffe5d0f611027d8f4d3ea9441051327965cb15c80f41af4d68fd7cab7"
+    },
+    {
+      "id": 82,
+      "title": "Foundations of Payment Institution and E-Money Regulation",
+      "source_brief": "Foundations of Payment Institution and E-Money Regulation (Payment Services): Understanding of the regulatory foundations for authorising and supervising payment institutions and e-money issuers, including…",
+      "png": "82.png",
+      "website_image": "images/82.webp",
+      "png_sha256": "b35d24d6d15b6155302fc81645a1185bd3efacd600a4398c252504ad468ca6dd",
+      "webp_sha256": "490198472b06614e770767f273dbfdcad7545f3455aea263679fb4a81bf3ca63"
+    },
+    {
+      "id": 83,
+      "title": "Foundations of Pension Scheme Supervision",
+      "source_brief": "Foundations of Pension Scheme Supervision (Pensions & Retirement Supervision): Learn the foundations of pension scheme types, funding models, and the regulatory perimeter for pension supervision.",
+      "png": "83.png",
+      "website_image": "images/83.webp",
+      "png_sha256": "f8f85c478ae5177d2869b6bb21cda60e39d9562a53d941ac3ef8498a38fd4fb3",
+      "webp_sha256": "913bd53d19972cf96e9480c00a78ad5429ff3f33ab6725c489307699b9f57dde"
+    },
+    {
+      "id": 84,
+      "title": "Foundations of Prudential Banking Supervision",
+      "source_brief": "Foundations of Prudential Banking Supervision (Banking & Prudential Supervision): Learn the foundations of prudential banking supervision, including capital and liquidity concepts and the scope of the prudential…",
+      "png": "84.png",
+      "website_image": "images/84.webp",
+      "png_sha256": "f6444827cf34ddbc8c32e6f27a028bbef5c85143ab3ff1b38fef9a2abd1fe4fc",
+      "webp_sha256": "ee38755012049262c679d0d13706259fb57ff90b66cdcadc325b00eab54fe26c"
+    },
+    {
+      "id": 85,
+      "title": "Foundations of Regulatory Enforcement",
+      "source_brief": "Foundations of Regulatory Enforcement (Enforcement & Sanctions): Understanding of a supervisory authority's enforcement function — what powers exist, how the decision to open an investigation is…",
+      "png": "85.png",
+      "website_image": "images/85.webp",
+      "png_sha256": "7792720b3d2f17052a9d6d3171732651d749338043e4f69db75d8f5954611885",
+      "webp_sha256": "28ac4b4c9979b8c268603d29ede7f336af05f85a5d51952b57796b11b08a76fc"
+    },
+    {
+      "id": 86,
+      "title": "Fraud Detection & Behavioural Analytics",
+      "source_brief": "Fraud Detection & Behavioural Analytics (Reducing Financial Crime & Delivering Market Integrity): Understanding of how AI-enabled fraud detection systems operate across payments and banking channels, examining behavioural…",
+      "png": "86.png",
+      "website_image": "images/86.webp",
+      "png_sha256": "4e91ab6879a6760458f7e1ba2e96ce4ae10a5796eeb258f6604aff4bcc4a94d5",
+      "webp_sha256": "b746fd30ff7f35f2736e6280351528b4a717a6ead1200884b2830d693a6fbc52"
+    },
+    {
+      "id": 87,
+      "title": "From International Standard to Domestic Rule: Transposition in Practice",
+      "source_brief": "From International Standard to Domestic Rule: Transposition in Practice (Policy-Making & Rule-Making): Understanding of how international and EU-level standards are translated into domestic rules, including the risks of over- or…",
+      "png": "87.png",
+      "website_image": "images/87.webp",
+      "png_sha256": "bce35ce1c6a6cfa89e73e69cbeb1d11df20c51d364aef96dc0763bcbfbe7b99a",
+      "webp_sha256": "b6ae4dc1558f5ecfd2067778eef7b61ca201b9167e7d4d9e1e8f01c363612341"
+    },
+    {
+      "id": 88,
+      "title": "Fund Liquidity Stress Testing in Practice",
+      "source_brief": "Fund Liquidity Stress Testing in Practice (Investment Funds): Skills in applying regulatory liquidity stress-testing frameworks in practice, assessing redemption assumptions, liquidity…",
+      "png": "88.png",
+      "website_image": "images/88.webp",
+      "png_sha256": "8d2aa95c1807c889412224302991df009655db4665330379b0e3a4f10a57368a",
+      "webp_sha256": "9155fe03018b52e6a85dc90e6b642ad17a07658c75ea457af17d300d86798dff"
+    },
+    {
+      "id": 89,
+      "title": "Fund Manager Outsourcing & Third-Party Risk",
+      "source_brief": "Fund Manager Outsourcing & Third-Party Risk (Investment Funds): Understanding of how fund managers structure delegation and outsourcing arrangements, and how supervisors assess effective…",
+      "png": "89.png",
+      "website_image": "images/89.webp",
+      "png_sha256": "6f1dd218cf28844f75a170001234d17317b156665b2aec37daa4503c66ccc376",
+      "webp_sha256": "a501b3bb34adae5482f3eb6352aa6e863b7a684436127c0f8f6ce93a3046b015"
+    },
+    {
+      "id": 90,
+      "title": "Fund Valuation: Practical Supervisory Techniques",
+      "source_brief": "Fund Valuation: Practical Supervisory Techniques (Investment Funds): The aim of this workshop is to build practical techniques for assessing fund valuation governance and methodology, with…",
+      "png": "90.png",
+      "website_image": "images/90.webp",
+      "png_sha256": "d4f76186dd754cfd2fa38a1b70f79d2093874ca07b27bac8ffd5502c94f9ff84",
+      "webp_sha256": "f8e00eced39a7d84fb1f7aae40da357ddb666fec2a98dbf8ff3d34d89c801f96"
+    },
+    {
+      "id": 91,
+      "title": "Funding and Investment Risk in Pension Schemes",
+      "source_brief": "Funding and Investment Risk in Pension Schemes (Pensions & Retirement Supervision): Learn how to assess funding adequacy and oversee investment strategy risk within a pension scheme.",
+      "png": "91.png",
+      "website_image": "images/91.webp",
+      "png_sha256": "829489f24f5d195b3beb4a4033bc71bf4b541ea5058e6852527d9775ae36dbf5",
+      "webp_sha256": "4b09465ed31948b90ff6d4b97dacc9844a04c1d194988bdc3cd8e434d1cff2b3"
+    },
+    {
+      "id": 92,
+      "title": "Generative AI Risks in Financial Crime: New Typologies",
+      "source_brief": "Generative AI Risks in Financial Crime: New Typologies (Reducing Financial Crime & Delivering Market Integrity): Awareness of how criminals are using generative AI to create new financial crime typologies — including synthetic identity fraud…",
+      "png": "92.png",
+      "website_image": "images/92.webp",
+      "png_sha256": "8c153c946a163a837c96c459bb9f627a03b23184ebb170a1b506027028eaa085",
+      "webp_sha256": "0d95160081a795c55bf97b3e15bfdbeabe41c41b237ed4f9ee7b98eb63d66702"
+    },
+    {
+      "id": 93,
+      "title": "Governance for Supervisory Authorities: Board & Executive Practice",
+      "source_brief": "Governance for Supervisory Authorities: Board & Executive Practice (Governance, Strategy & Leadership): Understanding of the governance structures and practices that support effective decision-making and accountability within a…",
+      "png": "93.png",
+      "website_image": "images/93.webp",
+      "png_sha256": "6e2d7bc5310b17223400adc16d1f08619b0f2cbb67b8e9095b605238da252deb",
+      "webp_sha256": "fee299dc1cb503525d52bd22c73c301378d7a06cc34fe1c7225595ccac62b52b"
+    },
+    {
+      "id": 94,
+      "title": "Governance Risk Assessment & Interview Skills",
+      "source_brief": "Governance Risk Assessment & Interview Skills (Ongoing Supervision): Combines two linked supervisory disciplines: assessing governance risk in regulated firms, and conducting effective supervisory…",
+      "png": "94.png",
+      "website_image": "images/94.webp",
+      "png_sha256": "46f6df9aadc4f090d4eae28cadd380c5982ce1a7917069ed3f36e5a10ff94a6b",
+      "webp_sha256": "9430b6d003b716e9943e0b366708e0bdb14892180eebb3a7f1a0abb03cb0c884"
+    },
+    {
+      "id": 95,
+      "title": "Green Finance Revolution: Understanding Sustainable Finance & Green Bonds",
+      "source_brief": "Green Finance Revolution: Understanding Sustainable Finance & Green Bonds (Sustainable Finance in Practice): Introduce the fundamentals of sustainable finance and the specifics of green bonds.",
+      "png": "95.png",
+      "website_image": "images/95.webp",
+      "png_sha256": "fd8b6b4d3d24d1a8e8e27559a015303f6ed016f624b10ce416f63e6736044a51",
+      "webp_sha256": "aa41075f4652125611608d73d88aec9baad295eec1bebc5856a6f252dc3d47cd"
+    },
+    {
+      "id": 96,
+      "title": "Group-Wide Supervision of Cross-Border Financial Groups",
+      "source_brief": "Group-Wide Supervision of Cross-Border Financial Groups (Cross-Border & Group Supervision): With the skills to supervise financial groups operating across multiple jurisdictions on a consolidated, group-wide basis…",
+      "png": "96.png",
+      "website_image": "images/96.webp",
+      "png_sha256": "3a9df5c73aedbc875d73d53f40aa83bac74dde90a49c2d75d913ac266eaaae1b",
+      "webp_sha256": "3557d39a8dcc85faf4b4f2f30ab1c0911ec9fd245ce794bf938b3027be7303b8"
+    },
+    {
+      "id": 97,
+      "title": "Having Difficult Supervisory Conversations",
+      "source_brief": "Having Difficult Supervisory Conversations (Supervisory Judgement & Professional Practice): Skills in delivering difficult messages to regulated firms — including adverse findings and escalation decisions — while managing…",
+      "png": "97.png",
+      "website_image": "images/97.webp",
+      "png_sha256": "c4afec77a1f416bfd5b494f1969f1518cb6e2e48bbc13cb568098a1bcee9a357",
+      "webp_sha256": "3d2e776fcd78c5495d7715bf1953728aed52333b127c0d519ec8010f566d8617"
+    },
+    {
+      "id": 98,
+      "title": "Home-Host Relationships in Cross-Border Supervision",
+      "source_brief": "Home-Host Relationships in Cross-Border Supervision (Cross-Border & Group Supervision): Understanding of the Basel Core Principle on home-host relationships and to develop the practical skills needed to cooperate…",
+      "png": "98.png",
+      "website_image": "images/98.webp",
+      "png_sha256": "bf4b01633eb2f6c4853bab3b669a95f3ca057e75fadc060e1dca05c43e200e5b",
+      "webp_sha256": "51e954eb4830a3f5e50e89f067d9369ac2ffdcab6be60079fa31ad2c3b8bf827"
+    },
+    {
+      "id": 99,
+      "title": "Identifying and Protecting Vulnerable Customers",
+      "source_brief": "Identifying and Protecting Vulnerable Customers (Consumer Protection & Financial Inclusion): The aim of this workshop is to build supervisors' ability to assess how firms identify and respond to customer vulnerability.…",
+      "png": "99.png",
+      "website_image": "images/99.webp",
+      "png_sha256": "72cb8feb84985410e784079c563df9193a475d11eea57fb30491f6e6179f207d",
+      "webp_sha256": "0faeb65a15f744ba3d7df9ae6cc3033639e23d26e49acee6934e2ec4ea94e3cc"
+    },
+    {
+      "id": 100,
+      "title": "Instant Payments and Payment System Oversight",
+      "source_brief": "Instant Payments and Payment System Oversight (Payment Services): Understanding of the regulatory framework for instant/fast payments and the oversight considerations specific to payment system…",
+      "png": "100.png",
+      "website_image": "images/100.webp",
+      "png_sha256": "fa6df9410e5e4c1ca08bb871c095e9bce724f373873d4d35ea8ab4b89ef71f95",
+      "webp_sha256": "5d08e8c103518b3958d3fa67a77c3c3948bdbe020b7e9a75ce8421c3da289818"
+    },
+    {
+      "id": 101,
+      "title": "Insurance Governance and Conduct Supervision",
+      "source_brief": "Insurance Governance and Conduct Supervision (Insurance Supervision): Learn how to assess insurer governance and conduct risk, including fair treatment of policyholders.",
+      "png": "101.png",
+      "website_image": "images/101.webp",
+      "png_sha256": "32bb4325f2ec3ebb99aa596dc564a1de9a73f065e935d8e989ada2b01103b8e9",
+      "webp_sha256": "0ebce8f3484386b285e3aa1b5c540f86dab9ef9e9c8517fb2d6f6e67aeed6afc"
+    },
+    {
+      "id": 102,
+      "title": "Internal Audit: Objective and Purpose",
+      "source_brief": "Internal Audit: Objective and Purpose (Internal Operations & Mandatory Training): Build understanding of the role, objective, and purpose of the internal audit function.",
+      "png": "102.png",
+      "website_image": "images/102.webp",
+      "png_sha256": "50b24ca6c744171fa7586ebc4c3af899961e42e0fa80a3f1dab51b4ac572cb7e",
+      "webp_sha256": "7ac351dc2cc16366b3cc662e1f665751ec558be4ca39840a375bee0ba11444c1"
+    },
+    {
+      "id": 103,
+      "title": "International Cooperation for Supervisors",
+      "source_brief": "International Cooperation for Supervisors (Governance, Strategy & Leadership): Understanding of how supervisory authorities engage in cross-border cooperation and international standard-setting, and how to…",
+      "png": "103.png",
+      "website_image": "images/103.webp",
+      "png_sha256": "5e664a04ebf22673c68a1b0618d643b8f084543550bba403ed5139d80b9f0729",
+      "webp_sha256": "026b316f66345e03d95abae167d5e2bcc68ff0d0c44c698d936f921d901a6f70"
+    },
+    {
+      "id": 104,
+      "title": "Interrogating Regulatory Returns",
+      "source_brief": "Interrogating Regulatory Returns (SupTech, Data & Supervisory Analytics): Learn how to interrogate regulatory returns data critically, applying trend analysis and peer comparison rather than accepting…",
+      "png": "104.png",
+      "website_image": "images/104.webp",
+      "png_sha256": "b9d13a52da9cf260ac003d00141d8195c88c1a73cf471b1740a35bbb38847bc2",
+      "webp_sha256": "cd2a18e8dcd57afab15fc8fad11ec1b0dfc7571e794cc0cfc08974b3d73c5a21"
+    },
+    {
+      "id": 105,
+      "title": "Interview Insights: Mastering Recruitment and Applicant Expectations",
+      "source_brief": "Interview Insights: Mastering Recruitment and Applicant Expectations (People & Communication Fundamentals): Develop skills for conducting effective interviews and managing candidate expectations.",
+      "png": "105.png",
+      "website_image": "images/105.webp",
+      "png_sha256": "44bfca0e64f0a1f02d4d0226ffeb502fe637a0a1997729fc7deff74fdbdcb245",
+      "webp_sha256": "5990546b9f020e1528e9d19962e983d28683b8669d74cb23baa8c0c6191375a5"
+    },
+    {
+      "id": 106,
+      "title": "Intranet and IT Service Desk Platform Utilisation",
+      "source_brief": "Intranet and IT Service Desk Platform Utilisation (Internal Operations & Mandatory Training): Effective use of internal intranet and IT service desk platforms for communication and support.",
+      "png": "106.png",
+      "website_image": "images/106.webp",
+      "png_sha256": "5b3203277d392fbf7f6685f21a19314e7fa375da1d03424f99bd3784f5843b92",
+      "webp_sha256": "7e5712c48af8b80634b3c8fcfb26f1754afb21535998ba2fb32b6f4537b68a55"
+    },
+    {
+      "id": 107,
+      "title": "Introduction to SQL for Supervisory Data",
+      "source_brief": "Introduction to SQL for Supervisory Data (Supervisory Data Analytics & AI Skills): Learn foundational SQL skills to query regulatory return and case-management data directly rather than relying solely on…",
+      "png": "107.png",
+      "website_image": "images/107.webp",
+      "png_sha256": "1e7b37c03828e01953a603b2b0387ffb92a9f24d6a8c93261ffc2f545d8522c8",
+      "webp_sha256": "d8e3bc4cc3743b5c86918f8497419888fc98a33aabaa6774c3cefc7740513cb5"
+    },
+    {
+      "id": 108,
+      "title": "Investigative and Interviewing Skills",
+      "source_brief": "Investigative and Interviewing Skills (Ongoing Supervision): Learn how to conduct effective interviews and gather reliable information during on-site inspections.",
+      "png": "108.png",
+      "website_image": "images/108.webp",
+      "png_sha256": "210ff2ea5bdd4636a7de75ed00b264b84c5dd02f3f457100ec2f8aa9d83080b2",
+      "webp_sha256": "64cdcbef1aac54232f9d79d164a69e847b83478a6ea5eeef8cbe53a7f723de86"
+    },
+    {
+      "id": 109,
+      "title": "Issuer Disclosure as Investor Protection",
+      "source_brief": "Issuer Disclosure as Investor Protection (Consumer Protection & Financial Inclusion): The aim of this workshop is to deepen participants' understanding of issuer disclosure as a core investor-protection mechanism…",
+      "png": "109.png",
+      "website_image": "images/109.webp",
+      "png_sha256": "02da95c97bbd2546a95556745a7fcfde5bf1db2dc549716bc87ae7d9283b64c5",
+      "webp_sha256": "4a238c42f74f3b9b98e0780632ce0769d89fb949a92113bfd89b6716e07a5a72"
+    },
+    {
+      "id": 110,
+      "title": "Know Your Data",
+      "source_brief": "Know Your Data (Internal Operations & Mandatory Training): Best practices in general data management, distinct from the supervisory analytics skills in S4.",
+      "png": "110.png",
+      "website_image": "images/110.webp",
+      "png_sha256": "c75b4b53e5b2384b94b25f4ae37355b2b2587b531e31e5898513f7bfc91788ae",
+      "webp_sha256": "cd00ce8a6451c8f0208c2acea9253d013953c0df2a2378929d3d90dee319fb4b"
+    },
+    {
+      "id": 111,
+      "title": "Knowledge Management for Supervisory Authorities",
+      "source_brief": "Knowledge Management for Supervisory Authorities (Capability & Capacity Building): Skills in designing systems and practices that preserve institutional knowledge and supervisory precedent despite staff turnover.",
+      "png": "111.png",
+      "website_image": "images/111.webp",
+      "png_sha256": "496ef5d0c9febe051d2b1a1f2e0d5686b53d3e20637dd06959fdf785c5570491",
+      "webp_sha256": "c3f2e4e49432bd3d8b10e61303ad6d2c588f6c3bf3e04357c3d41e686f4ef29b"
+    },
+    {
+      "id": 112,
+      "title": "LEAP",
+      "source_brief": "LEAP (Senior Leadership Development): Provide structured, self-paced and facilitated leadership development content for participants at all stages of the leadership…",
+      "png": "112.png",
+      "website_image": "images/112.webp",
+      "png_sha256": "a6481ccfbba06664941e99eac1c8c77395e4df31036cc4146f39b0d6983d7392",
+      "webp_sha256": "12deb514f2d61cfe4568bce9f602c9b3fc38a03d7aec238b003fc6182308d005"
+    },
+    {
+      "id": 113,
+      "title": "Legal Drafting for Regulators",
+      "source_brief": "Legal Drafting for Regulators (Policy-Making & Rule-Making): The aim of this workshop is to build core legal drafting skills for producing rules and guidance that are clear, internally…",
+      "png": "113.png",
+      "website_image": "images/113.webp",
+      "png_sha256": "746dc61f15515700cd22831a5861c7d50f318db8cfd5d4d78351dc5ee09a35f3",
+      "webp_sha256": "96eeb1b734b2fae2f715b63570f4a50d602f5ddc55fb08a4f36a1c388f700823"
+    },
+    {
+      "id": 114,
+      "title": "Legal Preparedness: Court Proceedings and Testimony Skills",
+      "source_brief": "Legal Preparedness: Court Proceedings and Testimony Skills (Ongoing Supervision): Train participants in the legal aspects of providing testimonies and evidence in court.",
+      "png": "114.png",
+      "website_image": "images/114.webp",
+      "png_sha256": "cfe8ddc031f59241bf06014df030100c2160e61b488ce57bc219970309faa468",
+      "webp_sha256": "9fb3634595b2621e1d9b9cc501f2ae153f1caced94fa844bebca8688f0b446ca"
+    },
+    {
+      "id": 115,
+      "title": "Macroprudential Policy & Systemic Risk Monitoring",
+      "source_brief": "Macroprudential Policy & Systemic Risk Monitoring (Crisis Management & Resolution): Learn how to build a systemic risk dashboard and identify the build-up of system-wide vulnerabilities across firms and sectors…",
+      "png": "115.png",
+      "website_image": "images/115.webp",
+      "png_sha256": "44a84bab2d681081f5157f1c9051a272e0f768fa053b02ef8f09004e34b2aed0",
+      "webp_sha256": "ace56d4a4721651368f5b81dd99f39a0256ec5e5d128e4265bb8a6b995693fd4"
+    },
+    {
+      "id": 116,
+      "title": "Manager Governance, Remuneration and Conflicts of Interest",
+      "source_brief": "Manager Governance, Remuneration and Conflicts of Interest (Investment Management): Skills in assessing an investment manager's own governance arrangements, remuneration structures, and conflicts-of-interest…",
+      "png": "116.png",
+      "website_image": "images/116.webp",
+      "png_sha256": "0a57b71f6279e5c5e292baffe28e1363d27784e3dfbe713f94bf81d6dd9d0eb4",
+      "webp_sha256": "ae306045d4b4e2ca7ead24336012a9627610c0046ad9f86f9e83806136f07115"
+    },
+    {
+      "id": 117,
+      "title": "Managing People Through Effective Communication & Coaching",
+      "source_brief": "Managing People Through Effective Communication & Coaching (Management & Leadership Fundamentals): Strengthen managers’ ability to manage people confidently through effective communication, coaching techniques, and supportive…",
+      "png": "117.png",
+      "website_image": "images/117.webp",
+      "png_sha256": "a629c3467be06e3ed26500bbd6c2edf46fe2d9574d19ba7d197fb506c99a948f",
+      "webp_sha256": "31379cc7fa3d40a67a4a88b9dee0d974fff92f7eb8a30ae6d0a706c3fe008a22"
+    },
+    {
+      "id": 118,
+      "title": "Managing Systemic Risk and Contagion",
+      "source_brief": "Managing Systemic Risk and Contagion (Crisis Management & Resolution): Understanding of systemic risk and contagion channels, and the macroprudential tools available to address them.",
+      "png": "118.png",
+      "website_image": "images/118.webp",
+      "png_sha256": "3e905db45d6038806883968d3344c1807b5d3c7b942271279394ed84b7d45694",
+      "webp_sha256": "a00ddd008a21b8489148bcfb96fdf5f651a0d65263cad98fe1aef7a941bb6566"
+    },
+    {
+      "id": 119,
+      "title": "Managing with Clarity & Intention",
+      "source_brief": "Managing with Clarity & Intention (Management & Leadership Fundamentals): Equip managers with process-based thinking to support structured decision-making and effective prioritisation in day-to-day…",
+      "png": "119.png",
+      "website_image": "images/119.webp",
+      "png_sha256": "a9212524f162479638f7baf04dbd42acccc50061dd90a9a0e5295c048aec199f",
+      "webp_sha256": "031e33e09e5b6e6a82c8fc62e2fc9d9a4aa592c4bcfe41c4a889b128ee218b70"
+    },
+    {
+      "id": 120,
+      "title": "Managing with Emotional Intelligence & Accountability",
+      "source_brief": "Managing with Emotional Intelligence & Accountability (Management & Leadership Fundamentals): Build managers’ self-awareness and accountability practices that foster a strong feedback culture and enhance team performance.",
+      "png": "120.png",
+      "website_image": "images/120.webp",
+      "png_sha256": "392d3281e1d16ebca04482c5bdcd39b3ebc53b7e24c63c84978883969d2a7bd9",
+      "webp_sha256": "e290704cd36cb357a6b22477cf574264a6cfbb428296c13cfd0fcaf85cf36889"
+    },
+    {
+      "id": 121,
+      "title": "Market Abuse Detection & Surveillance",
+      "source_brief": "Market Abuse Detection & Surveillance (Reducing Financial Crime & Delivering Market Integrity): Understanding of how market abuse is detected through surveillance systems, and how supervisors assess the adequacy of firms' own…",
+      "png": "121.png",
+      "website_image": "images/121.webp",
+      "png_sha256": "671e7860095f3fc664a81683ac4ea8148a69a93a47131725a2e5b9eac8055475",
+      "webp_sha256": "658fe7674018ef7cfda0720590e187c5ea83a067901644573f48fe2f9080e732"
+    },
+    {
+      "id": 122,
+      "title": "Market and Operational Risk in Banking",
+      "source_brief": "Market and Operational Risk in Banking (Banking & Prudential Supervision): Learn how to assess trading book market risk and operational risk frameworks within a banking supervisory context.",
+      "png": "122.png",
+      "website_image": "images/122.webp",
+      "png_sha256": "476516c44b6da8b6db03a5fdd799a30ff53717178ab5fe3ee5ffc6c66ff3507a",
+      "webp_sha256": "85b2bc84f05bb3b65a8e7af7ad04a836b04dd473ff8eafeaadf82ca9300e624a"
+    },
+    {
+      "id": 123,
+      "title": "Market Infrastructure Supervision: CCPs, CSDs and Trading Venues",
+      "source_brief": "Market Infrastructure Supervision: CCPs, CSDs and Trading Venues (Investment Services & Capital Markets): Understanding of the regulatory framework for central counterparties, central securities depositories, and trading venues, and…",
+      "png": "123.png",
+      "website_image": "images/123.webp",
+      "png_sha256": "8766ab77f43213e7c7cc341ba168a863158499e9c3eea3feef77a6f7e6e86953",
+      "webp_sha256": "5139bf169b0c46e135c30646e3f4e663b59cdf311aebc678aaf4de5337ca685f"
+    },
+    {
+      "id": 124,
+      "title": "Mastering Investment Services Regulations",
+      "source_brief": "Mastering Investment Services Regulations (Investment Services & Capital Markets): Understanding regulations impacting investment services.",
+      "png": "124.png",
+      "website_image": "images/124.webp",
+      "png_sha256": "1540ad3a1cad65babf8589d6e4745ff54718c1719e8e41ac3ce18b546bf5c5b2",
+      "webp_sha256": "593793997e75351ab1194ceb26bd4656f7cc8518fef6442e6428aeb5282fa81b"
+    },
+    {
+      "id": 125,
+      "title": "Mastering Microsoft Office 365 and Outlook",
+      "source_brief": "Mastering Microsoft Office 365 and Outlook (Internal Operations & Mandatory Training): Build comprehensive understanding of the Microsoft Office 365 suite, with focus on advanced Outlook features.",
+      "png": "125.png",
+      "website_image": "images/125.webp",
+      "png_sha256": "735d44f43fef3f2300c6238c050bd7b3601bd435d89cff70e59adaa1c8317e60",
+      "webp_sha256": "d4781609698084de65b329dc6c053f5ed47a0a06aba57d938b3932207d8ca72f"
+    },
+    {
+      "id": 126,
+      "title": "Mastering Time Management & Prioritisation",
+      "source_brief": "Mastering Time Management & Prioritisation (People & Communication Fundamentals): Learn practical tools for managing competing demands and focusing on high-value activities.",
+      "png": "126.png",
+      "website_image": "images/126.webp",
+      "png_sha256": "91ce6a4674320452179f3933731e988f45ebc58b0c9105ae345da6c4f5d1aa36",
+      "webp_sha256": "0955c1daf3232341d94035c2b4c4b818bf6960316e37f897ee21f11fe95e340d"
+    },
+    {
+      "id": 127,
+      "title": "Measuring Supervisory Effectiveness",
+      "source_brief": "Measuring Supervisory Effectiveness (Governance, Strategy & Leadership): Skills in designing and using metrics that meaningfully measure supervisory effectiveness and outcomes, drawing on approaches…",
+      "png": "127.png",
+      "website_image": "images/127.webp",
+      "png_sha256": "d25fb3308adf2a9e36ac843c925754467c4255df53f83ea48de30d83939c27c4",
+      "webp_sha256": "86c8cbe62fecda85ce358113f797b293a24ee41614f421ffceb0bab029c0fb39"
+    },
+    {
+      "id": 128,
+      "title": "Member Protection and Retirement Outcomes",
+      "source_brief": "Member Protection and Retirement Outcomes (Pensions & Retirement Supervision): Learn how to assess member communication quality and the risks members face at the point of decumulation.",
+      "png": "128.png",
+      "website_image": "images/128.webp",
+      "png_sha256": "20b638aa4f0001994624933db166c1e405db1b5556c580a4f67188e2c88804b5",
+      "webp_sha256": "b75bdb5c620c89d1b17d83dea794a75a58b5ede737702d36fa7a27a4964f51b0"
+    },
+    {
+      "id": 129,
+      "title": "Mentoring Conversations That Work",
+      "source_brief": "Mentoring Conversations That Work (People & Communication Fundamentals): Learn how to hold effective coaching conversations that support colleagues’ development and motivation.",
+      "png": "129.png",
+      "website_image": "images/129.webp",
+      "png_sha256": "a074235ba72bb90282dbaa9d85d0e6f9d75a779827ec36231fe9e0414b8a91d8",
+      "webp_sha256": "c35c1c4c87a44c60aa2c95d7c33706c53da830d6c87ad683239beb28b0930764"
+    },
+    {
+      "id": 130,
+      "title": "MiCA & Supervising CASPs",
+      "source_brief": "MiCA & Supervising CASPs (Digital Assets & Blockchain): Learn how to apply MiCA requirements when assessing and supervising crypto-asset service providers.",
+      "png": "130.png",
+      "website_image": "images/130.webp",
+      "png_sha256": "291b3707ed3342af2771382a356c0416a7a98bc98dc78d3fe3737f526f7ac834",
+      "webp_sha256": "ca1afc92ebe4642435ca9104d5a01b706e7aebae25ef219ea1d14657940cd2fc"
+    },
+    {
+      "id": 131,
+      "title": "MiCA and Beyond: Exploring Crypto-Assets Regulation",
+      "source_brief": "MiCA and Beyond: Exploring Crypto-Assets Regulation (Digital Assets & Blockchain): Introduced the purpose and drivers of the MiCA Regulation, the roles of different operators in the crypto-asset ecosystem, the…",
+      "png": "131.png",
+      "website_image": "images/131.webp",
+      "png_sha256": "1e71f0bf2da71bd248c47bd922573c7c57e923738d23d693c9e9f52881d21f35",
+      "webp_sha256": "75cb95941406edaf8b386d864d296eccb528dba07d00ebc36d31b0eeef4a8e9e"
+    },
+    {
+      "id": 132,
+      "title": "Money Market Funds: Regulation and Systemic Risk",
+      "source_brief": "Money Market Funds: Regulation and Systemic Risk (Investment Funds): Understanding of how money market funds are regulated under the MMFR and the systemic risk considerations that drive regulatory…",
+      "png": "132.png",
+      "website_image": "images/132.webp",
+      "png_sha256": "2a43dbf76b394783fb628404877126f024de24f630e8cfcc7fbdb7fefdce2269",
+      "webp_sha256": "67022aaf674cdc03328dabb5c72001693bd7f3a2f3102a252aa92e28b3f4215a"
+    },
+    {
+      "id": 133,
+      "title": "Navigating Capital Market Regulations",
+      "source_brief": "Navigating Capital Market Regulations (Investment Services & Capital Markets): Gaining insights into the capital market regulatory environment.",
+      "png": "133.png",
+      "website_image": "images/133.webp",
+      "png_sha256": "1042eb091c0b109e1dc3dd685e67f70567ae543307b01b2f0fc532a2d63e1671",
+      "webp_sha256": "b84a4535c409514aac215f6035c47f315aaa3b83c24706c87434fe4837f9c2e2"
+    },
+    {
+      "id": 134,
+      "title": "Negotiation, Persuasion & Critical Thinking",
+      "source_brief": "Negotiation, Persuasion & Critical Thinking (People & Communication Fundamentals): Learn how to use structured reasoning and communication strategies to negotiate effectively and make well-reasoned decisions.",
+      "png": "134.png",
+      "website_image": "images/134.webp",
+      "png_sha256": "bccbcfccf6cb0c1cb2109232cc7292a67796d13a2cbcc2b10171fff342ad9439",
+      "webp_sha256": "ce9935bdc2e790d0caf8e2531628ed646a180baa1d4bed6dcbe9c6859096a47e"
+    },
+    {
+      "id": 135,
+      "title": "Open Banking and Third-Party Provider Access",
+      "source_brief": "Open Banking and Third-Party Provider Access (Payment Services): Understanding of how open banking access rights operate under PSD2/PSD3, and the supervisory considerations for account…",
+      "png": "135.png",
+      "website_image": "images/135.webp",
+      "png_sha256": "6023e6af08c9cad1d22dcb169ace0bc8492572137915aa0759ff9cb20cdf7db5",
+      "webp_sha256": "a30fb882a7c78fa66802bfbae35cada9926a3850833f3521e44960a6bac6acf4"
+    },
+    {
+      "id": 136,
+      "title": "Operational Resilience Testing and Scenario Analysis",
+      "source_brief": "Operational Resilience Testing and Scenario Analysis (Cybersecurity, DORA & Operational Resilience): Understanding of how firms design and test operational resilience scenarios, and how supervisors assess the adequacy of impact…",
+      "png": "136.png",
+      "website_image": "images/136.webp",
+      "png_sha256": "b76442492f80129ab0dadb788ec5e3274d6e9e9befdf21f2061a4a0581e1ddbd",
+      "webp_sha256": "7af434bbe2b33728722b9701591f92b1a70f8600690b98b152ec8d0f232eda81"
+    },
+    {
+      "id": 137,
+      "title": "Passporting and Cross-Border Authorisation",
+      "source_brief": "Passporting and Cross-Border Authorisation (Authorisation & Licensing): Understanding of how passporting and cross-border authorisation regimes operate in practice, and the cooperation expected between…",
+      "png": "137.png",
+      "website_image": "images/137.webp",
+      "png_sha256": "cbb97e92d9bc9e7d701184081187131ed4b9560f0188832930ad76390237bdef",
+      "webp_sha256": "a9b1dfebd4efddd5e1f1a1c823fd6e98017af102af7c46708ab3f5dcbdcb7c82"
+    },
+    {
+      "id": 138,
+      "title": "Payment Fraud and APP Scam Prevention",
+      "source_brief": "Payment Fraud and APP Scam Prevention (Payment Services): Understanding of how payment fraud, including authorised push payment scams, is regulated and prevented, and the supervisory…",
+      "png": "138.png",
+      "website_image": "images/138.webp",
+      "png_sha256": "d0664597d582026cf856378d0f2dbadf7d1f639cf1eee92b2f83c59eb50b55db",
+      "webp_sha256": "90a5f269becfbf27afc7ece513529967096db8a1e7e92c815e95cc72577b0fcd"
+    },
+    {
+      "id": 139,
+      "title": "Pension Scheme Administration and Outsourcing",
+      "source_brief": "Pension Scheme Administration and Outsourcing (Pensions & Retirement Supervision): Learn how to assess the quality of pension scheme administration and oversight of outsourced administration providers.",
+      "png": "139.png",
+      "website_image": "images/139.webp",
+      "png_sha256": "fc538f5251134b121336f27edb3a43a64b44cafccfc21b6953f00627096b88b0",
+      "webp_sha256": "686fd36190e5eee2d0dba47cfa72ce0b8063f532b19eb5bcd196062138071282"
+    },
+    {
+      "id": 140,
+      "title": "Pension Scheme Governance",
+      "source_brief": "Pension Scheme Governance (Pensions & Retirement Supervision): Learn how to assess the effectiveness of a pension scheme's trustee board or governing body, including conflicts of interest.",
+      "png": "140.png",
+      "website_image": "images/140.webp",
+      "png_sha256": "1aeab8c77af9189eccc03651f2042200855bc84ea9a07443ad76d98cb443eff2",
+      "webp_sha256": "89d3d460a6849f49bfa4c22b0724a092f60be236a75afb271e077b0916056570"
+    },
+    {
+      "id": 141,
+      "title": "Performance Management Process",
+      "source_brief": "Performance Management Process (Internal Operations & Mandatory Training): Build understanding of the organisation’s performance management process and expectations.",
+      "png": "141.png",
+      "website_image": "images/141.webp",
+      "png_sha256": "82dc084659db4b1289dac509c5ed90f5c1be27551850fd73b14256c3c25b6f49",
+      "webp_sha256": "f22dc3e4e62cff0b75e68304d69e41440a38e4271a7444e2a4d11c5e0dd1d2a8"
+    },
+    {
+      "id": 142,
+      "title": "Performance Measurement and Disclosure Supervision",
+      "source_brief": "Performance Measurement and Disclosure Supervision (Investment Management): Understanding of how investment performance is measured, attributed, and disclosed, and how supervisors assess the accuracy and…",
+      "png": "142.png",
+      "website_image": "images/142.webp",
+      "png_sha256": "89d46daaf007e1c8aadea30840025ca5b18ffa37cb04b3995452b37e3b15c805",
+      "webp_sha256": "e084f683686fe978a1609c595c7a17f9f4cb892dd3e60d1575cd21da7880da4a"
+    },
+    {
+      "id": 143,
+      "title": "Physical Security",
+      "source_brief": "Physical Security (Internal Operations & Mandatory Training): Build awareness of physical security procedures and responsibilities. Typical audience: new joiners.",
+      "png": "143.png",
+      "website_image": "images/143.webp",
+      "png_sha256": "e9524a49cf61df8cc082c9031dfc982bae79bd266c9f8fb3b711de5dbc8ab250",
+      "webp_sha256": "51b2f8148a5413f3495d9e1b688104e330be14d261a329218fa0895eb3544b21"
+    },
+    {
+      "id": 144,
+      "title": "Private Markets & Alternative Asset Supervision",
+      "source_brief": "Private Markets & Alternative Asset Supervision (Investment Funds): Understanding of how private equity, private credit and real asset funds are structured and supervised, including the supervisory…",
+      "png": "144.png",
+      "website_image": "images/144.webp",
+      "png_sha256": "73ddf7f04b51803eeb8f8e6a8028b56aef7f947de3594a105ad7e0cace29f88d",
+      "webp_sha256": "b80c78093ecf4516f780c5e1dd063fd70320eb9abe7671e02cb13a8e0c52690c"
+    },
+    {
+      "id": 145,
+      "title": "Procedural Fairness in Enforcement Decisions",
+      "source_brief": "Procedural Fairness in Enforcement Decisions (Enforcement & Sanctions): Understanding of the principles of procedural fairness that must be applied in enforcement decision-making, including the right…",
+      "png": "145.png",
+      "website_image": "images/145.webp",
+      "png_sha256": "3cb6d647a0dc8982aca27868aacf940ed229209854b595d0bb157eb420a2ff16",
+      "webp_sha256": "a4c25edd37803b81a0ec4d06467a09f43923b4c1ace0f451a49076762ff89036"
+    },
+    {
+      "id": 146,
+      "title": "PSD3/PSR: Transition and Supervisory Implications",
+      "source_brief": "PSD3/PSR: Transition and Supervisory Implications (Payment Services): Understanding of the key changes introduced by PSD3 and the Payment Services Regulation compared to PSD2, and the practical…",
+      "png": "146.png",
+      "website_image": "images/146.webp",
+      "png_sha256": "9a117083958d9c005f90b6aea80945c307a794e3ad90793860267ace330762ef",
+      "webp_sha256": "596216ab4de1131234af04f97019ec2a0ebc88970e39f4008973837d1c204fc9"
+    },
+    {
+      "id": 147,
+      "title": "Public Speaking and Presentation Skills: From Preparation to Delivery",
+      "source_brief": "Public Speaking and Presentation Skills: From Preparation to Delivery (People & Communication Fundamentals): Learn how to design and deliver presentations with clarity, confidence, and impact.",
+      "png": "147.png",
+      "website_image": "images/147.webp",
+      "png_sha256": "181181a63535e2ce32dcee84e5478c9b2df8b14a78e59bf363e6b67cbee06cbe",
+      "webp_sha256": "9f0be94b6d0a7cf8d8dc836e788c1749218356e2bc89a020855b95cedda363d0"
+    },
+    {
+      "id": 148,
+      "title": "Records Management Policy",
+      "source_brief": "Records Management Policy (Internal Operations & Mandatory Training): Build understanding of records management policy and responsibilities. Typical audience: new joiners.",
+      "png": "148.png",
+      "website_image": "images/148.webp",
+      "png_sha256": "1ca4d7d243f082c0459f320ad5680dee486c30aef38efc017071e5f4090dc0ee",
+      "webp_sha256": "408be5c1497639d26494ef37f5f67592c7ef353bfad2499544e859269ea3af13"
+    },
+    {
+      "id": 149,
+      "title": "Recovery and Resolution Planning for Supervisors",
+      "source_brief": "Recovery and Resolution Planning for Supervisors (Crisis Management & Resolution): Skills in assessing the credibility of firms' recovery plans and understanding the supervisor's role in resolution planning and…",
+      "png": "149.png",
+      "website_image": "images/149.webp",
+      "png_sha256": "6277a2b8000d4ee0fef62007555568fe246b421ea52dc97c15f3723d38e2c0a3",
+      "webp_sha256": "c77d5a37d66575a02c3590f71290f7a843c27814ac86251d3c2fd96e7cbd6735"
+    },
+    {
+      "id": 150,
+      "title": "Regulatory Impact Assessment in Practice",
+      "source_brief": "Regulatory Impact Assessment in Practice (Policy-Making & Rule-Making): The aim of this workshop is to build practical skills in assessing the impact of proposed rules — costs and benefits to industry…",
+      "png": "150.png",
+      "website_image": "images/150.webp",
+      "png_sha256": "994d885f010c6959d2ebf40f25f81d3c75dc10e9708f68a5c3d871954c108ddf",
+      "webp_sha256": "33f647aa962e0045b40e506a25f510b4fb752c093e12609a401294d641b4aeac"
+    },
+    {
+      "id": 151,
+      "title": "Reinsurance and Investment Risk in Insurers",
+      "source_brief": "Reinsurance and Investment Risk in Insurers (Insurance Supervision): Learn how to assess reinsurance arrangements and the oversight of investment risk within an insurance undertaking.",
+      "png": "151.png",
+      "website_image": "images/151.webp",
+      "png_sha256": "9372bef0918ca537d78e3bd54cba18815c622ba972fb0738824855b9794a72b0",
+      "webp_sha256": "0bf28f68b0db634bc6cd23c8f4a8b1bd71f99fa3e9f7098f9303094fd76e624c"
+    },
+    {
+      "id": 152,
+      "title": "Report Writing for Regulatory Impact",
+      "source_brief": "Report Writing for Regulatory Impact (Ongoing Supervision): Learn how to produce clear, structured, and compelling regulatory reports that support effective supervisory decisions.",
+      "png": "152.png",
+      "website_image": "images/152.webp",
+      "png_sha256": "e8808041e59b3519c009711239d535f2ac7b71db69a584f21b0651b0b78e3fe1",
+      "webp_sha256": "7d1733a52643a33d96833875974fa04c1044e92326929c2f375599d9907cb79e"
+    },
+    {
+      "id": 153,
+      "title": "Reviewing an Insurer's ORSA (Insurance Supervision): Learn how to review an insurer's Own Risk and Solvency Assessment",
+      "source_brief": "Reviewing an Insurer's ORSA (Insurance Supervision): Learn how to review an insurer's Own Risk and Solvency Assessment (ORSA) and form a supervisory judgement on its quality.",
+      "png": "153.png",
+      "website_image": "images/153.webp",
+      "png_sha256": "498a6cc3b1cbb6bdbc2035367a2afce82d12271b1884322d61ab4151969cacdc",
+      "webp_sha256": "9acb02647e34968f5002b83f3c37aedd11874133bbc23399e7c6d869c680a13e"
+    },
+    {
+      "id": 154,
+      "title": "Risk Assessment & Red Flagging Process",
+      "source_brief": "Risk Assessment & Red Flagging Process (Internal Operations & Mandatory Training): Build understanding of internal risk assessment methodology and the red-flagging process for financial crime compliance.",
+      "png": "154.png",
+      "website_image": "images/154.webp",
+      "png_sha256": "43a2999774e2ad3cd9481b24c9a1a41180bf839d89ce6505a48d1f3e8559b3dc",
+      "webp_sha256": "9bf2a2926545fb81e5dd82b7d4abbc7ebff824d064838d84d31af9c2a360566e"
+    },
+    {
+      "id": 155,
+      "title": "Risk Governance & Thematic Review Panels (Ongoing Supervision): Prepares supervisory staff to participate effectively in risk governance panels (RGPs) and thematic review panels",
+      "source_brief": "Risk Governance & Thematic Review Panels (Ongoing Supervision): Prepares supervisory staff to participate effectively in risk governance panels (RGPs) and thematic review panels (TRPs) —…",
+      "png": "155.png",
+      "website_image": "images/155.webp",
+      "png_sha256": "b7e8b580909bec22170eaf8bcc6629a9a7f255069785ddb92bb57640f97d2626",
+      "webp_sha256": "e8c44f27abd06b25141c26c7bb527b4a052f8cc6f0319f18f6f7128ca53bb4ca"
+    },
+    {
+      "id": 156,
+      "title": "Risk-Based Supervision of Payment Institutions",
+      "source_brief": "Risk-Based Supervision of Payment Institutions (Payment Services): Skills in applying a risk-based approach to supervising payment institutions, drawing on published supervisory guidance in this…",
+      "png": "156.png",
+      "website_image": "images/156.webp",
+      "png_sha256": "209536099761d969549237591fa291f4c250b9ea13e7f1ca7e338838ad1280e3",
+      "webp_sha256": "397363d4d003ae6125fa4ed4398a4fea48be58be7ff8cc8b0ad4f36882dce496"
+    },
+    {
+      "id": 157,
+      "title": "Risk-Based Supervision: Prioritisation Under Resource Constraints",
+      "source_brief": "Risk-Based Supervision: Prioritisation Under Resource Constraints (Ongoing Supervision): Skills in designing and applying a risk-based supervisory approach that allocates limited supervisory resource to the areas of…",
+      "png": "157.png",
+      "website_image": "images/157.webp",
+      "png_sha256": "8e435f037ddb9ce0c37c0cfe370036fc18fe6613ce680ca9923fc1b9cac04a5f",
+      "webp_sha256": "7dfbd1eae0e17fe6e239522a3f57d33e8f65480ae4f76e875f47a674a5ae0520"
+    },
+    {
+      "id": 158,
+      "title": "Running an Effective Regulatory Consultation",
+      "source_brief": "Running an Effective Regulatory Consultation (Policy-Making & Rule-Making): Skills in designing and running an effective public consultation on proposed rules, including stakeholder engagement strategy and…",
+      "png": "158.png",
+      "website_image": "images/158.webp",
+      "png_sha256": "21135abe21af4d6df917a54f6e9ab12e8a8b85dbce94abd57940a179b40dec55",
+      "webp_sha256": "797c04ef9874894184724aea3869afce1e77e60e1431fa7d51dacc90d26b445e"
+    },
+    {
+      "id": 159,
+      "title": "Sanctions Compliance Supervision",
+      "source_brief": "Sanctions Compliance Supervision (Reducing Financial Crime & Delivering Market Integrity): Skills in supervising firms' sanctions compliance frameworks, including screening obligations and assessment of control…",
+      "png": "159.png",
+      "website_image": "images/159.webp",
+      "png_sha256": "e8343b5af61686d742baadffba1215cfe2176d5a0f7bc698c03281276d51a42d",
+      "webp_sha256": "da0bbcde406fc92a0341fab173365d1eb7018cb71a8e1e2758e3fee7f1d90095"
+    },
+    {
+      "id": 160,
+      "title": "Securing and Defending Operational Independence",
+      "source_brief": "Securing and Defending Operational Independence (Governance, Strategy & Leadership): Understanding of the practical and legal foundations of supervisory independence, and how authorities defend and account for that…",
+      "png": "160.png",
+      "website_image": "images/160.webp",
+      "png_sha256": "cf1b96aa17397547bafed33c3b51524d5cd3cf5ecf9d4ba5230a0f8a09db2544",
+      "webp_sha256": "1c0bffc656428faadf6d7a6e682bf7901401c672c31b0c69816939284cf39825"
+    },
+    {
+      "id": 161,
+      "title": "Security Awareness Training (e.g. KnowBe4)",
+      "source_brief": "Security Awareness Training (e.g. KnowBe4) (Internal Operations & Mandatory Training): Build organisation-wide security awareness through structured, recurring training.",
+      "png": "161.png",
+      "website_image": "images/161.webp",
+      "png_sha256": "e4d2bf2e47011055654191d226f1206ccf7a7787b9b38ddfd9573f5047355cdf",
+      "webp_sha256": "406ba5ea8ca2fd49e23b1d1dab26388aa7106d08e6427c0ded9597de7e02c46b"
+    },
+    {
+      "id": 162,
+      "title": "Senior Leadership Workshops",
+      "source_brief": "Senior Leadership Workshops (Senior Leadership Development): Deliver focused workshop content targeting senior leadership capability.",
+      "png": "162.png",
+      "website_image": "images/162.webp",
+      "png_sha256": "0574596edf653c1078e805ae8bc66d4f25d36225b3ea5abf665744dacae91989",
+      "webp_sha256": "16de4add996320f50d34e3e16e525b0ea05e324892a943891bfb0152db66fc55"
+    },
+    {
+      "id": 163,
+      "title": "Setting Regulatory Strategy and Priorities",
+      "source_brief": "Setting Regulatory Strategy and Priorities (Governance, Strategy & Leadership): With the skills to translate a supervisory authority's statutory mandate into a strategic plan and prioritised work programme…",
+      "png": "163.png",
+      "website_image": "images/163.webp",
+      "png_sha256": "59764be409546a36000b2b7f40b6217276b4b85c8d0bdb98709fabb8a2d5197c",
+      "webp_sha256": "d7330ae7e384faf96fbaafee4a2217a6ae82c4199fa2f0f84771a108595de108"
+    },
+    {
+      "id": 164,
+      "title": "Setting Supervisory Tolerance and Strategy for Cyber Risk",
+      "source_brief": "Setting Supervisory Tolerance and Strategy for Cyber Risk (Cybersecurity, DORA & Operational Resilience): Skills in establishing a supervisory tolerance for cyber-related harm and prioritising supervisory resource allocation across the…",
+      "png": "164.png",
+      "website_image": "images/164.webp",
+      "png_sha256": "02e5c872c08f82d5e83fdaaa50148ca2c16642e71f914cd06017daa4ad1ac3b4",
+      "webp_sha256": "1179c630eba8fb76cd64450aaaa8af603d54fadd9a6038024b133df9524263f6"
+    },
+    {
+      "id": 165,
+      "title": "Settlement and Negotiated Outcomes in Enforcement",
+      "source_brief": "Settlement and Negotiated Outcomes in Enforcement (Enforcement & Sanctions): Understanding of the practical and strategic considerations in negotiating settlements with firms under investigation, including…",
+      "png": "165.png",
+      "website_image": "images/165.webp",
+      "png_sha256": "e26857ea663995f853b1dbbe6e7b574318054abe7c46ea1c1577a2766fb0eadd",
+      "webp_sha256": "14b8bcf562a06e8d6c2364b9f60be038cee7664eba7bf52738666aa460d189ba"
+    },
+    {
+      "id": 166,
+      "title": "Solvency II in Practice",
+      "source_brief": "Solvency II in Practice (Insurance Supervision): Learn how the Solvency Capital Requirement and technical provisions work in practice, and how supervisors assess compliance.",
+      "png": "166.png",
+      "website_image": "images/166.webp",
+      "png_sha256": "e9ce66928020a7c770aaa3cf23481e2cc4ff5a2edbf520105c5d20cc91a287da",
+      "webp_sha256": "0125c354ea7d74a13e102e5cfff68c7fd6648811a76f43ccbfb2a086fee735a1"
+    },
+    {
+      "id": 167,
+      "title": "Spotting AI System Vulnerabilities",
+      "source_brief": "Spotting AI System Vulnerabilities (Artificial Intelligence): Learn from real-world case studies how regulators use AI to strengthen oversight and efficiency.",
+      "png": "167.png",
+      "website_image": "images/167.webp",
+      "png_sha256": "bc7d29189941bdaceec9feba1213194517b0c628157b204858eb634851b0e4c9",
+      "webp_sha256": "3a0010506f3e62d3f06c68358ee269d4c82e1ed186618822a15a0d367ea96308"
+    },
+    {
+      "id": 168,
+      "title": "Stablecoins, E-Money Tokens & Asset-Referenced Tokens",
+      "source_brief": "Stablecoins, E-Money Tokens & Asset-Referenced Tokens (Digital Assets & Blockchain): Understanding of how stablecoin issuers structure reserves and redemption mechanisms under MiCA, and how supervisors assess run…",
+      "png": "168.png",
+      "website_image": "images/168.webp",
+      "png_sha256": "a022bb9de792a9b8116a29b9ab8f042e110b5f0db0f3302785667e0b58cf6b62",
+      "webp_sha256": "25628b716cb11ef33e1c77df1c3a6592c95eb16fdd2e1e20d6765f5b34484e7a"
+    },
+    {
+      "id": 169,
+      "title": "Stress Testing for Banking Supervisors",
+      "source_brief": "Stress Testing for Banking Supervisors (Banking & Prudential Supervision): Learn how stress-testing scenarios are designed and how to interpret capital and liquidity outcomes under stress.",
+      "png": "169.png",
+      "website_image": "images/169.webp",
+      "png_sha256": "6c13de9483285836aeb3f14ec0f433685e5cc08e74f690b6e7bdc57601a54066",
+      "webp_sha256": "dc130d13075cabc7149e6f966ba2c0b601e0130cfedbba08ea69fca61551cd6a"
+    },
+    {
+      "id": 170,
+      "title": "Supervising AI-Driven Financial Crime Systems",
+      "source_brief": "Supervising AI-Driven Financial Crime Systems (Reducing Financial Crime & Delivering Market Integrity): Skills in assessing the governance, validation, and explainability of AI systems deployed by firms for AML/CFT purposes, applying…",
+      "png": "170.png",
+      "website_image": "images/170.webp",
+      "png_sha256": "3cb9d8608a68fcfe6d7eaaaec7347d918b981710587ee4a1f20b38c75476c729",
+      "webp_sha256": "0ad2a06526b55e597e933784e00a610be191219be305fe40096c8b0d06846be6"
+    },
+    {
+      "id": 171,
+      "title": "Supervising AML/CFT Obligations in Practice",
+      "source_brief": "Supervising AML/CFT Obligations in Practice (Reducing Financial Crime & Delivering Market Integrity): Learn how to apply AML/CFT requirements consistently across supervisory processes and decision-making.",
+      "png": "171.png",
+      "website_image": "images/171.webp",
+      "png_sha256": "3a573bb38306a8c6fccf1a0eac2f3092d4bd1b1f6e18bab85eaaa2e600ce61dc",
+      "webp_sha256": "a3134639e34d49fe6c471aa3f7068ef98cda3e5c0e3810d5a5957139ec138831"
+    },
+    {
+      "id": 172,
+      "title": "Supervising Complaints Handling",
+      "source_brief": "Supervising Complaints Handling (Consumer Protection & Financial Inclusion): Ability to supervise firms' complaints-handling frameworks effectively, including assessing root-cause analysis practices and the…",
+      "png": "172.png",
+      "website_image": "images/172.webp",
+      "png_sha256": "24db53fa74cbb9183e0c385f42caa3ea54439304efcca1cedafd85873cbbec40",
+      "webp_sha256": "7b59a0fc3efe82c5b565504a526e19e20a72db28e516f29635e4682ff0781f60"
+    },
+    {
+      "id": 173,
+      "title": "Supervising Investment Advice and Suitability",
+      "source_brief": "Supervising Investment Advice and Suitability (Investment Services & Capital Markets): Skills in supervising the quality of investment advice given to clients, including suitability assessment and product governance…",
+      "png": "173.png",
+      "website_image": "images/173.webp",
+      "png_sha256": "fff430138569686e5e363f7dbaee4747bae78ddb199d50d52c00520c75a1fb20",
+      "webp_sha256": "76772e413e3e30d4954af7a2bd88ecb0e3c187fea9c65c178d9ab6d306c22e2a"
+    },
+    {
+      "id": 174,
+      "title": "Supervisory Judgment",
+      "source_brief": "Supervisory Judgment (Ongoing Supervision): Strengthen participants’ skills in applying supervisory judgment across authorisation and ongoing supervision.",
+      "png": "174.png",
+      "website_image": "images/174.webp",
+      "png_sha256": "ded53a78a133cf9d1b1fb40afd54e2df1b0e6d47a199bb6b03a045a2286bdfc2",
+      "webp_sha256": "20ee90c98515c8a06d8bf89e0d254e6f55e820bf744a37357cc54627abc2d977"
+    },
+    {
+      "id": 175,
+      "title": "Supervisory Technology Trends and Innovations",
+      "source_brief": "Supervisory Technology Trends and Innovations (Ongoing Supervision): Understanding technological advancements in financial supervision.",
+      "png": "175.png",
+      "website_image": "images/175.webp",
+      "png_sha256": "1765ec83c8a78de43bedca62875a7eb77972b1d2b16e6b397bf7d2ed2c17c3cf",
+      "webp_sha256": "bc59703afa4a090fedab15d58620e12a21a52ad6b6910a41c0e9f557bd6637b1"
+    },
+    {
+      "id": 176,
+      "title": "Sustainable Finance: Supervisory Insights",
+      "source_brief": "Sustainable Finance: Supervisory Insights (Sustainable Finance in Practice): Discussed sustainability risk assessments and their implications for supervised entities, equipping participants to address…",
+      "png": "176.png",
+      "website_image": "images/176.webp",
+      "png_sha256": "a35f7bd5f495503f5c24ab14f47878c853d2197e2e3e88545133421d102bf202",
+      "webp_sha256": "7ccc8857278fe15bbc831e5a26c0b9b5cc7325b8d5aeaddcdf2f18ec79e6f604"
+    },
+    {
+      "id": 177,
+      "title": "The Actuarial Function in Supervision",
+      "source_brief": "The Actuarial Function in Supervision (Insurance Supervision): Learn the role of the actuarial function within insurer governance and how supervisors assess its effectiveness.",
+      "png": "177.png",
+      "website_image": "images/177.webp",
+      "png_sha256": "5c9484f56f0a11fa38e962e708d513e6078ce9c52433c747a88ec40610a5ea08",
+      "webp_sha256": "d7a4ed81fa94426ed585d1e29a2257554a9907a512c507b5534d403fba9f3a42"
+    },
+    {
+      "id": 178,
+      "title": "The Cyber Threat Landscape for Supervised Firms",
+      "source_brief": "The Cyber Threat Landscape for Supervised Firms (Cybersecurity, DORA & Operational Resilience): Understanding of the cyber threat landscape facing regulated firms, including internal and external threat actors and their…",
+      "png": "178.png",
+      "website_image": "images/178.webp",
+      "png_sha256": "bcd310e5940050ac0f77d8c0544abf14ad935695fc5bc184a476ee12e07d4875",
+      "webp_sha256": "baba6f61a3ae9b7160266f54c40daf2a3f161b0d5b61417a36e9d250fd76c518"
+    },
+    {
+      "id": 179,
+      "title": "The EU AI Act and Financial Regulation: Interplay and Overlaps",
+      "source_brief": "The EU AI Act and Financial Regulation: Interplay and Overlaps (Artificial Intelligence): Understanding of how the EU AI Act's requirements interact with existing sectoral financial regulation, including where AI Act…",
+      "png": "179.png",
+      "website_image": "images/179.webp",
+      "png_sha256": "4f148dfc55affd4e0072b252192e003ec0856c9e898001abea0ad8be90057cc7",
+      "webp_sha256": "ebee264b024408fffb3b9fb762a1fcf535841d88a37132cbd7e3ebc0b7e5f660"
+    },
+    {
+      "id": 180,
+      "title": "Third-Party and Cloud Outsourcing Risk",
+      "source_brief": "Third-Party and Cloud Outsourcing Risk (Cybersecurity, DORA & Operational Resilience): Skills in assessing firms' reliance on critical third-party and cloud providers, including concentration risk and the adequacy of…",
+      "png": "180.png",
+      "website_image": "images/180.webp",
+      "png_sha256": "683e60435374ceb930c5cd1f0f07f98d6a4f61c8aaa7e4e27b7706a845b8be59",
+      "webp_sha256": "dc3b358525cd6cbf71df3aef5224354600fe294f065dc27694fa010ca01aed01"
+    },
+    {
+      "id": 181,
+      "title": "Tokenisation of Traditional Assets",
+      "source_brief": "Tokenisation of Traditional Assets (Digital Assets & Blockchain): Understanding of how traditional financial assets are tokenised and traded on distributed ledger infrastructure, and the…",
+      "png": "181.png",
+      "website_image": "images/181.webp",
+      "png_sha256": "09ac5c224870435cec7e95f861383040e5083945dec9cf7b10f31e145b48547e",
+      "webp_sha256": "b004ff5ae1a0d483d6d83556856a76f4368d03a7b6c04d01c50d9e5f2b07722b"
+    },
+    {
+      "id": 182,
+      "title": "Tokenization & Digital Assets",
+      "source_brief": "Tokenization & Digital Assets (Digital Assets & Blockchain): Learn how tokenised products and digital assets are structured and issued under emerging regulatory frameworks.",
+      "png": "182.png",
+      "website_image": "images/182.webp",
+      "png_sha256": "abd0ad2111c2f31c521fff010859b4656606f04ac5307a45043a68c6cbe29573",
+      "webp_sha256": "919476ce310c15e5a1300d620dc7fcf92d36cfa64fe3d8e96cccccdc8a611a8c"
+    },
+    {
+      "id": 183,
+      "title": "Understanding Business Models",
+      "source_brief": "Understanding Business Models (Ongoing Supervision): Learn how to assess firms’ business models and link them to prudential, conduct, and AML/CFT risks.",
+      "png": "183.png",
+      "website_image": "images/183.webp",
+      "png_sha256": "c3d73d278b386b2fc6df1c4c193c02339ae5453b76a06278d2b5673690c7396b",
+      "webp_sha256": "d10aca417c5934e049beb56506ef9b80048c974d79684f0c664e43852bfb04c6"
+    },
+    {
+      "id": 184,
+      "title": "Understanding FinTech Models",
+      "source_brief": "Understanding FinTech Models (Cybersecurity, DORA & Operational Resilience): Learn how different FinTech business models operate, assessing regulatory boundaries and operational risks.",
+      "png": "184.png",
+      "website_image": "images/184.webp",
+      "png_sha256": "1a227f9feb5e1c572561e47106e8c5ecd6139ce5a8b1f2bf27f2596afa1b91e6",
+      "webp_sha256": "3072a7e5280d8ce16563c45a570abad8849eb29157f41ee70086319fa7fb00a1"
+    },
+    {
+      "id": 185,
+      "title": "Understanding ML/TF Typologies",
+      "source_brief": "Understanding ML/TF Typologies (Reducing Financial Crime & Delivering Market Integrity): Learn how to identify key money laundering/terrorist financing typologies and recognise red flags in real-world scenarios.",
+      "png": "185.png",
+      "website_image": "images/185.webp",
+      "png_sha256": "a20a49db806187ecc7c91f575cee780c2667ed3fa364432dfa24b2489bc593f6",
+      "webp_sha256": "1d4be054b3891f886457c6937dc1409c736874ba18e4896c9f0176bf7177c510"
+    },
+    {
+      "id": 186,
+      "title": "Understanding Portfolio Management Practice",
+      "source_brief": "Understanding Portfolio Management Practice (Investment Management): Understanding of how portfolio managers construct and manage portfolios against mandates, and how supervisors assess mandate…",
+      "png": "186.png",
+      "website_image": "images/186.webp",
+      "png_sha256": "04f371f0355850f97819895b0b824e76856dcd480e59adfcd364b3a0e1be6ce8",
+      "webp_sha256": "f49fe7d44a4f99db6e70614e770907ebd4560dd3b938415df5f57fc67291a337"
+    },
+    {
+      "id": 187,
+      "title": "Underwriting Risk and Reserving",
+      "source_brief": "Underwriting Risk and Reserving (Insurance Supervision): Learn how to assess underwriting risk and the adequacy of an insurer's reserving practices.",
+      "png": "187.png",
+      "website_image": "images/187.webp",
+      "png_sha256": "601cc07896355f7ea7714d30d3f69d7518841bef3a0905965ca39933883004d0",
+      "webp_sha256": "d1f2f89fbce6f393ab72dc31d8c2bfd27d970ff08dbff6d1eadb9b8548796910"
+    },
+    {
+      "id": 188,
+      "title": "Using AI Tools at Work",
+      "source_brief": "Using AI Tools at Work (Supervisory Data Analytics & AI Skills): Learn how to integrate AI productivity tools into daily workflows safely and effectively.",
+      "png": "188.png",
+      "website_image": "images/188.webp",
+      "png_sha256": "550242d144de1bd3b8308a47914b7f31606195f2e0eae010cfac806fdaa65851",
+      "webp_sha256": "1dba5e6ca1e940eabadd752a1a919e1570f3f33ac2d1097eaa5f267a8307f561"
+    },
+    {
+      "id": 189,
+      "title": "Using Testing and Audit Data in Cyber Supervision",
+      "source_brief": "Using Testing and Audit Data in Cyber Supervision (Cybersecurity, DORA & Operational Resilience): Skills in using a firm's own testing metrics and internal audit findings as core supervisory data sources for assessing cyber…",
+      "png": "189.png",
+      "website_image": "images/189.webp",
+      "png_sha256": "7c52895ee96e7f46b7dd42a79a075bb7cde204c2a4fb0505097a427bf2a3ac04",
+      "webp_sha256": "1da2f6a8eb982ae7ac9a31dda298b39ae5cd812c43e4ff8ec571a926c30a2139"
+    },
+    {
+      "id": 190,
+      "title": "Workforce Planning for Specialist Regulatory Functions",
+      "source_brief": "Workforce Planning for Specialist Regulatory Functions (Capability & Capacity Building): Skills in planning and resourcing a supervisory workforce with the right mix of generalist and specialist skills, addressing…",
+      "png": "190.png",
+      "website_image": "images/190.webp",
+      "png_sha256": "41dfc70f0514c126d15188bdc933fad8c7576f561c3633eb7336da2dd6091992",
+      "webp_sha256": "e66e46df17fa6f3f7bf221cf4e31c234740400cb129884c9481a94414fcf6e79"
+    },
+    {
+      "id": 191,
+      "title": "Writing for Impact: Supervisory Correspondence and Public Statements",
+      "source_brief": "Writing for Impact: Supervisory Correspondence and Public Statements (Supervisory Judgement & Professional Practice): Skills in writing clear, authoritative supervisory correspondence and public statements that are accurate, defensible, and…",
+      "png": "191.png",
+      "website_image": "images/191.webp",
+      "png_sha256": "ffbdfa6f1c7797a0be0229a37adedbd5d57b689971419d3d227c781e1bd641b8",
+      "webp_sha256": "ea82bdac7747242e7d6a2ac07a486ad732aec8c300800848e3ab68e772750286"
+    }
+  ]
+}
